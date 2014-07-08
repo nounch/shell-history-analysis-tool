@@ -1,0 +1,81 @@
+: 1331210575:0;help
+: 1331210589:0;cd Library/Development
+: 1331210590:0;ls
+: 1331210591:0;ls -lah
+: 1331210687:0;cd Library
+: 1331210687:0;ls
+: 1331210688:0;ls -lah
+: 1331210697:0;cd Library
+: 1331210697:0;ls
+: 1331210698:0;ls -lah
+: 1331210701:0;cd Development
+: 1331210702:0;ls
+: 1331210703:0;ls -lah
+: 1331210708:0;echo ZSH_THEME
+: 1331210711:0;echo $ZSH_THEME
+: 1331210739:0;echo $PS1
+: 1331210754:0;cd ..
+: 1331210773:0;cd .oh-my-zsh/themes/
+: 1331210776:0;grep "%{$fg[white]%}%c$(git_prompt_info)$ % %{$reset_color%}" *
+: 1331210784:0;grep '"%{$fg[white]%}%c$(git_prompt_info)$ % %{$reset_color%}"' *
+: 1331210815:0;grep "%c$(git_prompt_info)" * 
+: 1331210818:0;ls
+: 1331210820:0;ls -lah
+: 1331210856:0;echo $ZSH
+: 1331210864:0;cd ..
+: 1331210864:0;ls
+: 1331210870:0;vi oh-my-zsh.sh
+: 1331210890:0;vi themes/gentoo.zsh-theme
+: 1331210898:0;echo $PROMPT
+: 1331210905:0;vi themes/*
+: 1331211038:0;grep fg[white]% themes/*
+: 1331211045:0;grep "fg[white]%" themes/*
+: 1331211463:0;cd Library/Development
+: 1331211463:0;ls
+: 1331211465:0;ls -lah
+: 1331211571:0;ls
+: 1331211573:0;cd Library/Development
+: 1331211574:0;ls
+: 1331211575:0;ls -lah
+: 1331211630:0;ls
+: 1331211631:0;cd Library
+: 1331211632:0;ls
+: 1331211635:0;ls -lah
+: 1331211650:0;ls
+: 1331211651:0;ls -lag
+: 1331211672:0;ls
+: 1331211673:0;ls -lah
+: 1331211745:0;cd Library
+: 1331211746:0;ls
+: 1331211765:0;ls -la
+: 1331211790:0;ls
+: 1331211791:0;cd Library
+: 1331211792:0;ls
+: 1331211847:0;cd Library
+: 1331211848:0;ls
+: 1331211870:0;cd Library
+: 1331211871:0;ls
+: 1331212096:0;cd Library/Development
+: 1331212096:0;ls
+: 1331212144:0;cd Library/Development
+: 1331212144:0;ls
+: 1331212145:0;ls -lah
+: 1331212150:0;cd ..
+: 1331212153:0;cd Library/Development
+: 1331212153:0;ls
+: 1331212154:0;ls -lah
+: 1331212219:0;ls
+: 1331212221:0;cd Library/Development
+: 1331212222:0;ls
+: 1331212223:0;ls -lah
+: 1331212288:0;vi .zshrc
+: 1331212306:0;ls -lah
+: 1331212311:0;§ 70 railo1
+: 1331212320:0;vi .bashrc
+: 1331212361:0;fg 1
+: 1331212368:0;fg
+: 1331212805:0;vi tasks
+: 1331212811:0;§ 70 search2
+: 1331212901:0;cp -rp .oh-my-zsh dotfiles
+: 1331212906:0;cp -rp .zsh* ..
+: 1331212912:0;cp -rp .zsh* dotfiles

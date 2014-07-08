@@ -1,0 +1,500 @@
+vim development_local.cfg 
+vim requirements.txt 
+pip install -r requirements.txt 
+vim requirements.txt 
+vim requirements.txt 
+pip install -r requirements.txt 
+vim requirements.txt 
+pip install -r requirements.txt 
+vim requirements.txt 
+pip install -r requirements.txt 
+vim requirements.txt
+pip install -r requirements.txt 
+vim requirements.txt 
+pip install -r requirements.txt 
+clear
+deactivate
+clear
+ls
+rm -rf sherpany-env/
+clear
+sh scripts/init.sh 
+clear
+ls
+cd ..
+virtualenv sherpany-venv
+source sherpany-venv/bin/activate
+cd onlinegv-project/
+ls
+sh scripts/init.sh 
+clear
+ls
+fab
+fabric
+clear
+pip install eggs/*
+rm requirements.txt 
+clear
+ls
+script 
+clear
+ls
+bin/buildout 
+bin/buildout 
+clear
+ls
+cd ..
+ls
+cd onlinegv-project/
+ls
+cd ..
+ls
+cd onlinegv-project/
+ls
+scripts/runtests.sh 
+sh scripts/runtests.sh 
+sh scripts/runtests.sh 
+clear
+ls
+sh scripts/clear.sh 
+ls
+clear
+brew install zbar
+brew versions zbar
+brew search zbar
+brew install --help
+brew --help
+brew install -vd zbar
+clear
+sh scripts/init.sh 
+bin/django --runserver
+bin/django help
+./bin/buildout
+./bin/django syncdb;./bin/django migrate
+pip install pil
+clear
+./bin/django syncdb;./bin/django migrate
+./bin/django runserver
+clear
+sh scripts/runtests.sh 
+clear
+cd..
+cd ..
+ls
+deactivate
+cd ..
+ls
+ls
+clear
+cd ~
+
+ssh cristiano2lopes@AgilentiaDev
+ssh cristiano2lopes@AgilentiaDev
+ssh cristiano2lopes@AgilentiaDev
+cleat
+clear
+cd Dropbox/Projects/Agilentia/
+ls
+cd Sherpany/
+ls
+cd onlinegv-project/
+ls
+ls
+bin/django runserver 
+clear
+ls
+bin/django syncdb
+bin/django migrate
+sh scripts/load_datapack.sh 
+clear
+bin/django runserver 
+clear
+sh scripts/runtests.sh 
+clear
+bin/django runserver 
+clear
+./bin/django createsuperuser --username=teste --email=teste@teste.pt
+bin/django runserver 
+clear
+bin/django migrate
+clear
+bin/django runserver
+clear
+ssh cristiano2lopes@AgilentiaDev
+cd Projects
+cd Dropbox/Projects/
+ls
+cd Agilentia/
+ls
+cd Sherpany/
+ls
+cd onlinegv-project/
+ls
+clear
+ls
+bin/django runserver
+clear
+brew update
+brew upgrade
+cls
+brew list
+ls
+vim .vimrc 
+ls
+vim .vimrc 
+ls
+ls
+ls
+vim .vimrc 
+vim .vimrc 
+clear
+ls
+cd dotfiles/
+ls
+cd .vim
+ls
+cd bundle/
+ls
+rm -rf vim-colors-solarized/
+rm -rf nerdtree/
+clear
+ls
+rm -rf zencoding-vim/
+ls
+cls
+cd syntastic/
+ls
+vim README.markdown 
+cls
+git status
+git pull origin master
+vim syntax_checkers/python/python.vim 
+clear
+cd ..
+ls
+cd ..
+ls
+vim .vimrc 
+cd dotfiles/
+ls
+rm -rf .vim_backup/
+rm -rf .vim_tmp/
+ls
+cd .vim
+ls
+cd bundle/
+ls
+git clone git://github.com/msanders/snipmate.vim.git
+vim
+clear
+ls
+cd ..
+ls
+cd ..
+ls
+git status
+git add -A
+git status
+git add .vim/bundle/snipmate.vim/
+git status
+git add .vim/bundle/snipmate.vim
+git status
+git add .vim/bundle/snipmate.vim/*
+git commit -m 'Removed unnecessary plugins added snipmate and no more backup or tmp files''
+git commit -m 'Removed unnecessary plugins added snipmate and no more backup or tmp files'
+cls
+clear
+git commit -m 'Removed unnecessary plugins added snipmate and no more backup or tmp files''
+git commit -m 'Removed unnecessary plugins added snipmate and no more backup or tmp files'
+git commit -m 'Removed unnecessary plugins added snipmate and no more backup or tmp files'
+git push origin master
+ls
+cd ..
+cd dotfiles/
+python dotfiles.py 
+clear
+cd ..
+ls
+tm -rf .vim_backup 
+rm -rf .vim_backup 
+rm -rf .vim_tmp 
+ls
+clear
+ls
+ls
+brew update
+brew upgrade
+clear
+brew
+brew list
+sqlite
+sqlite3 
+mctop
+mtop
+top
+ps ax
+ps ax | grep sqlite3
+kill -9 88736
+kill -9 88736
+ps ax | grep sqlite3
+ps ax | grep 'sqlite3'
+clear
+ls
+brew list
+brew remove zbar
+brew doctor
+brew list
+brew rmdeps
+brew remove dcraw exiv2 fontconfig freetype
+brew remove gdbm gettext ghostscript glib imagemagick jasper jbig2dec jpeg libffi libpng
+brew list
+brew remove glib imagemagick libtiff libtool little-cms little-cms2 pkg-config ufraw xz
+brew list
+brew doctor
+brew install gdbm pkg-config
+brew doctor
+brew update
+brew upgrade
+clear
+cd dotfiles/
+ls
+cd .vim
+ls
+cd bundle/
+ls
+ls
+cd ..
+ls
+cd autoload/
+ls
+cd ..
+clear
+ls
+clear
+ls
+cd bundle/
+ls
+rm -rf snipmate.vim/
+ls
+cd..
+cd ..
+ls
+cd ..
+cd ..
+ls
+pip freeze
+cd dotfiles/
+ls
+ls
+python dotfiles.py 
+ls
+cd ..
+ls
+cd .vim
+ls
+cd bundle/
+ls
+brew update
+brew update
+brew upgrade
+clear
+ls
+ls
+brew list
+which python
+clear
+ls
+cd dotfiles/.vim/bundle/
+git clone https://github.com/kien/ctrlp.vim.git
+ls
+git clone https://github.com/SirVer/ultisnips
+ls
+ls
+rm -rf ultisnips/
+ls
+ls
+ls
+cd dotfiles/
+ls
+cd .vim
+ls
+cd bundle/
+ls
+git clone git://github.com/msanders/snipmate.vim.git
+cls
+vim
+clear
+cdgit clone git://github.com/altercation/vim-colors-solarized.git
+git clone git://github.com/altercation/vim-colors-solarized.git
+ls
+brew install exuberant-ctags
+cls
+clear
+ls
+cd ..
+cd ..
+ls
+cd ..
+ls
+cd Dropbox/
+ls
+cd Projects/
+ls
+rm -rf python-patterns/
+rm -rf Agilentia/
+ls
+cd Workspaces/
+ls
+cd ..
+mkdir cristianolopes.eu
+ls
+cd cristianolopes.eu/
+ls
+virtualenv mysite
+ls
+suorce mysite/bin/activate
+source mysite/bin/activate
+ls
+ls
+pip install pelican Markdown
+ls
+cd mysite/
+ls
+cd ..
+ls
+ls
+clear
+pelican-quickstart 
+source mysite/bin/activate
+pelican-quickstart 
+export LC_ALL=pt_PT.UTF-8
+pelican-quickstart 
+ls
+cd mysite/
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+deactivate
+ls
+cd cristianolopes.eu/
+ls
+rm -rf .*
+rm -rf *
+ls
+clear
+ls
+cd ..
+ls
+cd cristianolopes.eu/
+ls
+virtualenv mysite-env
+source mysite-env/bin/activate
+pip install Flask
+ls
+deactivate
+ls
+rm -rf mysite-env/
+ls
+clear
+curl -L get.yeoman.io | bash
+clear
+curl -L get.yeoman.io | bash
+rvm
+clear
+which ruby
+rvm
+rvm current
+clear
+curl -L get.yeoman.io | bash
+sudo gem install compass
+brew install jpeg-turbo && brew link jpeg-turbo 
+brew install optipng 
+brew install PhantomJs
+curl -L get.yeoman.io | bash
+sudo npm install -g yeoman
+clear
+ls
+clear
+ls
+yeoman init
+yeoman
+curl -L get.yeoman.io | bash
+sudo npm install -g yeoman
+yeoman
+cd dotfiles/
+ls
+vim .vimrc
+mvim .vimrc
+mvim dotfiles/.bash_profile 
+yeoman
+/usr/local/share/npm/bin/yeoman init
+sudo npm install -g yeoman
+yeoman
+clear
+ls
+cd Dropbox/
+ls
+ls
+vim
+clear
+vim
+ls
+ls
+cd Dropbox/
+cd Projects/
+ls
+cd cristianolopes.eu/
+ls
+yeoman
+yeoman init
+ls
+cd app/
+ls
+vim index.html 
+mvim index.html 
+clear
+cd ..
+yeoman server
+rm -rf *
+ls
+ls
+rm -rf .*
+ls
+ls
+vim
+ls
+vim
+cd dotfiles/
+ls
+vim .vimrc 
+ls
+pip freeze
+pip 
+pip help
+pip unnistall pyflakes
+pip unistall pyflakes
+pip uninstall pyflakes
+sudo pip uninstall pyflakes
+clear
+ls
+rm -rf .yeoman/
+clear
+ls
+pip freeze
+cd Dropbox/Projects/
+ls
+cd cristianolopes.eu/
+ls
+virtualenv mywebsite-env
+ls
+ls
+cls
+clear
+ls
+cd mywebsite-env/
+ls
+cd ..
+ls

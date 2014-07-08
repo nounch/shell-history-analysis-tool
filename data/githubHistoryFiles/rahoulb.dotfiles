@@ -1,0 +1,2000 @@
+ls spec/integration/
+vim
+cd ..
+cd accounts/
+cd ..
+cd adstore/
+be rspec spec/
+be rspec spec/integration/regionalise_merchants_spec.rb 
+bundle
+be rspec spec/integration/regionalise_merchants_spec.rb 
+clear
+be rspec spec/integration/regionalise_merchants_spec.rb 
+be rspec spec/
+git status
+git add vendor/cache/
+git status
+git commit -a -m "Attempt at getting the specs to pass (that failed)"
+git push
+exit
+cd Source/Telescope/telescope-auth/
+be cap delete_account email=roger@clarkesnottm.com 
+be cap delete_account email=tina@clarkesnottm.com 
+exit
+git push
+rm app/helpers/test/merchants_helper.rb 
+rm spec/controllers/regions_controller_spec.rb 
+rm spec/helpers/test/merchants_helper_spec.rb 
+git status
+git commit -a -m "removed irrelevant files"
+git push
+mkdir app/models/merchant
+touch app/models/merchant/region_update_job.rb
+be rspec spec/models/merchant_spec.rb 
+ack-grep _changed
+be rspec spec/models/merchant_spec.rb 
+mkdir spec/models/merchant
+touch spec/models/merchant/region_update_job_spec.rb
+be rspec spec/models/merchant/region_update_job_spec.rb 
+be rspec spec/
+git status
+ack-grep alert
+git status
+git add app/models/merchant
+git add spec/models/merchant
+git commit -a -m "Products are updated with their merchants region"
+git push
+rm spec/controllers/test/merchants_controller_spec.rb 
+rm app/assets/stylesheets/test/merchants.css.scss 
+git status
+git commit -a -m "more empty files removed"
+git push
+git commit -a -m "Removed redundant parameter parsing"
+git push
+be rspec spec/models/
+be rspec spec/models/merchant_spec.rb 
+git status
+git commit -a -m "feedback"
+git push
+git checkout master
+git pull
+git push origin :305_regions
+git status
+git push
+be cap deploy
+git status
+git commit -a -m "row lines"
+git push
+be cap deploy
+exit
+vim
+exit
+be rails s
+exit
+cd Source/Telescope/whiteboard
+git push
+ea srv-mb2d3
+ssh-add ~/.ssh/ea-admin
+ssh-agent
+ssh-add ~/.ssh/ea-admin
+tmux list-sessions
+ea srv-mb2d3
+ssh-agent add ~/.ssh/ea-admin
+ssh-agen ~/.ssh/ea-admin
+ssh-agent ~/.ssh/ea-admin
+whoami
+ssh-agent
+ssh-agent --help
+cat ~/.ssh/ea-admin
+ea srv-mb2d3
+exit
+tmux attach -t ember
+tmux list-sessions
+cd Source/Telescope/products
+vim
+cd ~/Source/EmberAds/matcher/
+vim
+cd ..
+cd adstore/
+vim
+cd ...
+cd ..
+cd common/
+vim
+cd ..
+cd adstore/
+vim
+cd ~
+tmux list-sessions
+tmux
+cd Source/EmberAds/admin_panel/
+be cap deploy:start
+cd ..
+cd sysadmin_scripts/
+ea srv-tvtdw
+exit
+cd Source/Telescope/whiteboard
+be rspec spec/
+rvm use 1.9.3@whiteboard
+be rspec spec/
+cat spec/spec_helper.rb 
+ls spec/support/
+cat spec/support/subdomain.rb 
+clear
+be rspec spec/
+git pull
+git diff app/views/pages/show.html.erb
+git checkout .
+git pull
+git status
+rm app/assets/javascripts/app/pages.js.coffee 
+git status
+git checkout master
+git checkout new_ui
+vim
+git status
+vim .gitignore 
+git status
+git add config/*
+git add config/deploy/new_ui.rb
+vim .gitignore 
+git status
+git commit -a -m "Added new UI deployment"
+vim
+git status
+git commit -a -m "Added new UI deployment"
+vim config/deploy/new_ui.rb 
+git status
+git commit -a -m "More new UI"
+be cap deploy:initial
+cat Gemfile
+rvm use 1.8.7@whiteboard
+be cap deploy:initial
+be cap new_ui deploy:initial
+git status
+be rspec spec/
+git status
+git commit -a -m "Replaced stupid code with slightly less stupid code"
+be rspec spec/models/merchant_spec.rb 
+git reset HEAD~1
+be rspec spec/models/merchant_spec.rb 
+git status
+git log
+git checkout .
+git status
+be rspec spec/
+git pull
+vim
+git pull
+git status
+git checkout .
+git pul
+git pull
+git push
+be cap deploy
+bundle
+be cap deploy
+vim
+exit
+git pull
+bundle
+vim
+be rspec spec/models/brand_centroid/selector_spec.rb 
+git statu
+git status
+git diff spec/models/brand_centroid/selector_spec.rb
+be rspec spec/models/brand_centroid/selector_spec.rb 
+be rspec spec/
+git status
+git diff spec/models/brand_centroid/selector_spec.rb
+be rspec spec/models/brand_centroid/selector_spec.rb 
+be rspec spec/
+exit
+tmux list-sessions
+cd Source/EmberAds/adstore/
+tmux
+cd Source/Telescope/products
+git status
+git branch
+be rails s
+ls app/assets/javascripts/
+exit
+git status
+git commit -a -m "Force product tile sizing"
+git status
+git commit -a -m "add new product page"
+git push
+be cap new_production deploy
+git push
+git status
+git commit -a -m "more product tile style fixes"
+git push
+be cap new_production deploy
+exit
+cd Source/Telescope/products
+cat app/models/client/connector.rb 
+tmux attach -t products
+exit
+cd Source/Telescope/products
+git checkout master
+vim
+git status
+exit
+cd Source/EmberAds/adstore/
+git pull
+be cap deploy
+be cap workers:start
+be cap workers:restart
+cat app/models/product
+cat app/models/product.rb 
+HOSTFILTER=srv-vqwju.gb1.brightbox.com be cap workers:stop
+HOSTFILTER=srv-vqwju.gb1.brightbox.com be cap workers:start
+ea srv-4kk1b
+cd ..
+cd sysadmin_scripts/
+brightbox-servers stop srv-4kk1b
+brightbox-servers start srv-4kk1b
+cd ..
+cd adstore/
+HOSTFILTER=srv-4kk1b.gb1.brightbox.com be cap workers:start
+cd ..
+cd admin_panel/
+git pull
+be cap deploy
+tmux list-sessions
+cd ~/Source/Telescope/whiteboard
+tmux
+cd Source/Telescope/telescope-auth/
+be cap delete_account email=steve@networkstationery.com 
+cd Source/EmberAds/admin_panel/
+be cap deploy:start
+be cap deplpy:restart
+be cap deploy:stop
+be cap deploy:start
+cd Source/EmberAds/adstore/
+be cap workers:start
+ea srv-rlrm4
+sshagent
+cd Source/Telescope/house_of_resources/
+ssh telescope@app004.3hv.co.uk
+exit
+cd Source/EmberAds/admin_panel/
+be cap dep
+oy:start
+be cap deploy:start
+be cap deploy:restart
+cd Source/EmberAds/admin_panel/
+be cap deploy:start
+be cap deploy:stop
+be cap deploy:start
+exit
+ea srv-mb2d3
+ls app/models/
+be rspec spec/models/db_catalogue_export_job_spec.rb 
+rake db:test:clone
+rake db:test:clonebe 
+be rake db:test:clone
+be rspec spec/models/db_catalogue_export_job_spec.rb 
+mkdir spec/fixtures
+be rspec spec/models/db_catalogue_export_job_spec.rb 
+git status
+git add .
+git status
+git commit -a -m "Added DB Export Job"
+cp ../products/app/assets/javascripts/knockout-2.1.0.js public/javascripts/
+git status
+rm public/javascripts/knockout-2.1.0.js 
+git status
+git commit -a -m "controller updated for setting up exports"
+git checkout master
+git merge table_export
+git push
+be cap production deploy
+git status
+git commit -a -m "bug"
+git push
+be cap production deploy
+vim
+git status
+vim
+git status
+git commit -a -m "export fix (with failing test"
+git push
+be cap production deploy
+ls *.sqp
+ls *.swp
+find -name *.sqp
+find -name *.swp
+git status
+git commit -a -m "cast"
+git push
+be cap production deploy
+vim
+git status
+git commit -a -m "Force create"
+git push
+be cap production deploy
+exit
+be rails s
+exit
+git checkout master
+git checkout -b table_export
+vim
+cd ..
+cd products
+git pull
+exit
+git pull
+git pull -u origin master
+rvm use 1.8.7@products
+vim
+rvm use 1.9.3@products
+git status
+git commit -a -m "Clear images"
+git push
+be cap new_production deploy
+git checkout master
+git status
+git commit -a -m "Allow editing of empty images"
+git push
+be cap production deploy
+rvm use 1.8.7@products
+be cap production deploy
+exit
+rvm use 1.8.7@products
+be rails s
+git branch
+git checkout new_ui
+rvm use 1.9.3@products
+vim
+git status
+vim
+exit
+rvm use 1.8.7@products
+bundle exec rails c
+git status
+git diff app/models/field_definition.rb
+git add app/models/field_definition.rb
+git commit -m "Text fields are 128 characters from now on"
+git status
+git diff app/models/client.rb
+git add app/models/client.rb
+git commit -m "Reduce code size"
+git status
+git commit -a -m "Remove images"
+git push
+be cap production deploy
+git status
+git commit -a -m "Clear filename"
+git push
+be cap production deploy
+exit
+tmux list-sessions
+tmux attach
+cd Source/EmberAds/adstore/
+be cap workers:restart
+ea srv-pmi6r
+be cap workers:restart
+exit
+cd Source/Telescope/whiteboard
+git branch -r
+sudo apt-get update
+cd Source/Telescope/whiteboard
+git remote show origin
+git checkout version_two
+git pull
+be rspec spec/
+bundle
+rvm use 1.9.3@whiteboard
+bundle
+git remote show origin
+git checkout -t origin/section_API
+vim
+exit
+ruby script/console 
+exit
+mv app/views/sales_and_marketing_mailer/create_eclipse_site_registration.erb app/views/sales_and_marketing_mailer/eclipse_site_registration.erb
+git status
+git add app/views/sales_and_marketing_mailer/*
+git status
+git commit -a -m "New Eclipse Metrology mailer"
+git checkout production
+git merge master
+git push
+be cap production deploy
+cap production deploy
+exit
+tmux list-sessions
+cd Source/Telescope/bowers/
+git status
+git checkout master
+tmux
+exit
+cd Source/Telescope/s
+cd Source/EmberAds/sysadmin_scripts/
+brightbox-servers stop srv-tamfc
+brightbox-servers start srv-tamfc
+cd ..
+cd adstore/
+be cap workers:stop
+cd ..
+cd adstore/
+be cap workers:stop
+be cap workers:start
+exit
+cd Source/Telescope/bowers/
+git checkout master
+vim
+exit
+cat .ssh/rahoulb 
+tmux list-sessions
+tmux
+clear
+cd Source/Telescope/whiteboard
+git remote show origin
+cd Source/Telescope/whiteboard
+git remote show origin
+cd Source/Telescope/whiteboard
+git remote show origin
+git checkout -t origin/section_api
+git checkout -t origin section_api
+git pull
+git remote show origin
+git checkout -b origin/section_api
+git checkout Gemfile.lock
+bundle
+rvm use 1.9.3@whiteboard
+bundle
+git status
+git add vendor/cache/
+git status
+git commit -a -m "bundle updated"
+be rspec spec/
+git diff version_two
+vim
+git branch
+git checkout version_two
+git branch -D origin/section_api
+git branch -r
+git checkout -t origin/section_api
+git branch
+git remote show origin
+git diff version_two
+be rspec spec/
+be rspec spec/controllers/sections_controller_spec.rb 
+ls spec/controllers/
+be rspec spec/controllers/sections_controller_spec.rb 
+mkdir spec/controllers/api
+mv spec/controllers/sections_controller_spec.rb spec/controllers/api/
+be spec/controllers/api/sections_controller_spec.rb 
+be rspec spec/controllers/api/sections_controller_spec.rb 
+git status
+git add spec/controllers/api/
+git commit -a -m "Moved Api::SectionsController spec to the correct folder and got routing to work"
+git push
+git diff version_two
+exit
+rvm use 1.9.3@whiteboard
+vim
+exit
+tmux list-sessions
+tmux
+cd Source/Telescope/telescope-auth/
+be cap delete_account email=gwyneddoffice@btconnect.com 
+exit
+cd Source/Telescope/whiteboard
+git pull
+git log
+clear
+git diff version_two
+be rspec spec/
+\
+sudo vim /etc/lightdm/lightdm.conf 
+exit
+ps ux | grep gnome
+kill 1288
+ps ux | grep gnome
+exit
+vpn
+sudo apt-get install xmonad
+sudo apt-get install dmenu
+exit
+ps auxf
+ps auxf | grep nautilus
+kill 3137
+vim /home/rahoulb/.rvm/gems/ruby-1.9.3-p0@emberads_accounts/gems/therubyracer-0.11.0beta8/ext/v8/gem_make.out
+exit
+cd Source/EmberAds/
+ls
+cd accounts/
+git status
+git pull
+ssh-add ~/.ssh/ea-admin
+git pull
+git pull -u origin master
+ssh-add ~/.ssh/rahoulb 
+git pull -u origin master
+bundle
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install dwm-tools
+sudo apt-get update
+sudo apt-get upgrade
+bundle
+clear
+bundle
+gem uninstall libv8
+bundle
+rm Gemfile.lock 
+bundle
+gem list libv8
+gem install therubyracer -v 0.11.0beta8
+gem install therubyracer
+bundle
+ls /proc/cpuinfo 
+cat /proc/cpuinfo 
+gem install therubyracer -v 0.11.0beta8
+bundle
+be rspec spec/
+git status
+git add .
+git status
+git commit -a -m "unpinned beta therubyracer gem"
+git branch
+git checkout 156_report_requests
+git merge master
+vim Gemfile.lock 
+bundle
+git status
+be rspec spec/
+git status
+git add .
+git commit -a -m "merged in master"
+git checkout master
+be rspec spec/
+be rspec spec/controllers/
+exit
+sudo apt-get install gnome-panel
+cd ..
+cd adstore/
+git pull
+dropbox 
+dropbox start
+cd ~
+ls
+dropbox
+dropbox ls
+dropbox running
+dropbox status
+ls Documents/
+ls Desktop/
+rm Desktop/*
+~/.dropbox-dist/dropboxd
+dropbox stop
+dropbox status
+dropbox start
+ls /media/Data/
+cd Dro
+cd /media/Data/
+cd Dropbox/
+ls
+ls 3hv/Money/
+ls 3hv/Money/Outstanding\ Purchases/
+cd ..
+ls
+rm -rf oldSource/
+dpkg list
+dpkg --help
+dpkg --list | grep v8
+sudo apt-get uninstall libv8
+sudo apt-get removelibv8
+sudo apt-get remove libv8
+sudo dpkg -r libv8
+sudo dpkg -r libv8-3.7.12.22
+sudo dpkg -r nodejs
+sudo dpkg -r coffeescript
+sudo dpkg -r nodejs
+sudo dpkg -r libv8-3.7.12.22
+sudo dpkg -r libv8-3.1.8.22
+sudo dpkg --list | grep v8
+sudo dpkg purge
+sudo dpkg --purge
+sudo dpkg --purge libv8
+sudo dpkg --purge libv8-3.1.8.22
+sudo dpkg --purge libv8-3.3.12.22
+sudo dpkg --purge libv8-3.7.12.22
+cd ~/Source/EmberAds/accounts/
+vim Gemfile 
+gem list theru
+gem list
+bundle list
+vim
+tmux
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+ps ux
+kill nautilus
+ps ux | grep nautilus
+kill 2871
+sudo shutdown now -r
+vim
+cd ..
+cd adstore/
+git branch
+cd ..
+cd matcher/
+git status
+cd ..
+cd common/
+git status
+git checkout master
+git pull
+be rspec spec/
+git checkout accounts_156
+git merge master
+be rspec spec/
+git push
+cd ..
+cd matcher/
+git checkout master
+git pull
+bundle
+be rspec spec/
+git status
+git checkout accounts_156
+git merge master
+bundle
+be rspec spec/
+git status
+git push
+cd ..
+ls
+cd accounts/
+git status
+git branch
+git checkout 156_report_requests
+git status
+be rspec spec/
+be rspec spec/integration/dashboard_spec.rb 
+be rspec spec/controllers/sessions_controller_spec.rb 
+git checkout 156_report_requests
+be rspec spec/controllers/sessions_controller_spec.rb 
+be rspec spec/
+git status
+git commit -a -m "Made specs pass following weird routing errors"
+git push
+git status
+cd ..
+cd adstore/
+git pull
+bundle
+cd ..
+cd accounts/
+vim
+tmux list-sessions
+vpn
+tmux
+exit
+tmux list-sessions
+tmux attach
+exit
+tmux
+uptime
+exit
+cd Source/ac
+cd Source/EmberAds/accounts/
+be rspec ap
+cd ..
+cd su
+cd sysadmin_scripts/
+brightbox-servers list
+exit
+tmux attach
+exit
+free -m
+tmux list-sessions
+tmux
+cd Source/Telescope/whiteboard
+git checkout version_two
+git pull
+be rspec spec/
+rvm use 1.9.3@whiteboard
+be rspec spec/
+ls
+ls app/assets/javascripts/
+ls app/assets/stylesheets/
+git log
+cat ~/Source/EmberAds/accounts/app/assets/stylesheets/application.css 
+cp ~/Source/EmberAds/accounts/app/assets/stylesheets/application.css app/assets/stylesheets/
+ls app/assets/javascripts/
+ps ux
+kill 7319
+ls app/assets/javascripts/
+mkdir app/assets/javascripts/lib
+mv app/assets/javascripts/bootstrap.min.js app/assets/javascripts/lib/
+mv app/assets/javascripts/bootstrap-tab.js app/assets/javascripts/lib/
+ls app/assets/javascripts/
+mv app/assets/javascripts/knockout-2.1.0.js app/assets/javascripts/lib/
+ack-grep Section
+cd app/assets/javascripts/
+ack-grep Section
+cd ../../..
+git status
+touch app/assets/javascripts/app/pages.js.coffee
+git status
+git add .
+git status
+git commit -a -m "Set up for Knockout"
+git push
+exit
+tmux list-sessions
+tmux attach -t whiteboard
+tmux list-sessions
+tmux
+tmux attach -t whiteboard
+tmux list-sessions
+tmux attach -t 1
+exit
+vpn
+cd Source/EmberAds/admin_panel/
+be cap deploy:restart
+ssh-add ~/.ssh/ea-admin
+be cap deploy:restart
+be cap deploy:stop
+be cap deploy:start
+cd ~
+gnome-screensaver-command -l
+vim /home/rahoulb/.profile 
+vim /home/rahoulb/.bash_aliases 
+clear
+lock-scree
+lock-screen
+exit
+cd Source/EmberAds/accounts/
+be rspec spec/
+ls app/assets/javascripts/app
+mv app/assets/javascripts/app/home.coffee app/assets/javascripts/app/home.js.coffee
+be rspec spec/integration/dashboard_spec.rb 
+cat ../common/lib/common/messages/account_data_report_request.rb
+be rspec spec/integration/dashboard_spec.rb 
+be rails c
+be rspec spec/
+clear
+be rspec spec/integration/dashboard_spec.rb 
+be rspec spec/integration/dashboard_spec.rb \
+be rspec spec/integration/dashboard_spec.rb 
+be rspec spec/
+git status
+git commit -a -m "Finally got integration spec to pass - broken some other specs now"
+git push
+exit
+tmux attach -t ember
+be rails s
+be rails c
+fg 1
+lock-screen
+exit
+exit
+tmux attach -t ember
+sudo apt-get update
+sudo apt-get upgrade
+tmux attach -t ember
+tmux attach -t whiteboard
+exit
+git push
+ssh-add ~/.ssh/ea-admin
+git push
+ssh-add ~/.ssh/rahoulb 
+git push
+lock-screen
+be rspec spec/
+be rspec spec/models/
+be rspec spec/models/
+
+be rspec spec/models/
+be rspec spec/models/account/data_loader_spec.rb 
+be rspec spec/
+git status
+git commit -a -m "fixed the final spec"
+git push
+be rspec spec/models/account/statistics_spec.rb 
+mkdir spec/lib
+be rspec spec/lib/
+be rspec spec/
+be rspec spec/models/account/statistics_spec.rb 
+be rspec spec/lib/time_extensions_spec.rb 
+be rspec spec/models/account/statistics_spec.rb 
+be rails c
+be rspec spec/models/account/statistics_spec.rb 
+be rails c
+be rspec spec/models/account/
+mv lib/time_extensions.rb config/initializers/
+ls spec/
+be rspec spec/models/account/
+clear
+be rspec spec/models/account/
+be rspec spec/models/account/statistics_spec.rb 
+be rspec spec/
+git status
+mv config/initializers/time_extensions.rb lib/
+be rspec spec/
+git status
+git add lib/*
+git add config/initializers/*
+git add spec/lib/
+git status
+git add .
+git commit -a -m "Hourly account updates now working - reducing load on the matcher and preventing the race condition - closes #156"
+git push
+sshagent
+git push
+cd ..
+cd common/
+git checkout master
+git pull
+git checkout accounts_256
+git checkout accounts_156
+git merge master
+bundle
+be rspec spec/
+git push
+cd ..
+cd matcher/
+git checkout master
+git pull
+git checkout accounts_156
+bundle update common
+git status
+git add vendor/cache/
+git status
+be rspec spec/
+git status
+git add .
+git commit -a -m "Updated gems"
+git push
+be rspec lib/reports/hourly_statistics_report.rb 
+be rspec spec/lib/reports/hourly_statistics_report_spec.rb 
+be rspec spec/
+git status
+git commit -a -m "ensure end marker is sent"
+git push
+cd ..
+cd accounts/
+bundle update
+git status
+git add vendor/cache/
+be rspec spec/
+git status
+git commit -a -m "Updated gems"
+git push
+vim
+git status
+be rspec spec/
+git checkout master
+git status
+git commit -a -m "tidy up"
+git checkout master
+git pull
+git checkout 156_report_requests
+git merge master
+be rspec spec/
+git commit -a -m "merge in master"
+git push
+exit
+vim
+git status
+git add app/assets/javascripts/app/home.js.coffee
+git status
+git commit -a -m "failed attempt at fixing dashboard spec"
+vim
+cd ..
+cd matcher/
+vim
+cd ..
+cd accounts/
+vim
+exit
+cd Source/EmberAds/admin_panel/
+be cap deploy:stop
+be cap deploy:start
+exit
+cd Source/EmberAds/admin_panel/
+be cap deploy:stop
+be cap deploy:start
+exit
+tmux list-sessions
+exit
+tmux attach -t ember
+tmux
+tmux list-sessions
+ps ux
+cd Source/EmberAds/common/
+git checkout master
+git pull
+tmux
+cd Source/EmberAds/adserver/
+./bin/tail-logs 
+exit
+cd Source/EmberAds/admin_panel/
+be cap deploy:start
+exit
+cd Source/EmberAds/adstore/
+git log
+find -name selection_info_request
+find -name selection_info_request.rb
+find
+find --help
+find . selection_info_request.rb
+find . -name selection_info_request.rb
+find . -name selection_info_request*
+find . -name select*
+git log lib/selection_info.rb
+git show 93b11def2301366a2fd2b26a091a0d73805db15a
+vim
+vim lib/selection_info.rb 
+ack-grep BrandCentroid.create
+vim app/models/brand_centroid
+vim app/models/brand_centroid.rb 
+ack-grep BrandCentroid.for
+ls app/models/product/centroid.rb 
+cat app/models/product/centroid.rb 
+cat app/models/product.rb 
+vim 
+be rails s
+rvm use 1.9.3@whiteboard
+be rails s
+git remote show origin
+sshagent
+git remote show origin
+git checkout -t origin/pages_api
+git pull
+git diff version_two
+git status
+git branch
+git checkout master
+git status
+git log
+git show 7369f00ada7161d50d1543cf54b2a5caaf638bc1
+be rspec spec/models/db_catalogue_export_job_spec.rb 
+rvm use 1.8.7@whiteboaard
+rvm use 1.8.7@whiteboard
+be rspec spec/models/db_catalogue_export_job_spec.rb 
+git status
+git stash
+be rspec spec/models/db_catalogue_export_job_spec.rb 
+git stash pop
+be rspec spec/models/db_catalogue_export_job_spec.rb 
+clear
+be rspec spec/models/db_catalogue_export_job_spec.rb 
+be rspec spec/
+git status
+git commit -a -m "uses default export table name"
+git checkout new_ui
+git cherry-pick b8c0bf7
+git status
+git checkout .
+git reset HEAD --hard
+git checkout .
+git status
+git checkout version_two
+git cherry-pick b8c0bf7
+git status
+ls app/models/db_catalogue_export_job.rb 
+git status
+git commit -a -m "Merged in Catalogue Export"
+be rspec spec/
+rvm use 1.9.3@whiteboard
+be rspec spec/
+git status
+git push
+ssh-add ~/.ssh/rahoulb 
+sshagent
+git push
+git checkout master
+rvm use 1.8.7@whiteboard
+be rails g controller ProductUpdates
+rm app/helpers/product_updates_helper.rb 
+rm spec/helpers/product_updates_helper_spec.rb 
+be rspec spec/controllers/
+be rspec spec/models/client_spec.rb 
+be rspec spec/controllers/
+be rspec spec/models/exported_product_update_job_spec.rb 
+git status
+rm spec/fixtures/update_product.sql 
+exit
+cd ..
+cd adserver/
+./bin/tail-logs 
+exit
+tmux attach -t ember
+exit
+sudo apt-get update
+sudo apt-get upgrade
+tmux attach -t whiteboard
+exit
+cd Source/EmberAds/adstore/
+vim Gemfile
+bundle
+be rspec spec/
+vim
+git status
+git commit -a -m "Activated the US region"
+be rspec spec/
+vim
+git status
+git commit -a -m "removed redundant log messages"
+be rspec spec/
+git push
+sshagent
+git push
+git checkout master
+git pull
+cd ..
+bundle
+vim
+cd ..
+cd accounts/
+vim
+git status
+git checkout master
+git pull
+exit
+be rspec spec/
+git status
+git commit -a -m "and make the spec pass"
+git push
+cd ..
+cd adstore/
+git pull
+bundle
+git pull
+be cap deploy
+bundle
+cd ..
+cd matcher/
+git checkout master
+git pull
+bundle
+bundle update common
+be rspec spec/
+git status
+git commit -a -m "Updated common"
+git push
+be cap deploy
+cd ..
+cd adserver/
+git pull
+git status
+git diff Gemfile.lock
+git checkout Gemfile.lock
+git pull
+git status
+bundle
+be rspec spec/
+git status
+bundle update common
+git status
+git add vendor/cache/
+git status
+be rspec spec/
+git commit -a -m "Updated common"
+git push
+be cap deploy
+cd ..
+cd matcher/
+vim
+cd ..
+cd common/
+git checkout accounts_156
+vim
+cd ..
+cd matcher/
+git pull
+sshagent
+git pull
+git checkout accounts_156
+git merge master
+vim
+vim Gemfile
+bundle
+be rspec spec/
+git status
+be rspec spec/
+be rspec spec/lib/reports/hourly_statistics_report_spec.rb 
+be rspec spec/
+git status
+git commit -a -m "Merged master, some tidy ups and feedback"
+git push
+cd ..
+cd accounts/
+be rspec spec/
+be rspec spec/models/account/statistics_spec.rb 
+be rspec spec/
+git status
+git commit -a -m "Made the time extensions work with DateTime - but didn't change the update loop"
+git push
+bundle
+git status
+git commit -a -m "Use common master"
+git push
+clear
+be rspec spec/
+exit
+exit
+ea srv-mb2d3
+ack-grep paginated
+git status
+git checkout master
+exit
+cd ..
+cd adstore/
+git status
+vim
+cd ..
+cd adserver/
+./bin/tail-logs 
+vim /home/rahoulb/.bash_aliases 
+exit
+#
+tmux list-sessions
+tmux attach -t ember
+vim
+bject") ? options["disposeWhenNodeIsRemoved"] : null;
+    var disposeWhen = options["disposeWhen"] || function() { return false; };
+    if (disposeWhenNodeIsRemoved) {
+        dispose = function() {
+            ko.utils.domNodeDisposal.removeDisposeCallback(disposeWhenNodeIsRemoved, arguments.callee);
+            disposeAllSubscriptionsToDependencies();
+        };
+        ko.utils.domNodeDisposal.addDisposeCallback(disposeWhenNodeIsRemoved, dispose);
+        var existingDisposeWhenFunction = disposeWhen;
+        disposeWhen = function () {
+        }
+    }
+
+    var evaluationTimeoutInstance = null;
+    function evaluatePossiblyAsync() {
+        var throttleEvaluationTimeout = dependentObservable['throttleEvaluation'];
+        if (throttleEvaluationTimeout && throttleEvaluationTimeout >= 0) {
+            clearTimeout(evaluationTimeoutInstance);
+            evaluationTimeoutInstance = setTimeout(evaluateImmediate, throttleEvaluationTimeout);
+        } else
+            evaluateImmediate();
+    }
+
+    function evaluateImmediate() {
+        if (_isBeingEvaluated) {
+            // If the evaluation of a ko.computed causes side effects, it's possible that it will trigger its own re-evaluation.
+            // This is not desirable (it's hard for a developer to realise a chain of dependencies might cause this, and they almost
+            // certainly didn't intend infinite re-evaluations). So, for predictability, we simply prevent ko.computeds from causing
+            // their own re-evaluation. Further discussion at https://github.com/SteveSanderson/knockout/pull/387
+            return;
+        }
+
+        // Don't dispose on first evaluation, because the "disposeWhen" callback might
+        // e.g., dispose when the associated DOM element isn't in the doc, and it's not
+        // going to be in the doc until *after* the first evaluation
+        if (_hasBeenEvaluated && disposeWhen()) {
+            dispose();
+            return;
+        }
+
+        _isBeingEvaluated = true;
+        try {
+            // Initially, we assume that none of the subscriptions are still being used (i.e., all are candidates for disposal).
+            // Then, during evaluation, we cross off any that are in fact still being used.
+            var disposalCandidates = ko.utils.arrayMap(_subscriptionsToDependencies, function(item) {return item.target;});
+
+            ko.dependencyDetection.begin(function(subscribable) {
+                var inOld;
+                if ((inOld = ko.utils.arrayIndexOf(disposalCandidates, subscribable)) >= 0)
+                    disposalCandidates[inOld] = undefined; // Don't want to dispose this subscription, as it's still being used
+                else
+                    _subscriptionsToDependencies.push(subscribable.subscribe(evaluatePossiblyAsync)); // Brand new subscription - add it
+            });
+
+            var newValue = readFunction.call(evaluatorFunctionTarget);
+
+            // For each subscription no longer being used, remove it from the active subscriptions list and dispose it
+            for (var i = disposalCandidates.length - 1; i >= 0; i--) {
+                if (disposalCandidates[i])
+                    _subscriptionsToDependencies.splice(i, 1)[0].dispose();
+            }
+            _hasBeenEvaluated = true;
+
+            dependentObservable["notifySubscribers"](_latestValue, "beforeChange");
+            _latestValue = newValue;
+            if (DEBUG) dependentObservable._latestValue = _latestValue;
+        } finally {
+            ko.dependencyDetection.end();
+        }
+
+        dependentObservable["notifySubscribers"](_latestValue);
+        _isBeingEvaluated = false;
+
+    }
+
+    function dependentObservable() {
+        if (arguments.length > 0) {
+            set.apply(dependentObservable, arguments);
+        } else {
+            return get();
+        }
+    }
+
+    function set() {
+        if (typeof writeFunction === "function") {
+            // Writing a value
+            writeFunction.apply(ev
+        } else {
+            throw new Error("Cannot 
+};
+ko.is
+var protoProp = ko.observable.protoPrope
+ko.dependentObservable[protoProp] = ko
+ko.dependentObservable['fn'] = {};
+ko.dependentObservable['fn'][protoProp] = ko.d
+ko.exportSymbol('dependentObservable', ko.dependentObservable);
+ko.export
+ko.exportSymbol('isComputed', ko.isComputed);
+(func;     var maxNestedObservableDepth = 10; // Escape the (unlikely) pathalogical case where an observ
+ko.e
+//ko.exportSymbol('vir
+ko.exportSymbol('vi
+//ko.expo
+ko.exportSymbol('
+(functio
+
+
+    
+        this.
+    };
+
+    ko.utils.extend(ko.bindingProvider.
+        'nodeHasBindings': functio
+            switch (node.nodeType) {
+       
+
+                default: return false;
+        
+        },
+
+        'getBindings': function
+            var bindingsSt
+            r
+        },
+
+
+        // It's n
+})();
+ko.expor
+(function () {
+vim
+wget http://cloud.github.com/downloads/SteveSanderson/knockout/knockout-2.1.0.debug.js -o app/assets/javascripts/knockout-2.1.0.js 
+vim
+ls app/assets/javascripts/
+ls
+mv knockout-2.1.0.debug.js app/assets/javascripts/knockout-2.1.0.js 
+vim
+git status
+be rspec spec/
+ack-grep FakeProduct
+exit
+git push
+git status
+git commit -a -m "Added breadcrumb and page select"
+git push
+be rails c
+git status
+git add app/controllers/product_updates_controller.rb
+git add app/models/exported_product_update_job.rb
+git add spec/controllers/product
+git add spec/controllers/product_updates_controller_spec.rb
+git add spec/models/exported_product_update_job_spec.rb
+git status
+be rspec spec/
+exit
+cat ~/.ssh/rahoulb 
+tmux list-sessions
+tmux attach -t whiteboard
+exit
+tmux attach -t whiteboard
+tmux list-sessions
+tmux
+tmux attach -t threehv
+vim .bash_aliases 
+exit
+tmux-attach threehv
+ssh telescope@app010.3hv.co.uk
+exit
+tmux-attach threehv
+ssh telescope@app010.3hv.co.uk
+sshrahoulb
+ssh telescope@app010.3hv.co.uk
+exit
+sudo mount /dev/sda1 /media/Data
+cd /media/Data/
+ls
+cd ..
+cd System
+ls
+mount
+ls /
+mount --help
+dropbox
+dropbox status
+umount /media/Data
+cat /etc/fstab
+ls /dev
+ls /dev/sda2
+ls /dev/sda2/
+cd ~/Desktop/
+ls
+df
+sudo umout /media/Data/
+sudo umount /media/Data/
+tmux-attach threehv
+be rspec sp
+rvm use 1.8.7@whiteboard
+cd Source/Telescope/whiteboard
+be rspec spec/
+clear
+be rspec spec/
+be rspec spec/models/exported_product_update_job_spec.rb
+rvm use 1.8.7@whiteboard
+be rspec spec/models/exported_product_update_job_spec.rb
+be rspec spec/models/exported_product_update_job_spec.rb 
+be rspec spec/
+git status
+git diff app/models/db_catalogue_export_job.rb
+git diff app/models/client.rb
+git status
+git add .
+git status
+git commit -a -m "Exported products are updated"
+git checkout version_two
+git cherry-pick 09adbb4
+git status
+be rspec spec/
+rvm use 1.9.3@whiteabord
+rvm use 1.9.3@whiteboard
+be rspec spec/
+git status
+git commit -a -m "corrected spec that needed updating for newer rails version"
+git push
+sshrahoulb
+git push
+git checkout pages_api
+git pull -u origin pages_api
+git diff version_two
+clear
+git log
+vim
+be rspec spec/
+rvm use 1.8.7@whiteboard
+be rspec spec/
+rvm use 1.9.3@whiteboard
+be rspec spec/
+git status
+git pull
+ruby -v
+be rspec spec/
+git status
+git push
+git checkout master
+git checkou tmaster
+git checkout master
+git push
+be cap production deploy
+rvm use 1.8.7@whiteboard
+be cap production deploy
+be rspec spec/models/
+be rspec spec/models/
+be rspec spec/
+git status
+git commit -a -m "use subdomain for export table name"
+git checkout version_two
+git cherry-pick 698c545
+git push
+git checkout master
+git push
+be cap production deploy
+git status
+git status
+git commit -a -m "table in the generated sql"
+git checkout version_two
+git cherry-pick 132b16e
+git checkout master
+git push
+be cap production deploy
+git status
+git status
+be rspec spec/
+git status
+git commit -a -m "primary key for exported products"
+git checkout version_two
+git cherry-pick 4d5449c
+git checkout master
+git push
+be cap production deploy
+cd ..
+cd pro
+ls
+cd ..
+cd products
+git status
+git pull
+git
+git pull
+git pull -u origin master
+be rspec spec/models/product_spec.rb 
+rmv use 1.8.7@products
+rvm use 1.8.7@products
+be rspec spec/models/product_spec.rb 
+git status
+git commit -a -m "notifications switched on again"
+git branch
+git checkout new_ui
+git cherry-pick e21f5f0
+rvm use 1.9.3@products
+be rspec spec/models/product_spec.rb 
+exit
+vim /home/rahoulb/.bash_aliases 
+exit
+attach tnreehv
+attach threehv
+sshea
+cd ..
+cd adserver/
+./bin/tail-logs 
+./bin/tail-logs | grep -A 5 -B 5 eighteensixtyfive
+./bin/tail-logs | grep eighteensixtyfive -A 5 -B 5
+./bin/tail-logs > ./log.txt
+vim log.txt 
+./bin/tail-logs > log.txt
+./bin/tail-logs | echo > log.txt
+ls 
+cat log.
+cat log.txt 
+rm log.txt 
+git status
+exit
+git pull
+be rspec spec/
+git status
+cd ..
+cd matcher/
+git pull
+sshrahoulb
+exit
+lock-screen
+tmux attach -t ember
+tmux list-sessions
+tmux attach -t ember
+exit
+ssh-agent
+vim .bash_aliases 
+ps aux | grep agent
+cat /etc/lightdm/lightdm.conf 
+cat /etc/lightdm/users.conf 
+cat /etc/lightdm/unity-greeter.conf 
+clear
+ssh telescope@app010.3hv.co.uk
+ssh-add ~/.ssh/rahoulb 
+sshrahoulb
+ssh telescope@app010.3hv.co.uk
+ssh telescope@app007.3hv.co.uk
+cd Source/Telescope/products
+vim
+cd ..
+cd whiteboard
+vim
+exit
+cd Source/EmberAds/matcher/
+git status
+git pull
+sshrahoulb
+git pull
+be rspec spec/
+git status
+git push
+sshea
+be cap deploy
+ssh-add ~/.ssh/rahoulb 
+be cap deploy
+cd ..
+cd accounts/
+git pull
+be rspec spec/
+git status
+be cap deploy
+vim
+ls app/models/account/
+git status
+git pull
+bundle
+be rspec spec/
+be cap deploy
+exit
+tmux attach -t ember
+tmux
+vim /home/rahoulb/.bash_aliases 
+exit
+cd ~/Source/MPG/mpg2
+ls
+ls features/
+ls features/visitor/
+ls features/step_definitions/
+be spinach
+cat .rvmrc
+bundle
+be spinach
+bundle
+be spinach
+ack-grep cucumber
+clar
+be spinach
+clar
+be spinach
+be rails c
+be rails g 
+be spinach --generate
+rm features/support/env.rb
+rm features/support/env.rb 
+be spinach
+bundle
+gem list spin
+bundle
+be spinach
+bundle install
+be spinach
+rake --tasks
+git status
+rm -rf features/
+bundle install
+bundle install
+rails g
+be rails g rspec:install
+be rails g simple_form:install
+git status
+git add app/assets/stylesheets/bootstrap.responsive.css
+git status
+git commit -a -m "Setup"
+git status
+git status
+be rspec spec/integration/
+be rspec spec/integration/
+git status
+git add spec/integration/
+git commit -a -m "added the first spec"
+git push
+sshrahoulb
+git push
+ps aux | grep agent
+ssh-
+exit
+tmux list-sessions
+tmux-attach threehv
+attach threehv
+exit
+vim /home/rahoulb/.bash_aliases 
+exit
+cd Source/EmberAds/accounts/
+ps aux | grep agent
+sshea
+ps aux | grep agent
+ssh-agent
+be cap deploy
+ssh-add ~/.ssh/rahoulb 
+be cap deploy
+vim
+be cap deploy:migrations
+ssh-add ~/.ssh/rahoulb
+exec ssh-add ~/.ssh/rahoulb
+cd Source/EmberAds/accounts/
+ssh-agent
+exit
+tmux
+vim /home/rahoulb/.bashrc 
+tmux list-sessions
+tmux
+exit
+ea srv-e63ch
+ssh-add ~/.ssh/ea-admin
+sshea
+ea srv-e63ch
+exit
+tmux-attach threehv
+cd Source/Telescope/products
+vim
+cd ..
+cd whiteboard
+git checout version_two
+git checkout version_two
+be rails s
+rvm 1.9.3@whiteboard
+be rails s
+tmux
+vim
+vim
+vim
+cd ..
+cd products
+vim
+cd ~/Desktop/
+ls
+mkdir MPG
+cd MPG/
+vim
+cd ~/Source/MPG/mpg2/
+git branch
+vim
+ls spec/
+mkdir spec/integration
+vim
+cd Source/EmberAds/accounts/
+be cap deploy:migrations
+ssh-add ~/.ssh/rahoulb 
+be cap deploy:migrations
+ssh-add ~/.ssh/ea-admin
+be cap deploy:migrations
+git status
+git branch
+git checkout 156_report_requests
+vpn
+exit
+ls .vim
+ls .vim/janus/
+ls .vim/janus/vim/
+ls .vim*
+vim .vimrc.local
+exit
+cd ..
+cd admin_panel/
+be cap deploy:start
+ssh-add ~/.ssh/ea-admin
+be cap deploy:start
+exit
+vim /home/rahoulb/.bashrc 
+ps ux | grep agent
+cd Source/EmberAds/pineapple/
+git pull
+ssh-add ~/.ssh/rahoulb 
+git pull
+be cap deploy
+ssh-add ~/.ssh/ea-admin
+be cap deploy
+cd ~
+attach ember
+exit
+ssh telescope@app010.3hv.co.uk
+ssh-add ~/.ssh/rahoulb 
+ssh telescope@app010.3hv.co.uk
+exit
+cd Source/Telescope/whiteboard
+git checkout master
+vim
+exit
+tmux
+exit
+cd Source/EmberAds/sysadmin_scripts/
+brightbox-servers list
+cd ..
+cd admin_panel/
+be cap deploy:start
+ea srv-taufb
+cd ..
+cd sysadmin_scripts/
+ea srv-taufb
+brightbox-servers stop srv-taufb
+brightbox-servers start srv-taufb
+brightbox-servers list
+ea srv-taufb
+ssh-keygen -f "/home/rahoulb/.ssh/known_hosts" -R [srv-taufb.gb1.brightbox.com]:2222
+ea srv-taufb
+cd ..
+cd admin_panel/
+be cap deploy:start
+exit
+attach ember
+attach threehv
+tmux list-sessions
+attach ember
+cd Source/EmberAds/accounts/
+vim
+ls db/migrate/
+vim 
+vim
+vim /home/rahoulb/.tmux.conf 
+exit
+be rspec spec/models/site_spec.rb 
+mkdir app/models/site/
+be rspec spec/models/site_spec.rb 
+be rails g migration add_data_summary_time_to_Sites
+be rails g migration add_data_summary_time_to_sites
+be rake db:migrate
+be rspec spec/models/site_spec.rb 
+be rake db:test:clone
+be rspec spec/models/site_spec.rb 
+ls app/models/
+ls app/
+ls app/models/account
+ls app/models/page_summary/
+be rspec spec/models/site_spec.rb 
+git status
+be rspec spec/models/account_data_request_spec.rb 
+git status
+git add .
+git commit -a -m "Site data is scheduled for summarising when data is received from the matcher"
+git push
+sshrahoulb
+git push
+lock-screen
+ssh-add ~/.ssh/rahoulb 
+ssh-add ~/.ssh/ea-admin
+git status
+be rspec spec/models/
+be rspec spec/models/site_spec.rb 
+be rspec spec/
+git status
+git commit -a -m "Site summaries are updated when hourly reports are used"
+git push
+cd ..
+cd sysadmin_scripts/
+brightbox-servers list
+ea srv-e42sh
+brightbox-servers list
+n
+exit
+tmux
+vim /home/rahoulb/.tmux.conf 
+cd Source/EmberAds/accounts/
+exit
+vim .tmux.conf 
+tmux
+attach threehv
+attach ember
+attach ember
+exit
+cat ~/.ssh/rahoulb 
+exit
+cat .ssh/rahoulb 
+vim
+exit
+attach ember
+:q
+exit
+cd Source/EmberAds/matcher/
+vim
+cd ..
+cd common/
+vim
+cd ~/Source/EmberAds/accounts/
+vim
+cd ..
+cd pineapple/
+vim
+git status
+git reset HEAD --haerd
+git reset HEAD --hard
+clear
+git merge master
+git status
+rm index.html 
+rm pineapple.js 
+rm pineapple.min.js 
+ls
+ls public/
+git status
+vim
+git status
+git commit - a-m "Merged in master
+git push
+git commit -a -m "Merged in master"
+git push
+ssh-add ~/.ssh/rahoulb 
+sshrahoulb
+git push
+vim 
+be rake --tasks
+be rake build
+bundle
+be rake build
+git status
+git commit -a -m "compiled the JS"
+git push
+:q
+exit
+be rspec spec/
+cd ..
+cd pineapple/
+git pull
+ssh-add ~/.ssh/rahoulb 
+sshrahoulb
+git pull
+git branch
+git checkout 2_https
+git pull
+git pull -u origin 2_https
+git remote show origin
+git checkout -t wip-2-https origin/wip-2-https
+git fetch
+git checkout -t wip-2-https origin/wip-2-https
+git branch -r
+git checkout wip-2-https
+git pull
+git diff master
+git merge master
+vim
+exit
+d
+vim /home/rahoulb/.tmux.conf 
+tmux --version
+attach ember
+clear
+tmux
+ccd
+attach threehv
+exit
+ea srv-eg44z
+ssh-add ~/.ssh/ea-admin
+sshea
+ea srv-eg44z
+ea srv-e63ch
+attach ember
+tmux list-sessions
+attach 5
+ssh telescope@app007.3hv.co.uk
+ssh-add ~/.ssh/rahoulb 
+sshrahoulb
+ssh telescope@app007.3hv.co.uk
+ssh telescope@app008.3hv.co.uk
+ssh telescope@app007.3hv.co.uk
+exit
+attach threehv
+attach ember
+exit
+attach ember
+tightvncserver
+cd ..
+cd common/
+vim
+ls lib/common/messages/
+git pull
+vim
+git log lib/common/messages/hourly_statistics_request.rb
+git show 1830de909e8e355b3d425c66cbc065016377d0ac
+vim
+git status
+git commit -a -m "Bellend - removed an important line from the message - so reinstated"
+git push
+exit
+cd ..
+cd matcher/
+vim
+exit
+cd Source/EmberAds/accounts/
+git checkout master
+git pull
+ssh-add ~/.ssh/rahoulb 
+sshrahoulb
+git pull
+be rspec spec/
+git status
+git push
+be cap deploy:migrations
+sshea
+ssh-add ~/.ssh/rahoulb 
+be cap deploy:migrations
+ea srv-eg44z
+ea srv-bemub
+ssh-add ~/.ssh/ea-admin
+sshea
+ea srv-bemub
+ea srv-eg44z
+cd ..
+cd matcher/
+git status
+be cap workers:stop
+be cap workers:start
+ccd ..
+cd 
+cd Source/EmberAds/sysadmin_scripts/
+brightbox-servers stop srv-eg44z
+brightbox-servers start srv-eg44z
+cd ..
+cd matcher/
+be cap deploy:workers:start
+be cap workers:start
+be cap workers:stop
+be cap workers:start
+ea srv-eg44z
+cd ..
+cd sysadmin_scripts/
+brightbox-servers stop
+brightbox-servers stop sr-eg44z
+brightbox-servers stop srv-eg44z
+brightbox-servers start srv-eg44z
+cd ..
+cd matcher/
+be cap --tasks
+be cap workers:status
+be cap workers:stop
+be cap resque-pool:stop
+be cap workers:start
+eea srv-e44gz
+ea srv-344gz
+ea srv-eg44z
+bundle update common
+git status
+vim
+git pull
+ssh-add ~/.ssh/rahoulb 
+git pull
+bundle update common
+git status
+be rspec spec/
+git checkout .
+git pull
+cd ..
+cd accounts/
+ls
+git log
+git push
+be cap deploy
+vim
+exit
+git status
+git commit -a -m "deal with bad data"
+git push
+be rspec spec/
+git status
+bundle update common
+be rspec spec/
+git status
+git add vendor/cache/
+git status
+git commit -a -m "updated common"
+git push
+be cap deploy
+git push
+bundle update common
+git status
+git commit -a -m "updated common"
+git push
+be cap deploy
+bundle update common
+git commit -a -m "updated common"
+git push
+be cap deploy
+bundle update common
+git status
+git commit -a -m "More updates to common"
+git push
+be cap deploy
+exit
+cd ..
+cd common/
+vim
+git diff lib/common/messages/hourly_statistics_request.rb
+git status
+git commit -a -m "Time is being unwrapped into a string - so converting back into a Time"
+git push
+vim
+git status
+git commit -a -m "more bugfixes on accounts data"
+git push
+vim
+git status
+git commit -a -m "more bugfixes on accounts data"
+git push
+vim
+git commit -a -m "Never trust a JSON"
+git push
+exit
+attach ember

@@ -1,0 +1,453 @@
+./google-play-crawl.sh com.kicksend.android
+#1347349823
+./google-play-crawl.sh com.kicksend.android
+#1347349829
+./google-play-crawl.sh com.kicksend.android
+#1347349840
+curl --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie 'MarketDA=16967225263330031043' 'http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0TkXrsperCcK18c1JtEPGEaEUypdT5Cvk1TAmaPu2JQAWfwyNOiS-4DDn76PwtRSA-3S2K0vrWl6TvlHllxTnEfa_qyBPeAsGz_LKA&downloadId=2840524316587536446'
+#1347349855
+./google-play-crawl.sh com.kicksend.android
+#1347349885
+./google-play-crawl.sh com.kicksend.android
+#1347349894
+ls
+#1347349899
+rm -fr com.kicksend.android.apk 
+#1347349900
+ls
+#1347349905
+./google-play-crawl.sh com.kicksend.android
+#1347349917
+./google-play-crawl.sh com.kicksend.android
+#1347349938
+./google-play-crawl.sh com.kicksend.android
+#1347349951
+./google-play-crawl.sh com.kicksend.android
+#1347349976
+./google-play-crawl.sh com.kicksend.android
+#1347349988
+./google-play-crawl.sh com.kicksend.android
+#1347349999
+./google-play-crawl.sh com.kicksend.android
+#1347350002
+man curl
+#1347350124
+man curl
+#1347350128
+./google-play-crawl.sh com.kicksend.android
+#1347350134
+curl --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie 'MarketDA=16967225263330031043' http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0RL4DjeO8b4pZeqeolj0IYU6thbDIun0p1gZ_kLMf6cBhL39e68a-Zv-rSxTL8eMTKNbuSyx7hu28sZXcfil_8oEPZ9wGjZgCxWl_8&downloadId=-7090933057516082836
+#1347350162
+./google-play-crawl.sh com.kicksend.android
+#1347350167
+curl --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie 'MarketDA=16967225263330031043' 'http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0S52LNKH_CmahprmELiyg-FmE-KtpF701FAlCzP2V-r1mLWb9SJEV1bnWnU3tLNWbQM1CXKF3o8Ujfx6WDqL6v9OmVPpMDaF6o9t1Q&downloadId=-6525585924654613539'
+#1347350181
+curl --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie 'MarketDA=16967225263330031043' http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0RL4DjeO8b4pZeqeolj0IYU6thbDIun0p1gZ_kLMf6cBhL39e68a-Zv-rSxTL8eMTKNbuSyx7hu28sZXcfil_8oEPZ9wGjZgCxWl_8&downloadId=-7090933057516082836
+#1347350303
+curl --data-urlencode --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie 'MarketDA=16967225263330031043' http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0RL4DjeO8b4pZeqeolj0IYU6thbDIun0p1gZ_kLMf6cBhL39e68a-Zv-rSxTL8eMTKNbuSyx7hu28sZXcfil_8oEPZ9wGjZgCxWl_8&downloadId=-7090933057516082836
+#1347350394
+./google-play-crawl.sh com.kicksend.android
+#1347350401
+./google-play-crawl.sh com.kicksend.android
+#1347350410
+./google-play-crawl.sh com.kicksend.android
+#1347350443
+curl http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0S2fD_L7wxDEoQ-nubWpFN-GHoFt-1adRDomikdEkQK6jguhNcObRCTuwe3UV_P3so350IX-etqRmzFtedhnipeKyNmCnqODK8S1iY&downloadId=7500178987390004803  --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie 'MarketDA=16967225263330031043'
+#1347350453
+./google-play-crawl.sh com.kicksend.android
+#1347350480
+./google-play-crawl.sh com.kicksend.android
+#1347350514
+./google-play-crawl.sh com.kicksend.android
+#1347350643
+./google-play-crawl.sh com.kicksend.android
+#1347350656
+./google-play-crawl.sh com.kicksend.android
+#1347350662
+./google-play-crawl.sh com.kicksend.android
+#1347350673
+./google-play-crawl.sh com.kicksend.android
+#1347350680
+./google-play-crawl.sh com.kicksend.android
+#1347350791
+./google-play-crawl.sh com.kicksend.android
+#1347350826
+./google-play-crawl.sh com.kicksend.android
+#1347350834
+curl --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie MarketDA=16967225263330031043 http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0Rf7p6Votbq-lPUt-3yVvNs-AL3YvcrXj-wPlLKgpFsW9zWmvEJCbcr05JMvB9Ij4crdMz5gNkizYVNyFlGWJJyPAeik5TyOwItL78&downloadId=7836642106028391186
+#1347350864
+ls
+#1347350867
+rm -fr com.kicksend.android.apk 
+#1347350873
+./google-play-crawl.sh com.kicksend.android
+#1347350992
+ls
+#1347351671
+curl --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie MarketDA=16967225263330031043 http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0Rf7p6Votbq-lPUt-3yVvNs-AL3YvcrXj-wPlLKgpFsW9zWmvEJCbcr05JMvB9Ij4crdMz5gNkizYVNyFlGWJJyPAeik5TyOwItL78&downloadId=7836642106028391186
+#1347351673
+ls
+#1347351674
+cd
+#1347351676
+cd Temporary/
+#1347351677
+ls
+#1347351682
+rm -fr *
+#1347351699
+curl --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie MarketDA=16967225263330031043 http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0Rf7p6Votbq-lPUt-3yVvNs-AL3YvcrXj-wPlLKgpFsW9zWmvEJCbcr05JMvB9Ij4crdMz5gNkizYVNyFlGWJJyPAeik5TyOwItL78&downloadId=7836642106028391186
+#1347351728
+curl http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0S2fD_L7wxDEoQ-nubWpFN-GHoFt-1adRDomikdEkQK6jguhNcObRCTuwe3UV_P3so350IX-etqRmzFtedhnipeKyNmCnqODK8S1iY&downloadId=7500178987390004803  --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie 'MarketDA=16967225263330031043'
+#1347351759
+curl --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie MarketDA=16967225263330031043 'http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0Rf7p6Votbq-lPUt-3yVvNs-AL3YvcrXj-wPlLKgpFsW9zWmvEJCbcr05JMvB9Ij4crdMz5gNkizYVNyFlGWJJyPAeik5TyOwItL78&downloadId=7836642106028391186'
+#1347351773
+curl -C --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie MarketDA=16967225263330031043 'http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0Rf7p6Votbq-lPUt-3yVvNs-AL3YvcrXj-wPlLKgpFsW9zWmvEJCbcr05JMvB9Ij4crdMz5gNkizYVNyFlGWJJyPAeik5TyOwItL78&downloadId=7836642106028391186'
+#1347351780
+curl -C - --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie MarketDA=16967225263330031043 'http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0Rf7p6Votbq-lPUt-3yVvNs-AL3YvcrXj-wPlLKgpFsW9zWmvEJCbcr05JMvB9Ij4crdMz5gNkizYVNyFlGWJJyPAeik5TyOwItL78&downloadId=7836642106028391186'
+#1347351789
+curl -C - --output com.kicksend.android.apk --location --user-agent 'Android-Market/2' --cookie MarketDA=16967225263330031043 'http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0Rf7p6Votbq-lPUt-3yVvNs-AL3YvcrXj-wPlLKgpFsW9zWmvEJCbcr05JMvB9Ij4crdMz5gNkizYVNyFlGWJJyPAeik5TyOwItL78&downloadId=7836642106028391186'
+#1347352251
+curl -v http://www.baidu.com
+#1347352309
+curl –trace http://www.baidu.com
+#1347352328
+curl -v –trace http://www.baidu.com
+#1347352333
+curl -v –trace http://www.baidu.comx
+#1347352338
+curl –trace http://www.baidu.comx
+#1347352342
+curl –trace http://www.baidu.com
+#1347352383
+curl dict://dict.org/show:db
+#1347352386
+curl dict://dict.org/show:db
+#1347352408
+curl dict://dict.org/show:hello
+#1347352423
+curl dict://dict.org/d:hello
+#1347352457
+curl dict://dict.org/show:db
+#1347352693
+wget -O taglist.zip http://www.vim.org/scripts/download_script.php?src_id=7701
+#1347352701
+ls
+#1347352957
+wget -b http://www.openss7.org/repos/tarballs/strx25-0.9.2.1.tar.bz2
+#1347352995
+tail -f wget-log
+#1347353303
+ wget --spider xxx
+#1347353319
+ wget --spider http://www.baidu.com
+#1347353360
+ wget -v --spider http://www.baidu.com
+#1347353653
+wget http://www.baidu.com
+#1347353667
+wget --reject=gif http://www.baidu.com
+#1347353676
+wget --reject=html http://www.baidu.com
+#1347353679
+ls
+#1347354044
+ls
+#1347354051
+tail -f wget-log 
+#1347354060
+man tail
+#1347354082
+tail -f wget-log -f index.html
+#1347354347
+ls
+#1347354356
+ls
+#1347354361
+sed wget-log 
+#1347354369
+sed -n wget-log 
+#1347354381
+sed -n -e 2p wget-log 
+#1347354385
+sed -n -e 3p wget-log 
+#1347354394
+sed -n -e 3p wget-log 
+#1347354404
+sed -n -e 3p -e2p wget-log 
+#1347354471
+sed -n -e 3,4p wget-log 
+#1347354475
+sed -n -e 3,5p wget-log 
+#1347355107
+cat wget-log 
+#1347355132
+grep "2012" wget-log 
+#1347355142
+grep "2012#1" wget-log 
+#1347355146
+grep "2012#0" wget-log 
+#1347355150
+grep "2012" wget-log 
+#1347355156
+grep -A 5 "2012" wget-log 
+#1347355820
+grep 2012 wget-log 
+#1347355829
+export GREP_OPTIONS='--color=auto' GREP_COLOR='100;8'
+#1347355830
+grep 2012 wget-log 
+#1347355834
+grep 2012 wget-log 
+#1347355842
+export GREP_OPTIONS='--color=auto' GREP_COLOR=''
+#1347355843
+grep 2012 wget-log 
+#1347356306
+cat /etc/host
+#1347356307
+cat /etc/hosts
+#1347356320
+grep "dev" /etc/hosts
+#1347356324
+grep -v "dev" /etc/hosts
+#1347356334
+grep -v "127.0.0.1" /etc/hosts
+#1347356406
+grep -e "127.0.0.1" /etc/hosts
+#1347356413
+grep -e "127.0.0.1"  -e "192"/etc/hosts
+#1347356420
+grep -e "127.0.0.1"  -e "192" /etc/hosts
+#1347356451
+grep -c -e "127.0.0.1"  -e "192" /etc/hosts
+#1347356506
+grep -l -e "127.0.0.1"  -e "192" /etc/hosts
+#1347356547
+grep -lc -e "127.0.0.1"  -e "192" /etc/hosts
+#1347356551
+grep -l -c -e "127.0.0.1"  -e "192" /etc/hosts
+#1347356558
+grep -c -e "127.0.0.1"  -e "192" /etc/hosts
+#1347356565
+grep -c -l -e "127.0.0.1"  -e "192" /etc/hosts
+#1347356584
+grep -o -e "127.0.0.1"  -e "192" /etc/hosts
+#1347356787
+grep -n -e "127.0.0.1"  -e "192" /etc/hosts
+#1347356803
+grep -b -e "127.0.0.1"  -e "192" /etc/hosts
+#1347356815
+grep -o -b -e "127.0.0.1"  -e "192" /etc/hosts
+#1347357030
+history 
+#1347357048
+export HISTTIMEFORMAT='%F %T '
+#1347357049
+history 
+#1347357102
+sudo vi /etc/bashrc
+#1347357122
+history 
+#1347357224
+sudo vi /etc/bashrc
+#1347357239
+grep -o -b -e "127.0.0.1"  -e "192" /etc/hosts
+#1347357256
+ls ~/Workspace/Opensource/php/php-5.4.3/php-5.4.3-apache-httpd-2.4.2/
+#1347357269
+ls ~/Workspace/Opensource/php/php-5.4.3/php-5.4.3-apache-httpd-2.4.2/
+#1347357507
+ls ~/Workspace/Opensource/php/php-5.4.3/php-5.4.3-apache-httpd-2.4.2/
+#1347357509
+ls ~/Workspace/Opensource/php/php-5.4.3/php-5.4.3-apache-httpd-2.4.2/
+#1347357510
+ls ~/Workspace/Opensource/php/php-5.4.3/php-5.4.3-apache-httpd-2.4.2/
+#1347357512
+ls ~/Workspace/Opensource/php/php-5.4.3/php-5.4.3-apache-httpd-2.4.2/
+#1347357515
+history 
+#1347357522
+history 
+#1347357571
+history 
+#1347357599
+ps
+#1347357602
+ps -Al
+#1347357605
+ps -Al
+#1347357607
+ps -Al
+#1347357670
+sudo vi /etc/bashrc
+#1347357693
+sudo vi /etc/bashrc
+curl -O --location --user-agent 'Android-Market/2' --cookie 'MarketDA=16967225263330031043' 'http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0T_og63c0GtJWiBsivbIsqbm-YljS2jiQcoTJ7t4H8ccTEiuSaYzXo6Bzt_kejqyYpvUXnJEyvQJogMqtW4wjHT9z-ZmlSDmx-4HwQ&downloadId=-6676295849062085038#16967225263330031043'
+curl -O --location --user-agent 'Android-Market/2' --cookie 'MarketDA=16967225263330031043' 'http://android.clients.google.com/market/download/Download?packageName=com.kicksend.android&versionCode=47&token=AOTCm0T_og63c0GtJWiBsivbIsqbm-YljS2jiQcoTJ7t4H8ccTEiuSaYzXo6Bzt_kejqyYpvUXnJEyvQJogMqtW4wjHT9z-ZmlSDmx-4HwQ&downloadId=-6676295849062085038#16967225263330031043'
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Users/vincent/Library/Caches/com.apple.LaunchServices*.*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/folders/45/7xgjydwn5pn620hb3j3y7sbr0000gp/C/com.apple.LaunchServices*.csstore" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/usr/bin/find -x / -type f -exec head -n 1 \{} > /dev/null \;" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Users/vincent/Library/Caches/com.apple.LaunchServices*.*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/folders/45/7xgjydwn5pn620hb3j3y7sbr0000gp/C/com.apple.LaunchServices*.csstore" ; exit ; exit
+whoami
+exit
+chmod -R 777 /Applications/SecureCRT.app/Contents/MacOS
+exit
+q
+e
+exit
+cp /opt/local/apps/apache-httpd-2.4.2/conf/hosts/dev.zsg.com.conf /opt/local/apps/apache-httpd-2.4.2/conf/hosts/dev.www.pingtai.com.conf
+cp /opt/local/apps/apache-httpd-2.4.2/conf/hosts/dev.zsg.com.conf /opt/local/apps/apache-httpd-2.4.2/conf/hosts/dev.admin.pingtai.conf
+cp /opt/local/apps/apache-httpd-2.4.2/conf/hosts/dev.zsg.com.conf /opt/local/apps/apache-httpd-2.4.2/conf/hosts/dev.bbs.pingtai.conf
+cp /opt/local/apps/apache-httpd-2.4.2/conf/hosts/dev.zsg.com.conf /opt/local/apps/apache-httpd-2.4.2/conf/hosts/dev.log.pingtai.conf
+cp /opt/local/apps/apache-httpd-2.4.2/conf/hosts/dev.zsg.com.conf /opt/local/apps/apache-httpd-2.4.2/conf/hosts/dev.pay.pingtai.conf
+cd /opt/local/apps/apache-httpd-2.4.2/conf/hosts/dev.zsg.com.conf
+ll
+ll
+ls
+cd /opt/local/apps/apache-httpd-2.4.2/conf/hosts/
+ls
+vi dev.admin.pingtai.conf 
+vi dev.bbs.pingtai.conf 
+vi dev.log.pingtai.conf 
+vi dev.pay.pingtai.conf 
+cp dev.log.pingtai.conf dev.pay.pingtai.conf 
+cp dev.log.pingtai.conf dev.www.pingtai.com.conf 
+vi dev.pay.pingtai.conf 
+vi dev.www.pingtai.com.conf 
+vi dev.www.pingtai.com.conf 
+vi dev.bbs.pingtai.conf 
+ll
+ls
+mv dev.log.pingtai.conf dev.log.pingtai.com.conf 
+mv dev.pay.pingtai.conf dev.pay.pingtai.com.conf 
+ls
+mv dev.bbs.pingtai.conf dev.bbs.pingtai.com.conf 
+mv dev.admin.pingtai.conf dev.admin.pingtai.com.conf 
+ll
+ls
+vi dev.admin.pingtai.com.conf 
+vi dev.bbs.pingtai.com.conf 
+vi dev.log.pingtai.com.conf 
+vi dev.pay.pingtai.com.conf 
+vi dev.www.pingtai.com.conf 
+vi /etc/hosts
+apachectl restart
+vi /opt/local/apps/apache-httpd-2.4.2/conf/httpd.conf
+vi /opt/local/apps/php5.4.3/lib/php.ini
+apachectl restart
+pwd
+ll
+ls
+cp dev.www.pingtai.com.conf www.336.com.conf
+vi www.336.com.conf 
+vi /etc/hosts
+apachectl restart
+ls
+cp dev.pay.pingtai.com.conf pay.336.com.conf
+vi pay.336.com.conf 
+vi /etc/hosts
+apachectl restart
+cp dev.bbs.pingtai.com.conf bbs.336.com.conf
+vi bbs.336.com.conf 
+vi /etc/hosts
+apachectl restart
+vi /opt/local/apps/php5.4.3/lib/php.ini
+apachectl restart
+ifconfig 
+ifconfig 
+ifconfig 
+ifconfig |grep 192
+ls
+exit
+man sudo
+exit
+exit
+ll
+whoami
+exit
+exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Library/Caches/com.apple.LaunchServices*.*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/folders/*/*/C/com.apple.LaunchServices*.csstore" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Users/vincent/Library/Caches/com.apple.LaunchServices*.*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/folders/45/7xgjydwn5pn620hb3j3y7sbr0000gp/C/com.apple.LaunchServices*.csstore" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Library/Caches/com.apple.LaunchServices*.*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/folders/*/*/C/com.apple.LaunchServices*.csstore" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Users/vincent/Library/Caches/com.apple.LaunchServices*.*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/folders/45/7xgjydwn5pn620hb3j3y7sbr0000gp/C/com.apple.LaunchServices*.csstore" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /Library/Caches/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /System/Library/Extensions/Caches/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /System/Library/Extensions.mkext" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/db/BootCache.playlist" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/folders/45/7xgjydwn5pn620hb3j3y7sbr0000gp/T/-Caches-/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/folders/45/7xgjydwn5pn620hb3j3y7sbr0000gp/T/C/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Library/Caches/com.apple.LaunchServices*.*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/folders/*/*/C/com.apple.LaunchServices*.csstore" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Users/vincent/Library/Caches/com.apple.LaunchServices*.*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/folders/45/7xgjydwn5pn620hb3j3y7sbr0000gp/C/com.apple.LaunchServices*.csstore" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Library/Caches/*.fcache*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Library/Caches/*.FODB*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Library/Caches/*fontcache*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /Library/Caches/com.apple.ATS" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /System/Library/Caches/*.fcache*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /System/Library/Caches/*.FODB*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /System/Library/Caches/fontTablesAnnex*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Users/vincent/Library/Caches/*.fcache*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Users/vincent/Library/Caches/*.FODB*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Users/vincent/Library/Caches/*fontcache*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /Users/vincent/Library/Preferences/Microsoft/Office\ Font\ Cache*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/folders/45/7xgjydwn5pn620hb3j3y7sbr0000gp/T/-Caches-/*.ATS" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /private/var/folders/45/7xgjydwn5pn620hb3j3y7sbr0000gp/C/com.apple.FontRegistry/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /Users/vincent/.Trash/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /Users/vincent/.Trash/.*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /Users/vincent/.Trash/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /Users/vincent/.Trash/.*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /Users/vincent/.Trash/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /Users/vincent/.Trash/.*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /var/log/*.gz" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /var/log/*.bz2" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /Library/Logs/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -df /Users/vincent/Library/Logs/CrashReporter/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -df /Users/Shared/Library/Logs/CrashReporter/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -df /Users/selina/Library/Logs/CrashReporter/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -df /Users/Guest/Library/Logs/CrashReporter/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -df /Users/.localized/Library/Logs/CrashReporter/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/usr/sbin/periodic daily" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/usr/sbin/periodic weekly" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/usr/sbin/periodic monthly" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /var/log/*.gz" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -f /var/log/*.bz2" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -rf /Library/Logs/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -df /Users/vincent/Library/Logs/CrashReporter/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -df /Users/Shared/Library/Logs/CrashReporter/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -df /Users/selina/Library/Logs/CrashReporter/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -df /Users/Guest/Library/Logs/CrashReporter/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/rm -df /Users/.localized/Library/Logs/CrashReporter/*" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/chmod g+rw /Library/Logs" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/usr/sbin/diskutil repairPermissions /net" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/usr/sbin/diskutil repairPermissions /home" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/usr/sbin/diskutil repairPermissions /" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/mkdir /Library/StartupItems" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/usr/bin/chgrp wheel /Library/StartupItems" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/usr/sbin/chown root /Library/StartupItems" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/chmod 755 /Library/StartupItems" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/bin/chmod a+w /Library/Application\ Support/Adobe/Photoshop\ Elements/6.0/Locale/*/MediaDatabase.db3" ; exit ; exit
+/usr/bin/sudo /bin/sh -c "/usr/bin/update_dyld_shared_cache -force -root /" ; exit ; exit
+exit
+ll
+sudo -s zsh
+which zsh
+zsh --version
+exit
+tmux
+rsync
+ssh -q -l app100653344 -p 36000 183.60.66.71
+vi /Users/devctang/bak/dropbox/conf_system/ssh-openssh-key/openssh-key-open-qq
+vi /Users/devctang/bak/dropbox/conf_system/ssh-openssh-key/openssh-key-open-qq
+ll
+ll
+exit
+pwd
+for d in `cat .pushe`; do ls $d; done;    
+exit

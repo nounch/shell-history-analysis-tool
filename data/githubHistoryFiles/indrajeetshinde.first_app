@@ -1,0 +1,48 @@
+ifconfig 
+ping google.com
+sudo su -
+man
+manls
+man 
+man ls
+man calender
+man cal
+apt-cache search jdk*
+apt-cache install  jdk*
+apt-cache instal jdk*
+apt-cache instal jdk-6
+apt-cache install jdk-6
+apt-cache search jdk*
+which ruby
+ruby-v
+ruby -v
+sudo apt-get install ruby1.8 ruby1.8-dev irb rdoc ri
+apt-cache search gedit
+apt-get install gedit
+sudo apt-get install
+sudo apt-get install gedit
+apt-get install gedit
+apt-cache search gedit
+gedit
+/home/indrajeet/desktop
+cd /home/indrajeet/desktop
+cd /home/indrajeet/Desktop
+chmod +x test.rb
+./test.rb
+apt-cache search jdk*
+apt-get install openjdk-7*
+apt-get install jdk7
+apt-cache search jdk*
+./test.rb
+chmod +x test.rb
+./test.rb
+ruby -v
+which ruby
+apt-cache search jdk1.5
+apt-get install jdk1.5
+sudo apt-get install jdk1.5
+sudo apt-get install jdk8
+sudo apt-get install jdk*
+sudo apt-get install jdk
+sudo apt-get install jdk1.5
+sudo apt-get install java-common

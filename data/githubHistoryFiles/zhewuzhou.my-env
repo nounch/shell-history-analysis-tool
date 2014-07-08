@@ -1,0 +1,1323 @@
+git clone https://github.com/scrooloose/syntastic.git
+cd syntastic/
+ls
+git st
+git checkout ./
+git st
+rm -rf test.html 
+rm -rf test.rb 
+ls
+ll
+cp -R * ~/.vim/
+vim test.rb
+vim test.rb 
+vim test.rb
+rm -rf test.rb 
+ls
+vim test
+vim test.rbv
+vim test.rb
+ls
+cd ../
+ls
+git clone https://github.com/SirVer/ultisnips.git
+vim test.js
+cd ultisnips/
+ls
+ll
+tree
+which python
+python --version
+brew search python
+brew install python3
+brew link pkg-config
+brew install python3
+which python
+/usr/local/bin/python3
+/usr/local/bin/python3 --version
+which python3
+rm -rf /usr/bin/python
+clear
+mv /usr/bin/py* /tmp/pybin/
+mv -r /usr/bin/py* /tmp/pybin/
+cp -R /usr/bin/py* /tmp/pybin/
+ls
+git st
+cp -R * ~/.vim/
+vim test.js
+which vim
+vim --version
+brew search vim
+ls
+/usr/local/bin/vim test.py 
+/usr/local/bin/vim --version
+/usr/local/bin/vim test.py 
+ls
+vim test.py 
+/usr/local/bin/vim test.py 
+python setup.py install
+python -v
+python --version
+/usr/local/bin/vim test.py 
+python --version
+hg --version
+easy_install requests==0.10.0
+/usr/local/bin/vim test.py 
+./test.py 
+ls
+grep -r "*.pyc" ./
+find ./ -name "*.pyc"
+find ./ -name "__pycache__.*"
+grep -r "__pycache__.*" ./
+grep -R "__pycache__.*" ./
+git st
+ls
+cd plugin/
+ls
+cd UltiSnips/
+ls
+sudo rm -rf /usr/bin/py*
+which python3
+cd /tmp
+ls
+hg clone https://vim.googlecode.com/hg/ vim
+vim /usr/local/bin/hg 
+hg clone https://vim.googlecode.com/hg/ vim
+vim /usr/local/bin/hg 
+hg clone https://vim.googlecode.com/hg/ vim
+brew search hg
+brew install hg
+which hg
+hg clone https://vim.googlecode.com/hg/ vim
+sudo easy_install mercurial
+which easy_install
+easy_install mercurial
+ln -s /usr/local/bin/python3 /usr/bin/python
+su ln -s /usr/local/bin/python3 /usr/bin/python
+sudo ln -s /usr/local/bin/python3 /usr/bin/python
+which python
+hg clone https://vim.googlecode.com/hg/ vim
+easy_install mercurial
+brew search python
+brew install python
+brew link python
+cd /usr/bin/
+ls
+rm -rf python 
+sudo rm -rf python 
+cd /usr/local/bin/
+ls
+ll
+which python
+which python --version
+which python -v
+which python --version
+which python2.7 --version
+python --version
+python2.7 --version
+python2 --version
+sudo ln -s /usr/local/bin/python /usr/bin/python
+which python
+python --version
+ls
+cd /tmp
+hg clone https://vim.googlecode.com/hg/ vim
+brew install hg
+which hg
+hg clone https://vim.googlecode.com/hg/ vim
+python
+which hg
+vim /usr/local/bin/hg 
+hg version
+vim /usr/local/bin/hg
+easy-install hg
+easy_install hg
+which pip
+cd /Downloads/
+ls
+ll
+tree
+cd
+cd Downloads/
+ls
+bunzip2 vim-7.3.tar.bz2 
+la
+ls
+tar --help
+tar -x vim-7.3.tar 
+LS
+tar xcf vim
+tar -xcf vim
+tar -xvf vim
+tar -xvf
+tar -xvf vim-7.3.tar 
+ls
+cd vim73/
+ls
+cd src/
+ls
+vim configure
+./configure --help
+./configure --enable-pythoninterp=/usr/bin/python
+ls
+make && make install
+/usr/local/bin/vim --version
+ls
+./configure --help
+clear
+./configure --help
+./configure --enable-pythoninterp=yes --enable-python3interp=yes
+make && make install
+/usr/local/bin/vim --version
+./configure --enable-pythoninterp=yes
+make clean
+make prefix=/usr/local clean
+make && make install
+brew install python --universal --framework
+brew --help
+brew uninstall python
+brew install python --universal --framework
+hg
+vim /usr/local/bin/hg
+/usr/local/bin/vim Makefile 
+./configure --enable-pythoninterp=yes
+make && make install
+/usr/local/bin/vim --version
+ls
+vim gui_gtk.c 
+/usr/local/bin/vim gui_gtk.c 
+vi /Users/twer/.vim/plugin/UltiSnips/__init__.py
+ls
+/usr/local/bin/vim
+cd Downloads/
+ls
+ll
+ls
+tar -zxvf setuptools-0.6c11.tar.gz 
+ls
+cd setuptools-0.6c11/
+ls
+hg --version
+history | grep "python"
+ping www.baidu.com
+ping qq.com
+clear
+/usr/local/bin/vim test
+python
+hg
+/usr/local/bin/vim test
+vim --version
+/usr/local/bin/vim --version
+which python
+ll /usr/bin/python 
+brew link python
+brew uninstall python
+brew install python --universal --framework
+brew link python
+sudo rm -rf /usr/bin/python 
+ls
+sudo ln -s /usr/local/bin/python /usr/bin/python
+/usr/local/bin/vim
+brew doctor
+brew doctor python
+brew unlink python
+brew link python
+ll /usr/local/Cellar/python/2.7.3
+ll /usr/local/Cellar/python/2.7.3/bin/
+clear
+/usr/local/bin/vim
+brew search vim
+brew uninstall python3
+brew install python3 --universal --framework
+brew link python3
+ls
+which python3
+which python
+python -version
+python --version
+ll /usr/bin/
+cd /usr/bin/
+ls
+ll py*
+brew uninstall python
+brew uninstall python3
+ls
+which python
+which python3
+cd Downloads/
+ls
+cd vim73/
+ls
+./configure --help
+make clean --help
+make clean
+make clean prefix=/usr/local
+./configure 
+./configure --enable-python3interp=yes
+make && make install
+/usr/local/bin/vim --version
+./configure --help
+./configure --enable-python3interp
+./configure --enable-python3interp=yes
+make && make install
+make clean
+make && make install
+/usr/local/bin/vim --version
+python3 --version
+make clean
+make prefix=/usr/local clean
+./configure --enable-python3interp vi_cv_path_python3=/usr/local/bin/python3.2
+./configure --enable-pythoninterp=yes
+./configure --enable-python3interp=yes
+./configure --help
+./configure --enable-pythoninterp=yes
+ls
+./configure --help
+./configure --enable-pythoninterp=dynamic
+./configure --enable-python3interp=dynamic
+clear
+/usr/local/bin/pyll
+cd /usr/local/bin/
+ll python*
+cd /Cellar/python3/3.2.3/bin/python3
+ls
+cd /Cellar/python3/3.2.3/bin/
+ls
+ll py*
+cd /Cellar/python3/3.2.3/
+cd /usr/local/Cellar/python3/3.2.3/
+ls
+ll
+cd bin/
+ls
+ll
+cd ../
+ls
+cd ../
+ls
+tree
+ls
+cd ../
+ls
+cd python
+l
+ll
+cd ../
+cd python3/
+ls
+cd 3.2.3/
+ll
+cd ../../python/
+ll
+cd 2.7.3/
+ll
+cd bin/
+ll
+cd ../
+ls
+cd /usr/local/lib/python3.2/
+ls
+tree
+ls
+cd ../
+ls
+ll python2.7/
+ls
+ll
+cd python2.7/
+ls
+tree
+brew search python
+clear
+cd famous-github-projects/
+ls
+vim impress.js/
+cd /tmp
+ls
+cd
+which python
+which python3
+python3 --version
+cd Downloads/
+ls
+cd vim73/
+./configure --help
+./configure --enable-python3interp=yes --with-python3-config-dir=/Library/Frameworks/Python.framework/Versions/3.2/lib/config
+./configure --enable-python3interp=yes --with-python3-config-dir=/Library/Frameworks/Python.framework/Versions/3.2/lib
+make prefix=/usr/local clean
+sudo make && make install
+/usr/local/bin/vim --version
+/usr/local/bin/vim tet
+ls
+cd src/auto/
+ls
+cat config.
+cat config.log 
+vim config.log 
+python --version
+python3 --version
+ls
+cd ../../
+ls
+./configure --enable-python3interp=yes --with-python3-config-dir=/usr/local/lib/python3.2/
+ls
+cd ../
+rm -rf vim73/
+sudo rm -rf vim73/
+ls
+tar -xvf vim-7.3.tar 
+cd vim73/
+./configure --enable-python3interp=yes --with-python3-config-dir=/usr/local/lib/python3.2/
+cd /usr/local/bin/
+ls
+rm -rf python3*
+ls
+cd
+brew install python3 --universal --framework
+brew uninstall python3
+brew install python3 --universal --framework
+cd Do
+cd Downloads/
+ls
+cd vim73/
+ls
+./configure --help
+./configure --enable-python3interp=yes
+make clean 
+cd ../
+ls
+rm -rf vim73/
+tar -xvf vim-7.3.tar 
+ls
+cd vim73/
+ls
+./configure --enable-python3interp=yes
+./configure --help
+cd /Library/Frameworks/Python.framework/Versions/3.2/
+ls
+tree
+ls
+ll
+vim Python 
+ls
+cd include/
+ls
+cd python3.2m/
+ls
+cd ../
+ls
+cd ../
+ls
+cd Headers
+ls
+cd ../
+ls
+cd share/
+ls
+cd doc/
+ls
+cd python3.2/
+ls
+cd ../
+ls
+cd ../
+ls
+cd ../
+ls
+ll /usr/lib/python*
+cd /usr/local/lib/python3.2/
+ls
+cd /usr/bin/
+ls
+cd ../lib
+ls
+ll
+cd
+cd /usr/local/lib/
+ls
+ll
+cd /usr/local/bin/
+ls
+rm -rf py*
+cd Downloads/
+ls
+tar -zxvf Python-3.2.3.tgz 
+cd Python-3.2.3/
+ls
+./configure 
+sudo make && make install
+make clean
+./configure MACOSX_DEPLOYMENT_TARGET=10.6
+sudo make && make install
+ll build/temp.macosx-10.6-x86_64-3.2/tk.arch
+ll
+easy_install
+./configure --universal-archs=32-bit 
+make clean
+./configure --universal-archs=32-bit MACOSX_DEPLOYMENT_TARGET=10.6
+./configure --help
+./configure --with-universal-archs=32-bit MACOSX_DEPLOYMENT_TARGET=10.6
+sudo make && make install
+./configure --with-universal-archs='32-bit' MACOSX_DEPLOYMENT_TARGET=10.6
+make && make install
+sudo make && make install
+which python
+which python3
+which python3.2
+ll /usr/local/bin/
+ll /usr/local/bin/python3.2
+ls
+vim setup.py 
+ls
+ll /usr/local/bin/python3.2
+/usr/local/bin/python3.2 --version
+cd /usr/local/bin/
+ls
+ll python3.2*
+./python3.2m --version
+./python3.2 --verson
+./python3.2 --version
+mv python3.2m python3
+ls
+cd
+which python3
+python3 --version
+cd .vim
+ls
+clear
+ls
+ifconfig
+ifconfig
+clear
+ifconfig
+ifocnfig
+ifconfig
+clear
+ifconfig
+whoami
+whoami
+mv ~/Downloads/.bash* ./
+ls
+mkdir famous-github-projects
+cd famous-github-projects/
+ls
+cd iTerm2-Color-Schemes/
+ls
+clear
+ls
+clear
+ls
+clear
+brew doctor
+brew install git
+$CC
+echo $CC
+ls
+which cc
+brew install git --HEAD --cached
+brew doctor
+brew search libneon
+brew search neon
+brew install neno
+brew install neon
+brew install git
+which gcc
+gcc -v
+which git
+ls
+git --version
+git st
+cd famous-github-projects/
+ls
+git st
+cd iTerm2-Color-Schemes/
+git st
+git status
+git pull
+brew search mysql
+brew install mysql
+ifconfig
+clear
+cd ~/Downloads/
+ls
+rm -rf StarCraft\ II/
+ls
+ifconfig
+ping www.baidu.com
+clear
+mysql.server start
+mysql.server stop
+mysql.server start
+ps -ef|grep mysqld
+ps aux | grep "mysqld"
+kill -9 20268
+ll /var/log/
+cd /var
+ls
+cd db/
+ls
+cd ../
+ls
+cd ../
+mysql.server status
+mysql.server start
+cd /etc
+ls
+ll
+cd
+ls
+brew info mysql
+mysql -uroot
+sudo mysql_install_db 
+cd /usr/local/
+ls
+cd Cellar/
+ls
+cd mysql/
+ls
+cd 5.5.25a/
+ls
+tree
+brew install tree
+tree
+ls
+cd scripts/
+ll
+./mysql_install_db 
+cd ../
+ls
+cd vin
+cd bin/
+ls
+./mysql_install_db 
+vim my_print_defaults 
+brew info mysql
+clear
+ls
+cd ../
+ls
+mysql_install_db 
+mysql.server start
+./bin/mysqladmin -u root password 'new-password'
+mysql.server start
+./scripts/mysql_install_db 
+mysql.server start
+cd /var/log/
+ls
+cd ../
+cd 
+fine / -name "mysql"
+find / -name "*mysql*"
+ls
+mysql.server start
+cd /usr/local/
+ls
+sudo mysql.server start
+ls
+mysqlbinlog 
+ls /tmp
+cd /tmp
+ls
+mysql_install_db --help
+brew info mysql
+mysql_install_db --help
+unset TMPDIR
+mysql_install_db 
+cd
+cd /usr/local/
+ls
+cd Cellar/
+ls
+cd mysql/
+ls
+mysql_install_db --verbose --user=`whoami` --basedir="$(brew --prefix mysql)" --datadir=/usr/local/var/mysql --tmpdir=/tmp
+mysql.server start
+clear
+bash --version
+ls
+ifconfig
+ls
+vim .bashrc
+cd
+ls
+vim .bashrc 
+cd famous-github-projects/
+ls
+cd iTerm2-Color-Schemes/
+git st
+cd
+cd Downloads/
+ls
+cd StarCraft\ II/
+ls
+ll
+tree
+ls
+ifconfig
+curl -L https://get.rvm.io | bash -s stable
+rvm
+rvm list
+rvm --help
+rvm list know
+rvm list known
+rvm install 1.9.3
+rvm list
+rvm --help
+rvm use --help
+rvm --help
+rvm --default use 1.9.3
+rvm list
+rvm list known
+rvm install 1.8.7
+rvm list
+git clone git://github.com/creationix/nvm.git ~/.nvm
+ls
+vim .bashrc 
+ruby -v
+nvm st
+ifconfig
+cd Downloads/
+ls
+ifconfig
+nvm
+nvm ls
+nvm install 0.8.7
+nvm install v0.8.7
+vim st
+vim --version
+nvm install v0.8.7
+nvm list
+nvm st
+nvm alias default v0.8.7
+nvm list
+npm --version
+npm list
+npm --help
+npm -l
+npm whoami
+git st
+git --config
+git --help
+git config
+git config --global
+ls
+vim .gitconfig 
+ls
+npm --version
+npm --help
+npm update
+cd /Applications/
+ls
+mv ~/Downloads/StarCraft\ II/ ./
+ls
+clear
+cd
+git clone git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+ls
+cd .vim/
+ls
+cd bundle/
+ls
+cd vundle/
+ls
+cd
+vim .vimrc
+ls
+vim test
+ls
+cd .vim
+tree
+cd
+vim test
+vim .vimrc 
+vim test
+clear
+vim test
+vim .vimrc 
+ls
+vim .vimrc 
+ls
+cd /tmp
+ls
+vim test.js
+cd
+vim .bash_history 
+ls
+vim .bashrc 
+ls
+vim .bashrc 
+vim .bash_peo
+vim .bash_profile 
+clear
+cd famous-github-projects/
+git clone git clone git://git.debian.org/git/bash-completion/bash-completion.git
+git clone git://git.debian.org/git/bash-completion/bash-completion.git
+ls
+cd bash-completion/
+ls
+vim README 
+bash --version
+brew search bash-completion
+brew install bash-completion
+brew search git-completion
+brew search git
+cd famous-github-projects/
+cd iTerm2-Color-Schemes/
+cd
+brew info git
+brew install git
+brew info git
+brew uninstall git
+clear
+brew install git
+which git
+cd /Applications/
+ls
+which git
+sudo rm -rf /usr/bin/git
+cd famous-github-projects/
+ls
+cd bash-completion/
+git st
+brew install ctags
+ls
+cd Downloads/
+ls
+vim .vimrc 
+cd
+mkdir ~/.tmp_files/vim/backups -p
+sudo mkdir ~/.tmp_files/vim/backups -p
+cd
+mkdir .tmp_files
+cd .tmp_files/
+mkdir vim
+cd vim/
+mkdir backups
+mkdir tmp
+ls
+ll
+cd Downloads/
+ls
+cd .vim/
+ll
+cd plugin/
+tree
+cd .vim
+tree
+vim test
+vim .vimr
+cd
+vim .vimrc 
+ls
+tree
+cd .vim
+ll
+tree
+clear
+ls
+vim .vimr
+cd
+vim .vimrc 
+sudo vim .vimrc
+vim .vimrc 
+cd .vim
+ls
+ll
+cd bundle/
+ls
+cd vundle/
+ls
+tree
+cd
+vim .vimrc 
+cleae
+cleanr
+clean
+brew srach clean
+brew search clean
+brew install clean
+clean
+ruby
+ruby -v
+clean
+brew uninstall clean
+ls
+clear
+vim .vimrc 
+cd .vim
+ls
+cd bundle/
+ls
+cd UltiSnips/
+ls
+cd UltiSnips/
+ls
+vim javascript.snippets 
+ls
+cd .vim
+ls
+cd bundle/
+ls
+cd UltiSnips/
+ls
+cd UltiSnips/
+ls
+vim html.snippets 
+ls
+vim xx.htm
+vim xx.html
+vim java.snippets 
+ls
+cd ../
+ls
+cd UltiSnips/
+ls
+vim html.snippets 
+ls
+vim javascript.snippets 
+cd ../
+ls
+cd syntax/
+ls
+vim snippets.vim 
+ls
+cd ../
+grep -R "html" *
+vim test.js
+vim test.html
+vim test.js
+vim test.html 
+ls
+vim test.html
+cd /tmp
+ls
+vim test.java
+vim test.html
+vim test.xhtml
+clear
+vim test
+vim test.rb
+clear
+cd 
+cd .vim
+cd bundle/
+ls
+cd UltiSnips/
+ls
+cd UltiSnips/
+ls
+cd
+brew search Error executing Nail! (127)
+brew search nailgun
+brew install nailgun
+cd .vim
+ls
+cd bundle/
+ls
+cd
+cd Downloads/
+cd .vim/
+ls
+cd plugin/
+tre
+tree
+cd
+vim .vimrc 
+cd /tmp
+ls
+vim test.clj
+cd famous-github-projects/
+ls
+cd bash-completion/
+cd ../
+ctags -R ./
+ctags -R *
+ctags -r *
+ctags --help
+ctags --version
+ctags -R *
+which ctags 
+sudo rm -rf /usr/bin/ctags 
+ctags -v
+ctags --version
+ctags -R bash-completion/
+ls
+rm -rf tags 
+ls
+cd bash-completion/
+ctags -R bash-completion.pc.in 
+ctags -R ./
+ls
+vim Makefile.am 
+ls
+cd
+vim .vimrc 
+cd /tmp
+ls
+clear
+ls
+vim test.clj
+brew install hg
+clear
+vim test.xhtml
+vim test.js
+python --version
+vim test
+ls
+cd
+vim .vimrc 
+emacs xxx
+cd /tmp
+ls
+vim test.html
+cd Down
+cd 
+cd Downloads/
+ls
+vim TWAnyConnect_v4.xml 
+clear
+ls
+cd
+cd Downloads/
+ls
+mv TWAnyConnect_v4.xml /opt/cisco/vpn/profile/
+sudo mv TWAnyConnect_v4.xml /opt/cisco/vpn/profile/
+ls
+cd
+vim .vimrc 
+ls
+cd .vim
+ls
+cd bundle/
+ls
+cd UltiSnips/
+ls
+cd../
+cd ../
+ls
+cd
+clear
+cd .vim
+ls
+which vim
+cd /usr/share/vim/
+ls
+vim .vimr
+vim vimrc 
+cd vim73/
+grep "*.xhtml"
+grep -R "*.xhtml" ./
+grep -R "*.js" ./
+tree
+ls
+grep -R "*.rb" ./
+vim filetype.vim 
+ls
+grep -R "*.xhtml" ./
+ls
+cd ftplugin/
+ls
+vim html.vim 
+ls
+cd .vim
+ls
+cd bundle/
+ls
+cd UltiSnips/
+ls
+vim README
+ls
+vim README.rst 
+grep -R "*.js" ./
+grep -R "*.xhtml" ./
+grep -R "*.rb" ./
+ls
+tree
+ls
+vim UltiSnips/html.snippets 
+cd ../
+ls
+grep -R "xhtml" *
+cd ../
+ls
+cd bundle/
+ls
+vim .vimrc 
+cd Downloads/
+ls
+vim .vimrc 
+cd /tmp
+ls
+vim test.html
+vim test.xhtml
+vim test.html
+vim test.xhtml
+vim test.html
+cd
+vim .vimrv
+vim .vimrc 
+cd /tmp
+vim test.html
+clear
+vim test.html
+clear
+vim test.rb
+clear
+vim test.xx
+cd Downloads/
+ls
+vim .vimrc 
+cd
+cd /tmp
+vim test.js
+vim test.rb
+rm -rf test.rb 
+c;ear
+clear
+vim test.clj
+clear
+vim .vimrc 
+brew install hg
+hg --version
+cd famous-github-projects/
+hg clone https://bitbucket.org/kotarak/vimclojure
+cd vimclojure/
+ls
+cd client/
+ls
+make
+ls
+ng-server 
+ls
+ngclient/
+cd ngclient/
+ls
+cd ../
+ls
+vim Makefile 
+ng
+clear
+cd .vim
+ls
+cd bundle/
+ls
+cd VimClojure/
+ls
+cd bin/
+ls
+ng-server 
+clear
+ls
+cd ../
+ls
+tree
+ls
+cd ftplugin/
+ls
+cd ../
+ls
+cd plugin/
+ls
+cd ../
+ls
+cd autoload/
+ls
+cd ../
+ls
+cd indent/
+ls
+cd ../
+ng
+cd /tmp
+vim test.html
+vim test.xhtml
+cd
+cd /opt/cisco/vpn/
+cd profile/
+ls
+vim *.xml
+clear
+cd
+ls
+rm -rf \#xxx# 
+ls
+rm -rf -p/
+rm -rf \-p
+open ./
+ls
+clear
+ls
+cd .vim
+ls
+cd bundle/
+ls
+cd UltiSnips/
+ls
+cd doc/
+ls
+vim UltiSnips.txt 
+cd
+vim .vimrc 
+ls
+cd famous-github-projects/
+ls
+cd bash-completion/
+ls
+vim README 
+clear
+vim README 
+brew search lein
+brew install leiningen
+cd
+ls
+clear
+ls
+vim .vimrc 
+cd .vim
+ls
+cd bundle/
+ls
+cd vimclojure-easy/
+ls
+cd lib/
+ls
+cd vimclojure-nailgun-client/
+ls
+make
+ls
+cd ../
+ls
+cd ../
+ls
+vim vimrc.vim 
+mate vimrc.vim 
+cd
+echo $HOME
+cd .vim
+ls
+cd bundle/
+ls
+cd vimclojure-easy/
+ls
+cd lib/
+ls
+cd vimclojure-nailgun-client/
+pwd
+cd
+cd /tmp
+vim test.clj
+vim .vimrc 
+cd famous-github-projects/
+git clone https://github.com/jquery/jquery.git
+cd jquery/
+ls
+vim Makefile 
+cd
+vim .vimrc 
+cd famous-github-projects/
+cd jquery/
+vim Makefile 
+cd
+cd famous-github-projects/
+cd
+vim .vimrc 
+clear
+vim .vimrc 
+cd /tmp
+ls
+vim test.clj
+clear
+vim test.html
+clear
+vim test.clj
+cd
+cd famous-github-projects/
+cd jquery/
+vim Makefile 
+clear
+cd
+cd .vim
+ls
+cd bundle/
+ls
+cd
+cd /tmp
+vim test.clj
+brew search ng
+vim .vimrc 
+cd /tq
+cd /tmp
+ls
+vim test.clj
+cd
+cd .vim
+ls
+cd bundle/
+ls
+cd VimClojure/
+ls
+vim README
+vim README.markdown 
+cd famous-github-projects/
+ls
+cd vimclojure/
+ls
+cd lib/
+ls
+cd build/
+ls
+cd ../
+ls
+cd ../
+tree
+cd /tmp
+vim test.clj
+cd /tmp
+cd /tmp
+vim test.clj
+cd
+ls
+ll
+vim .vimrc 
+cd famous-github-projects/
+ls
+cd vimclojure/
+ls
+cd lib/
+cd ../
+cd client/
+ls
+gnu
+ng
+sudo mv ng /usr/local/bin/
+which ng
+cd /tmp
+vim test.clj
+cd
+vim .vim
+cd .vim
+ls
+cd bundle/
+ls
+vim VimClojure/
+cd do
+cd VimClojure/
+ls
+cd doc/
+ls
+vim clojure.txt 
+vim test.clj
+ping www.baidu.com
+clear
+clear
+cd /tmp
+ls
+vim test.js
+cd 
+cd famous-github-projects/
+ls
+cd jquery/
+vim M
+vim Makefile 
+vim .vimrc 

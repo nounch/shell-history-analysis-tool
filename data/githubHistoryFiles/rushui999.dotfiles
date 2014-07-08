@@ -1,0 +1,500 @@
+ls
+cd ..
+ls
+cd ..
+ls
+ps -e
+ps -e | grep sshd
+ls
+cd test/
+ls
+vi t1.cpp 
+./t1
+htop
+htop
+y putty
+history
+uname -a
+su -
+which vncserver
+su -
+vncserver :1
+su -
+cd .vnc
+ls
+ls -a
+rm rushui\:1.log rushui\:1.pid xstartup 
+ls
+vncserver :1
+vncserver -kill :1
+vncserver :1
+htop
+vncserver :1
+hostname rushui
+vi /etc/hosts
+sudo vi /etc/hosts
+vncserver :1
+vncserver -kill :1
+vncserver :1
+sudo vi /etc/hosts
+vi /etc/hosts
+ssh root@10.0.0.27
+sudo ifconfig
+vi /etc/hosts
+sudo vi /etc/hosts
+su -
+vncserver :1
+vncserver -kill :1
+vncserver :1
+cd .vnc
+ls -a
+ls /root/.vnc
+su -
+vncserver -kill :1
+cd ..
+rm -r .vnc
+ls
+vncserver  :1
+vncserver -kill :1
+rm -r .vnc
+ls
+vncserver :1
+netstat -an
+uname -a
+htop
+exit
+uname -a
+pwd
+ls
+mv 上海嘉定视频点播系统介绍.txt work/
+ls
+cd work/
+ls
+top
+htop
+uptime
+eix gentoo-sources
+uname -a
+cd
+ls
+cd pics/
+ls
+feh gentoo1.jpg 
+cd /etc/slim.conf 
+vi /etc/slim.conf 
+uname -a
+htop
+vi .config/
+which vv
+alias
+exit
+yc.bak 
+yc.bak 
+yc.bak 
+vi yc.bak
+vi bin/yc.bak 
+yc.bak 
+vi yc.b
+vi yc.bak
+cd bin/
+vi yc.bak 
+yc.bak 
+rm yc.bak 
+ls
+yc
+ls
+cd ../test/
+ls
+vi t3.cpp
+fg
+g t3.cpp 
+g t3.cpp 
+g t3.cpp 
+ssh zq@10.0.0.4
+su -
+eix vnc
+equery uses vnc
+su -
+eix vnc
+vi ~/bin/vv
+vi ~/bin
+vv
+ssh zq@10.0.0.4
+ssh zq@10.0.0.4
+eix ssh
+eix putty
+netstat -an
+vi /etc/ssh/sshd_config 
+vi /etc/ssh
+eix vnc
+su -
+vv
+alias
+cd ~/.vnc
+ls
+vi ~/.bashrc
+source ~/.bashrc 
+alias
+vv
+vi ~/.basrhc
+vi ~/.bashrc 
+source ~/.bashrc 
+vv
+cd /etc/init.d
+ls
+vncserver -kill :1
+vncserver -kill :1
+htop
+uname -a
+uname -a
+vncserver -kill :1
+rm -r .vnc
+ls
+netstat -title
+netstat -a
+netstat -n
+netstat -an
+netstat -an | grep tcp
+exit
+vncserver :1
+netstat -an
+sudo ifconfig
+exit
+name -a
+uname -a
+ls
+yc
+vv
+vi bin/vv
+cd bin
+ls
+alias 
+ls
+vi yc
+rdesktop --help
+vv
+vncviewer 10.0.0.27:1
+htop
+eix vnc
+y xvnc
+eix xvncviewer
+eix xvnc
+vncserver -kill :1
+htop
+uname -a
+vncserver :1
+alias
+uname -a
+eix tightvnc
+eix x11vnc
+uname -a
+cd .vnc
+ls
+vi xstartup 
+vi .xinitrc
+cd
+vi .xinitrc 
+uname -a
+vncserver -kill :1
+ls
+cd .vnc
+ls
+cd ..
+ls
+alias
+vi /etc/vnc
+vncserver :1
+uname -a
+cd .vnc
+ls
+myftp 
+ls
+uname -a
+vi ~/.bashrc
+source ~/.bashrc
+exit
+vk
+vk
+vs
+exit
+ls
+vk
+eix vncserver
+eix vnc
+emerge -C tightvnc
+sudo emerge -C tightvnc
+su -
+source /etc/profile
+su -
+su -
+cd /usr/portage/net-misc/vnc
+ls
+vi vnc-4.1.3-r2.ebuild 
+eix vnc
+ls
+su -
+su -
+cd /usr/share/X11
+ls
+vi rgb.txt 
+cd ../lib/X11
+cd ..
+ls
+cd ..
+cd lib/X11
+ls
+vi /usr/portage/net-misc/vnc/vnc-4.1.3-r2.ebuild 
+equery 
+equery d grun
+equery d gedit
+equery depends gedit
+equery uses gedit
+equery uses mozilla-firefox
+equery d hal
+equery d xorg-server
+equery d libXfont
+eix libXfont
+eix xorg-x11
+eix libXrender
+eix vnc
+su -
+vi /etc/portage/package.use 
+vi /usr/portage/net-misc/vnc/vnc-4.1.3-r2.ebuild 
+su -
+vs
+vi .bashrc
+vi .bashrc
+source .bashrc
+s27
+ls
+cd .vnc
+ls
+vi xstartup 
+cd
+vi .bashrc
+source .bashrc
+vv
+vncviewer --help
+vi .bashrc
+source .bashrc
+vv
+vi .bashrc
+source .bashrc
+vv
+vi .bashrc
+source .bashrc
+vv
+vncviewer --help
+vi bin/vv
+ls
+mv passwd111 .vnc/passwd27
+cd .vnc
+ls
+vi ~/.bashrc
+vv
+ls
+vi .bashrc
+source .bashrc
+source ~/.bashrc
+vv
+vk
+vk
+ls
+s27
+htop
+cd downloads/
+ls
+ls
+cd ~/test
+ls
+vi ptype.c
+g ptype.c 
+gcc -o ptype ptype.c 
+vi ptype.c 
+gcc -o ptype ptype.c 
+vi +20 ptype.c 
+gcc -o ptype ptype.c 
+vi +18 ptype.c 
+gcc -o ptype ptype.c 
+ls
+g  t1.cpp 
+cd /usr/share/vim/
+ls
+cd vim72/
+ls
+cd colors/
+ls
+cd
+cd test/
+ls
+g ptype.c 
+rm convert 
+ls
+gcc -o ptype ptype.c 
+g ptype.c 
+g ptype.c 
+gcc -o ptype ptype.c 
+ls
+./ptype 
+g ptype.c 
+gcc -o ptype ptype.c 
+g +22 ptype.c 
+gcc -o ptype ptype.c 
+./ptype 
+g ptype.c 
+gcc -o ptype ptype.c 
+./ptype 
+ls
+scp ptype.c root@10.0.0.27:/home/root/zq
+scp ptype.c root@10.0.0.27:/root/zq
+s27
+ls
+g ptype.c 
+gcc -o pptype pptype.c 
+./pptype 
+man ascii
+ls
+g t4.cpp
+gcc -o t4 t4.cpp 
+g t4.cpp 
+gcc -o t4 t4.cpp 
+ls
+mv t4.cpp t4.c
+ls
+gcc -o t4 t4.c
+ls
+vi t4
+vi -b t4
+ls
+g t4.c
+g t4.c
+g t4.c
+g t4.c
+vv
+ls
+cd do
+cd downloads/
+ls
+cd ../work/
+ls
+vi 上海嘉定视频点播系统介绍.txt 
+g 上海嘉定视频点播系统介绍.txt 
+ls
+cd bin/
+ls
+vi yc
+yc
+yc
+s27
+s27
+tracerout g.cn
+sudo tracerout g.cn
+sudo traceroute g.cn
+s27
+eix man
+eix man-db
+eix sys-apps/man
+which man
+file /usr/bin/man
+eselect 
+equery 
+equery f man-db
+mandb gcc
+vi /etc/man_db.conf 
+equery d man-db
+ 
+equery d gcc
+equery b gcc
+equery b mozilla-firefox
+equery b firefox
+equery b traceroute
+equery b cd
+equery b ls
+ls /usr/lib/R/library/base/help/ls 
+equery b var
+equery b ssh
+equery b R
+equery b matlab
+equery b eix
+equery b equery
+equery b man
+equery b man | grep bin
+equery b man-db
+which man-db
+which mandb
+file /usr/bin/mandb
+mandb
+sudo mandb
+su -
+vi /etc/portage/package.use 
+emerge -av emacs
+emerge -pv emacs
+equery uses emacs
+iotop
+sudo emerge -av iotop
+iotop 
+uname -a
+sensors
+hddtemp /dev/hda
+sudo hddtemp /dev/hda
+sudo hddtemp /dev/hda
+sudo emerge -av hddtemp
+hddtemp /dev/hda
+sudo hddtemp /dev/hda
+sensors
+sudo emerge -av lm_sensors
+acpi
+uname -a
+hostname
+uptime
+vi /etc/conf.d/
+ls
+vi .config/openbox/autostart.sh 
+vi .config/openbox/autostart.sh 
+uname -a
+cd /etc/
+ls -l profile.d
+ls -ld profile.d
+ls -ld make.profile
+cd make.profile/
+ls
+vi /etc/inittab 
+uname -a
+vi /etc/inittab 
+vi .bashrc
+vi .vimrc
+vi .vimrc
+vi /etc/pacman.conf
+uptime 
+w
+last
+last | most
+uname -a
+updatedb
+sudo updatedb
+iotop
+fg
+htop
+fg
+htop
+htop
+fg
+jobs
+bg 1
+jobs
+htop
+htop
+locate updatedb
+ps aux
+lspci -vt
+sudo lspci -vt
+eix zsh
+sudo emerge -av zsh zsh-completion
+myftp 
+ls -a
+vi .zshrc 
+chsh -h
+which zsh
+chsh -s /bin/zsh
+zsh
+sudo init 6

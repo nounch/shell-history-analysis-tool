@@ -1,0 +1,228 @@
+exit
+git config --global user.name "Hiroyuki MASUDA"
+git config --global user.email "hiroyuki.masuda@gmail.com"
+exit
+ls
+ssk-keygen
+ssk-keygen -t rsa
+ssh-keygen -t rsa
+ls
+ls -la
+rm -f yes
+rm -f yes.pub 
+ssh-keygen -t rsa -b 2048
+ls -la
+mv skr_id_rsa.pub .ssh/authorized_keys
+chmod 600 .ssh/authorized_keys 
+exit
+sudo su -
+exit
+sudo su -
+exit
+sudo su -
+sudo service denyhosts start
+chkconfig
+exit
+sudo su -
+sudo ufw status
+sudo ufw default deny
+sudo ufw allow 10022
+sudo ufw allow 80
+sudo ufw enable
+sudo ufw status
+sudo iptables -L
+sudo ufw app list
+ufw status verbose
+sudo ufw status verbose
+ls -la
+cd .ssh
+ls
+cat id_rsa
+ls -la
+rm -rf id_rsa id_rsa.pub 
+ls
+ls -la
+cd ..
+ssh-keygen
+ls -la
+ssh-keygen
+ls -la
+vi .ssh/authorized_keys 
+sudo ufw deny 80
+sudo less /etc/sudoers
+cd /etc/sudoers.d
+ls
+cat README 
+sudo cat README 
+sudo vi hiroyuki
+sudo su -
+cd
+sudo su -
+sudo ufw deny 80
+sudo ufw enable
+sudo iptables -L
+sudo ufw status
+sudo ufw disable
+sudo ufw default deny
+sudo ufw status
+sudo ufw allow 10022
+ls -la
+cd .ssh
+vi config
+ls
+mkdir github
+mv id_rsa* github/
+vi config
+cat github/id_rsa.pub 
+cd
+cat .gitconfig 
+cd
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3600'
+ls -la
+cd
+cd .ssh
+ls
+rm -rf github
+cd
+ssh-keygen -t rsa -C "hiroyuki.masuda@gmail.com"
+mkdir .ssh/github
+mv ~/.ssh/id_rsa* ~/.ssh/github/
+cat ~/.ssh/github/id_rsa.pub 
+ssh -T hmasuda@github.com
+vi ~/config
+cd
+vi /home/hiroyuki/.ssh/config 
+ssh github
+ssh -T github
+ssh -vT -i ~/.ssh/github/id_rsa hmasuda@github.com
+ssh-add -l
+ls -la
+cd .ssh
+ls
+cat known_hosts 
+rm -f known_hosts 
+cd ..
+history
+ssh -vT -i ~/.ssh/github/id_rsa hmasuda@github.com
+ssh -vT -p 443 -i ~/.ssh/github/id_rsa hmasuda@github.com
+vi config
+cd
+vi .ssh/config 
+rm -f .ssh/known_hosts 
+ssh github
+git config --global user.name "Hiroyuki Masuda"
+git config --global user.email hiroyuki.masuda@gmail.com
+cd
+mkdir dotfiles
+cd dotfiles
+git init
+touch README
+git add README
+git commit -m 'first commit'
+git remote add origin https://github.com/hmasuda/dotfiles.git
+git push -u origin master
+cd ..
+ls -la
+chsh
+which zsh
+apt-get install zsh
+sudo apt-get install zsh
+ls
+ls -la
+cd .cache/
+ls
+cat motd.legal-displayed 
+s -la
+ls -la
+cd ..
+ls
+ls -la
+cp -rp .ssh dotfiles/
+cd dotfiles/
+git push
+git status
+git add .ssh/
+git status
+git rm .ssh/known_hosts
+ls
+ls -la
+cd .ssh/
+ls
+rm -f known_hosts 
+ls
+cd ..
+git status
+git commit -m 'add ssh keys.'
+git status
+git commit -a
+cp -rp ~/.ssh/known_hosts .ssh/
+git status
+git rm .ssh/known_hosts
+git status
+ls -l .ssh/*
+git commit -a -m 'delete known_hosts'
+git status
+git push
+ls -la
+cd ..
+ls
+ls -la
+rm -rf dotfiles
+ls -la
+cd
+mkdir dotfiles
+cd dotfiles/
+git init
+touch README
+git add README
+git commit -m 'first commit'
+git remote add origin https://github.com/hmasuda/dotfiles.git
+git push -u origin master
+git update-server-info
+git push -u origin master
+git push
+ls
+cd ..
+ls
+rm -rf dotfiles/
+git clone https://github.com/hmasuda/dotfiles.git
+cd dotfiles/
+ls
+cat README.md 
+exit
+vi .gemrc
+cp -p .gemrc dotfiles/
+cd dotfiles/
+cp -rp ../.ssh/ .
+cd .ssh
+ls
+rm -f known_hosts 
+cat authorized_keys 
+cat config 
+cd github/
+ls
+rm -f id_rsa
+ls
+cd ..
+ls
+cd ..
+ls
+git status
+git add .gemrc .ssh/
+git status
+git commit -a -m 'add .gemrc and ssh files.'
+git push
+cd
+git clone https://github.com/hmasuda/hmasuda.github.com.git
+ls
+cd hmasuda.github.com/
+ls
+git clone git://github.com/imathis/octopress.git octopress
+cd
+sudo apt-get install git
+sudo apt-get install zlib1g-dev libssl-dev libreadline-dev libyaml-dev libxml2-dev libxslt-dev libsqlite3-dev g++
+rvm implode
+sudo apt-get install rbenv
+chsh
+exit

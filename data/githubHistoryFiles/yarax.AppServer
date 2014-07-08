@@ -1,0 +1,307 @@
+pwd
+ls
+cd cron/
+ls
+php recom_sync.php 
+cd ..
+ls
+ls
+cd Gentler/
+ls
+mkdir pama
+cd pama/
+ls
+wget http://downloads.sourceforge.net/project/phpmyadmin/phpMyAdmin/3.5.1/phpMyAdmin-3.5.1-all-languages.tar.gz?r=http%3A%2F%2Fwww.phpmyadmin.net%2Fhome_page%2Fdownloads.php&ts=1338120673&use_mirror=citylan
+ls
+ls -la
+tar xvz phpMyAdmin-3.5.1-all-languages.tar.gz\?r\=http\:%2F%2Fwww.phpmyadmin.net%2Fhome_page%2Fdownloads.php 
+tar -xvfz phpMyAdmin-3.5.1-all-languages.tar.gz\?r\=http\:%2F%2Fwww.phpmyadmin.net%2Fhome_page%2Fdownloads.php 
+tar -xvf phpMyAdmin-3.5.1-all-languages.tar.gz\?r\=http\:%2F%2Fwww.phpmyadmin.net%2Fhome_page%2Fdownloads.php 
+mv phpMyAdmin-3.5.1-all-languages.tar.gz\?r\=http\:%2F%2Fwww.phpmyadmin.net%2Fhome_page%2Fdownloads.php  p.tar.gz
+tar -xvf p.tar.gz 
+ls
+mv phpMyAdmin-3.5.1-all-languages/* ./
+ls
+rm phpMyAdmin-3.5.1-all-languages/
+rm -r phpMyAdmin-3.5.1-all-languages/
+rm p.tar.gz 
+ls
+vim config.sample.inc.php 
+mv config.sample.inc.php config.inc.php 
+ps ax | grep php
+ls
+cd ../../cron/
+ls
+vim log 
+php recom_sync.php 
+php recom_sync.php > log
+vim log 
+rm log 
+php recom_sync.php 
+php recom_sync.php > log
+vim log 
+php recom_sync.php > log
+tail log 
+rm log 
+crontab -e
+cd ..
+ls
+php launch.php /resources start
+ps ax | grep php
+exit
+ps ax | grep php
+kill 9495
+php launch.php /resources start
+ps ax | grep php
+ls
+cd logs/
+ls
+tail 27.05.12.log 
+less 27.05.12.log
+less 27.05.12.log 
+ls
+ls
+chmod -r 777 ./
+chmod -R 777 ./
+cd ../
+ls
+git status
+vim .gitignore 
+vim .gitignore 
+git add *
+git commit -a -m "make cron resources"
+git push origin master
+git push origin master
+ls
+ls -l
+ps ax | grep php
+mysql -uroot -pklaretokum85
+ls
+cd cron/
+ls
+php recom_sync.php 
+php recom_sync.php 
+mysql -uroot -pklaretokum85
+ls
+cd ..
+ls
+cd logs/
+ls
+tail 27.05.12.log 
+ls
+cd ,,
+cd ..
+ls
+php launch.php /resources start
+ps ax | grep php
+vim /var/www/h1.gentler.ru/www/Gentler/launch.php
+vim /var/www/h1.gentler.ru/www/
+ps ax | grep php
+php launch.php /resources start
+ps ax | grep php
+ps ax | grep php
+ps ax | grep php
+ps ax | grep php
+ps ax | grep php
+ps ax | grep php
+ps ax | grep php
+ps ax | grep php
+ps ax | grep php
+ps ax | grep php
+ps ax | grep php
+ls
+cd logs/
+ls
+tail 02.06.12.log 
+less 02.06.12.log 
+crontab -e
+ps ax | grep php
+php launch.php /resources start
+cd ..
+php launch.php /resources start
+cd log
+cd logs/
+tail 02.06.12.log 
+tail -f 02.06.12.log 
+cd ..
+ls
+ls -la
+git st
+git status
+git add *
+git ci -a -m "changes to ok daemon running"
+git commit -a -m "changes to ok daemon running"
+git config --global alias.ci commit
+git st
+vim ~/.gitconfig 
+git st
+git push origin master
+ls
+rm -rf .git
+git init
+git ci -a -m "first"
+git add *
+git ci -a -m "first"
+git remote add origin https://yarax@github.com/yarax/AppServer.git
+git push -u origin master
+ls ~/.git
+ls ~/.ssh
+ls
+tail -f logs/02.06.12.log 
+ls
+git remote add origin https://yarax@github.com/yarax/AppServer.git
+git push -u origin master
+rm -rf .git
+git init
+git add *
+git ci -a -m "first"
+git remote add origin https://yarax@github.com/yarax/AppServer.git
+git push -u origin master
+git st
+git add *
+ls
+git add .
+git ci -a -m "first"
+git push -u origin master
+vim ~/.gitconfig 
+ls
+ls -la
+vim .gitignore 
+vim .gitignore 
+ls
+tail -f logs/02.06.12.log 
+ls
+php launch.php walls start
+php launch.php walls start
+php launch.php walls start
+php launch.php walls start
+php launch.php walls start
+php launch.php walls start
+php launch.php walls start
+php launch.php walls start
+php launch.php walls start
+php launch.php walls start
+ps ax | grep php
+ps ax | grep php
+kill 19838
+ps ax | grep php
+crontab -e
+crontab -e
+crontab -e
+ps ax | grep php
+ls
+cd cron/
+php users_sync.php 
+ps ax | grep php
+kill 13098
+kill 14598
+kill 18954
+kill 18953
+ps ax | grep php
+ls
+git st
+git add Gentler/protected/controllers/ResourcesController.php
+git co launch.php 
+git ci -m "resourcescontroller sleep"
+git push origin master
+git st
+vim ./gitignore
+ls -la
+vim ./.gitignore
+vim ./.gitignore
+git co Gentler/protected/models/Resources.php
+git st
+git pull
+git co daemon-fix
+git rebase master
+git reset HEAD
+git st
+rm -rf Gentler/protected/runtime/*
+git st
+git add .
+git ci -a -m "clear"
+git push origin master
+git st
+git co daemon-fix
+git merge master
+git co master
+git pull
+vim Gentler/protected/models/Resources.php 
+git st
+vim ./.gitignore
+git ci -a -m "/dev/null"
+git push origin master
+ls
+php launch.php resources start
+ps ax | grep php
+vim /etc/nginx/sites-enabled/h1 
+ps ax | grep php
+ps ax | grep php
+vim /etc/nginx/sites-enabled/default 
+vim /etc/nginx/sites-enabled/h1 
+cd ~
+ls
+cd Gentler/
+ls
+pwd
+cp /etc/nginx/sites-enabled/h1 /etc/nginx/sites-enabled/ip
+sudo cp /etc/nginx/sites-enabled/h1 /etc/nginx/sites-enabled/ip
+sudo cp /etc/nginx/sites-enabled/h1 /etc/nginx/sites-enabled/ip
+sudo vim /etc/nginx/sites-enabled/ip
+sudo /etc/init.d/nginx restart
+sudo /etc/init.d/nginx restart
+sudo vim /etc/nginx/sites-enabled/ip
+sudo /etc/init.d/nginx restart
+sudo touch /var/log/nginx/hosts/ip/access.log
+sudo mkdir /var/log/nginx/hosts/ip
+chmod 777 /var/log/nginx/hosts/ip
+sudo chmod 777 /var/log/nginx/hosts/ip
+sudo /etc/init.d/nginx restart
+ls
+cd ../
+ls
+cd http/
+ls
+echo '' > index.php 
+vim index.php 
+php index.php 
+mysql -uroot
+mysql -uroot -pklaretokum85
+echo '' > index.php 
+vim index.php 
+php index.php 
+vim index.php 
+php index.php 
+mysql -uroot -pklaretokum85
+php -a
+ls
+echo '<? echo phpversion();?>' > index.php 
+php index.php 
+mysql -uroot -pklaretokum85
+ls
+ls
+ps ax | grep php
+ls
+ls logs/
+ls
+tail logs/10.06.12.log 
+ps ax | grep php
+ls
+cd cron/
+ls
+vim users_sync.php 
+ls
+php is_resources_launched.php 
+php is_resources_launched.php 
+ls
+cd .
+cd ..
+ls
+php launch.php resources start
+ps ax | grep php
+php is_resources_launched.php 
+ls
+cd cron/
+php is_resources_launched.php 
+kill 8924
+php is_resources_launched.php 

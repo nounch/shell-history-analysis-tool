@@ -1,0 +1,998 @@
+cd Downloads/
+#1325591557
+ls -lah natgeo200*
+#1325591569
+chmod a+x natgeo200* && cp natgeo200* /home/19219948869/scripts/
+#1325591573
+mkdir natgeo
+#1325591575
+cd natgeo/
+#1325591587
+natgeo2009.sh && natgeo2008.sh
+#1325592345
+natgeo2008.sh
+#1325593911
+cd ..
+#1325593914
+ls -lah *rar
+#1325593919
+unrar x Wallpaper\ HD\ on\ blog.sckyzo.com.rar 
+#1325593961
+cp -Rvf Wallpaper\ HD natgeo /home/19219948869/Documentos/Imagens/Wallpapers/
+#1325593969
+move_diversos 
+#1325598603
+ls -lah
+#1325598608
+file img
+#1325598613
+mv img w270.jpg
+#1325598770
+ls -lah
+#1325600217
+gwenview TimelineCelularFabio.png 
+#1325600277
+cp TimelineCelularFabio.png /media/ECA7-18EA/
+#1325600289
+move_diversos 
+#1325609420
+dmesg
+#1325609473
+dmesg
+#1325609492
+sudo mkfs.vfat -In FabioPen /dev/sdc
+#1325609506
+mount
+#1325609548
+mount
+#1325609557
+sudo umount /dev/sdc
+#1325609560
+sudo mkfs.vfat -In FabioPen /dev/sdc
+#1325609576
+sync
+#1325609603
+sudo umount /dev/sdc
+#1325609607
+sudo mkfs.vfat -In FabioPen /dev/sdc
+#1325609612
+sync
+#1325609761
+sudo umount /dev/sdc
+#1325609763
+sudo mkfs.vfat -In FabioPen /dev/sdc
+#1325611822
+move_diversos 
+#1325613256
+move_diversos 
+#1325616958
+move_diversos 
+#1325674224
+cd /home/19219948869/Documentos/Personal/102_FUJI/
+#1325674227
+thumbs_gen_ng -c 4 -vfn 'Teste da FujiFilm Finepix S2950'
+#1325675383
+cd
+#1325675385
+move_diversos 
+#1325675477
+relat.sh 
+#1325675909
+relat.sh 
+#1325679986
+move_diversos 
+#1325684945
+killall firefox-bin 
+#1325684950
+cd Documentos/
+#1325684953
+move_diversos 
+#1325684958
+fullbackup 
+#1325685042
+rm serprofull20120104.tar.bz2 
+#1325685045
+cd Personal/
+#1325685048
+fullbackup 
+#1325685685
+cd
+#1325685689
+ncdu -x
+#1325685725
+ls -lah Documentos/Personal/serprofull20120104.tar.bz2 
+#1325760963
+relat.sh
+#1325762863
+df -h
+#1325763837
+df -h
+#1325763838
+df -h
+#1325765758
+rm -rvf Documentos/Personal/Diversos/
+#1325765761
+rm -rvf Documentos/Personal/Diversos/*
+#1325765773
+ncdu -x
+#1325778433
+move_diversos 
+#1325778439
+rm -rvf Documentos/Personal/Diversos/*
+#1325784174
+move_diversos 
+#1325784187
+kpdf '/media/FabioPen___/Diversos/Vol 5-3Cami.pdf'
+#1325784192
+okular '/media/FabioPen___/Diversos/Vol 5-3Cami.pdf'
+#1325784518
+killall firefox-bin
+#1325785883
+killall firefox-bin
+#1325785886
+move_diversos 
+#1325786307
+ls -lah Documentos/CADSINC/K3300.P10745PT.CADSINC
+#1325786386
+ls -lah Documentos/NovoEX-Mercante/
+#1325789942
+ls -lah extension/
+#1325789973
+cd Documentos/Personal/Diversos/
+#1325790000
+fullbackup 
+#1325845234
+df -h
+#1325845247
+df -h
+#1325845253
+df -h
+#1325845254
+df -h
+#1325845269
+df -h
+#1325845271
+df -h
+#1325845272
+df -h
+#1325845275
+df -h
+#1325845298
+df -h
+#1325845299
+df -h
+#1325845310
+df -h
+#1325845317
+sudo umount /media/FabioPen_
+#1325845339
+sudo mkfs.vfat -In FabioPen /dev/sde
+#1325845377
+df -h
+#1325845388
+cd ..
+#1325845389
+cd ..
+#1325845393
+cd Personal/
+#1325845398
+cp -Rvf 102_FUJI/ /media/FabioPen/
+#1325847067
+sync
+#1325847075
+df -h
+#1325847133
+dmesg
+#1325847378
+movdf -h
+#1325847382
+df -h
+#1325847384
+move_diversos 
+#1325847730
+cp -Rvf Diversos/ /media/FabioPen/
+#1325848291
+cp -Rvf Diversos/ /media/FabioPen/
+#1325848322
+cp -Rvf Diversos/ /media/FabioPen/
+#1325848497
+rm /media/FabioPen/Diversos/serprofull20120105.tar.bz2
+#1325848522
+move_diversos 
+#1325849762
+du -h /home/19219948869/Documentos/Imagens/Wallpapers/
+#1325849774
+cp -Rvf /home/19219948869/Documentos/Imagens/Wallpapers/ .
+#1325849814
+move_diversos 
+#1325849820
+mv Wallpapers/ Diversos/
+#1325849821
+move_diversos 
+#1325853109
+move_diversos 
+#1325853123
+cd Diversos/
+#1325853151
+wget -c http://www.japanator.com/elephant//ul/18404-/1296341223099-800x.jpg http://www.tumblr.com/photo/1280/3032274265/1/tumblr_lfwc98yuip1qb8lgb http://24.media.tumblr.com/tumblr_lk4ehm27pX1qb8lgbo1_500.jpg 
+#1325853168
+wget -c http://media.tumblr.com/tumblr_lrhbyqAj541qamhyd.jpg
+#1325853204
+move_diversos 
+#1325854392
+move_diversos 
+#1325857247
+move_diversos 
+#1325864456
+move_diversos 
+#1327950116
+df -h
+#1328185332
+lsusb
+#1328267346
+sudo aptitude install easytab
+#1328267349
+sudo aptitude install easytag
+#1328268195
+relat.sh 
+#1328271823
+move_diversos 
+#1328273988
+cd Downloads/
+#1328273994
+ls -lah
+#1328274029
+mkdir superoneclick
+#1328274031
+cd superoneclick/
+#1328274035
+unzip ../SuperOneClickv2.3.3-ShortFuse.zip 
+#1328274053
+mono SuperOneClick.exe 
+#1328274114
+ls- lah
+#1328274117
+ls -lah
+#1328274119
+cd ADB/
+#1328274129
+ls -lah
+#1328274138
+chmod a+X adblinux 
+#1328274140
+ls -lah
+#1328274143
+chmod a+X adblinux 
+#1328274146
+chmod a+x adblinux 
+#1328274147
+ls -lah
+#1328274153
+./adblinux devices
+#1328274192
+find .. -iname 'psneuter*'
+#1328274213
+mv adblinux /home/19219948869/scripts/
+#1328274216
+cd ../Exploits/
+#1328274218
+ls -lah
+#1328274332
+cd ../
+#1328274333
+cd ..
+#1328274335
+ls -lah
+#1328274517
+unzip zergRush_automated_Linux_root.zip 
+#1328274522
+cd zergRush_automated_Linux_root/
+#1328274539
+./runme-linux 
+#1327921895
+cd Downloads/
+#1327921896
+ls -lah
+#1327921949
+for i in `seq -w 29`; do wget http://publimetro.band.com.br/pdf/201201$i_MetroABC.pdf http://publimetro.band.com.br/pdf/201201$i_MetroSaoPaulo.pdf ; done
+#1327921971
+for i in `seq -w 29`; do wget http://publimetro.band.com.br/pdf/201201${i}_MetroABC.pdf http://publimetro.band.com.br/pdf/201201${i}_MetroSaoPaulo.pdf ; done
+#1327922133
+move_diversos 
+#1327929199
+killall firefox-bin
+#1327932085
+fullbackup && move_diversos 
+#1327938079
+df -h
+#1327938530
+cp -Rvf /home/19219948869/Documentos/Imagens/Wallpapers/ ~/fonts . && move_diversos 
+#1327938749
+cp -Rvf /home/19219948869/Documentos/Imagens/Wallpapers/ ~/.fonts . && move_diversos 
+#1327938838
+wget -c http://www.dicas-l.com.br/download/download/Linux_dicas_e_truques.pdf
+#1327938844
+wget -c http://www.dicas-l.com.br/download/Linux_dicas_e_truques.pdf
+#1327938876
+cp -Rvf /home/19219948869/Documentos/Imagens/Wallpapers/ ~/.fonts . && move_diversos 
+#1327944039
+df -h
+#1327944042
+cd ..
+#1327944051
+find . -mount -iname '*odp'
+#1327944064
+Software_Livre_-_Mitos_e_Verdades[2781].odp
+#1327944075
+cp ./.mozilla/firefox/cnl907mh.default/Google Gears for Firefox/expresso.serpro.gov.br/https_443/test-store[2]#localserver/77/Software_Livre_-_Mitos_e_Verdades[2781].odp
+#1327944078
+cp ./.mozilla/firefox/cnl907mh.default/Google Gears for Firefox/expresso.serpro.gov.br/https_443/test-store[2]#localserver/77/Software_Livre_-_Mitos_e_Verdades[2781].odp .
+#1327944083
+cp './.mozilla/firefox/cnl907mh.default/Google Gears for Firefox/expresso.serpro.gov.br/https_443/test-store[2]#localserver/77/Software_Livre_-_Mitos_e_Verdades[2781].odp' .
+#1327944091
+mv Software_Livre_-_Mitos_e_Verdades\[2781\].odp Software_Livre_-_Mitos_e_Verdades.odp 
+#1327946691
+cd Downloads/
+#1327946694
+wget -c http://www.revista.espiritolivre.org/wp-content/plugins/download-monitor/download.php?id=33
+#1327949880
+mv download.php\?id\=33 RevistaEspiritoLivre33.pdf
+#1327949887
+okular RevistaEspiritoLivre33.pdf 
+#1327949947
+bg %1;
+#1327949952
+move_diversos 
+#1328006664
+relat.sh
+#1328007508
+move_diversos 
+#1328008932
+relat.sh
+#1328013764
+move_diversos 
+#1328013980
+move_diversos 
+#1328017969
+find /media/ -iname '*listen*'
+#1328029117
+move_diversos 
+#1328033878
+move_diversos 
+#1328035908
+move_diversos 
+#1328095613
+relat.sh
+#1328095843
+dmesg
+#1328096623
+df -h
+#1328096636
+rm -rvf /media/603B-9705/Férias2012/
+#1328096641
+df -h
+#1328096886
+pw3270 &
+#1328097861
+relat.sh
+#1328098961
+killall firefox-bin
+#1328098962
+killall firefox
+#1328098965
+killall firefox-bin
+#1328098966
+killall firefox-bin
+#1328099555
+move_diversos 
+#1328099649
+move_diversos 
+#1328101531
+pw3270 &
+#1328112628
+df -h
+#1328112656
+move_diversos 
+#1328114592
+move_diversos 
+#1328122571
+move_diversos 
+#1328179526
+wget -c http://publimetro.band.com.br/pdf/20120201_MetroABC.pdf http://publimetro.band.com.br/pdf/20120201_MetroSaoPaulo.pdf http://publimetro.band.com.br/pdf/20120202_MetroABC.pdf
+#1328180319
+relat.sh
+#1328183179
+relat.sh
+#1328184047
+ls -lah
+#1328184051
+cd 
+#1328184059
+unzip Downloads/rkflashtool-v2.zip 
+#1328184074
+sudo apt-get install libusb-1.0-0-dev
+#1328184090
+gcc -o rkflashtool rkflashtool.c -lusb-1.0 -O2 -W -Wall -s
+#1328184104
+mv rkflashtool scripts/
+#1328184698
+rkflashtool 
+#1328184903
+rm rkflashtool.c 
+#1328185276
+lsusb
+#1328185306
+dmesg
+#1328185310
+dmesg
+#1328185313
+lsusb
+#1328185393
+lsusb
+#1328185412
+lsusb
+#1328185485
+cd Downloads/
+#1328185487
+ls -lah
+#1328185567
+lsusb
+#1328185573
+dmesg
+#1328185578
+lsusb
+#1328185590
+tar xvzf Backup-Genesis7104-rkflashtool.tar.gz 
+#1328185603
+rkflashtool w 0x00000 0x8e000 < Backup-Genesis7104-rkflashtool.img
+#1328185607
+sudo rkflashtool w 0x00000 0x8e000 < Backup-Genesis7104-rkflashtool.img
+#1328185631
+sudo chmod a+rw /dev/bus/usb/001/070
+#1328185633
+rkflashtool w 0x00000 0x8e000 < Backup-Genesis7104-rkflashtool.img
+#1328185777
+rkflashtool b
+#1328185825
+move_diversos 
+#1328185874
+move_diversos 
+#1328190060
+move_diversos 
+#1328199065
+move_diversos 
+#1328202479
+move_diversos 
+#1328207644
+move_diversos 
+#1328266439
+wget -c http://publimetro.band.com.br/pdf/20120203_MetroABC.pdf
+#1328266759
+relat.sh
+#1328267322
+mkdir podcast
+#1328267328
+cp *mp3 podcast/
+#1328267655
+mv podcast/ /home/19219948869/Documentos/Personal/
+#1328273107
+df -h
+#1328273154
+sync
+#1328273337
+ls -lah /media/CartaoTab/podcast/
+#1328273338
+ls -lah /media/CartaoTab/podcast/
+#1328273340
+ls -lah /media/CartaoTab/podcast/
+#1328273341
+ls -lah /media/CartaoTab/podcast/
+#1328273342
+ls -lah /media/CartaoTab/podcast/
+#1328273343
+ls -lah /media/CartaoTab/podcast/
+#1328273343
+ls -lah /media/CartaoTab/podcast/
+#1328273350
+ls -lah /media/CartaoTab/podcast/
+#1328273351
+ls -lah /media/CartaoTab/podcast/
+#1328273351
+ls -lah /media/CartaoTab/podcast/
+#1328273352
+ls -lah /media/CartaoTab/podcast/
+#1328185344
+dmesag
+#1328185346
+dmesg
+#1328273250
+dmesg
+#1328273253
+dmesg
+#1328273270
+cp -Rvf Documentos/Personal/podcast/ /media/CartaoTab/
+#1328274603
+cd Downloads/
+#1328274606
+cd zergRush_automated_Linux_root/
+#1328274612
+runme
+#1328274615
+./runme
+#1328274619
+ls -lah
+#1328274622
+./runme-linux 
+#1328274788
+cd
+#1328274790
+move_diversos 
+#1328274977
+find . -mount -iname '*zOS*'
+#1328274985
+cp -Rvf Redbooks/ /media/ROCK-CHIPS/
+#1328283306
+move_diversos 
+#1328283601
+move_diversos 
+#1328287074
+move_diversos 
+#1328287082
+killall firefox-bin
+#1328290755
+move_diversos 
+#1328294306
+move_diversos 
+#1328294849
+move_diversos 
+#1328295641
+move_diversos 
+dcast/
+#1328273350
+ls -lah /media/CartaoTab/podcast/
+#1328273351
+ls -lah /media/CartaoTab/podcast/
+#1328273351
+ls -lah /media/CartaoTab/podcast/
+#1328273352
+ls -lah /media/CartaoTab/podcast/
+#1328274696
+adb devices
+#1328274704
+adblinux devices
+#1328524988
+relat.sh
+#1328525211
+du -h Downloads/
+#1328525218
+du -h --max-depth=1 Downloads/
+#1328525223
+watch -d du -h --max-depth=1 Downloads/
+#1328525627
+Z
+#1328613552
+exsit
+#1328613553
+exit
+#1328613554
+exit
+#1328524059
+cd Downloads/
+#1328524066
+wget -c http://publimetro.band.com.br/pdf/20120206_MetroABC.pdf
+#1328524236
+dmes
+#1328524237
+dmesg
+#1328524240
+dmesg
+#1328524951
+df -h
+#1328524965
+cp -Rvf /media/CartaoTab/ /media/ROCK-CHIPS/ .
+#1328525701
+cd CartaoTab/
+#1328525706
+cd ..
+#1328525708
+cd CartaoTab/
+#1328525711
+mkdir ePubs
+#1328525733
+find . -iname '*epub' -exec mv -vf {} ~/Downloads/CartaoTab/ePubs/ \;
+#1328525764
+cp -Rvf /media/7072-6B24/download/ /media/7072-6B24/temp/ .
+#1328525773
+sync
+#1328525777
+mount
+#1328525808
+mv ../ROCK-CHIPS/VLC-noneon.apk  .
+#1328525815
+mv ../ROCK-CHIPS/download/  .
+#1328525819
+mv -vf ../ROCK-CHIPS/download/  .
+#1328525823
+cp -Rvf ../ROCK-CHIPS/download/  .
+#1328525831
+cp -Rvf ../ROCK-CHIPS/temp/  .
+#1328525840
+rm -rvf ../ROCK-CHIPS/temp/ 
+#1328525843
+rm -rvf ../ROCK-CHIPS/download/
+#1328525845
+sync
+#1328525848
+ls -lah
+#1328525849
+cd ..
+#1328525851
+ls -lah
+#1328525853
+mount
+#1328525918
+mount
+#1328525924
+sudo umount /dev/sdg
+#1328525945
+sudo mkfs.vfat -In CartaoTab /dev/sdg
+#1328525998
+mount
+#1328526004
+cd CartaoTab/
+#1328526012
+mv -vf . /media/CartaoTab/
+#1328526020
+cp -Rvf . /media/CartaoTab/
+#1328529714
+cd ..
+#1328529716
+du -h
+#1328529719
+df -h
+#1328529726
+du -h --max-depth=1
+#1328529734
+rm CartaoTab/Música/
+#1328529738
+rm -rvf CartaoTab/Música/
+#1328529749
+du -h --max-depth=1
+#1328529754
+du -h --max-depth=1 CartaoTab/
+#1328529768
+rm -rvf CartaoTab/temp/
+#1328529770
+du -h --max-depth=1 CartaoTab/
+#1328529783
+rm -rvf CartaoTab/eBooks/
+#1328529786
+du -h --max-depth=1 CartaoTab/
+#1328529800
+rm -rvf CartaoTab/Android/
+#1328529802
+du -h --max-depth=1 CartaoTab/
+#1328533568
+find /media/ -iname '*aldiko*'
+#1328533579
+rm -rvf /media/ROCK-CHIPS/Android/data/com.aldiko.android
+#1328533589
+rm -rvf /media/CartaoTab/eBooks/
+#1328533601
+ls -lah /media/CartaoTab/ePubs/
+#1328533612
+cp Open-Advice.pdf /media/CartaoTab/
+#1328533619
+cp Open-Advice.pdf /media/ROCK-CHIPS/
+#1328533621
+sync
+#1328536447
+rm -rvf /media/ROCK-CHIPS/Android/data/com.aldiko.android
+#1328536453
+rm -rvf /media/CartaoTab/eBooks/
+#1328536456
+rm -rvf /media/CartaoTab/eBooks/
+#1328536463
+mount
+#1328537216
+mount
+#1328542336
+fullbackup && move_diversos 
+#1328542526
+fullbackup
+#1328543769
+move_diversos 
+#1328551886
+df -h
+#1328552059
+df -h
+#1328554608
+move_diversos 
+#1328611585
+relat.sh
+#1328612516
+relat.sh
+#1328612967
+find /media/ -iname '*aldiko*'
+#1328612989
+find /media/ -iname '*adobe*'
+#1328613000
+rm -rvf /media/CartaoTab/.adobe-digital-editions
+#1328613005
+ls -lah /media/CartaoTab/adobe
+#1328613009
+ls -lah /media/CartaoTab/adobe/psmobile/
+#1328613015
+ls -lah /media/CartaoTab/Digital\ Editions/
+#1328613020
+rm -rvf /media/CartaoTab/Digital\ Editions/
+#1328613031
+ls -lah /media/CartaoTab/eBooks/
+#1328613054
+find /media/CartaoTab/eBooks/ -iname '^*adobe*'
+#1328613059
+find /media/CartaoTab/eBooks/ -iname '^*epub'
+#1328613061
+find /media/CartaoTab/eBooks/ -iname '*epub'
+#1328613156
+cp CPBR5___Inaugura__o_Campus_Party_Brasil_2012.mp4 /media/CartaoTab/Video/
+#1328614301
+cp CPBR5___Inaugura__o_Campus_Party_Brasil_2012.mp4 /media/CartaoTab/Video/
+#1328614315
+mount
+#1328614320
+sudo umount /dev/sdg
+#1328614334
+sudo fsck.vfat -a /dev/sdg
+#1328614362
+cp CPBR5___Inaugura__o_Campus_Party_Brasil_2012.mp4 /media/CartaoTab/Video/
+#1328619037
+df -h
+#1328620289
+df -h
+#1328620292
+move_diversos 
+#1328640004
+move_diversos 
+#1328785725
+relat.sh
+#1328785878
+wget -c http://publimetro.band.com.br/pdf/20120209_MetroSaoPaulo.pdf http://publimetro.band.com.br/pdf/20120208_MetroSaoPaulo.pdf http://publimetro.band.com.br/pdf/20120209_MetroABC.pdf http://publimetro.band.com.br/pdf/20120208_MetroABC.pdf
+#1328789019
+relat.sh
+#1328790767
+relat.sh
+#1328805830
+move_diversos 
+#1328805975
+killall firefox-bin
+#1328805977
+killall firefox
+#1328805978
+killall firefox
+#1328805979
+killall firefox-bin
+#1328809028
+dmesg
+#1328809052
+dmesg
+#1328809083
+sudo mount -o users /mnt /dev/sdh
+#1328809732
+cp castalio-podcast-29.mp3 /media/CartaoTab/Podcasts/
+#1328810344
+df -h
+#1328810347
+
+#1328810354
+df -h
+#1328810437
+df -h
+#1328810470
+cp castalio-podcast-29.mp3 /media/CartaoTab/Podcasts/
+#1328810905
+ls lah /media/CartaoTab/Podcasts/AndroidCast/
+#1328810909
+ls lah /media/CartaoTab/Podcasts/AndroidCast/
+#1328810915
+ls -lah /media/CartaoTab/Podcasts/AndroidCast/
+#1328810916
+ls -lah /media/CartaoTab/Podcasts/AndroidCast/
+#1328810921
+watch -d ls -lah /media/CartaoTab/Podcasts/AndroidCast/
+#1328870010
+wget -c http://publimetro.band.com.br/pdf/20120209_MetroSaoPaulo.pdf http://publimetro.band.com.br/pdf/20120208_MetroSaoPaulo.pdf http://publimetro.band.com.br/pdf/20120209_MetroABC.pdf http://publimetro.band.com.br/pdf/20120208_MetroABC.pdf
+#1328870173
+relat.sh
+#1328870239
+wget -c http://publimetro.band.com.br/pdf/20120210_MetroSaoPaulo.pdf http://publimetro.band.com.br/pdf/20120210_MetroABC.pdf
+#1328872520
+relat.sh
+#1328872525
+wget -c http://publimetro.band.com.br/pdf/20120210_MetroSaoPaulo.pdf http://publimetro.band.com.br/pdf/20120210_MetroABC.pdf
+#1328873425
+cp -Rvf /media/CartaoTab/Podcasts/ .
+#1328873490
+relat.sh
+#1328873507
+move_diversos 
+#1328873517
+move_diversos 
+#1328881162
+move_diversos 
+#1328882469
+move_diversos 
+#1328882487
+move_diversos 
+#1328882524
+ls -lah /home/19219948869/Documentos/Personal/Diversos/
+#1328882525
+ls -lah /home/19219948869/Documentos/Personal/Diversos/
+#1328882531
+watch -d -ls  /home/19219948869/Documentos/Personal/Diversos/
+#1328882535
+watch -d ls /home/19219948869/Documentos/Personal/Diversos/
+#1328882540
+watch -d ls -l /home/19219948869/Documentos/Personal/Diversos/
+#1328882566
+wget -c http://se25.onlinevideoconverter.com/download.aspx?ext=winmp4&file=downloads\3bf61ae7bf1047d1bf740baa1882527b.mp4&dest=CPBR5%20%20%20EPub%20%20Padr%20o%20aberto%20para%20livros%20eletr%20nicos
+#1328882576
+wget -c 'http://se25.onlinevideoconverter.com/download.aspx?ext=winmp4&file=downloads\3bf61ae7bf1047d1bf740baa1882527b.mp4&dest=CPBR5%20%20%20EPub%20%20Padr%20o%20aberto%20para%20livros%20eletr%20nicos'
+#1328883191
+mv download.aspx\?ext\=winmp4\&file\=downloads\\3bf61ae7bf1047d1bf740baa1882527b.mp4\&dest\=CPBR5\ \ \ EPub\ \ Padr\ o\ aberto\ para\ livros\ eletr\ nicos CPBR5-ePub\ Padrão\ Aberto.mp4
+#1328889995
+move_diversos 
+#1328896589
+move_diversos 
+#1328525611
+ls -lah Downloads/CartaoTab/download/
+#1328525620
+mc
+#1328527503
+watch -d df -h
+#1328542348
+find /media -iname '*epub'
+#1328542396
+mv -vf /media/CartaoTab/ePubs/ Documentos/Personal/
+#1328542564
+find /media -iname '*imperador*'
+#1328542569
+find /media -iname '*imperador*'
+#1328544927
+df -h
+#1328545105
+df -h
+#1328545105
+df -h
+#1328546308
+df -h
+#1328546608
+df -h
+#1328548872
+cd Downloads/
+#1328548874
+ls -lah
+#1328548895
+wget http://pages.nxtbook.com/nxtbooks/ibmsystemsmag/mainframe_20111112/offline/ibmsystemsmag_mainframe_20111112.pdf
+#1328549034
+wget http://pages.nxtbook.com/nxtbooks/ibmsystemsmag/mainframe_20110910/offline/ibmsystemsmag_mainframe_20110910.pdf
+#1328551643
+wget http://pages.nxtbook.com/nxtbooks/ibmsystemsmag/mainframe_20110910/offline/ibmsystemsmag_mainframe_20110708.pdf
+#1328551649
+wget http://pages.nxtbook.com/nxtbooks/ibmsystemsmag/mainframe_20110708/offline/ibmsystemsmag_mainframe_20110708.pdf
+#1328551871
+wget http://pages.nxtbook.com/nxtbooks/ibmsystemsmag/mainframe_20110708/offline/ibmsystemsmag_mainframe_20110506.pdf
+#1328551879
+wget http://pages.nxtbook.com/nxtbooks/ibmsystemsmag/mainframe_20110506/offline/ibmsystemsmag_mainframe_20110506.pdf
+#1328552073
+wget http://pages.nxtbook.com/nxtbooks/ibmsystemsmag/mainframe_20110304/offline/ibmsystemsmag_mainframe_20110304.pdf
+#1328552238
+wget http://pages.nxtbook.com/nxtbooks/ibmsystemsmag/mainframe_20110102/offline/ibmsystemsmag_mainframe_20110102.pdf
+#1328552593
+wget http://pages.nxtbook.com/nxtbooks/ibmsystemsmag/mainframe_20101112/offline/ibmsystemsmag_mainframe_20101112.pdf
+#1328552620
+mkdir ~/IBM\ Systems\ Magazine\ -\ Mainframe
+#1328552629
+cp *pdf /home/19219948869/IBM\ Systems\ Magazine\ -\ Mainframe/
+#1328552634
+move_diversos 
+#1328553749
+mv anexos.zip /home/19219948869/Desktop/cadsinc.zip
+#1328553752
+cd /home/19219948869/Desktop/
+#1328553755
+unzip cadsinc.zip 
+#1328553761
+okular Planejamento\ de\ Capacidade\ _\ CadSincNac.pdf 
+#1328613504
+watch -d ls -la /media/CartaoTab/Video/CPBR5___Inaugura__o_Campus_Party_Brasil_2012.mp4 
+#1328613529
+sync
+#1328810050
+ls -lah /home/19219948869/Downloads/
+#1328810070
+ls -lah /media/CartaoTab/Podcasts/
+#1328810074
+ls -lah /media/CartaoTab/Podcasts/castalio-podcast-29.mp3 
+#1328810154
+ls -lah /media/CartaoTab/Podcasts/castalio-podcast-29.mp3 
+#1328810157
+sync
+#1328810477
+ls -lah /media/CartaoTab/Podcasts/castalio-podcast-29.mp3 
+#1328810478
+ls -lah /media/CartaoTab/Podcasts/castalio-podcast-29.mp3 
+#1328813182
+cd ../Downloads/
+#1328813189
+wget -c http://www.combustionbooks.org/downloads/spm7-printing.pdf
+#1328890520
+df -h
+#1328890539
+rm '"/media/FabioPen/Diversos/CPBR5 - Hackerspaces e a cultura hacker - YouTube.MP4'
+#1328890545
+rm '/media/FabioPen/Diversos/CPBR5 - Hackerspaces e a cultura hacker - YouTube.MP4'
+#1328890578
+find /media/ -iname 'CPBR5-ePub Padrão Aberto.mp4'
+#1328890593
+find /media/ -iname 'CPBR5-ePub Padrão Aberto.mp4' -exec rm -vf {} \;
+#1328890599
+df -h
+#1328890695
+find /media/ -iname 'serprofull'
+#1328890697
+find /media/ -iname 'serprofull*'
+#1328890709
+find /media/ -iname 'serprofull*' -exec rm -vf {} \;
+#1328891069
+df -h
+#1328891262
+df -h
+#1328891271
+find /media/ -iname 'CPBR5-ePub Padrão Aberto.mp4' -exec rm -vf {} \;
+#1328891283
+df -h
+#1328892588
+wget -c http://s5.onlinevideoconverter.com/download.aspx?ext=winmp4&file=downloads\c41b6987405f412aa9df64088738a132.mp4&dest=CPBR5%20%20%20VJing%20com%20softwares%20livres
+#1328892593
+wget -c 'http://s5.onlinevideoconverter.com/download.aspx?ext=winmp4&file=downloads\c41b6987405f412aa9df64088738a132.mp4&dest=CPBR5%20%20%20VJing%20com%20softwares%20livres'
+#1328895440
+mv download.aspx\?ext\=winmp4\&file\=downloads\\c41b6987405f412aa9df64088738a132.mp4\&dest\=CPBR5\ \ \ VJing\ com\ softwares\ livres CPBR5\ \ \ VJing\ com\ softwares\ livres.mp4
+#1328895442
+ls -lah
+#1328896292
+ls -lah
+#1328613555
+watch -d ls -la /media/CartaoTab/Video/CPBR5___Inaugura__o_Campus_Party_Brasil_2012.mp4 
+#1328810166
+lsusb
+#1328810191
+lsusb 1d6b:0002
+#1328810195
+lsusb -s 1d6b:0002
+#1328810210
+lsusb 0bb4:0002
+#1328810220
+lsusb -s 0bb4:0002
+#1328810223
+lsusb -t
+#1328810250
+lsusb -t
+#1328811165
+df -h
+#1328811279
+df -h
+#1328811299
+cp -Rvf /media/CartaoTab/Podcasts/ Downloads/
+#1328811441
+sync
+#1328811503
+dmesg
+#1328811548
+move_diversos 
+#1328814057
+rm -rvf /media/FABIOPEN___/Diversos/Podcasts/Castálio Podcast/
+#1328869991
+wget -c http://publimetro.band.com.br/pdf/20120203_MetroABC.pdf
+#1328870003
+rm 20120203_MetroABC.pdf 

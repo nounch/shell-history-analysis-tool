@@ -1,0 +1,137 @@
+sl
+sudo gedit /etc/apt/sources.list
+sudo apt-get update
+sudo gedit /etc/apt/sources.list
+sudo apt-get update
+ifconfig
+service network restart
+sudo apt-get update
+sudo apt-get upgrade
+ls
+rm -rf vmware-tools-distrib/
+rm VMwareTools-9.2.2-893683.tar.gz 
+ls
+sudo apt-get install cmake cmake-gui
+cmake
+cmake-gui
+sudo apt-get install filezilla
+sudo apt-get install chromium-browser
+apt-cache search mysql-server
+sudo apt-get -y install mysql-server-5.5
+mysql -u root -p1234
+sudo apt-get -y install phpmyadmin
+ls
+./jdk-6u38-linux-x64.bin 
+ls
+sudo mv jdk1.6.0_38 /usr/share
+java
+sudo gedit /etc/profile
+java -version
+apt-cache search emacs
+emacs
+sudo apt-get install emacs23
+sudo apt-get install git
+sudo apt-get update
+sudo apt-get upgrade
+sudo service ssh restart
+ifconfig
+vim
+vi
+sudo apt-get -y install vim
+vim
+sudo apt-get update
+sudo apt-get install git
+sudo apt-get install curl
+java
+ls
+sudo gedit /etc/profile
+source /etc/profile
+ls
+top
+curl -L get.rvm.io | bash -s stable
+ls
+source ~/.rvm/scripts/rvm
+rvm requirements
+sudo apt-get -y install bash curl git patch bzip2 build-essential openssl libreadline6 libreadline6-dev curl git-core zlib1g zlib1g-dev libssl-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt-dev autoconf libc6-dev libgdbm-dev ncurses-dev automake libtool bison subversion pkg-config libffi-dev curl g++ 
+sudo apt-add-repository ppa:chris-lea/node.js
+sudo apt-get update
+sudo apt-get install nodejs
+rvm install 1.9.3
+ruby -v
+gem install rails
+rails -v
+ls
+rails new hello
+ls
+cd hello/
+ls
+rails s
+ls
+cd ..
+ls
+rm -rf hello/
+ls
+git
+ls
+ls
+ls
+rails new hello
+ls
+ls
+ls
+cd vmware-tools-distrib/
+ls
+sodu ./vmware-install.pl 
+sudo ./vmware-install.pl 
+ls
+ifconfig
+service network restart
+ls
+service network  restart
+ls
+ruby -v
+ which gem
+mkdir  rails projects
+cd  rails projects
+mkdir rails projects
+cd  rails_projects
+mkdir  rails_projects
+mkdir rails_projects
+cd rails_projects
+ rails new first_app
+bundle show [gemname]
+cd first app
+cd first_app
+subl Gemfile
+ls
+subl Gemfile
+..
+cd ..
+cd  cd first_app/
+cd first_app/
+ subl Gemfile
+ bundle install
+ bundle install
+ bundle install
+rails server
+cd ..
+cd ...
+cd ..
+cd ..
+ git config
+ git config --global user.name
+ git config --global user.name "ChengYan"
+git config --global
+ls
+cd rails 
+ls
+cd rails_projects
+ git config --global user.name
+ git config --global user.email
+cd::
+\cd >>
+cd ..
+cd ..
+ git config --global user.email zqalyc@163.com
+git init
+.gitignore

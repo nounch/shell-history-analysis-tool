@@ -1,0 +1,32 @@
+ls
+pwd
+ls
+mkdir ci02
+ls
+ls
+cd ci01
+ls
+ls
+cd ..
+ls
+cd ci02
+ls
+cd ci01
+cd ..
+cd ci01
+ls
+ls
+su root
+ls
+ls -l
+mkdir ci02
+ls
+cd ci02
+ls
+exit
+ls
+pwd
+ls
+ifconfig
+ipconfig
+su root

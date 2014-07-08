@@ -1,0 +1,104 @@
+imex
+
+ls
+touch x
+ls
+emacs x 
+ls
+cat
+cat x
+touch a
+ls
+emacs 
+emacs x y
+screen
+screen -r
+emasc
+screen 
+screen l
+screen-l
+screen -l
+screen -list
+screen -r 25040
+screen -r
+screen -r 25268
+screen -list
+screen -r
+git clone git@github.com:alihansungu/depo.git
+cat x
+emasc
+screen
+screen -r
+ls
+screen -list
+ls
+emacs x
+cat x
+emacs x
+ls
+emacs x
+git clone git@github.com:alihansungu/depo.git
+git clone alihansungu@github.com:alihansungu/depo.git
+git clone git@github.com:alihansungu/depo.git
+git clone alihansungu@github.com:alihansungu/depo.git
+ls .ssh
+ls .ssh/
+cd ~/.ssh
+ls
+mkdir key_backup
+cp id_
+cd id_rsa* key_backup
+ssh-keygen -t rsa -C "gssalihan@hotmail.com"
+c4:12:d4:de:2c:09:65:14:c7:c2:0c:0f:4d:bb:df:67 gssalihan@hotmail.com
+cd /~.ssh
+cd 
+ssh-keygen -t rsa -C "gssalihan@hotmail.com"
+44:d3:73:ec:bc:f6:cf:26:88:59:ab:87:f7:08:d3:95 gssalihan@hotmail.com
+clip < ~/.ssh/id_rsa.pub
+ssh-keygen -t rsa -C "gssalihan@hotmail.com"
+clip < ~/.ssh/id_rsa.pub
+git clone alihansungu@github.com:alihansungu/depo.git
+clip < ~/.ssh/id_rsa.pub
+cd ~/.ssh
+ls
+cp id_rsa* key_backup
+rm id_rsa*
+cd
+ssh -T git@github.com
+
+ssh-keygen -t rsa -C "gssalihan@hotmail.com"
+clip < ~/.ssh/id_rsa.pub
+git clone alihansungu@github.com:alihansungu/depo.git
+cd ~/.ssh
+ls
+cp id_rsa* key_backup
+mkdir key_backup
+cd
+mkdir key_backup
+cp id_rsa* key_backup
+rm id_rsa*
+ls
+ssh-keygen -t rsa -C "gssalihan@hotmail.com"
+clip < ~/.ssh/id_rsa.pub
+ssh-keygen -t rsa -C "gssalihan@hotmail.com"
+clip < ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+clip < ~/.ssh/id_rsa.pub
+su -
+clip < ~/.ssh/id_rsa.pub
+pwd
+cd ./.ssh/
+cat id_rsa.pub 
+cd
+ssh -T git@github.com
+
+git clone git@github.com:alihansungu/depo.git
+git log
+git add .
+git commit -m "alala"
+q
+ls
+git remote
+add .
+commit -m "sadasd"
+git remote 

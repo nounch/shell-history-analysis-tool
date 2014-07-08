@@ -1,0 +1,25 @@
+su
+root
+/
+sudo apt-get install wireless-tools
+lspci | grep Network
+iwconfig
+sudo ip link set lo up
+ssh-keygen -t rsa -C "kenlacy1924@yahoo.com"
+gedit ~/.ssh/id/rsa.pub
+gedit ~/.ssh/id_rsa.pub
+get config --global user .name "Kendall Lacy"
+git config --global user.name "Kendall Lacy"
+git config --global user.email "Kenlacy1924@yahoo.com"
+git config --global github.user [Kenlacy]
+git config --global github.token [d57251b94d84da751f7ba016f189beb1]
+bash < <(curl -s https://rvm.beginrescueend.com/install/rvm)
+bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer
+)
+echo '[[ -s "$Home/.rvm/scripts/rvm"]] $$ . "HOME/.rvm/scripts/rvm" # Load RVM function' >> ~/.bashrc
+source .bashrc
+echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function' >> ~/.bashrc
+source .bashrc
+echo '[[ -s "$Home/.rvm/scripts/rvm" ]] && . "HOME/.rvm/scripts/rvm" # Load RVM function' >> ~/.bashrc
+source .bashrc
+exit;

@@ -1,0 +1,100 @@
+ping
+ping 192.168.11.16
+ls
+emacs
+ls
+cd Dropbox/
+ls
+cd
+exit
+ls
+ls -la
+cd .bash_history 
+ls
+cd ..
+ls
+cd ..
+ls
+ls -la
+cd
+ls
+ls -la
+emacs .bash_profile
+ls
+ls
+ll
+ls
+emacs .bash_profile
+ll
+ls
+exit
+cd
+ls
+ll
+yum install zsh
+./configure
+ls
+cd Downloads/
+ls
+cd zsh-5.0.0.tar.tar.gz 
+cd zsh-5.0.0
+./configure
+tar zxfv zsh-5.0.0.tar.tar.gz 
+./configure
+cd zsh-5.0.0
+./configure
+make
+./configure 
+gcc -v
+./configure
+make
+su
+sudo passwd root
+sudo make install
+sudo make install
+sudo make install
+zsh
+cd /etc/passwd 
+emacs /etc/passwd 
+which zsh
+cat /etc/passwd|tail -3
+chsh
+cat /etc/passwd 
+ls -la
+cd .emacs.d/
+ls
+ls -la
+cd auto-save-list/
+ls
+ls -la
+cd
+ls
+cd Dropbox/HTML/index.html 
+emacs Dropbox/HTML/index.html 
+emacs Dropbox/HTML/index.html 
+emacs Dropbox/HTML/index.html 
+ls
+ls -la
+cd .emacs.d/
+ls
+git -v
+git --version
+which -a git
+/usr/bin/git --version
+/usr/local/bin/git --version
+alias git=/usr/local/bin/git
+git config --list
+git config
+git config --global user.name "m-negishi"
+git config --global user.email "negimann@yahoo.co.jp"
+ssh-keygen -t rsa -C "negimann@yahoo.co.jp"
+cd
+ls
+ls -la
+cd .ssh/
+ls
+pbcopy < ~/.ssh/id_rsa.pub 
+mysql -v
+mysql
+ssh-keygen -t rsa -C "negimann@yahoo.co.jp"
+pbcopy < ~/.ssh/id_rsa.pub 

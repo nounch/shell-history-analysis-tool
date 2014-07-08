@@ -1,0 +1,2769 @@
+: 1216170024:0;cd $JAVA_HOME/bin
+: 1216170028:0;./schemagen
+: 1216170167:0;cd include
+: 1216170367:0;chmod +x ./schemagen.sh ./xjc.sh
+: 1216170371:0;./schemagen.sh
+: 1216176275:0;cd /Users/takuya/Development/Workspace/Eclipse/34-james/blueleaf-dir-rest
+: 1216176308:0;svn co http://biwa.dev.blueleaf.co.jp/svn/dir/trunk/blueleaf-dir-jpa
+: 1216176320:0;cd blueleaf-dir-jpa
+: 1216191351:0;cd blueleaf-jaxb
+: 1216199370:0;mvn generate
+: 1216201357:0;$ cvs -z3 -d :pserver:guest@cvs.dev.java.net:/cvs co jaxb2-sources/jaxb-maven2-schemagen
+: 1216201363:0;cvs -z3 -d :pserver:guest@cvs.dev.java.net:/cvs co jaxb2-sources/jaxb-maven2-schemagen
+: 1216204045:0;cd blueleaf-dir-jaxb
+: 1216256056:0;cd Development/Workspace/Eclipse/34-james/blueleaf-dir-jax
+: 1216256058:0;cd Development/Workspace/Eclipse/34-james/blueleaf-dir-jaxb
+: 1216256077:0;history 0
+: 1216256086:0;history 23
+: 1216256101:0;man history
+: 1216261491:0;cd Development/Server/glassfish
+: 1216261495:0;cd glassfish-v2
+: 1216261515:0;tail -f server
+: 1216268728:0;svn checkout https://jersey.dev.java.net/svn/jersey/trunk jersey
+: 1216268762:0;svn checkout https://jersey.dev.java.net/svn/jersey/trunk jersey --username annonymous
+: 1216268996:0;svn checkout https://jersey.dev.java.net/svn/jersey/tags/jersey-0.8 jersey --username guest
+: 1216269097:0;mv jersey jersey-0.8
+: 1216269163:0;cd sun/jersey/api/client
+: 1216276194:0;tail -f server.log
+: 1216291509:0;Downloads/jaxb-ri/bin
+: 1216291515:0;Downloads/jaxb-ri/bin/xjc
+: 1216291526:0;sudo chmod +x Downloads/jaxb-ri/bin/xjc
+: 1216291543:0;ls Downloads/jaxb-ri/bin/
+: 1216291546:0;ls Downloads/jaxb-ri
+: 1216291565:0;./xjc.sh
+: 1216291603:0;./xjc.sh ~/Desktop/dev-lite.xsd
+: 1216291616:0;cd generated
+: 1216299277:0;mvn jaxb-schemegen:generate
+: 1216302986:0;mvn jaxb-schemagen:generate[A
+: 1216302988:0;mvn jaxb-schemagen:generate[
+: 1216302989:0;mvn jaxb-schemagen:generate
+: 1216306478:0;mvn jaxb-schemagen:generate -Dverbose=true
+: 1216345717:0;curl http://localhost:8080/blueleaf-dir-web/services/subscriptions
+: 1216346420:0;cd /Users/takuya/Development/Workspace/Eclipse/34-james/blueleaf-dir-web-ear
+: 1216346431:0;mvn ear:package
+: 1216347638:0;svn checkout https://maven-glassfish-plugin.dev.java.net/svn/maven-glassfish-plugin/tags/maven-glassfish-plugin-1.0-alpha-4  --username guest
+: 1216348987:0;cd /Developer
+: 1216349007:0;cd glassfish-v3-tp2
+: 1216349012:0;cd glassfish
+: 1216349020:0;cd domains
+: 1216349022:0;cd domain1
+: 1216349026:0;cd autodeploy
+: 1216349030:0;cd docroot
+: 1216349036:0;more index.html
+: 1216357709:0;/Users/takuya/Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.1/lib
+: 1216357717:0;export MAVEN_OPTS=/Users/takuya/Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.1/lib
+: 1216357722:0;export MAVEN_OPTS=/Users/takuya/Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.1/lib/spring-agent.jar
+: 1216357874:0;cd ~/Development/Workspace/Eclipse/34-james/blueleaf-dir-web
+: 1216357920:0;export MAVEN_OPTS=/Users/takuya/Development/Server/jetty/jetty-6.1.11/lib/spring-agent.jar
+: 1216357943:0;export MAVEN_OPTS="/Users/takuya/Development/Server/jetty/jetty-6.1.11/lib/spring-agent.jar"
+: 1216362152:0;mvn -Rlocal package
+: 1216362437:0;mvn jetty:run-war
+: 1216363151:0;mvn -Plocal jetty:run
+: 1216363239:0;curl http://localhost:8080/blueleaf-dir-web/services/labels
+: 1216363590:0;curl http://localhost:9090/blueleaf-dir-web/services/labels/2
+: 1216364563:0;mvn -Plocal -clean jetty:run-war
+: 1216365224:0;curl http://localhost:9090/blueleaf-dir-web/services/lables
+: 1216365303:0;mvn clean -Plocal jetty:run-war
+: 1216365331:0;mvn clean -Plocal jetty:run-war -Dmaven.skip.test=true
+: 1216375319:0;curl http://localhost:9090/blueleaf-dir-web/services/mails/page/0
+: 1216375540:0;curl http://localhost:9090/blueleaf-dir-web/services/mails/pages/0
+: 1216375564:0;curl http://localhost:9090/blueleaf-dir-web/services/mails/pages/0/rows/0
+: 1216388266:0;ãƒ¨ãƒ£
+: 1216388272:0;ãƒ¨
+: 1216389100:0;exxitxit
+: 1216519819:0;cd Library/iTunes
+: 1216519823:0;cd Device\ Support
+: 1216686744:0;mvn -Plocal jetty:run-war -Dmaven.skip.test=true
+: 1216686820:0;curl http:localhost:9090/blueleaf-dir-web/services/subscriptions
+: 1216689470:0;curl http://localhost:9090/blueleaf-dir-web/services/labels/collection
+: 1216689479:0;curl http://localhost:9090/blueleaf-dir-web/services/labels/anonymous
+: 1216689483:0;curl http://localhost:9090/blueleaf-dir-web/services/labels/
+: 1216689587:0;curl http://localhost:9090/blueleaf-dir-web/services/mails
+: 1216689589:0;curl http://localhost:9090/blueleaf-dir-web/services/mails/page
+: 1216689711:0;curl http://localhost:9090/blueleaf-dir-web/services/mails/page/2
+: 1216689713:0;curl http://localhost:9090/blueleaf-dir-web/services/mails/page/1
+: 1216689733:0;curl http://localhost:9090/blueleaf-dir-web/services/mails/pages/2
+: 1216689735:0;curl http://localhost:9090/blueleaf-dir-web/services/mails/pages/3
+: 1216690624:0;cd blueleaf-practice-jersey
+: 1216691482:0;curl http://localhost:9090/blueleaf-dir-web/services/parent
+: 1216691813:0;curl http://localhost:9090/blueleaf-practice-jersey/services/parent
+: 1216692344:0;curl http://localhost:9090/blueleaf-dir-web/services/labels
+: 1216692581:0;curl http://localhost:9090/blueleaf-dir-web/services/subscriptions
+: 1216692597:0;curl http://localhost:9090/blueleaf-dir-web/services/labels/1
+: 1216710971:0;mvn -Plocal jetty:run-war -Dmaven.test.skip=true
+: 1216711010:0;curl http://localhost:9090/blueleaf-dir-web/services/mails/pages/1
+: 1216712475:0;ln
+: 1216712509:0;ln -s ~/Work/DIR ~/Desktop/DIR
+: 1216714228:0;\
+
+: 1216714241:0;cd cd /Users/takuya/Development/Workspace/Eclipse/34-james/blueleaf-dir-web
+: 1216714243:0;cd /Users/takuya/Development/Workspace/Eclipse/34-james/blueleaf-dir-web
+: 1216714257:0;mvn -Plocal jetty:run-war
+: 1216772175:0;history
+: 1216773252:0;svn statu
+: 1216773276:0;cd .vimperator
+: 1216773277:0;cd plugin
+: 1216773290:0;svn add char-hints-mod.js lookupDictionary.js
+: 1216773298:0;svn commit -m "plugin "
+: 1216773388:0;svn commit -m 'modify .zshrc & .vimperatorrc'
+: 1216773475:0;cd cfs
+: 1216773483:0;rm -R cfs
+: 1216773501:0;rm -Rf cfs
+: 1216773506:0;cd emacs
+: 1216773514:0;rm -R emacs
+: 1216773517:0;rm -Rf emacs
+: 1216773550:0;rm sample.rb
+: 1216773557:0;rm prac.rb
+: 1216773561:0;rm prac.rb~
+: 1216773568:0;rm movcrown.txt
+: 1216773666:0;svn ci http://
+: 1216773694:0;svn co http://svn.assembla.com/svn/takuya-fujimura/memo
+: 1216773723:0;svn mkdir http://svn.assembla.com/svn/takuya-fujimura/memo
+: 1216773912:0;mv Memo ~/Desktop/Memo
+: 1216773924:0;svn http://svn.assembla.com/svn/takuya-fujimura/memo Memo
+: 1216773929:0;svn co http://svn.assembla.com/svn/takuya-fujimura/memo Memo
+: 1216773948:0;mv ~/Desktop/Memo/* ./
+: 1216774233:0;svn propset svn:ignore svn-commit.tmp
+: 1216774267:0;svn propedit svn:ignore svn-commit.tmp
+: 1216774323:0;rm svn-commit.tmp
+: 1216774520:0;svn propset .
+: 1216774525:0;svn propset svn:ignore .
+: 1216774656:0;rm svn-commit.*
+: 1216774664:0;svn delete svn-commit.tmp
+: 1216774740:0;vi svn-commit.tmp
+: 1216775854:0;echo $temp
+: 1216775856:0;echo $TMP
+: 1216775872:0;echo TMPDIR
+: 1216775876:0;echo $TMPDIR
+: 1216775880:0;cd $TMPDIR
+: 1216776415:0;chmod u+x emacs-install-migemo-0.4.0.sh
+: 1216776524:0;./emacs-install-migemo-0.4.0.sh
+: 1216776646:0;mv emacs-install-migemo-0.4.0.sh emacs-install-migemo-0.40.sh
+: 1216776801:0;rm emacs-install-migemo-0.4.0.sh
+: 1216776805:0;./emacs-install-migemo-0.40.sh
+: 1216791838:0;mv .taskpaper.taskpaper .taskpaper
+: 1216791842:0;rm ..taskpaper
+: 1216792765:0;cd .emacs.d/elisp
+: 1216806052:0;nslookup fhwp1.fh-intra.com
+: 1216806941:0;cd PortalContent/themes/html/FHPortal/colors/kumamoto
+: 1216806959:0;emacs kumamoto.properties
+: 1216807595:0;svn ci -m 'fixed #185 kumamoto ãƒ£ƒ¦ãƒ£¼ãƒ£žã®ãƒ£ƒªãƒ£ƒ³ã‚²ãƒ£¼ã‚·ãƒ£§ãƒ£³ãƒ£ƒ°ãƒ£¼ã®èƒ£ƒ¬æƒ¹¯èƒ©²ãƒ¬ãƒ£ƒ¦ãƒ£¼ãƒ£žã‚«ãƒ£©ãƒ£¼ã«ä¼¼ã‚ƒ¯ãªãƒ¤'
+: 1216808653:0;svn diff r
+: 1216808656:0;svn diff r1094
+: 1216808658:0;svn diff r1095
+: 1216808661:0;svn diff -r 1095
+: 1216808663:0;svn diff -r 1094
+: 1216808668:0;svn diff -r 1054
+: 1216808677:0;svn diff -r 1014
+: 1216813342:0;ps alt | grep se
+: 1216813568:0;kill 518
+: 1216813577:0;kill 409
+: 1216816345:0;cd .emacs.d/elisp/
+: 1216860502:0;scp
+: 1216860526:0;scp dir.png biwa@biwa.dev.blueleaf.co.jp:~/
+: 1216860814:0;scp dir.png biwa@biwa.dev.blueleaf.co.jp:/var/trac/dir/htdocs
+: 1216867811:0;rm HelloWorld.
+: 1216867812:0;rm HelloWorld.*
+: 1216867820:0;rm ddskk-13.1
+: 1216867824:0;rm ddskk-13.1.tar.gz
+: 1216867828:0;rm -R ddskk-13.1
+: 1216867833:0;rm -Rf ddskk-13.1
+: 1216867862:0;rm -R skk
+: 1216867872:0;wget sudo cp ruby-romkan-0.4/romkan.rb /Library/Ruby/Site
+: 1216867873:0;tar zxvf ruby-bsearch-1.5.tar.gz
+: 1216867873:0;sudo cp ruby-bsearch-1.5/bsearch.rb /Library/Ruby/Site
+: 1216867893:0;wget http://openlab.ring.gr.jp/skk/maintrunk/ddskk-2*.tar.gz
+: 1216867911:0;wget http://openlab.ring.gr.jp/skk/maintrunk/ddskk-2008*.tar.gz
+: 1216868138:0;svn revert emacs-install-migemo-0.40.sh
+: 1216868243:0;wget http://openlab.ring.gr.jp/skk/maintrunk/ddskk-20080720.tar.gz
+: 1216868253:0;tar zxvf ddskk-20080720.tar.gz
+: 1216869689:0;cd ..ls
+: 1216869703:0;chmod u+x emacs-install-ddskk.sh
+: 1216869762:0;svn revert svn-commit.tmp
+: 1216869774:0;svn ci emacs-install-ddskk.sh
+: 1216870004:0;ls -alt emacs*
+: 1216870016:0;chmod u+w emacs-install-ddskk.sh
+: 1216870021:0;rm emacs-install-ddskk.sh,v
+: 1216870701:0;cd Emacs.app/Contents/Resources/info
+: 1216870726:0;cd skk
+: 1216870806:0;cd ddskk-20080720
+: 1216870809:0;cd dic
+: 1216871024:0;wget 
+: 1216871037:0;wget http://openlab.ring.gr.jp/skk/maintrunk/ddskk-13.1.tar.gz
+: 1216871044:0;tar -zxvf ddskk-13.1.tar.gz
+: 1216871049:0;cd ddskk-13.1
+: 1216871077:0;ls  `
+: 1216871078:0;ls ~
+: 1216871889:0;vi .emacs.d/conf/init-skk.el
+: 1216877449:0;ls -alt skk*
+: 1216877451:0;ls -alt .skk*
+: 1216877494:0;cp -alt .skk* .dotfiles/
+: 1216877501:0;cp .skk* .dotfiles/
+: 1216877512:0;rm *.BAK
+: 1216877520:0;rm .*.BAK
+: 1216877589:0;rm .skk*.BAK
+: 1216877597:0;ln 
+: 1216877620:0;rm .skk*
+: 1216877642:0;ln -s .dotfiles/.skk-jisyo .skk-jisyo
+: 1216877657:0;ln -s .dotfiles/.skk-record .skk-record
+: 1216877667:0;ln -s .dotfiles/.skk-study .skk-study
+: 1216877728:0;svn add .skk*
+: 1216877792:0;svn ci -m 'added .skk files'
+: 1216892380:0;cd ../UserAttributeUtil
+: 1216954569:0;cd memo
+: 1216954581:0;svn propget dir-mushroom-spec.txt
+: 1216954594:0;svn propset svn:mime-type text/plain dir-mushroom-spec.txt
+: 1216954636:0;svn ci -m 'change svn:mime-type' dir-mushroom-spec.txt
+: 1216960794:0;cd Maildir
+: 1216960800:0;cd new
+: 1216964706:0;emacs 1215491733.Ve000002I418bccM204762.tmac.eb.blueleaf.co.jp
+: 1216968542:0;cd ../../Desktop
+: 1216968572:0;svn co http://biwa.dev.blueleaf.co.jp/svn/fh/trunk/portal/FHPortal FHPortal
+: 1216968773:0;vi build_theme.sh
+: 1216968792:0;chmod u+x build_theme.sh
+: 1216968796:0;emacs build_theme.sh
+: 1216968967:0;find ls
+: 1216970731:0;echo colors
+: 1216970740:0;echo colors/kumamoto
+: 1216970907:0;echo FHPortal/colors/kumamoto*
+: 1216970910:0;echo FHPortal/colors/kumamoto
+: 1216970914:0;echo FHPortal/colors/kumamoto.properties
+: 1216970992:0;find -name ./ kumamoto*
+: 1216970995:0;find -name ./ kumamoto
+: 1216971005:0;find -name . kumamoto
+: 1216971009:0;find -name . kumamoto*
+: 1216971014:0;find -name . *kumamoto*
+: 1216971019:0;find -name . kumamoto.properties
+: 1216971028:0;man find
+: 1216971570:0;cd X
+: 1216971577:0;vi X
+: 1216972031:0;echo FHPortal/colors/kumamoto > exclude
+: 1216972042:0;echo FHPortal/colors/kumamoto.properties >> exclude
+: 1216972072:0;tar -cvfX FHPortal.tar exclude FHPortal
+: 1216972170:0;tar -cvf --exclude ./exclude FHPortal.tar FHPortal
+: 1216972181:0;tar -cvf FHPortal
+: 1216972188:0;tar -cvf FHPortal.tar FHPortal
+: 1216972195:0;tar -cvfX FHPortal.tar FHPortal
+: 1216972227:0;rm FH*.tar
+: 1216972236:0;mv exclude exclude-list
+: 1216972248:0;rm --exclude
+: 1216972260:0;rm '--exclude'
+: 1216972331:0;find kumamoto
+: 1216972342:0;find FHPortal kumamoto
+: 1216972346:0;find FHPortal/colors kumamoto
+: 1216972351:0;find -name FHPortal/colors kumamoto
+: 1216972858:0;rm exclude-list
+: 1216973003:0;tar cf FHPortal.tar FHPortal --exculde colors/kumamoto
+: 1216973011:0;tar cf FHPortal.tar FHPortal --exclude colors/kumamoto
+: 1216973051:0;tar cf FHPortal.tar FHPortal --exclude=colors/kumamoto
+: 1216973117:0;tar cvf FHPortal.tar --exclude 'colors/kumamoto*' FHPortal
+: 1216973171:0;tar cvf FHPortal.tar -X exclude FHPortal
+: 1216973184:0;tar cvf FHPortal.tar -X ../exclude FHPortal
+: 1216973192:0;tar cvfX FHPortal.tar ../exclude FHPortal
+: 1216973195:0;tar cvfX FHPortal.tar exclude FHPortal
+: 1216973408:0;find -name
+: 1216973424:0;find FHPortal -name kumamoto*
+: 1216973426:0;find FHPortal -name kumamoto
+: 1216973431:0;find FHPortal -name kumamoto.properties
+: 1216973503:0;find FHPortal -name "*kumamoto*""
+: 1216973505:0;find FHPortal -name "*kumamoto*"
+: 1216973536:0;find FHPortal -name "*kumamoto*, *svn*"
+: 1216973542:0;find FHPortal -name "*svn*"
+: 1216973706:0;find FHPortal -name "*svn*" and -name "*kumamoto*"
+: 1216973714:0;find FHPortal -name "*svn*" -and -name "*kumamoto*"
+: 1216973908:0;tar cvf FHPortal.tar --exclude-from '../exclude' FHPortal
+: 1216973912:0;tar cvf FHPortal.tar --exclude-from 'exclude' FHPortal
+: 1216974065:0;find FHPortal -name "*svn*" -or -name "*kumamoto*"
+: 1216974076:0;find FHPortal/ -name "*svn*" -or -name "*kumamoto*"
+: 1216974084:0;find /FHPortal -name "*svn*" -or -name "*kumamoto*"
+: 1216974098:0;find -name "*svn*" -or -name "*kumamoto*"
+: 1216974392:0;rm exclude
+: 1216974405:0;cd FH
+: 1216974416:0;rm X
+: 1216974425:0;rm FHPortal.tar
+: 1216974490:0;find . -name "*svn*" -or "*kumamoto*"
+: 1216974495:0;find . -name "*svn*" -or -name "*kumamoto*"
+: 1216974519:0;./build_theme.sh
+: 1216974709:0;tar -xvf KFPortal.tar
+: 1216974713:0;cd KFPortal
+: 1216974716:0;cd colors
+: 1216974854:0;tar -cf KFPortal.tar -X exclude KFPortal
+: 1216974949:0;find KFPortal -name "*svn*" -or -name "*fukuoka*" -or name "*hiroshima*"
+: 1216974953:0;find KFPortal -name "*svn*" -or -name "*fukuoka*" -or -name "*hiroshima*"
+: 1216974976:0;find KFPortal -name ".svn" -or -name "*fukuoka*" -or -name "*hiroshima*"
+: 1216974990:0;find KFPortal -name ".svn" -and -type d -or -name "*fukuoka*" -or -name "*hiroshima*"
+: 1216975001:0;find KFPortal -name ".svn" -and -type R -or -name "*fukuoka*" -or -name "*hiroshima*"
+: 1216975038:0;find KFPortal -name ".svn" -prune  -or -name "*fukuoka*" -or -name "*hiroshima*"
+: 1216975055:0;find KFPortal -name ".svn" -prune  -or -name "*fukuoka*" -or -name "*hiroshima*" > exclude
+: 1216975058:0;vi exclude
+: 1216975082:0;tar -cvf KFPortal.tar -X exclude KFPortal
+: 1216975350:0;./build_theme.sh FHPortal
+: 1216975402:0;./build_theme.sh KFPortal
+: 1216975490:0;./build_theme.sh Both
+: 1216975752:0;cd FHPo
+: 1216975778:0;cd PortalContent
+: 1216975780:0;cd themes
+: 1216975782:0;cd html
+: 1216975795:0;ls FHPortal
+: 1216976191:0;rm -R FHPortal
+: 1216976196:0;rm -Rf FHPortal
+: 1216976332:0;svn ci -m 'added build_theme.sh'
+: 1216983639:0;cd ~/Development/Workspace/Eclipse/34-dir
+: 1216987761:0;ls -lt
+: 1216987764:0;cd .pro
+: 1217131470:0;rm -Rf test
+: 1217131965:0;mvn eclipse:clean eclipse:eclcipse 
+: 1217131971:0;mvn eclipse:clean eclipse:eclipse 
+: 1217132057:0;mvn eclipseclean
+: 1217132175:0;cd <build>
+: 1217132175:0;		<plugins>
+: 1217132175:0;		  <plugin>
+: 1217132175:0;	        <groupId>org.apache.maven.plugins</groupId>
+: 1217132175:0;	        <artifactId>maven-eclipse-plugin</artifactId>
+: 1217132175:0;			<configuration>
+: 1217132175:0;				<wtpversion>2.0</wtpversion>
+: 1217132175:0;	        </configuration>
+: 1217132175:0;	      </plugin>
+: 1217132175:0;		</plugins>
+: 1217132189:0;cd /Users/takuya/Development/Workspace/Eclipse/34-dir/mushroom/mushroom-web-ui
+: 1217134970:0;mvn eclipse:eclipse -DdownloadSources=true -DdownloadJavadocs
+: 1217135757:0;curl http://localhost:9090/mushroom-web-service/
+: 1217135770:0;curl http://localhost:9090/mushroom-web-service/services
+: 1217136658:0;curl http://localhost:9090/mushroom-web-service/services/hello?
+: 1217136662:0;curl http://localhost:9090/mushroom-web-service/services/hello/s
+: 1217137184:0;mvn -Pjetty jetty:run-exploded
+: 1217138996:0;curl http://localhost:9090/mushroom-web-service/services/hello?takuya
+: 1217139000:0;curl http://localhost:9090/mushroom-web-service/services/hello?name=takuya
+: 1217139080:0;curl http://localhost:9090/mushroom-web-service/services/hello/?name=takuya
+: 1217139091:0;curl http://localhost:9090/mushroom-web-service/services/hello/?name="takuya"
+: 1217139094:0;curl http://localhost:9090/mushroom-web-service/services/hello?name="takuya"
+: 1217139165:0;curl http://localhost:9090/mushroom-web-service/services/hello/message?name=takuya
+: 1217139168:0;curl http://localhost:9090/mushroom-web-service/services/hello/message/?name=takuya
+: 1217139827:0;cd mvn instal
+: 1217147075:0;exitr
+: 1217147079:0;{exit\
+e\
+\
+\
+exit
+: 1217203561:0;ps alt | grep notes
+: 1217203566:0;ps alt
+: 1217220121:0;curl http://localhost:9090/blueleaf-web-service/services/hello
+: 1217220177:0;curl http://localhost:9090/blueleaf-web-service
+: 1217220197:0;curl http://localhost:9090/
+: 1217220533:0;curl http://localhost:9090/mushroom-web-service/services/hello
+: 1217220550:0;curl http://localhost:9090/mushroom/services/hello
+: 1217222534:0;curl http://localhost:9999
+: 1217222543:0;curl http://localhost:9999/mushroom/services/hello
+: 1217222549:0;curl http://localhost:9999/mushroom-web-service/services/hello
+: 1217224844:0;export MAVEN_OPTS="-javaagent:/Users/takuya/Development/Server/jetty/jetty-6.1.11/lib/spring-agent.jar" | pbcopy
+: 1217224868:0;pbcopy export MAVEN_OPTS="-javaagent:/Users/takuya/Development/Server/jetty/jetty-6.1.11/lib/spring-agent.jar"
+: 1217224879:0;pbcopy
+: 1217224888:0;'a' pbcopy
+: 1217229020:0;cd 34-jame
+: 1217229054:0;cd blueleaf-mailet
+: 1217229080:0;cd mailet-test
+: 1217229915:0;emacs Mail.java
+: 1217327622:0;cd 34-james
+: 1217327630:0;cd blueleaf-dir-web
+: 1217327639:0;cd blueleaf-dir-rest
+: 1217327647:0;cd .settings
+: 1217327662:0;vi org.eclipse.core.resources.prefs
+: 1217327678:0;vi org.eclipse.wst.common.project.facet.core.xml
+: 1217327686:0;vi org.maven.ide.eclipse.prefs
+: 1217327713:0;vi org.eclipse.jdt.core.prefs
+: 1217327732:0;vi org.eclipse.wst.jsdt.ui.superType.container
+: 1217327750:0;vi org.eclipse.jst.common.project.facet.core.prefs
+: 1217327762:0;vi .jsdtscope
+: 1217327775:0;vi .project
+: 1217327809:0;vi .svn
+: 1217382361:0;svn diff pom.xml
+: 1217382655:0;svn add mushroom-ui
+: 1217382670:0;svn add mushroom-web-service
+: 1217382684:0;cd mushroom-web-
+: 1217382705:0;svn propedit svn:ignore
+: 1217382870:0;svn revert --recursive .settings
+: 1217382877:0;svn revert --recursive .project
+: 1217382901:0;svn add .settings
+: 1217383669:0;pbcopy export MAVEN_OPTS="-javaagent:/Users/takuya/Development/Server/jetty/jetty-6.1.11/lib/spring-agent.jar" | pbcopy
+: 1217383704:0;mvn -Pjetty package
+: 1217383730:0;echo $MAVEN_OPTS
+: 1217393875:0;svn revert .classpath
+: 1217393882:0;svn revert .project
+: 1217394103:0;tree .settings
+: 1217407320:0;svn revert -R bin
+: 1217407333:0;svn revert -R target
+: 1217407869:0;rm -R target
+: 1217407878:0;rm -Rf target
+: 1217408969:0;mvn build
+: 1217464187:0;svn diff -u bookmarktoolbar-hint.js ~/.dotfiles/.vimperator/plugin/bookmarktoolbar-hint.js
+: 1217464194:0;svn diff bookmarktoolbar-hint.js ~/.dotfiles/.vimperator/plugin/bookmarktoolbar-hint.js
+: 1217464203:0;diff -u bookmarktoolbar-hint.js ~/.dotfiles/.vimperator/plugin/bookmarktoolbar-hint.js
+: 1217464261:0;cp bookmarktoolbar-hint.js ~/.dotfiles/.vimperator/plugin/
+: 1217465637:0;ping 172.16.14.130
+: 1217465679:0;scp ~/Downloads/DSEE.6.3.Linux-X86-full.tar.gz deborah@172.16.14.130:
+: 1217465720:0;ssh debora@172.16.14.130:
+: 1217465723:0;ssh deborha@172.16.14.130:
+: 1217465806:0;ssh deborha@172.16.14.130
+: 1217466788:0;cd /usr/local
+: 1217466838:0;cd macports
+: 1217466846:0;find / -name slapd.conf
+: 1217466851:0;find /usr -name slapd.conf
+: 1217466862:0;find /opt -name slapd.conf
+: 1217466868:0;cd /opt/local/etc/open
+: 1217466873:0;cd sh
+: 1217466883:0;vi nis.schema
+: 1217466937:0;vi misc.schema
+: 1217466969:0;vi openldap.schema
+: 1217467706:0;cd ~/Memo
+: 1217467735:0;find /usr -name maven
+: 1217467743:0;find /opt -name maven
+: 1217467849:0;echo $MAVEN_HOME
+: 1217467909:0;ln -v
+: 1217467915:0;ln -v /usr/bin/mvn
+: 1217467926:0;ln -v mvn
+: 1217467938:0;mvn version
+: 1217467964:0;mvn ln
+: 1217468591:0;mvn -Pjetty jetty:clean
+: 1217469776:0;cd mavevn
+: 1217469783:0;cd maven
+: 1217469856:0;cp ~/Downloads/apache-maven-2.0.9/* /usr/share/maven/
+: 1217469877:0;rm f /usr/share/maven/*
+: 1217469889:0;sudo rm -f /usr/share/maven/*
+: 1217469901:0;sudo rm -Rf /usr/share/maven/*
+: 1217469907:0;cp -R ~/Downloads/apache-maven-2.0.9/* /usr/share/maven/
+: 1217469914:0;sudo cp -R ~/Downloads/apache-maven-2.0.9/* /usr/share/maven/
+: 1217471643:0;cd /Volumes/Win\ HD
+: 1217471647:0;cd WebSphere
+: 1217471651:0;cd profiles
+: 1217471653:0;cd wp_profile
+: 1217471659:0;cd installedApps
+: 1217471666:0;cd wps.ear/
+: 1217471683:0;cp -R wps.ear ~/Desktop
+: 1217471863:0;cd jp.blueleaf.sandbox
+: 1217472096:0;cd ~/Desktop/wps.ear
+: 1217472108:0;jar -xvf wp.scheduler.ejb.jar
+: 1217476017:0;cd blueleaf-sandbox-maven
+: 1217478763:0;mvn -Peclipse-wtp clean package
+: 1217479168:0;mvn archetype:create
+: 1217479312:0;cd blueleaf-mushroom-mailet
+: 1217479393:0;mv blueleaf-mushroom-mailet blueleaf-mailet
+: 1217479430:0;mv blueleaf-mailet mushroom-mailet
+: 1217479442:0;vi o
+: 1217481949:0;vi .m2/settings.xml
+: 1217482081:0;mvn depoy:deploy-file -Dfile=~/Downloads/james-2.3.1\ mailet/apps/james/SAR-INF/lib/mailet-2.3.jar -DpomFile= ~/Desktop/pom.xml -DrepositoryId=biwa.dev.blueleaf.co.jp -Durl=scp://biwa.dev.blueleaf.co.jp/var/local/maven/repo
+: 1217482143:0;mvn depoy:deploy-file -Dfile="~/Downloads/james-2.3.1-mailet/apps/james/SAR-INF/lib/mailet-2.3.jar" -DpomFile="~/Desktop/pom.xml" -DrepositoryId=biwa.dev.blueleaf.co.jp -Durl=scp://biwa.dev.blueleaf.co.jp/var/local/maven/repo
+: 1217482296:0;cp ~/Desktop/pom.xml ~/Downloads/james-2.3.1-mailet/apps/james/SAR-INF/lib/
+: 1217482309:0;mvn depoy:deploy-file -DpomFile="~/Desktop/pom.xml" -Dfile="~/Downloads/james-2.3.1-mailet/apps/james/SAR-INF/lib/mailet-2.3.jar" -DrepositoryId=biwa.dev.blueleaf.co.jp -Durl=scp://biwa.dev.blueleaf.co.jp/var/local/maven/repo
+: 1217482330:0;mvn deploy:deploy-file -DpomFile="~/Desktop/pom.xml" -Dfile="~/Downloads/james-2.3.1-mailet/apps/james/SAR-INF/lib/mailet-2.3.jar" -DrepositoryId=biwa.dev.blueleaf.co.jp -Durl=scp://biwa.dev.blueleaf.co.jp/var/local/maven/repo
+: 1217482454:0;mvn deploy:deploy-file -DgroupId=james \\
+  -DartifactId=mailet \\
+  -Dversion=2.3 \\
+  -Dpackaging=jar \\
+  -Dfile=~/Downloads/james-2.3.1-mailet/apps/james/SAR-INF/lib/mailet-2.3.jar \\
+  -DrepositoryId=biwa.dev.blueleaf.co.jp \\
+  -Durl=scp://biwa.dev.blueleaf.co.jp/var/local/maven/repo
+: 1217482505:0;mvn deploy:deploy-file -DgroupId=james \\
+  -DartifactId=mailet \\
+  -Dversion=2.3 \\
+  -Dpackaging=jar \\
+  -Dfile=/Users/takuya/Downloads/james-2.3.1-mailet/apps/james/SAR-INF/lib/mailet-2.3.jar \\
+  -DrepositoryId=biwa.dev.blueleaf.co.jp \\
+  -Durl=scp://biwa.dev.blueleaf.co.jp/var/local/maven/repo
+: 1217482548:0;mvn deploy:deploy-file -DgroupId=james \\
+  -DartifactId=mailet-api \\
+  -Dversion=2.3 \\
+  -Dpackaging=jar \\
+  -Dfile=/Users/takuya/Downloads/james-2.3.1-mailet/apps/james/SAR-INF/lib/mailet-api-2.3.jar \\
+  -DrepositoryId=biwa.dev.blueleaf.co.jp \\
+  -Durl=scp://biwa.dev.blueleaf.co.jp/var/local/maven/repo
+: 1217483006:0;cp -R mushroom-web-service ~/Desktop
+: 1217483014:0;cp -R mushroom-web-ui ~/Desktop
+: 1217483019:0;cp -R mushroom-mailet ~/Desktop
+: 1217483153:0;cp -R ~/Desktop/mushroom-* .
+: 1217483943:0;svn cleanup help
+: 1217483946:0;svn cleanup .
+: 1217485169:0;rm -Rf mushroom-web-ui
+: 1217486381:0;mvn eclipse:clean eclipse:eclipse -DdownloadSources=true
+: 1217491678:0;java -jar zipdiff-0.4/build/zipdiff.jar -file1 wps-old.ear -file2 wps.ear
+: 1217491710:0;java -jar zipdiff-0.4/build/zipdiff.jar -file1 wps-old.ear -file2 wps.ear -outputfile ~/Desktop/diff.html
+: 1217491804:0;unzip wps.ear wps.ear-new
+: 1217491811:0;man unzip
+: 1217491838:0;unzip wps.ear -d wps.ear-new
+: 1217491845:0;unzip wps-old.ear -d wps.ear-old
+: 1217491866:0;cd wps.ear-new
+: 1217491874:0;cat MANIFEST.MF
+: 1217491881:0;ls -aF
+: 1217491885:0;ls -altf
+: 1217491924:0;unzip wp.scheduler.ejb.jar
+: 1217491962:0;unzip wp.scheduler.ejb.jar -d wp.scheduler.ejb.jar
+: 1217491977:0;unzip wp.scheduler.ejb.jar -d wpschedulerejbjar
+: 1217491981:0;cd wpschedulerejbjar
+: 1217492110:0;tree wps.ear-new
+: 1217492178:0;java -jar zipdiff-0.4/build/zipdiff.jar -file1 wps.ear-old/wps_facade.war -file2 wps.ear-new/wps-facade.war -outputfile ~/Desktop/diff-facade.html
+: 1217492187:0;ls wps.ear-new
+: 1217492203:0;mv wps-ear-new
+: 1217492208:0;mv wps.ear-new wps-ear-new
+: 1217492216:0;mv wps.ear-old wps-ear-old
+: 1217492224:0;java -jar zipdiff-0.4/build/zipdiff.jar -file1 wps-ear-old/wps_facade.war -file2 wps-ear-new/wps-facade.war -outputfile ~/Desktop/diff-facade.html
+: 1217492233:0;java -jar zipdiff-0.4/build/zipdiff.jar -file1 wps-ear-old/wps_facade.war -file2 wps-ear-new/wps_facade.war -outputfile ~/Desktop/diff-facade.html
+: 1217492254:0;java -jar zipdiff-0.4/build/zipdiff.jar -file1 wps-ear-old/wps.war -file2 wps-ear-new/wps.war -outputfile ~/Desktop/diff-facade.html
+: 1217492334:0;cd wps-ear-new
+: 1217492369:0;ls -alt ../wps-ear-old
+: 1217492395:0;unzip wps.war -d wpswar
+: 1217492464:0;ls -alt ../wps-ear-new/wpswar/themes/html/FHKPortal/colors/
+: 1217492923:0;cd zipdiff-0.4
+: 1217492933:0;cd zipdiff
+: 1217492942:0;emacs Main.java 
+: 1217493835:0;telnet root@fh-prj.fh-intra.ocm
+: 1217493837:0;telnet root@fh-prj.fh-intra.com
+: 1217493843:0;telnet fh-prj.fh-intra.com
+: 1217493881:0;telnet fh-wp1.fh-intra.com
+: 1217508005:0;it
+: 1217508012:0;t
+: 1217508016:0;extixit
+: 1217552148:0;cd /Users/takuya/Development/Workspace/Eclipse/34-dir/mushroom/mushroom-web-service
+: 1217555504:0;jar -xvf james.sar -d james-sar
+: 1217555517:0;jar -xvf james.sar
+: 1217556918:0;echo $JAMES_HOME | pbcopy
+: 1217558691:0;sudo ./run.sh
+: 1217558876:0;man sudo
+: 1217558915:0;sudo -u "Takuya Fujimura" ./run.sh
+: 1217558923:0;sudo -u takuya ./run.sh
+: 1217562719:0;telnet fhwp1.fh-intra.com
+: 1217564221:0;tar -xvf 
+: 1217564344:0;tar -xvf MenuPortlet_fromZip_wpStub_genDeployCode.war
+: 1217564355:0;unzip MenuPortlet_fromZip_wpStub_genDeployCode.war
+: 1217564365:0;cd WEB-INF/lib
+: 1217564376:0;jar -xvf MenuItemEJBClient.jar
+: 1217571863:0;ls Maildir
+: 1217571867:0;tree Maildir
+: 1217571895:0;cd /Developer/Server
+: 1217571914:0;ls apps/james/var/mail/inboxes
+: 1217571918:0;ls apps/james/var/mail/inboxes/test
+: 1217571976:0;cd apps/james/var/mail/inboxes/test
+: 1217571986:0;vi 4D61696C313231353430343836383136322D30.Repository.FileObjectStore
+: 1217571998:0;vi 4D61696C313231353430343836383136322D30.Repository.FileStreamStore
+: 1217578511:0;java -jar zipdiff-0.4/build/zipdiff.jar -file1 EmergencyContactPortlet.war -file2 EmergencyContactPortlet-PrjEx.zip -outputfile ~/Desktop/project-export-diff.html
+: 1217578522:0;java -jar zipdiff-0.4/build/zipdiff.jar -file1 EmergencyContactPortlet.war -file2 EmergencyContact-PrjEx.zip -outputfile ~/Desktop/project-export-diff.html
+: 1217578738:0;cd EmergencyContactPortlet
+: 1217578750:0;cd EmergencyContactPortlet-1
+: 1217578802:0;man tree
+: 1217578817:0;tree -d
+: 1217578824:0;tree -d EmergencyContactPortlet
+: 1217578834:0;tree -d 1EmergencyContactPortlet 
+: 1217578837:0;tree -d 1 EmergencyContactPortlet 
+: 1217578843:0;tree help
+: 1217578849:0;tree ?
+: 1217580091:0;pwdpwd
+: 1217580101:0;cd /Users/takuya/Development/Workspace/Eclipse/34-dir/mushroom/mushroom-mailet/target/
+: 1217583321:0;mkdir maven-dependency
+: 1217583339:0;svn co http://svn.apache.org/repos/asf/maven/plugins/tags/maven-plugins-10/maven-dependency-plugin
+: 1217583603:0;cd maven-dependency
+: 1217587459:0;rm .DS_Store
+: 1217587590:0;svn 
+: 1217587612:0;svn delete maven-dependency-plugin
+: 1217588618:0;cd mytime
+: 1217588626:0;mvn package site
+: 1217588825:0;cd .dotfiles/
+: 1217588854:0;svn ci -m 'daily update' *
+: 1217588857:0;svn ci -m 'daily update' .*
+: 1217588873:0;cd Memo
+: 1217588877:0;cd ../Memo
+: 1217588885:0;svn add *.txt
+: 1217588898:0;svn ci -m 'daily update' *.txt
+: 1217589428:0;xityexi
+: 1217589430:0;cd exit
+: 1217647961:0;cd /Users/takuya/Development/Workspace/Eclipse/34-dir/
+: 1217655674:0;cd /Users/takuya/Development/Workspace/Eclipse/34-dir/mailet-sample-ear/
+: 1217655684:0;jar -xvf mailet-sample-ear.ear
+: 1217655695:0;cat META-INF/MANIFEST.MF
+: 1217658632:0;mvn clean package -Dmaven.skip.test=true
+: 1217658969:0;cls
+: 1217659094:0;svn co http://svn.apache.org/repos/asf/maven/plugins/tags/maven-plugins-10/maven-dependency-plugin maven-dependency-plugin
+: 1217663027:0;ls /
+: 1217663312:0;cd Development/Server/james-2.3.1
+: 1217663940:0;export JAMES_HOME=
+: 1217666093:0;te
+: 1217666094:0;telnet
+: 1217667968:0;telnet localhos 4555
+: 1217669188:0;sudo telnet localhost 25
+: 1217670165:0;hostname
+: 1217670315:0;ping localhost 25
+: 1217670329:0;ping localhost:25
+: 1217670351:0;ping localhost
+: 1217672583:0;chmod u+x ./run.sh
+: 1217672589:0;chmod u+x ./phoenix.sh
+: 1217673190:0;telnet localhost 25
+: 1217673747:0;cat smtpserver-2008-08-02-19-
+: 1217673755:0;cat smtpserver-2008-08-02-19-39.log
+: 1217673806:0;tail smtpserver-2008-08-02-19-39.log
+: 1217673827:0;tail -f smtpserver-2008-08-02-19-39.log
+: 1217673867:0;tail -f mailet-2008-08-02-19-39.log
+: 1217673901:0;vi mailet-2008-08-02-19-39.log
+: 1217674012:0;more smtpserver-2008-08-02-19-39.log
+: 1217674250:0;df -m
+: 1217674884:0;tail -f mailet-2008-08-02-19-58.log
+: 1217675151:0;chmod u+x run.sh
+: 1217675156:0;chmod u+x phoenix
+: 1217675157:0;chmod u+x phoenix.sh
+: 1217676583:0;man chown
+: 1217676615:0;sudo chown -R takuya james-2.3.1 
+: 1217676624:0;mvn clean deploy
+: 1217677092:0;mvn package -Doverwrite.config=true
+: 1217677198:0;mvn overwrite
+: 1217678659:0;cd james-2.3.1/bin
+: 1217678902:0;df
+: 1217678908:0;diskutil list
+: 1217679272:0;$ find . -size +1000k -exec ls -lh {} \;
+: 1217679302:0;find /Users/takuya/ -size +100000k -exec ls -lh {} \;
+: 1217679371:0;ls -alt .Trash
+: 1217679381:0;ls -alth .Trash
+: 1217679398:0;rm -R .Trash
+: 1217679404:0;rm -Rf .Trash
+: 1217679416:0;sudo rm -Rf .Trash
+: 1217690933:0;ls mvn
+: 1217690936:0;vi mvn
+: 1217691009:0;which mvn
+: 1217691013:0;rm mvn
+: 1217691049:0;Firefox.app -profileManager
+: 1217691053:0;./Firefox.app -profileManager
+: 1217691064:0;open Firefox -p
+: 1217691078:0;sudo Firefox.app -profileManager
+: 1217691140:0;Firefox.app/Contents/MacOS/firefox -Profilemanager
+: 1217691228:0;cd Library/Application\ Support
+: 1217691245:0;pwd atwqyp8i.Net
+: 1217691249:0;ls atwqyp8i.Net
+: 1217691502:0;sudo chown takuya .
+: 1217691536:0;chmod u+x run.sh phoenix.sh
+: 1217691602:0;sudo chown -R takuya james-2.3.1
+: 1217692418:0;ping tmac.eb.blueleaf.co.jp
+: 1217692846:0;ps -alt
+: 1217692928:0;sudo kill 716
+: 1217692937:0;ps lat
+: 1217692947:0;sudo kill 712
+: 1217692999:0;./phoenix.sh
+: 1217693055:0;./phoenix.sh start
+: 1217693072:0;./phoenix.sh stop
+: 1217693087:0;netstat -alt
+: 1217693139:0;netstat -g
+: 1217693144:0;netstat -i
+: 1217693158:0;man netstat -A
+: 1217693163:0;netstat -A
+: 1217693255:0;netstat -tanp
+: 1217693270:0;netstat -p
+: 1217693273:0;netstat -t
+: 1217693289:0;netstat -tp
+: 1217693296:0;netstat -tA
+: 1217693350:0;netstat tamp
+: 1217693373:0;mvn deployexit
+: 1217694053:0;sudo ./phoenix.sh stop
+: 1217694072:0;sudo env JAVA_HOME=/Library/Java/Home ./phoenix.sh stop
+: 1217694090:0;sudo env JAVA_HOME=/Library/Java/Home ./run.
+: 1217694193:0;!
+: 1217694200:0;netstat -a
+: 1217694214:0;man netstat
+: 1217694268:0;netstat -b -V
+: 1217694273:0;netstat -b -v
+: 1217694279:0;netstat -bv
+: 1217694282:0;netstat -b
+: 1217694291:0;netstat -v
+: 1217694330:0;lsof
+: 1217694348:0;man lsof
+: 1217694385:0;lsof -i
+: 1217703545:0;find /Users/takuya/ -size +1G -exec ls -lh {} \;
+: 1217703976:0;find . -size +1M -exec ls -lh {} \;
+: 1217703985:0;find . -size +1k -exec ls -lh {} \;
+: 1217704052:0;vi commons-codec-1.3.jar
+: 1217704224:0;cd /Users/takuya/Development/Server/james-2.3.1/bin
+: 1217704379:0;vi spoolmanager-2008-08-03-04-09.log 
+: 1217704400:0;vi spoolmanager-2008-08-03-04-08.log 
+: 1217704428:0;vi remotemanager-2008-08-03-04-09.log
+: 1217704450:0;vi objectstore-2008-08-03-04-09.log
+: 1217704457:0;vi objectstore-2008-08-03-04-08.log
+: 1217704467:0;vi james-2008-08-03-04-09.log
+: 1217704488:0;vi mailet-2008-08-03-00-39.log
+: 1217704612:0;tail -f smtpserver-2008-08-03-04-15.log
+: 1217704633:0;tail -f spoolmanager-2008-08-03-04-15.log
+: 1217704646:0;tail -f nntpstore-2008-08-03-04-15.log
+: 1217704655:0;tail -f default-2008-08-03-04-15.log
+: 1217704669:0;tail -f james-2008-08-03-04-15.log
+: 1217704677:0;tail -f mailet-2008-08-03-04-15.log
+: 1217705085:0;find /Users/takuya -size +500M -exec ls -lh {} \;
+: 1217705239:0;find /Users/takuya/Development/Server/james-2.3.1 -size +500M -exec ls -l {} \;
+: 1217705265:0;rm /Users/takuya/Development/Server/james-2.3.1/apps/james/var/mail/spool/4D61696C313231373730343537383435392D30.Repository.FileStreamStore
+: 1217725509:0;cd Development/Server/james-2.3.1/bin
+: 1217725517:0;cd james/SAR-INF
+: 1217725527:0;rm javaee-api-5.0-1.jar
+: 1217728653:0;sudo env JAVA_HOME=/Library/Java/Home ./run.sh
+: 1217728684:0;find /Users/takuya/Development/Server/james-2.3.1 -size +500M -exec ls {} \
+: 1217705261:0;find /Users/takuya/Development/Server/james-2.3.1 -size +500M -exec ls {} \; | pbcopy
+: 1217728689:0;find /Users/takuya/Development/Server/james-2.3.1 -size +500M -exec ls {} \
+: 1217705261:0;find /Users/takuya/Development/Server/james-2.3.1 -size +500M -exec ls {} \;
+: 1217728708:0;vi /Users/takuya/Development/Server/james-2.3.1/apps/james/var/mail/spool/4D61696C313231373732383636373632382D30.Repository.FileStreamStore
+: 1217728807:0;find /Users/takuya/Development/Server/james-2.3.1 -size +500M -exec ls -h {} \;
+: 1217729570:0;find /Users/takuya/Development/Server/james-2.3.1 -size +500M -exec ls -lh {} \;
+: 1217729585:0;find /Users/takuya/Development/Server/james-2.3.1 -size +500M -exec ls - {} \;
+: 1217729592:0;find /Users/takuya/Development/Server/james-2.3.1 -size +500M -exec ls - {} \; | pbcopy
+: 1217729599:0;rm /Users/takuya/Development/Server/james-2.3.1/apps/james/var/mail/spool/4D61696C313231373732383636373632382D30.Repository.FileStreamStore
+: 1217729927:0;find /Users/takuya/Development/Server/james-2.3.1 -size +500M -exec ls {} \; | pbcopy
+: 1217729938:0;find /Users/takuya/Development/Server/james-2.3.1 -size +500M -exec ls {} \;
+: 1217729941:0;find /Users/takuya/Development/Server/james-2.3.1 -size +500M -exec ls -ln {} \;
+: 1217729950:0;find /Users/takuya/ -size +500M -exec ls -ln {} \;
+: 1217731288:0;mkdir Development/Workspace/Eclipse/34-james-sources
+: 1217731294:0;cd Development/Workspace/Eclipse/34-james-sources
+: 1217732073:0;svn co http://svn.apache.org/james/server/branches/v2.3/ james-2.3.2-SNAPSHOT
+: 1217732503:0;svn co http://svn.apache.org/repos/james/server/branches/v2.3/ james-2.3.2-SNAPSHOT
+: 1217732598:0;svn checkout http://svn.apache.org/repos/asf/james/server/branches/v2.3 james-server-2.3.2-SNAPSHOT
+: 1217732754:0;cd james-server-2.3.2-SNAPSHOT
+: 1217734686:0;tree target
+: 1217734738:0;ant usage
+: 1217734747:0;./build.sh usage
+: 1217734773:0;./build.sh dist
+: 1217735233:0;cd dist
+: 1217735274:0;mkdir james
+: 1217735281:0;mv james-2.3.1 james/
+: 1217735390:0;ln -s /Users/takuya/Development/Workspace/Eclipse/34-james-sources/james-server-2.3.2-SNAPSHOT/dist/james-2.3.2 james-2.3.2
+: 1217735420:0;cd bi
+: 1217735777:0;find /Users/takuya/Development/Server/james-2.3.2 -size +500M -exec ls -ln {} \;
+: 1217735784:0;find /Users/takuya/Development/Server/james/james-2.3.2 -size +500M -exec ls -ln {} \;
+: 1217735787:0;find /Users/takuya/Development/Server/james/james-2.3.2 -size +100M -exec ls -ln {} \;
+: 1217736702:0;split
+: 1217736756:0;cd spool
+: 1217736770:0;man split
+: 1217736784:0;split -b 100m 4D61696C313231373733353732363131372D30.Repository.FileStreamStore
+: 1217737084:0;cd xaa
+: 1217737098:0;emacs xaa
+: 1217737819:0;rm spool/*
+: 1217737849:0;vi environment.xml
+: 1217737992:0;cd Development/Server/james/james-2.3.2
+: 1217737998:0;cd Development/Server/james/
+: 1217738025:0;cd james-2.3.2
+: 1217738056:0;cd /Users/takuya/Development/Workspace/Eclipse/34-james-sources/james-server-2.3.2-SNAPSHOT/dist/james-2.3.2
+: 1217738190:0;vi default-2008-08-03-1
+: 1217738223:0;vi default-2008-08-03-13-32.log
+: 1217738250:0;vi connections-2008-08-03-13-32.log
+: 1217738271:0;vi spoolmanager-2008-08-03-13-32.log
+: 1217738328:0;tree ../var/mail/spool
+: 1217738335:0;tree ../var/mail/spool -exec ln -ln
+: 1217738349:0;ln -ln 'tree ../var/mail/spool
+: 1217738358:0;ln -ln `tree ../var/mail/spool
+: 1217738427:0;vi mailet-2008-08-03-13-32.log
+: 1217738490:0;tail -f mailet-2008-08-03-13-41.log
+: 1217738511:0;tail -f spoolmanager-2008-08-03-13-41.log
+: 1217738524:0;tail -f smtpserver-2008-08-03-13-41.log
+: 1217738575:0;tail -f default-2008-08-03-13-41.log
+: 1217738581:0;cd /Users/takuya/Development/Workspace/Eclipse/34-james-sources/james-server/dist/james-2.3.2/apps/james/logs
+: 1217738587:0;tail -f objectstore-2008-08-03-13-41.log
+: 1217738600:0;tail -f scheduler-2008-08-03-13-41.log
+: 1217738612:0;tail -f james-2008-08-03-13-41.log
+: 1217738646:0;tail -f mailstore-2008-08-03-13-41.log
+: 1217739208:0;root
+: 1217740504:0;mvn package -e
+: 1217740691:0;emacs config.xml 
+: 1217741254:0;cd Server/james/james-2.3.1
+: 1217741710:0;cd Development/Server/james/james-2.3.1/apps/james/var
+: 1217741712:0;cd users
+: 1217741733:0;vi 4D61696C313231373734313437323739322D31.Repository.FileObjectStore
+: 1217741743:0;vi 4D61696C313231373734313437323739322D31.Repository.FileStreamStore
+: 1217742113:0;vi mailet-2008-08-03-14-40.log
+: 1217742226:0;vi mailet-2008-08-03-14-43.log
+: 1217744632:0;echo $TEMP
+: 1217744635:0;export
+: 1217750593:0;ls /tmp
+: 1217750606:0;cd /tmp
+: 1217776442:0;cd ~/.m2
+: 1217776454:0;cd ant
+: 1217776505:0;cd org/apache/maven/plugins/maven-antrun-plugin
+: 1217779216:0;mvn -Plocal deploy
+: 1217779313:0;mvn deploy -?
+: 1217779327:0;man mvn
+: 1217779346:0;mvn -o -Plocal deploy
+: 1217779482:0;mvn -Plocal package -e
+: 1217779897:0;echo JAMES_HOME
+: 1217779916:0;export JAMES_HOME=/Users/takuya/Development/Server/james-2.3.1
+: 1217779918:0;echo $JAMES_HOME
+: 1217780875:0;cd /Users/takuya/Development/Server/james-2.3.1/apps/james/SAR-INF/lib
+: 1217781117:0;cd /Users/takuya/Development/Workspace/Eclipse/34-dir/mushroom/mushroom-mailet
+: 1217781126:0;mvn -Plocal package
+: 1217781631:0;mvn -Plocal -Doverwrite-config=prod package
+: 1217781841:0;mvn -Doverwrite-config=dv package
+: 1217782145:0;mvn clean -Doverwrite-config=prod package
+: 1217782432:0;mvn -Doverwrite-config=prod package
+: 1217782529:0;mvn -Plocal -Doverwrite-config=dev package
+: 1217783364:0;mvn -Pwith-deploy package
+: 1217783577:0;mvn -Ddeploy-jars=true package
+: 1217783604:0;mvn -Doverwrite-config=dev package
+: 1217783695:0;mvn -Ddeploy-jars -Doverwrite-config=prod package
+: 1217783709:0;mvn -Ddeploy-jars -Doverwrite-config=dev package
+: 1217784087:0;vi mailet-2008-08-04-02-19.log 
+: 1217810713:0;svn delete build
+: 1217810926:0;svn add config
+: 1217810935:0;svn revert conf
+: 1217810939:0;svn revert -R conf
+: 1217810945:0;svn revert -R SAR-INF
+: 1217810983:0;svn delete SAR-INF
+: 1217816135:0;mvn eclipse:clean eclipse:eclipse -DdownloadSources=true -DdownloadJavadocs=true
+: 1217821406:0;cd Development/Workspace/PDT/dir
+: 1217821421:0;rm -Rf .
+: 1217821423:0;rm -Rf ./*
+: 1217821437:0;sudo rm -Rf ./*
+: 1217821456:0;sudo rm -Rf ./.*
+: 1217825702:0;cd Workspace/Eclipse/34-james
+: 1217825708:0;cd blueleaf-dir
+: 1217825731:0;svn disconnect
+: 1217829527:0;cd jquery
+: 1217829534:0;rm -Rf demos
+: 1217829538:0;sudo rm -Rf demos
+: 1217829552:0;sudo rm -Rf tests
+: 1217829555:0;ls-alt
+: 1217829571:0;cd assets
+: 1217829597:0;sudo rm -Rf docs tests examples
+: 1217829700:0;svn cleanup lib
+: 1217829777:0;find lib -name .svn
+: 1217829788:0;find lib -name .svn -exec
+: 1217829800:0;find lib -name .svn -exec rm {};
+: 1217829869:0;find lib -name .svn -exec rm -rf {} \;
+: 1217829874:0;sudo find lib -name .svn -exec rm -rf {} \;
+: 1217830469:0;mvn -Pjetty jetty:run-war
+: 1217830473:0;mvn -Pjetty jetty:run-war -e
+: 1217834938:0;cdLib
+: 1217835086:0;tree -
+: 1217835562:0;lfcd
+: 1217835600:0;find . -name .svn -exec rm -rf {} \;
+: 1217835629:0;chown -R takuya .
+: 1217836943:0;svn delete -Rf lib
+: 1217836950:0;svn delete -R --force lib
+: 1217836980:0;svn delete -R lib
+: 1217836991:0;svn delete --recursive lib
+: 1217836997:0;svn help delete
+: 1217837032:0;svn delete -force lib
+: 1217837059:0;svn revert lib
+: 1217837069:0;svn delete lib
+: 1217837822:0;svn add lib
+: 1217837897:0;cd jquery/
+: 1217837905:0;rm -Rf demos tests
+: 1217837916:0;rm -Rf docs examples tests
+: 1217838023:0;cd ~/Development/Workspace/Eclipse/34-dir/mushroom/mushroom-web-ui/src/main/webapp/
+: 1217838068:0;svn add webapp/lib
+: 1217838080:0;svn cleanup webapp/lib
+: 1217838083:0;svn cleanup webapp
+: 1217838092:0;svn cleanup --force webapp
+: 1217838099:0;svn cleanup  webapp --force
+: 1217838261:0;ls lib
+: 1217838265:0;tree -da lib
+: 1217838282:0;cd yui
+: 1217838305:0;svn unlock src/main
+: 1217838325:0;svn delete src/main/webapp/lib
+: 1217838336:0;rm -Rf src/main/webapp/lib
+: 1217838400:0;svn revert src/main/webapp/lib
+: 1217838435:0;cp -R lib ~/Development/Workspace/Eclipse/34-dir/mushroom/mushroom-web-ui/src/main/webapp/
+: 1217838451:0;svn add src/main/webapp/lib
+: 1217838468:0;svn stauts
+: 1217839427:0;cd assembla
+: 1217839454:0;mkdir design
+: 1217839462:0;svn add design
+: 1217839465:0;cd design
+: 1217839498:0;cp -R ~/Design/* .
+: 1217839506:0;svn add 
+: 1217845480:0;lsexit
+: 1217932586:0;cp -R ../mushroom-mailet-spi ./
+: 1217933946:0;exitpwd
+: 1217933967:0;svn co http://biwa.dev.blueleaf.co.jp/svn/dir/trunk/mushroom/mushroom-ldap
+: 1217934088:0;emacs pom.xml
+: 1217934374:0;target
+: 1217934374:0;*~
+: 1217934374:0;*.log
+: 1217934374:0;.classpath
+: 1217934374:0;.project
+: 1217934514:0;svn propdel target
+: 1217934524:0;svn propget .
+: 1217934527:0;svn propedit .
+: 1217934557:0;svn ci -m 'pom.xml ãƒ¬æƒªƒ¼ãƒ±ã¦ãƒ¤ãŸã®ã§ã‚³ãƒ£Ÿãƒ£ƒ£ãƒ£ƒ¨'
+: 1217980841:0;cd /Users/takuya/Development/Workspace/Eclipse/34-dir/mushroom
+: 1217988156:0;ls ..
+: 1217988853:0;cd mushrom
+: 1217988861:0;cd mushroom-era
+: 1217990376:0;cd mushroom-domains
+: 1217995570:0;cd mushroom-ui
+: 1217995588:0;cd mushroom-web-ui
+: 1217995825:0;cd   ~/Work
+: 1217995827:0;cd FHK
+: 1217995831:0;cd FHPortal
+: 1217995867:0;emacs banner_searchControl.jspf
+: 1218015850:0;lsl
+: 1218015865:0;cd apps/james
+: 1218015878:0;cd inboxes
+: 1218032183:0;svn add yui
+: 1218032196:0;svn add yui/build/datatable/assets/skins/sam/transparent.gif
+: 1218032221:0;svn delete yiu
+: 1218032223:0;svn delete yui
+: 1218032230:0;svn delete --force yui
+: 1218032625:0;cd ..'\
+ls
+: 1218032641:0;cd ../../../../../..
+: 1218032644:0;cd ../../../../../../..
+: 1218032648:0;cd ../../../../../../../..
+: 1218032655:0;cd 34-dir
+: 1218068564:0;cp -R Downloads/mmm-mode-0.4.8 ~/.emacs.d/elisp/mmm-mode
+: 1218068579:0;ls .emacs.d/elisp/mmm-mode
+: 1218095061:0;sudo gem install xrefresh
+: 1218095122:0;sudo gem install XRefresh
+: 1218098550:0;/Users/takuya/Development/Workspace/Eclipse/34-mushroom-20080807/mushroom/mushroom-web-ui
+: 1218098594:0;hg init
+: 1218098599:0;hg status
+: 1218098637:0;rm -R .hg
+: 1218098641:0;rm -Rf .hg
+: 1218171237:0;sudo find / -name "*parallels*" -exec rm -rf {} \;
+: 1218171334:0;sudo find / -name "*parallels*" -exec ln -alt \;
+: 1218172227:0;sudo find / -name "*parallels*"
+: 1218172338:0;ls -alt parallels
+: 1218172420:0;cd /Volumes/lu
+: 1218172421:0;cd /Volumes/
+: 1218178608:0;cd /Users/takuya/Development/Workspace/Eclipse/34-mushroom-20080807/mushroom/mushroom-web-ui
+: 1218180133:0;mushroom-mailet
+: 1218181438:0;mkdir vimperator
+: 1218181442:0;hg clone "http://hg.intevation.org/mirrors/mozdev.org/vimperator-cvs/"
+: 1218190050:0;mvn package -Dmaven.test.skip=false
+: 1218201121:0;svn add src/main/java
+: 1218201131:0;svn add src/main/java/jp/blueleaf/mushroom/web/service/aspects
+: 1218201160:0;cd src/main/java/jp/blueleaf/mushroom/web/service/aspects
+: 1218201168:0;svn delete .
+: 1218201183:0;rm -rf .svn
+: 1218201186:0;sudo rm -rf .svn
+: 1218201291:0;svn add java
+: 1218201356:0;svn revert java
+: 1218201370:0;svn delete java
+: 1218201377:0;rm -Rf java
+: 1218201809:0;tree -da
+: 1218202465:0;mvn eclipe:eclipse
+: 1218257477:0;ping security.ubuntu.com
+: 1218257491:0;ping jp.archive.ubuntu.com
+: 1218258787:0;ping download.java.net
+: 1218258799:0;ping snapshots.maven.codehaus.org
+: 1218258808:0;ping snapshots.repository.codehaus.org
+: 1218263103:0;cd ../mushroom-web-service
+: 1218264093:0;mkdir geronimo-sample
+: 1218264100:0;svn checkout http://svn.apache.org/repos/asf/geronimo/samples/trunk/
+: 1218264138:0;emacs pom.xml 
+: 1218265576:0;biwa@biwa.dev.blueleaf.co.jp
+: 1218266031:0;ping www.eclipse.org
+: 1218266470:0;ls spring-agent.jar
+: 1218266474:0;pwd spring-agent.jar
+: 1218266833:0;mvn clean site
+: 1218267773:0;mvn -Pjetty jetty:run -e
+: 1218267796:0;cd ../mushroom-web-u
+: 1218267982:0;curl http://localhost:9090/services/mails/page
+: 1218268426:0;ping java.sun.com
+: 1218272541:0;svn revert pom.xml
+: 1218274328:0;cd ../mushroom-web-ui
+: 1218274716:0;curl http://localhost:9090/mushroom
+: 1218274719:0;curl http://localhost:9090/mushroom/api
+: 1218413551:0;openssl sha1 PwnageTool_2.0.2.tbz
+: 1218414814:0;ssh root@10.0.20.14
+: 1218415672:0;mushroom deploy
+: 1218415686:0;mvn deploy -Dmaven.skip.test=true
+: 1218415715:0;mvn deploy -Dmaven.test.skip=true
+: 1218419337:0;curl http://biwa.dev.blueleaf.co.jp:8080/job/mushroom/build?delay=0sec
+: 1218419347:0;curl "http://biwa.dev.blueleaf.co.jp:8080/job/mushroom/build?delay=0sec"
+: 1218420503:0;ping feedparser.googlecode.com/
+: 1218420504:0;ping feedparser.googlecode.com
+: 1218424981:0;ping repo1.maven.org
+: 1218427644:0;mvn clean install
+: 1218427952:0;cd mushroom-web-service
+: 1218430151:0;export MAVEN_OPTS="-javaagent:/Users/takuya/Development/Server/jetty/jetty-6.1.11/lib/spring-agent.jar"
+: 1218430288:0;svn propedit svn:ignore mushroom-web
+: 1218430386:0;svn cleanup mushroom-web
+: 1218430398:0;cd sr
+: 1218430460:0;svn add mushroom-web-ui
+: 1218430477:0;svn add mushroom-web-ui/src
+: 1218430508:0;svn revert --recursive mushroom-web
+: 1218430612:0;cp -R mushroom-web ~/Desktop/
+: 1218430630:0;sudo find ~/Desktop/mushroom-web -name .svn -exec rm -rf {} \;
+: 1218430678:0;cp -R ~/Desktop/mushroom-web .
+: 1218430958:0;mvn archetype:generate 
+: 1218431052:0;cd mushroom-w
+: 1218431344:0;mkdir mushroom-web
+: 1218431408:0;cp -R mushroom-web-ui ~/Desktop/
+: 1218431426:0;cp -R mushroom-web-ui ~/Desktop/mushroom-backup/
+: 1218431611:0;rm -R mushroom-web
+: 1218431629:0;svn delete mushroom-web
+: 1218431697:0;svn revert mushroom-web
+: 1218431713:0;svn del mushroom-web-
+: 1218431714:0;svn del mushroom-web
+: 1218431818:0;svn revert mushroom-web-ui
+: 1218431826:0;svn revert mushroom-web-ui/src/main/resources/META-INF
+: 1218431887:0;mvn archetype:generate mushroom-web
+: 1218431899:0;mvn archetype:generate
+: 1218431986:0;cp ~/Desktop/mushroom-web/* ./
+: 1218431992:0;cp -R ~/Desktop/mushroom-web/* ./
+: 1218432161:0;svn add mushroom-web
+: 1218432252:0;svn revert target
+: 1218432301:0;svn delete target
+: 1218432313:0;svn revert --recursive target
+: 1218432352:0;svn propedit svn:ignore .
+: 1218432378:0;svn status | grep target
+: 1218432381:0;svn status | grep yui
+: 1218432384:0;svn status | grep main
+: 1218433653:0;ssh mushroom@host4.dev2.blueleaf.co.jp
+: 1218433674:0;ssh root@host4.dev2.blueleaf.co.jp
+: 1218439211:0;rm -R maven.1218437212253
+: 1218439214:0;rm -Rf maven.1218437212253
+: 1218439228:0;sudo rm -Rf mushroom
+: 1218454837:0;svn co http://svn.coderepos.org/share/lang/javascript/jsdeferred/trunk jsdeferred
+: 1218454846:0;cd jsdeferred
+: 1218454853:0;cd binding
+: 1218454856:0;vi jquery.js
+: 1218454900:0;vi jsdeferred.jquery.js
+: 1218466364:0;xit
+: 1218505848:0;cd /Developer/Applications/eclipse/eclipse-pdt/Eclipse.app/Contents/
+: 1218512863:0;ls ~/Library/Fonts
+: 1218512868:0;ls /Library/Fonts
+: 1218513010:0;ln -s  /Library/Fonts/MS\ *.ttf /Applications/Internet\ Explorer\ 6.0.app/Contents/Resources/ie6/drive_c/windows/Fonts/
+: 1218513118:0;cd /Applications/Internet\ Explorer\ 6.0.app
+: 1218513124:0;cd ie6
+: 1218513134:0;cd drive_c
+: 1218513137:0;cd Program\ Files
+: 1218513140:0;cd Internet\ Explorer
+: 1218513146:0;ls;
+: 1218513149:0;cd windows
+: 1218513165:0;ls -F
+: 1218513174:0;vi Info.plist
+: 1218513413:0;source . .zshrc
+: 1218520684:0;ifconofig
+: 1218588105:0;say
+: 1218603159:0;svn t
+: 1218603161:0;snv st
+: 1218603181:0;svn add .emacs.d/elisp/*
+: 1218603192:0;svn add .vimperator/plugin/*
+: 1218603205:0;svn add .emacs.d/conf/*
+: 1218682201:0;cd Development/Workspace/Aptana
+: 1218682204:0;cd bl
+: 1218682208:0;cd blueleaf
+: 1218682213:0;cd PDT
+: 1218682214:0;cd dir
+: 1218692667:0;cd A..
+: 1218692671:0;cd Aptana/dir
+: 1218692697:0;svn add lib/*
+: 1218692715:0;svn ci -m 'initial commit'
+: 1218692732:0;svn ci -m 'initial commit' --username tlync -password ludwigandpearl
+: 1218692803:0;svn revert .
+: 1218692805:0;svn ci -m 'initial commit' --username tlync
+: 1218724766:0;ssh root@192.168.1.255
+: 1218725972:0;scp root@192.168.1.165:/var/root/.ssh/id_rsa ~/Desktop/
+: 1218725984:0;ls Desktop
+: 1218772425:0;ls /Volumes
+: 1218772431:0;cd /Volumes/192.168.1.165
+: 1218772435:0;cd ssh
+: 1218772446:0;emacs ssh_config
+: 1218773072:0;ssh root@192.168.1.165
+: 1218773124:0;ls .ssh
+: 1218773135:0;cp ~/Desktop/id_rsa ./
+: 1218773171:0;ssh -i ~/.ssh/id_rsa root@192.168.1.165
+: 1218773864:0;ssh root@192.168.1.165 -i ~/.ssh/id_rsa
+: 1218773877:0;cd .ssh
+: 1218773892:0;mv id_rsa iphone_id_rsa
+: 1218776168:0;cd eclipse
+: 1218787351:0;nslookup aqua
+: 1218787357:0;nslookup aqua.dev2.blueleaf.co.jp.
+: 1218787363:0;nslookup ruby.dev2.blueleaf.co.jp.
+: 1218787369:0;nslookup emerald.dev2.blueleaf.co.jp.
+: 1218787804:0;ping host4.dev2.blueleaf.co.jp
+: 1218787841:0;man ssh
+: 1218787874:0;vi .ssh/known_hosts
+: 1218789459:0;ssh mushroom@10.0.20.17
+: 1218789484:0;ssh root@10.0.20.17
+: 1218794502:0;ls $JAVA_HOME
+: 1218794504:0;ls $JAVA_HOME/
+: 1218951648:0;cd Download
+: 1218952526:0;scp DSEE.6.3.Linux-X86-full.tar.gz mushroom@amber.dev2.blueleaf.co.jp:work/
+: 1218953050:0;scp 126751-04.zip mushroom@amber.dev2.blueleaf.co.jp:work/
+: 1218953872:0;scp java_es-5-identsuite-ga-linux-x86.zip mushroom@amber.dev2.blueleaf.co.jp:work/
+: 1218955235:0;scp 125309-07.zip mushroom@amber.dev2.blueleaf.co.jp:work/DSEE
+: 1218980528:0;man ports
+: 1218980535:0;port
+: 1218980581:0;sudo port search ldapvi
+: 1218980592:0;sudo port variants ldapvi
+: 1218980599:0;sudo port install ldapvi
+: 1218981076:0;sudo port search libglib
+: 1218981083:0;sudo port search libglib*
+: 1218981105:0;find / -name glib-2.0.pc
+: 1219051562:0;man ps auxl | grep notes
+: 1219051570:0;man ps auxi | grep notes
+: 1219051573:0;man ps
+: 1219051591:0;ps auxi | grep notes
+: 1219051596:0;ps auxl | grep notes
+: 1219051601:0;ps auxj | grep notes
+: 1219051607:0;ps aux -l | grep notes
+: 1219051651:0;ps aux -f | grep notes
+: 1219051656:0;ps aux -fmt | grep notes
+: 1219051658:0;ps fmt | grep notes
+: 1219051666:0;ps auxf | grep notes
+: 1219051694:0;ps auxo | grep notes
+: 1219051699:0;ps -o
+: 1219051720:0;ps -o uid
+: 1219051724:0;ps -o pid
+: 1219051741:0;ps -o pid, -o args
+: 1219051746:0;ps aux -o pid, -o args
+: 1219051751:0;ps aux -o pid, -o args | grep notes
+: 1219051762:0;ps ux -o pid, -o args | grep notes
+: 1219051769:0;ps -auo pid, -o args | grep notes
+: 1219051772:0;ps auo pid, -o args | grep notes
+: 1219051776:0;ps auo pid, o args | grep notes
+: 1219051799:0;sudo kill 483
+: 1219051864:0;ps x
+: 1219051915:0;kill -s 3 483
+: 1219051921:0;kill 483
+: 1219051925:0;3
+: 1219051954:0;kill -KILL 483
+: 1219051956:0;ps x | grep notes
+: 1219067391:0;cp Downloads/crafterm-twilight-emacs-6d3a2401030bbe6915d60349d2ad64026c389356/crafterm-twilight-emacs-6d3a2401030bbe6915d60349d2ad64026c389356/color-theme-twilight.el ~/.emacs.d/elisp/color-theme/themes/
+: 1219070355:0;svn delete .emacs.d/elisp/moinmoin-mode.el.\~14\~
+: 1219070367:0;svn add .emacs.d/*.el
+: 1219070370:0;svn add -R .emacs.d/*.el
+: 1219070382:0;svn add help
+: 1219070385:0;svn help add
+: 1219070396:0;svn add .
+: 1219070400:0;svn add ./
+: 1219070415:0;svn add .emacs.d/conf/*.el
+: 1219070436:0;svn add .emacs.d/elisp/color-theme/themes/*.el
+: 1219070447:0;svn add .emacs.d/elisp/linum.el
+: 1219070467:0;svn ci -m 'added linum.el etc'
+: 1219109109:0;jar -xvf mozlab.jar mozlab/
+: 1219109133:0;man jar
+: 1219110000:0;cpan
+: 1219110122:0;man port
+: 1219110125:0;port man
+: 1219110129:0;port help
+: 1219110132:0;port ?
+: 1219110141:0;sudo port install lynx
+: 1219110269:0;sudo port install ncftp
+: 1219110326:0;sudo port install gnupg
+: 1219110432:0;sudo cpan
+: 1219122699:0;rm .emacs.d/elisp/javascript-mode.el
+: 1219122719:0;svn add ./*
+: 1219122727:0;svn add .*
+: 1219122734:0;svn add ./.*
+: 1219122745:0;svn add -R .*
+: 1219122750:0;svn -R add  .*
+: 1219122754:0;svn add  .* -R
+: 1219122772:0;emacs .zshrc
+: 1219122848:0;source .zshrc
+: 1219122855:0;svnst
+: 1219122875:0;svn ci -m 'added moz.el init-firefox.el'
+: 1219150686:0;ping 192.168.158.140
+: 1219194705:0;ping 172.16.14.131
+: 1219196301:0;vi /etc/hosts
+: 1219196307:0;sudo vi /etc/hosts
+: 1219196327:0;ping pallas
+: 1219198002:0;mvn update
+: 1219198126:0;cd ../mushroom-ear
+: 1219198513:0;wget http://jdbc.postgresql.org/download/postgresql-8.3-603.jdbc3.jar
+: 1219200332:0;mvn package -Dmaven.skip.test=true
+: 1219241221:0;cd /opt/local/etc
+: 1219243533:0;cd /Users/takuya/Development/Workspace/Aptana/dir/js-sandbox
+: 1219243590:0;source ~/.zshrc
+: 1219243609:0;svn add -f
+: 1219243613:0;svn add --force
+: 1219243618:0;svn add --force *
+: 1219243639:0;svn ci -m 'added searchbox ui'
+: 1219279075:0;mvn install -Dmaven.skip.test=tre
+: 1219279078:0;mvn install -Dmaven.skip.test=true
+: 1219282570:0;mvn test -Pjetty jetty:run -Dmaven.test.skip=true
+: 1219283933:0;curl http://localhost:9090/mushroom/api/mails/page1
+: 1219285851:0;mkdir bluecode
+: 1219285852:0;cd bluecode
+: 1219285902:0;svn export http://svn.assembla.com/svn/bluecode bluecode-exported
+: 1219285937:0;cd bluecode-exported
+: 1219285948:0;cd js-sandbox
+: 1219291983:0;cd yui-extension
+: 1219291992:0;rm -R yui-extension
+: 1219292002:0;rm -Rf yui-extension
+: 1219295125:0;cd ../../../..
+: 1219304688:0;curl http://localhost:9090/mushroom/api/mails/page1?sdf-sdlfkse==sdfke
+: 1219304703:0;curl http://localhost:9090/mushroom/api/mails/page1?strart=0&limit=25
+: 1219304735:0;curl http://localhost:9090/mushroom/api/mails/page?strart=0&limit=25
+: 1219304741:0;curl http://localhost:9090/mushroom/api/mails/page?start=0&limit=25
+: 1219304873:0;curl http://localhost:9090/mushroom/api/mails/page1?offset=0&limit=25&
+: 1219304879:0;curl http://localhost:9090/mushroom/api/mails/page1?offset=0&limit=25
+: 1219304887:0;curl http://localhost:9090/mushroom/api/mails/page1?offset=0
+: 1219304907:0;curl http://localhost:9090/mushroom/api/mails/page1?mailingListIds=&offset=0
+: 1219304920:0;curl "http://localhost:9090/mushroom/api/mails/page1?mailingListIds=&offset=0"
+: 1219328451:0;curl "http://localhost:9090/mushroom/api/mails/page1?start=0&offset=0"
+: 1219378795:0;rm ajcore.*.txt
+: 1219380413:0;ping biwa.dev.blueleaf.co.jp
+: 1219381642:0;find / -name openldap
+: 1219381646:0;find /opt -name openldap
+: 1219381653:0;find /opt -name openldap -wc
+: 1219381657:0;find /opt -name openldap | wc
+: 1219381661:0;find /opt -name openldap | pbcopy
+: 1219381671:0;cd /opt/local/etc/openldap
+: 1219381698:0;find / -name libexec/openldap
+: 1219381708:0;cd /opt/
+: 1219381817:0;sudo /opt/local/libexec/slapd 
+: 1219381828:0;ps aux slapd
+: 1219381946:0;scp ~/Desktop/ root@amber.dev2.blueleaf.co.jp:/opt/sun/ds6/schema/50ns-mail.ldif
+: 1219381963:0;scp root@amber.dev2.blueleaf.co.jp:/opt/sun/ds6/schema/50ns-mail.ldif ~/Desktop/
+: 1219382010:0;cp ~/Desktop/50ns-mail.ldif /opt/local/etc/openldap/schema
+: 1219382013:0;sudo cp ~/Desktop/50ns-mail.ldif /opt/local/etc/openldap/schema
+: 1219382026:0;vi /opt/local/etc/openldap/slapd.conf
+: 1219382032:0;sudo vi /opt/local/etc/openldap/slapd.conf
+: 1219382129:0;sudo emacs /opt/local/etc/openldap/schema/core.ldif
+: 1219382171:0;sudo /opt/local/libexec/slapd stop
+: 1219382179:0;sudo /opt/local/libexec/slapd help
+: 1219382183:0;sudo man /opt/local/libexec/slapd
+: 1219382244:0;sudo /opt/local/libexec/slapd restart
+: 1219382479:0;man openldap
+: 1219382831:0;cd etc/openldap
+: 1219384027:0;ssh root@pallas1
+: 1219384053:0;vi ~/.ssh/known_hosts
+: 1219384091:0;ssh root@172.16.13.141
+: 1219384109:0;ssh root@172.16.14.131
+: 1219389088:0;say enumeration
+: 1219389127:0;say entry
+: 1219389140:0;say I am john
+: 1219410615:0;cexitxit
+: 1219411629:0;export MAVEN_OPTS="-Xms256M -Xmx256M -javaagent:/Users/takuya/Development/Server/jetty/jetty-6.1.11/lib/spring-agent.jar"
+: 1219462776:0;rm ajcore*
+: 1219462814:0;export MAVEN_OPTS="-Xms256M -Xmx512M -javaagent:/Users/takuya/Development/Server/jetty/jetty-6.1.11/lib/spring-agent.jar"
+: 1219495538:0;cd
+: 1219501770:0;ping 192.168.1.255
+: 1219501985:0;ping 192.168.1.142
+: 1219552403:0;mvn package -maven.test.skip=true
+: 1219552647:0;scp root@pearl.dev2.blueleaf.co.jp:/opt/ibm/db2/V9.5/java/db2jcc.jar ~/Downloads
+: 1219552896:0;scp root@pearl.dev2.blueleaf.co.jp:/opt/ibm/db2/V9.5/java/db2jcc_license_cu.jar ~/Downloads
+: 1219553743:0;ld
+: 1219553755:0;find ~/ -name cmbicmenvini
+: 1219553764:0;find ~ -name cmbicmenvini
+: 1219553774:0;find ~ -name cmbicmenv.ini
+: 1219556815:0;cd ../mushroom-ear/ls
+: 1219556825:0;mvn package install
+: 1219565967:0;ãƒ¤ãƒ¨6
+: 1219573559:0;nslookup 192.168.1.134
+: 1219588531:0;say illeagal
+: 1219638843:0;cd /opt//IBM/local
+: 1219638845:0;cd opt
+: 1219638991:0;vi 50ns-mail.ldif
+: 1219639161:0;sudo vi 50ns-mail.ldif
+: 1219639178:0;mv 50ns-mail.ldif 50ns-mail.schema
+: 1219639180:0;sudo mv 50ns-mail.ldif 50ns-mail.schema
+: 1219639189:0;vi core.ldif
+: 1219639209:0;vi openldap.ldif
+: 1219639219:0;vi core.shce
+: 1219639224:0;vi core.schema
+: 1219639243:0;vi ../slapd.conf
+: 1219639248:0;sudo vi ../slapd.conf
+: 1219639298:0;find /usr -name slapd
+: 1219639333:0;sudo find / -name libexec
+: 1219639342:0;cd /opt
+: 1219639363:0;cd libexec
+: 1219639372:0;vi slapd
+: 1219639387:0;sudo ./slapd status
+: 1219639393:0;sudo ./slapd start
+: 1219639701:0;cd openldap
+: 1219639747:0;kill -k 6163
+: 1219639752:0;kill KILL 6163
+: 1219639754:0;sudo kill KILL 6163
+: 1219639872:0;kill -INT `cat /usr/local/var/slapd.pid`
+: 1219639875:0;sudo kill -INT `cat /usr/local/var/slapd.pid`
+: 1219639922:0;find / -name slapd.pid
+: 1219639927:0;sudo find / -name slapd.pid
+: 1219640038:0;sudo find /usr -name slapd.pid
+: 1219640049:0;sudo find /opt -name slapd.pid
+: 1219640138:0;ls -alt /opt/local/var/run
+: 1219640182:0;ls /opt/local/var/run
+: 1219640193:0;man kill
+: 1219640218:0;vi slapd.conf
+: 1219640243:0;sudo kill -INT `/opt/local/var/run/slapd.pid`
+: 1219640255:0;sudo kill -INT `cat /opt/local/var/run/slapd.pid`
+: 1219640274:0;sudo vi slapd.conf
+: 1219640324:0;sudo /opt/local/libexec/slapd
+: 1219640328:0;ps aux | grep slapd
+: 1219641027:0;slapcat
+: 1219641046:0;which slapcat
+: 1219641095:0;slapcat -f /opt/local/etc/openldap/slapd.conf
+: 1219641101:0;sudo slapcat -f /opt/local/etc/openldap/slapd.conf
+: 1219732449:0;curl http://localhost:9090/mushroom/api/messages
+: 1219757877:0;vi startup.sh
+: 1219757885:0;emacs startup.sh
+: 1219840716:0;lexit
+: 1219919124:0;svn cleanup
+: 1219919301:0;svn st | grep '^\?'
+: 1219919305:0;svn st | grep '^\D'
+: 1219919340:0;svn st | grep '^D'
+: 1219919434:0;svn st | grep '^\D' | sed -e 's/\D/[ ]*/ls /g'
+: 1219919782:0;svn ci help
+: 1219919788:0;svn help ci
+: 1219920101:0;svn st | grep '^\D' | sed -e 's/\D[ ]*/ls /g' -a ' '
+: 1219920112:0;svn st | grep '^\D' | sed -ea ' ' 's/\D[ ]*/ls /g'
+: 1219920127:0;svn st | grep '^\D' | sed -a 'a' -e 's/\D[ ]*/ls /g'
+: 1219920134:0;svn st | grep '^\D' | sed a 'a' -e 's/\D[ ]*/ls /g'
+: 1219920189:0;svn st | grep '^\D' | sed  -e 'a s/\D[ ]*/ls /g'
+: 1219920272:0;svn st | grep '^\D' | sed  -e 'i\s/\D[ ]*/ls /g'
+: 1219920275:0;svn st | grep '^\D' | sed  -e 'is/\D[ ]*/ls /g'
+: 1219920278:0;svn st | grep '^\D' | sed  -e 's/\D[ ]*/ls /g'
+: 1219927966:0;export MAVEN_OPTS="-Xms256M -Xmx256M -XX:PermSize=128m -XX:MaxPermSize=128m -javaagent:/Users/takuya/Development/Server/jetty/jetty-6.1.11/lib/spring-agent.jar"
+: 1219929738:0;cd ../mushroom-mailet
+: 1219930179:0;cd ../mushroom-mailet-spi
+: 1220053981:0;mvn jetty:run
+: 1220054123:0;cd .../
+: 1220056799:0;	cd /Users/takuya/Development/Workspace/Eclipse/34-mushroom-20080807/mushroom/mushroom-web
+: 1220109911:0;subscriptions
+: 1220112372:0;curl http://localhost:9090/mushroom/api/mails
+: 1220118405:0;mvn deploy
+: 1220123046:0;ke6
+: 1220167033:0;cd ../mushroom-we
+: 1220171283:0;mvn -Pjetty run
+: 1220171760:0;ls samples
+: 1220171775:0;cd samples/timereport
+: 1220171781:0;cd timereport-jetty
+: 1220171788:0;cd plan
+: 1220171790:0;vi plan.xml
+: 1220171819:0;cd timereport-war
+: 1220176257:0;cd ../../secure-app
+: 1220176351:0;rm -Rf secure-app
+: 1220177329:0;find . -name webdefault.xml
+: 1220185434:0;ps aux | eclipse
+: 1220187988:0;cd mushroom-domain-service -Dmaven.test.skip=true
+: 1220236229:0;	cd /Users/takuya/Development/Workspace/Eclipse/34-mushroom-20080807/mushroom/mushroom-ear
+: 1220254098:0;mvn test-compile
+: 1220255425:0;mvn clean compile test-compile
+: 1220255922:0;curl http://localhost:9090/mushroom/api/mails/1/comments
+: 1220255925:0;curl http://localhost:9090/mushroom/api/mails/0/comments
+: 1220255939:0;curl http://localhost:9090/mushroom/api/labels/
+: 1220255942:0;curl http://localhost:9090/mushroom/api/labels/0,1,2
+: 1220255948:0;curl http://localhost:9090/mushroom/api/labels/0;1
+: 1220256223:0;curl http://localhost:9090/mushroom/api/labels/0,1
+: 1220256224:0;curl http://localhost:9090/mushroom/api/labels/0
+: 1220256228:0;curl http://localhost:9090/mushroom/api/labels/2
+: 1220256230:0;curl http://localhost:9090/mushroom/api/labels/3h4
+: 1220256232:0;curl http://localhost:9090/mushroom/api/labels/5
+: 1220256237:0;curl http://localhost:9090/mushroom/api/labels
+: 1220256245:0;curl http://localhost:9090/mushroom/api/labels/1
+: 1220256248:0;curl http://localhost:9090/mushroom/api/labels/3
+: 1220256257:0;curl http://localhost:9090/mushroom/api/labels/3,1,2/children
+: 1220256304:0;curl http://localhost:9090/mushroom/api/mails/page
+: 1220256830:0;cd ../mushroom-domain
+: 1220256845:0;cd ../mushroom-domain-service
+: 1220256868:0;cd..
+: 1220256877:0;cd mvn eclipse:eclipse
+: 1220258634:0;mvn eclipse:eclipppse
+: 1220273128:0;exp
+: 1220280230:0;cp -R mushroom-web ~/Desktiop/mush-web
+: 1220280243:0;cp -R /mushroom-web ~/Desktiop/mush-web
+: 1220280261:0;mkdir ~/Desktop/mush-web
+: 1220280274:0;cp -R * ~/Desktop/mush-web
+: 1220280308:0;sudo find . -name .svn -exec rm -rf {} \;
+: 1220280468:0;cp -R * ~/Development/Workspace/Eclipse/34-mushroom-200800901/mushroom/mushroom-web/
+: 1220280475:0;cp -Rf * ~/Development/Workspace/Eclipse/34-mushroom-200800901/mushroom/mushroom-web/
+: 1220280483:0;sudo cp -Rf * ~/Development/Workspace/Eclipse/34-mushroom-200800901/mushroom/mushroom-web/
+: 1220316610:0;cd 34-mushroom-20080807
+: 1220316624:0;cd src/main
+: 1220316642:0;vi geronimo-web.xml
+: 1220317235:0;cd ~/Temp
+: 1220317238:0;cd geronimo-sample
+: 1220317239:0;cd t
+: 1220317240:0;cd trunk
+: 1220317259:0;cd calculator
+: 1220317266:0;cd calculator-ejb
+: 1220317301:0;cd calculator-e
+: 1220317304:0;cd calculator-ear
+: 1220319542:0;cd geronimo-jetty6-javaee5-2.1.2
+: 1220319803:0;geronimo.sh ?
+: 1220319807:0;geronimo.sh
+: 1220319810:0;./geronimo.sh
+: 1220319822:0;./geronimo.sh start -v
+: 1220319826:0;tail -f /Users/takuya/Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.2/var/log/geronimo.out
+: 1220320881:0;cd ../../../../..
+: 1220320917:0;sudo chmod -R takuya ./*
+: 1220322433:0;cd dje
+: 1220322443:0;cd so
+: 1220322447:0;cd test
+: 1220322456:0;vi applicationContext-spring25
+: 1220322461:0;vi applicationContext-spring25.xml
+: 1220322491:0;cd api
+: 1220322499:0;cd spi
+: 1220322501:0;cd spring
+: 1220322503:0;cd container
+: 1220322504:0;cd servlet
+: 1220327312:0;cd /Developer/Applications/eclipse/eclipse-3.4/Eclipse.app/Contents/MacOS
+: 1220327323:0;./eclipse -clean
+: 1220329773:0;cd ~/Development
+: 1220332599:0;cd  ~/Desktop/mush-web
+: 1220332610:0;sudo cp -Rf * ~/Development/Workspace/Eclipse/34-mushroom-20080902/mushroom/mushroom-web/
+: 1220332630:0;cd  ~/Development/Workspace/Eclipse/34-mushroom-20080902/mushroom/mushroom-web/
+: 1220332649:0;sudo chown -R takuya .
+: 1220333899:0;cd 34-mushroom-200800901
+: 1220333919:0;her
+: 1220333976:0;cd ../../../34-mushroom-20080902/mushroom/mushroom-web
+: 1220335170:0;curl http://localhost:8080/mushroom
+: 1220335966:0;ls ------alt
+: 1220335978:0;svnSt
+: 1220336657:0;mvn install -Dmaven.test.skipt=rue
+: 1220336659:0;mvn install -Dmaven.test.skipt=true
+: 1220339023:0;cd ~/Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.2
+: 1220339033:0;deploy.sh start
+: 1220340409:0;cd Notes.app/Contents
+: 1220340412:0;cd ma
+: 1220340418:0;cd rcp
+: 1220340454:0;./Notes -basic
+: 1220340668:0;~/.zshrc
+: 1220342172:0;svn co http://svn.apache.org/repos/asf/directory/apacheds/trunk-with-dependencies/ apacheds-trunk
+: 1220342311:0;Temp
+: 1220342317:0;cd apacheds-trunk/
+: 1220345360:0;mvn dependency:copy
+: 1220345390:0;mvn dependency:copy-dependencies
+: 1220347541:0;curl http://localhost:8080/mushroom/api/labels
+: 1220347555:0;curl http://localhost:8080/mushroom/api/mails
+: 1220347792:0;curl http://localhost:8080/mushroom/api
+: 1220347939:0;cd jersey-0.8
+: 1220347996:0;cd contribs
+: 1220348106:0;mkdir jersey-newer
+: 1220348108:0;cd jersey-newer
+: 1220348112:0;svn checkout https://jersey.dev.java.net/svn/jersey/trunk jersey --username guest
+: 1220348232:0;cd jersey
+: 1220348238:0;cd samples
+: 1220348246:0;cd spring-annotations
+: 1220348365:0;cd we
+: 1220348369:0;cd webapp
+: 1220348370:0;cd WEB-INF
+: 1220348412:0;cd java
+: 1220348414:0;cd com
+: 1220348417:0;cd sun/jersey/samples/springannotations/resources
+: 1220348421:0;vi JerseyAutowiredResource.java
+: 1220348447:0;vi SpringResourcedResource.java
+: 1220348485:0;vim SpringAutowiredResource.java
+: 1220348502:0;cd model
+: 1220348506:0;vi Item
+: 1220348523:0;vi applicationContext.xml
+: 1220348542:0;cd assembly
+: 1220348544:0;vi src.xml
+: 1220348601:0;mvn glassfish:run
+: 1220348710:0;curl http://localhost:8080/
+: 1220349204:0;curl http://localhost:8080/mushroom/apils
+: 1220349248:0;cd /Users/takuya/Development/Workspace/Eclipse/34-james/blueleaf-dir-models
+: 1220349267:0;cd /Users/takuya/Development/Workspace/Eclipse/
+: 1220353337:0;curl http://localhost:8080/mushroom/api/subscriptions?offset=0
+: 1220353346:0;curl http://localhost:8080/mushroom/api/subscriptions?offset=0&limit=25
+: 1220353357:0;curl "http://localhost:8080/mushroom/api/subscriptions?offset=0&limit=25"
+: 1220361812:0;mvn -Pjetty jetty:rn
+: 1220372176:0;curl http://localhost:9090/mushroom/api/subscriptions
+: 1220373761:0;ssh root@asparagus.eb.blueleaf.co.jp
+: 1220373813:0;ping asparagus.eb.blueleaf.co.jp
+: 1220418672:0;nslookup mrclient.eb.blueleaf.co.jp
+: 1220418682:0;ping 192.168.1.127
+: 1220425749:0;ping mrclient.eb.blueleaf.co.jp
+: 1220425879:0;ifconfig | grep en0
+: 1220425885:0;ifconfig | grep 192
+: 1220501050:0;cp -R ~/Desktop/mushroom20080903-backup
+: 1220501056:0;cp -R . ~/Desktop/mushroom20080903-backup
+: 1220505937:0;ifclear
+: 1220507401:0;if\
+\
+\
+\
+\
+\
+\
+i\
+\
+cclear\
+
+: 1220507406:0;cpwd
+: 1220507442:0;cd ~/Desktop/mushroom-web
+: 1220507459:0;ls | grep web
+: 1220507472:0;cdd ..
+: 1220575972:0;cd web-sample
+: 1220581416:0;cp Downloads/dabbrev-*.el ~/.dotfiles/.emacs.d/elisp/dabbrev/
+: 1220581433:0;cp Downloads/dabbrev-*.el "~/.dotfiles/.emacs.d/elisp/dabbrev/"
+: 1220581477:0;mkdir .dotfiles/.emacs.d/elisp/dabbrev
+: 1220581481:0;cp Downloads/dabbrev-*.el ... "~/.dotfiles/.emacs.d/elisp/dabbrev/"
+: 1220581527:0;cp Downloads/dabbrev-highlight.el .dotfiles/.emacs.d/elisp/dabbrev/
+: 1220581530:0;cp Downloads/dabbrev-ja.el .dotfiles/.emacs.d/elisp/dabbrev/
+: 1220581712:0;cd .mals
+: 1220581782:0;ln -s .emacs.d .dotfiles/.emacs.d
+: 1220581915:0;cd~
+: 1220581918:0;cd  `\
+ls
+: 1220581945:0;ls .dotfiles
+: 1220581949:0;ls -alt.dotfiles
+: 1220581952:0;ls -alt .dotfiles
+: 1220581959:0;ls -alt .dotfiles/.emacs.
+: 1220581960:0;ls -alt .dotfiles/.emacs.d
+: 1220581984:0;rm .emacs.d
+: 1220581998:0;cd .emacs.d
+: 1220582003:0;mkdir dabbrev
+: 1220582018:0;cp ~/Downloads/dabbrev-*.el .
+: 1220582027:0;mv dabbrev*.el dabbrev/
+: 1220582053:0;rm -Rf dabbrev
+: 1220582055:0;cd elisp
+: 1220582058:0;cd dabbrev
+: 1220582061:0;cd color-theme
+: 1220582066:0;gls
+: 1220582076:0;vi init-dabbrev.el
+: 1220582094:0;vi .emacs.el
+: 1220582119:0;ln -s .dotfiles/.emacs.d .emacs.d
+: 1220582134:0;cd .emacs.d/elisp/dabbrev
+: 1220582149:0;cd .dotifile
+: 1220582164:0;svn add
+: 1220582168:0;svn add *
+: 1220582189:0;svn ci -m 'added dabbrev'
+: 1220589195:0;ping svrhq011.rhq.dir.co.jp
+: 1220590119:0;ssh svrhq010.rhq.dir.co.jp
+: 1220593510:0;mvn clean install package -Dmaven.test.skip=true
+: 1220593520:0;mvn clean install package eclipse:eclipse -Dmaven.test.skip=true
+: 1220598086:0;mvn eclipse:eclipes
+: 1220603674:0;curl http://localhost:8080/mushroom/api/subscriptions
+: 1220604087:0;cd Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.2/
+: 1220604091:0;cd log
+: 1220604096:0;vi server-log4j.properties
+: 1220623057:0;cd vimperator
+: 1220623058:0;cd vimperator-cvs
+: 1220623064:0;cd vimperator-pl
+: 1220623289:0;cp feedSomeKeys.js migemo_completion.js ~/.dotfiles/.vimperator/plugin/
+: 1220625995:0;~
+: 1220625998:0;cd do
+: 1220626025:0;svn ci -m 'some updates'
+: 1220683828:0;ssh root@svrhq011.rhq.dir.co.jp
+: 1220686232:0;svn co http://svn.apache.org/repos/asf/directory/studio/trunk studio
+: 1220686531:0;cd studio
+: 1220686612:0;grep SSL connection-core/* 
+: 1220686629:0;grep -R SSL connection-core/* 
+: 1220686676:0;vi connection-core/src/main/java/org/apache/directory/studio/connection/core/io/jndi/JNDIConnectionWrapper.java
+: 1220696248:0;ssh root@svrhq010.rhq.dir.co.jp
+: 1220727377:0;dddddddddddd
+: 1220727544:0;version
+: 1220727547:0;say hello
+: 1220750557:0;port search git
+: 1220750603:0;port variants git-core
+: 1220750721:0;sudo port outdated
+: 1220750797:0;sudo port install git-core +svn +gitweb
+: 1220752216:0;sudo port install git-core +gitweb
+: 1220752237:0;sudo port clean git-core
+: 1220752257:0;sudo port variants git-core
+: 1220752271:0;sudo port install git-core
+: 1220753511:0;man git
+: 1220753694:0;_git clone git://github.com/raid-ox/chain.js.git chain.js
+: 1220753711:0;mkdir chain.js
+: 1220753716:0;cd chain.js
+: 1220753720:0;_git clone git://github.com/raid-ox/chain.js.git
+: 1220753731:0;sudo _git clone git://github.com/raid-ox/chain.js.git
+: 1220753739:0;git
+: 1220753751:0;__git
+: 1220753754:0;_git
+: 1220753757:0;_git usage
+: 1220753760:0;_git clone
+: 1220753962:0;chmod u+x *.sh
+: 1220753967:0;./generate.sh
+: 1220753985:0;cd build
+: 1220753988:0;vi chain.js
+: 1220754096:0;vi re
+: 1220754108:0;vi readme.txt
+: 1220771501:0;cd Volume
+: 1220771537:0;public static void main(String[] args){}
+: 1221101185:0;crontab -e
+: 1221107801:0;ssh mushroom 2svrhq010.rhq.dir.co.jp
+: 1221125062:0;takuya fujimura 
+: 1221133921:0;cd  /Users/takuya/Development/Workspace/Eclipse/34-mushroom-20080902/mushroom/mushroom-ldap
+: 1221134021:0;cd test-classes
+: 1221134085:0;cd classes
+: 1221137988:0;cd>./../
+: 1221180693:0;ssh mushroom 2amber.dev2.blueleaf.co.jp
+: 1221182675:0;cd ../mushroom-ldap
+: 1221182781:0;mvn -Ddeploy-jars package
+: 1221182817:0;mvn -Doverwrite-config-dev package
+: 1221183016:0;cd /Developer/Servers
+: 1221183021:0;cd /Users
+: 1221183059:0;cd apps/v
+: 1221183062:0;cd jame
+: 1221183093:0;y
+: 1221183094:0;rm error/*
+: 1221183106:0;telnet localhost 4545
+: 1221183580:0;telnet localhost 1025
+: 1221183685:0;cd Development/Server/james/james-2.3.1
+: 1221183689:0;cdLogs
+: 1221183693:0;cdLog
+: 1221183694:0;lscd 
+: 1221183698:0;vi po
+: 1221183704:0;vi phoenix.log
+: 1221183735:0;cd logs
+: 1221183766:0;vi mailet-2008-09-12-10-30.log
+: 1221184951:0;tail -f mailet-2008-09-12-11-01.log
+: 1221185431:0;tail -f mailet-2008-09-12-11-10.log
+: 1221188258:0;tail -f mailet-2008-09-12-11-57.log
+: 1221192670:0;telnet localhost 4555
+: 1221193153:0;}tree
+: 1221193205:0;tail -f mailet-2008-09-12-13-18.log
+: 1221193386:0;tail -f mailet-2008-09-12-13-22.log
+: 1221193531:0;lo
+: 1221193540:0;tail -f mailet-2008-09-12-13-25.log
+: 1221193933:0;tail -f mailet-2008-09-12-13-32.log
+: 1221194124:0;tail -f mailet-2008-09-12-13-35.log
+: 1221194778:0;mkdir mushroom-error
+: 1221194783:0;rm mushroom-error
+: 1221194786:0;rm -R mushroom-error
+: 1221194794:0;mvn -Doverwrite-config=dev -Ddeploy-jars package
+: 1221194822:0;tail -f mailet-2008-09-12-13-46.log
+: 1221194967:0;tail -f mailet-2008-09-12-13-49.log
+: 1221194986:0;tail 100  mailet-2008-09-12-13-49.log
+: 1221194995:0;vi mailet-2008-09-12-13-49.log
+: 1221195750:0;vi mailet-2008-09-12-14-02.log
+: 1221195820:0;vi mailet-2008-09-12-14-03.log
+: 1221195942:0;vi mailet-2008-09-12-14-05.log
+: 1221196262:0;vi mailet-2008-09-12-14-10.log
+: 1221196318:0;tail -f mailet-2008-09-12-14-10.log
+: 1221197212:0;rm ./*
+: 1221197218:0;rm -f ./*
+: 1221200116:0;mvn -Doverwrite-config=dev -Ddeploy-jars package -Dmaven.test.skip=true
+: 1221200140:0;tail -f mailet-2008-09-12.log
+: 1221202135:0;cd Development/Workspace/Eclipse/
+: 1221202530:0;ssh mushroom@svrhq010.rc.dir.co.jp
+: 1221202537:0;ssh mushroom@svrhq010.dir.co.jp
+: 1221204387:0;ping svrhq01.rhq.dir.co.jp
+: 1221204392:0;ping svrhq010.rhq.dir.co.jp
+: 1221206698:0;curl http://amber.dev2.blueleaf.co.jp:80/console
+: 1221206704:0;curl http://amber.dev2.blueleaf.co.jp/connect
+: 1221206706:0;curl http://amber.dev2.blueleaf.co.jp
+: 1221206709:0;curl http://amber.dev2.blueleaf.co.jp/console
+: 1221216175:0;ssh geronimo@amber.dev2.blueleaf.co.jp
+: 1221226782:0;cp target/mushroom-domain-service-0.0.1-SNAPSHOT-client.jar ../mushroom-mailet/target/dependencies
+: 1221226909:0;scp mushroom-mailet.zip mushroom@svrhq010.rhq.dir.co.jp:
+: 1221226938:0;ssh mushroom@svrhq010.rhq.dir.co.jp
+: 1221275479:0;cd DEveopment
+: 1221275481:0;cd De
+: 1221275530:0;cp -R ~/Development/Workspace/Eclipse/34-mushroom-20080902/mushroom ~/Development/temp
+: 1221275643:0;cd resources
+: 1221275646:0;cd Me
+: 1221275650:0;vi persistence.xml
+: 1221275761:0;cd mushroom-ear-0.0.1-SNAPSHOT
+: 1221275764:0;cd META-INF
+: 1221275802:0;cd ldap-sync-config
+: 1221275807:0;vi ldapsync.properties
+: 1221275852:0;vi rdb-jndi.properties
+: 1221280673:0;cd Development/Workspace/Eclipse
+: 1221280685:0;cd 34-mushroom-20080902
+: 1221280699:0;mv mushroom-mailet.zip ~/Desktop
+: 1221309376:0;cd howm
+: 1221358568:0;top
+: 1221358589:0;sw_vers
+: 1221358814:0;ks
+: 1221369374:0;java -jar t2-samples-0.0.1.war
+: 1221451571:0;c
+: 1221468692:0;man scp
+: 1221468726:0;scp mushroom-web mushroom@amber.dev2.blueleaf.co.jp:work/
+: 1221468742:0;tar -czvf mushroom-web
+: 1221468746:0;tar -czvf mushroom-web test.tar.g
+: 1221468747:0;tar -czvf mushroom-web test.tar.gz
+: 1221468754:0;tar -czvf test.tar.gz mushroom-web
+: 1221468770:0;scp test.tar.gz mushroom@amber.dev2.blueleaf.co.jp:work/
+: 1221470175:0;tar -zcvf mushroom.tar.gz mushroom
+: 1221470215:0;scp mushroom.tar.gz mushroom@amber.dev2.blueleaf.co.jp:work/
+: 1221531878:0;shh mushroom@amber.dev2.blueleaf.co.jp
+: 1221616096:0;cd tmp
+: 1221616104:0;mkdir mail
+: 1221616106:0;cd mial
+: 1221616141:0;scp root@amber.dev2.blueleaf.co.jp:/usr/local/share/james/apps/james/var/mail/inboxes/mushroom/4D61696C313232313537363737373339392D32.Repository.FileStreamStore ./
+: 1221616158:0;mv 4D61696C313232313537363737373339392D32.Repository.FileStreamStore oe6-text-mail.txt
+: 1221616161:0;vi oe6-text-mail.txt
+: 1221616173:0;emacs oe6-text-mail.txt
+: 1221616234:0;scp root@amber.dev2.blueleaf.co.jp:/usr/local/share/james/apps/james/var/mail/inboxes/mushroom/4D61696C313232313537353339333137352D31.Repository.FileStreamStore ./oe6-html-mail.txt
+: 1221616243:0;emacs oe6-html-mail.txt
+: 1221616826:0;scp root@amber.dev2.blueleaf.co.jp:/usr/local/share/james/apps/james/var/mail/inboxes/mushroom/4D61696C313232313631363736353831382D33.Repository.FileStreamStore ./oe6-text-fw-mail.txt
+: 1221616839:0;emacs oe6-text-fw-mail.txt
+: 1221617137:0;scp root@amber.dev2.blueleaf.co.jp:/usr/local/share/james/apps/james/var/mail/inboxes/mushroom/4D61696C313232313631373130303033322D34.Repository.FileStreamStore ./oe6-text-attached-mail.txt
+: 1221617146:0;emacs oe6-text-attached-mail.txt
+: 1221619588:0;scp root@amber.dev2.blueleaf.co.jp:/usr/local/share/james/apps/james/var/mail/inboxes/mushroom/4D61696C313232313631393535333433392D35.Repository.FileStreamStore ./oe6-html-2attached-mail.txt
+: 1221619600:0;emacs oe6-html-2attached-mail.txt
+: 1221626931:0;mvn eclipse:eclipsels
+: 1221628455:0;scp root@amber.dev2.blueleaf.co.jp:/usr/local/share/james/apps/james/var/mail/inboxes/mushroom/4D61696C313232313632383432313033332D36.Repository.FileStreamStore ./oe6-html-3attached-fw-mail.txt
+: 1221628466:0;vi oe6-html-3attached-fw-mail.txt
+: 1221628489:0;emacs oe6-html-3attached-fw-mail.txt
+: 1221632179:0;..
+: 1221632185:0;cd mvn package
+: 1221632889:0;mvn packag
+: 1221633010:0;scp mushroom-mailet-0.0.1-SNAPSHOT.jar mushroom@amber.dev2.blueleaf.co.jp/work/mailet/
+: 1221633014:0;scp mushroom-mailet-0.0.1-SNAPSHOT.jar mushroom@amber.dev2.blueleaf.co.jpwork/mailet/
+: 1221633021:0;scp mushroom-mailet-0.0.1-SNAPSHOT.jar mushroom@amber.dev2.blueleaf.co.jp:work/mailet
+: 1221633034:0;scp dependencies/*.jar mushroom@amber.dev2.blueleaf.co.jp:work/mailet
+: 1221633062:0;scp ../config/dev/SAR-INF/*.xml mushroom@amber.dev2.blueleaf.co.jp:work/mailet/
+: 1221634490:0;ls -alt ~/Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.2
+: 1221634635:0;ls -alt ~/Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.2/var/log
+: 1221643285:0;lswd
+: 1221643615:0;cd ../../../
+: 1221643617:0;cd pwd
+: 1221643624:0;mkdir Maven
+: 1221643626:0;cd Maen
+: 1221650536:0;clar
+: 1221650573:0;scp mushroom-20080917-r214.ear mushroom@amber.dev2.blueleaf.co.jp:~/
+: 1221700005:0;cp -R geronimo-jetty6-javaee5-2.1.3 ../Development/Server/geronimo/
+: 1221700034:0;cp  server-2.1.3-src-RC1.tar.gz ../Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.3
+: 1221700144:0;cd ../Development/Server/geronimo
+: 1221700204:0;cp -R geronimo-2.1.2-jetty/repository/com/ibm geronimo-jetty6-javaee5-2.1.3/repository/com/
+: 1221700214:0;cp -R geronimo-2.1.2-jetty/repository/postgresql geronimo-jetty6-javaee5-2.1.3/repository/
+: 1221700234:0;cp -R geronimo-2.1.2-jetty/repository/org/eclipse geronimo-jetty6-javaee5-2.1.3/repository/org/
+: 1221700250:0;ls geronimo-jetty6-javaee5-2.1.3/repository/
+: 1221700265:0;ls geronimo-jetty6-javaee5-2.1.3/repository/org/eclipse
+: 1221700268:0;ls geronimo-jetty6-javaee5-2.1.3/repository/org/eclipse/persistence
+: 1221700271:0;ls geronimo-jetty6-javaee5-2.1.3/repository/org/eclipse/persistence/eclipselink
+: 1221701588:0;ps eclipse
+: 1221701591:0;ps -ef eclipse
+: 1221701597:0;ps -aux eclipse
+: 1221701605:0;ps -aux
+: 1221701618:0;cat `ps aux
+: 1221704279:0;kill 820
+: 1221726360:0;ping fhwp1.fh-intra.com
+: 1221727715:0;nslookup ruby.eb.blueleaf.co.jp
+: 1221727723:0;ping ruby.eb.blueleaf.co.jp
+: 1221728787:0;ping 192.168.1.130
+: 1221730580:0;cd mushroom-
+: 1221730589:0;mvn install -Dmaven.test.skip=tre
+: 1221743006:0;vi gmane.linux.debian.jp.devel
+: 1221743086:0;mkdir testmails
+: 1221743102:0;cp ../Downloads/gmane.linux.debian.jp.devel ./testmails
+: 1221743137:0;csplit
+: 1221743219:0;csplit gmane.linux.debian.jp.devel '/^From .*/' '{*}'
+: 1221743284:0;csplit -f "x" -b "%04d" gmane.linux.debian.jp.devel '/^From .*/' '{*}'
+: 1221743289:0;csplit -f "x" gmane.linux.debian.jp.devel '/^From .*/' '{*}'
+: 1221743406:0;csplit gmane.linux.debian.jp.devel '/^From .*/'
+: 1221743413:0;vi xx00
+: 1221743421:0;vi xx01
+: 1221743431:0;rm xx*
+: 1221743440:0;mvn csplit
+: 1221743444:0;man csplit
+: 1221743528:0;csplit gmane.linux.debian.jp.devel '/^From .*/' '{}'
+: 1221743537:0;csplit gmane.linux.debian.jp.devel '/^From .*/' '{1000000000000000000000000000000000000000}'
+: 1221743540:0;csplit gmane.linux.debian.jp.devel '/^From .*/' '{100000000000000000000000}'
+: 1221743542:0;csplit gmane.linux.debian.jp.devel '/^From .*/' '{1000000000}'
+: 1221743558:0;vi xx99
+: 1221743593:0;csplit gmane.linux.debian.jp.devel '/^From .*/' '{101}'
+: 1221743615:0;mkdir data
+: 1221743627:0;rm xx99
+: 1221743655:0;csplit -n 4 gmane.linux.debian.jp.devel '/^From .*/' '{999}'
+: 1221743668:0;csplit -n 4 gmane.linux.debian.jp.devel '/^From .*/' '{300}'
+: 1221743677:0;rm -f xx*
+: 1221743687:0;csplit -k -n 4 gmane.linux.debian.jp.devel '/^From .*/' '{999}'
+: 1221743701:0;rm -f data/xx*
+: 1221743704:0;mv xx* data
+: 1221747441:0;ping amber.dev2.blueleaf.co.jp 80
+: 1221792402:0;ss
+: 1221795234:0;pw
+: 1221795285:0;export JAMES_HOME=/Users/takuya/Development/Server/james/james-2.3.1
+: 1221795287:0;mvn -Ddelploy-jars -Doverwrite-config=dev package
+: 1221795313:0;cd Development/Server/james
+: 1221795323:0;./run.sh
+: 1221795372:0;cd apps
+: 1221795405:0;cd conf
+: 1221795410:0;cdLi
+: 1221795421:0;rm mailet-sample-ejbClient.jar
+: 1221795425:0;rm commons-codec-1.3.jar
+: 1221795467:0;scp *.jar root@pearl.dev2.blueleaf.co.jp:/usr/local/share/james/apps/james/SAR-INF/lib
+: 1221795504:0;scp *.jar root@amber.dev2.blueleaf.co.jp:/usr/local/share/james/apps/james/SAR-INF/lib
+: 1221795541:0;mvn -Ddelploy-jars -Doverwrite-config=prod package
+: 1221795560:0;scp config.xml root@amber.dev2.blueleaf.co.jp:/usr/local/share/james/apps/james/SAR-INF/
+: 1221804259:0;mvn install package -Dmaven.test.skip=true
+: 1221806586:0;cd src
+: 1221806588:0;cd main
+: 1221809436:0;cd ../../
+: 1221823552:0;rm -rf ~/.m2/repository/jp/blueleaf/*
+: 1221825659:0;mvn package -Dmaven.test.skip=tre
+: 1221839510:0;mvn -o install -Dmaven.test.skip=true
+: 1221842646:0;mvn eclipse:clean
+: 1221842729:0;mvn eclipse:clean eclipse:ecipse
+: 1221844146:0;<classesDirectory>${basedir}/somewhere/else</classesDirectory>
+: 1221844195:0;mvn -Pjetty test jetty:run
+: 1221844493:0;mvn test-compile -Pjetty jetty:run
+: 1221878433:0;mvn clean eclipse:clean eclipse:eclipse package -e
+: 1221878717:0;mvn clean install -Dmaven.test.skip=true
+: 1221885063:0;ssh
+: 1221891372:0;sl
+: 1221895807:0;ear
+: 1221895809:0;clarar
+: 1221895920:0;mvn clean eclipse:clean eclipse:eclipse package -Dmaven.test.skip=true
+: 1221900983:0;cd mushroom-we
+: 1221901486:0;mvn clean test
+: 1221901666:0;mvn clean test-compile
+: 1221901740:0;clean
+: 1221906783:0;ps aux eclipse
+: 1221906845:0;kill 1357
+: 1221907401:0;ps aux | grep eclipse
+: 1221907408:0;kill 2154
+: 1221928090:0;man ifconfig
+: 1221928097:0;ifconfig eh0
+: 1221928099:0;ifconfig eh01
+: 1221928102:0;ifconfig eth1
+: 1221928123:0;ifconfig grep | 192
+: 1221928143:0;ifconfig grep | net
+: 1221972910:0;kill 2180
+: 1221973539:0;kill 2189
+: 1221973558:0;ps -ef | grep eclipse
+: 1221973562:0;kill 3484
+: 1221973674:0;ps -ef | grep geronimo
+: 1222015038:0;cd Workspace/Maven
+: 1222044597:0;cd Workspace
+: 1222044599:0;cd Maven
+: 1222044708:0;tree mushroom-domain-service
+: 1222044788:0;cd Development/Workspace
+: 1222044792:0;cd Eclipse
+: 1222087847:0;mvn test -Pjetty jetty:run
+: 1222154904:0;scp mushroom@amber.dev2.blueleaf.co.jp:dir.txt ~/Desktop/dir.txt
+: 1222154916:0;emacs dir
+: 1222154924:0;emacs Desktop/dir.txt
+: 1222161057:0;pd
+: 1222177434:0;cd l
+: 1222215776:0;cd ....
+: 1222218442:0;ps aux -ef | grep notes
+: 1222233799:0;ps auxww | grep eclipse
+: 1222233809:0;kill 2410
+: 1222302381:0;ps aux | grep jetty
+: 1222302389:0;kill 1786
+: 1222317855:0;vi pom.xml
+: 1222317862:0;fg
+: 1222317986:0;mvn site
+: 1222328704:0;cd TEmp
+: 1222328799:0;cp lookupDictionary.js bookmarktoolbar-hint.js migemized_find.js ~/.dotfiles/.vimperator/plugin
+: 1222329158:0;emacs migemized_find.js 
+: 1222329294:0;cp migemized_find.js ~/.dotfiles/.vimperator/plugin
+: 1222353616:0;cd mushroom-domain
+: 1222353627:0;cd mushroom-ear
+: 1222353705:0;cd mushroom-ldap
+: 1222353714:0;cd mushroom-mailet-spi
+: 1222354119:0;mvn clean eclipse:clean eclipse:eclipse package
+: 1222354126:0;mvn clean eclipse:clean eclipse:eclipse package -o
+: 1222354289:0;mvn clean eclipse:clean eclipse:eclipse package -o -e
+: 1222354777:0;mvn clean package site -Dmaven.test.skip=true
+: 1222355021:0;cd site
+: 1222355025:0;open index.html
+: 1222355067:0;open surefire-report.html
+: 1222387530:0;./snapshot.sh
+: 1222393442:0;svn -r
+: 1222393453:0;svn revert -r 268
+: 1222393473:0;diff
+: 1222396522:0;find / -name cmgmt
+: 1222396528:0;find /Users/takuya -name cmgmt
+: 1222402872:0;cd se
+: 1222402877:0;cd james
+: 1222402879:0;cd james-2.3.1
+: 1222402884:0;cd apps/james/SAR-INF/lib
+: 1222406291:0;cd mushroom--we
+: 1222420091:0;man tar
+: 1222425636:0;cd Development/Library/IBM/CM
+: 1222425656:0;cd>.
+: 1222425671:0;sudo chown -R root ./
+: 1222425696:0;cd cone
+: 1222425698:0;cd connector
+: 1222425744:0;sudo chown -R root ./*
+: 1222425752:0;sudo chown -R takuya ./*
+: 1222425764:0;sudo chown -R takuya cmgmt
+: 1222425776:0;emacs cmbicmsrvs.ini
+: 1222425836:0;man ln
+: 1222425891:0;rm -R cmgmt
+: 1222425899:0;ln -s cmgmt ~/Development/Library/IBM/CM/cmgmt
+: 1222425912:0;ls_alt
+: 1222426001:0;cd icmnlsdb
+: 1222426025:0;find ~/ -name cmbemenv.properties
+: 1222426224:0;scp root@pearl.dev2.blueleaf.co.jp:/opt/IBM/db2cmv8/cmgmt ~/Development/Library/IBM/CM/cmbenv
+: 1222426318:0;scp -rq root@pearl.dev2.blueleaf.co.jp:/opt/IBM/db2cmv8/cmgmt/ ~/Development/Library/IBM/CM/cmbenv/
+: 1222426329:0;scp -rq root@pearl.dev2.blueleaf.co.jp:/opt/IBM/db2cmv8/cmgmt ~/Development/Library/IBM/CM/cmbenv
+: 1222426352:0;scp -rq root@pearl.dev2.blueleaf.co.jp:/opt/IBM/db2cmv8/cmgmt ~/Desktop/cmgmt
+: 1222426382:0;cd ../../..
+: 1222426392:0;sudo chown -R takuya ./
+: 1222426444:0;cd home-cmgmt
+: 1222426505:0;cd /usr/local/share
+: 1222426543:0;ln -s ~/Development/Library/IBM/CM/db2cmv8-cmgmt cmgmt
+: 1222430280:0;cd ~/Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.3
+: 1222430282:0;cd cmg
+: 1222430289:0;rm cmgmt
+: 1222430321:0;ln ~/Development/Library/IBM/CM/cmgmt cmgmt
+: 1222430327:0;ln -s ~/Development/Library/IBM/CM/cmgmt cmgmt
+: 1222509157:0;svn co http://biwa.dev.blueleaf.co.jp/svn/fh/trunk/econtact
+: 1222535747:0;sudo port selfupdate
+: 1222535813:0;sudo port upgrade updated
+: 1222535817:0;sudo port upgrade outdated
+: 1222536673:0;gimp
+: 1222540277:0;sudo port upgrade gimp
+: 1222540653:0;sudo port uninstall gimp
+: 1222540696:0;sudo port sync
+: 1222540809:0;sudo port variants
+: 1222540814:0;sudo port variants zsh-devel
+: 1222540849:0;sudo port zsh-devel +mp_completion
+: 1222540858:0;sudo port install zsh-devel +mp_completion
+: 1222541330:0;zsh --version
+: 1222541347:0;. .zshrc
+: 1222541353:0;. .~/zshrc
+: 1222541355:0;..~/.zshrc
+: 1222541370:0;cd Developer
+: 1222541376:0;cd -0
+: 1222541419:0;sudo port search gimp
+: 1222541450:0;sudo port variants gimp
+: 1222541465:0;sudo port gimp install
+: 1222541473:0;sudo port install gimp
+: 1222541483:0;sudo port -d install gimp
+: 1222541531:0;sudo port -d uninstall gimp
+: 1222541547:0;sudo port -d search gimp
+: 1222541558:0;sudo port installed
+: 1222541590:0;sudo port -d uninstall gimp2
+: 1222541628:0;sudo port upgrade gimp2
+: 1222541635:0;sudo port d upgrade gimp2
+: 1222541637:0;sudo port -d upgrade gimp2
+: 1222541826:0;sudo port -d upgrade glib2
+: 1222541849:0;sudo port -d activate glib2
+: 1222541899:0;sudo port -d activate glib2 @2.16.1_0+darwin_9
+: 1222541908:0;sudo port -d deactivate glib2 @2.16.1_0+darwin_9
+: 1222541948:0;sudo port -d upgrade glib2 @2.16.4_0+darwin_9
+: 1222542011:0;sudo port -d selfupdate
+: 1222573245:0;sudo port info gimp2
+: 1222573269:0;sudo port info glib2
+: 1222573281:0;sudo port update glib2
+: 1222573287:0;sudo port upgrade glib2
+: 1222581986:0;Dls
+: 1222581994:0;vimperator-plugins
+: 1222582056:0;cp migemized_find.js lookupDictionary.js ~/.dotfiles/.vimperator/plugin
+: 1222582193:0;cd ~/.dotfiles/.vimperator/plugin
+: 1222582545:0;rm ldrize_cooperation.js
+: 1222582576:0;vi migemized_find.js
+: 1222582581:0;vim migemized_find.js
+: 1222582616:0;emacs migemized_find.js
+: 1222602676:0;nslookup landisk
+: 1222610574:0;ps aux | grep emacs
+: 1222610597:0;kill 67528
+: 1222610785:0;ps aux | grep Emacs
+: 1222610791:0;kill 67998
+: 1222645349:0;	cd /Users/takuya/Development/Workspace/Eclipse/34-mushroom-20080902/mushroom/mushroom-ear
+: 1222645352:0;cd ../mushroom-web
+: 1222645365:0;mvn test -o
+: 1222656005:0;ssh root@pallas
+: 1222656031:0;ssh mushroom@pallas
+: 1222695048:0;mvn eclipse:eclipse -DdownloadSources=true -DdownloadJavadocs=true
+: 1222695057:0;mvn eclipse:eclipse -DdownloadSources=true -DdownloadJavadocs=true -o
+: 1222734331:0;cd /Developer/Applications/eclipse/eclipse-3.4/Eclipse.app -clean
+: 1222734416:0;/Developer/Applications/eclipse/eclipse-3.4/Eclipse.app/Contents/MacOS/eclipse -clean
+: 1222734571:0;here /Developer/Applications/eclipse/eclipse-3.4/Eclipse.app/Contents/MacOS/
+: 1222822184:0;locate
+: 1222822186:0;man locate
+: 1222849557:0;cd /System/Library/CoreServices
+: 1222849566:0;sudo mv Aqua\ Dark.jpg DefaultDesktop.jpg
+: 1222849579:0;ls DefaultDesktop.jpg
+: 1222906504:0;xitxit
+: 1223040956:0;mkdir ~/Development/Workspace/Eclipse/34-mushroom-20081003
+: 1223040984:0;cp -R mushroom  ~/Development/Workspace/Eclipse/34-mushroom-20081003/
+: 1223041073:0;cd  ~/Development/Workspace/Eclipse/34-mushroom-20081003
+: 1223041743:0;rm -R mushroom
+: 1223042172:0;mvn eclipse:clean eclipse:eclipse -o
+: 1223043288:0;cd?
+: 1223043289:0;cd /
+: 1223043292:0;cd Volumes
+: 1223043298:0;cd takuya
+: 1223043301:0;cd backup/2008
+: 1223043306:0;mv dir-20081003.zip ~/Desktop
+: 1223043314:0;rm disk
+: 1223043317:0;rm -R disk
+: 1223043326:0;rm -Rf disk
+: 1223086069:0;	cd /Users/takuya/Development/Workspace/Eclipse/34-mushroom-20080902/mushroom/mushroom-eb
+: 1223086123:0;public void function String getElementById(){}
+: 1223086589:0;cd 34-mushroom-20081003
+: 1223086861:0;kill 651
+: 1223086891:0;ps aux | grep java
+: 1223086958:0;netstat
+: 1223086968:0;netstat | grep 9090
+: 1223087013:0;	cd /Users/takuya/Development/Workspace/Eclipse/34-mushroom-20080902/mushroom/mushroom-web
+: 1223087027:0;cd ../../../34-mushroom-20081003
+: 1223087032:0;cd mushroom/mushroom-web
+: 1223252486:0;mvn eclipse:eclipse clean package -Dmaven.test.skip=true
+: 1223252506:0;mvn eclipse:eclipse clean package -Dmaven.test.skip=true -o
+: 1223274778:0;emacs .ssh/known_hosts
+: 1223277766:0;mvn clean eclipse:clean eclipse:eclipse
+: 1223281156:0;mvn clean eclipse:clean eclipse:eclipse -o
+: 1223438338:0;cd disk
+: 1223438350:0;cd VMWare
+: 1223446715:0;svn d9ff
+: 1223446790:0;svn rm .vimperator/plugin/ldrize_cooperation.js
+: 1223446794:0;svn commit
+: 1223463470:0;cd vimperator-plugins
+: 1223463507:0;svn diff migemized_find.js
+: 1223463526:0;svn status
+: 1223463545:0;ls 
+: 1223463548:0;ls -t
+: 1223463806:0;ping bldom8
+: 1223463831:0;ping bldom8.osaka.blueleaf.co.jp
+: 1223464024:0;ping 192.168.0.53
+: 1223512679:0;cd Downloads
+: 1223512713:0;scp yui_2.5.2.zip biwa@biwa.dev.blueleaf.co.jp:
+: 1223538474:0;ssh am
+: 1223544587:0;cd Development/Workspace/Eclipse/34-mushroom-20081003/mushroom/mushroom-mailet
+: 1223544591:0;cd prod
+: 1223544594:0;cd dev
+: 1223544596:0;cd SAR-INF
+: 1223544847:0;cd ../../prod/SAR-INF
+: 1223546667:0;vi config.xml
+: 1223546690:0;sudo /sbin/service james restart
+: 1223546729:0;scp config.xml mushroom@amber.dev2.blueleaf.co.jp:
+: 1223615313:0;cd Downloads/
+: 1223615390:0;cp server-2.1.3-src-RC1.zip ~/Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.3/
+: 1223616306:0;ssh mushroom@amber.dev2.blueleaf.co.jp 
+: 1223618318:0;mvn eclipse:clean eclipse:eclipse
+: 1223618576:0;cd ~/.m2/repository
+: 1223618579:0;cd javax
+: 1223618583:0;cd m
+: 1223618590:0;cd 1.4
+: 1223618600:0;cp mail-1.4.jar ~/Desktop
+: 1223621596:0;cd master-repository
+: 1223621610:0;cd dw
+: 1223621612:0;cd deploy
+: 1223621615:0;cd lib
+: 1223621698:0;cd avr
+: 1223621724:0;:q
+: 1223621729:0;vi artifact_aliases.properties
+: 1223621795:0;find ./ -name j2ee-server-plan.xml
+: 1223622578:0;cd repository/ls
+: 1223622583:0;cd repository/org/apache/geronimo
+: 1223622587:0;cd assemblies
+: 1223622595:0;cd javamail
+: 1223622597:0;cd geronimo-javamail_1.4_mail
+: 1223622599:0;cd 1.6
+: 1223622609:0;mv geronimo-javamail_1.4_mail-1.6.jar geronimo-javamail_1.4_mail-1.6.jar.org
+: 1223622625:0;cp ~/Desktop/mail-1.4.1.jar ./geronimo-javamail_1.4_mail-1.6.jar
+: 1223624194:0;scp ~/Desktop/mushroom-tools-1.0-SNAPSHOT-prod.tar.gz mushroom@amber.dev2.blueleaf.co.jp:
+: 1223624639:0;scp ~/Development/Workspace/Eclipse/34-mushroom-20081003/mushroom/mushroom-tools/target/mushroom-tools-1.0-SNAPSHOT-dev.tar.gz mushroom@amber.dev2.blueleaf.co.jp:work/
+: 1223628471:0;scp ~/Development/Workspace/Eclipse/34-mushroom-20081003/mushroom/mushroom-mailet/config/dev/SAR-INF/config.xml mushroom@amber.dev2.blueleaf.co.jp:
+: 1223628493:0;scp ~/Development/Workspace/Eclipse/34-mushroom-20081003/mushroom/mushroom-mailet/target/mushroom-mailet-1.0-SNAPSHOT.jar mushroom@amber.dev2.blueleaf.co.jp:
+: 1223628812:0;scp ~/Development/Workspace/Eclipse/34-mushroom-20081003/mushroom/mushroom-mailet/config/prod/SAR-INF/config.xml mushroom@amber.dev2.blueleaf.co.jp:
+: 1223629152:0;package -Dmaven.test.skip=true
+: 1223631331:0;package -Dmaven.test.skip=truewd
+: 1223694014:0;rm dlmgr_.pro
+: 1223809017:0;svnadd
+: 1223809019:0;svn ci
+: 1223910085:0;cd -2
+: 1223951104:0;ps aux | grep notes
+: 1223951117:0;ps aux
+: 1223986444:0;nslookup officejet7410
+: 1223986803:0;ping 192.168.1.16
+: 1223987025:0;ping 192.168.1.129
+: 1223987037:0;nslookup 192.168.1.129
+: 1223987361:0;ifconfig
+: 1223987462:0;route -n
+: 1223987465:0;route
+: 1223987649:0;route print
+: 1223987655:0;man rounte
+: 1223987925:0;route -v
+: 1223988063:0;ping 192.168.1.6
+: 1224031044:0;cd d
+: 1224031076:0;tar cvzf DB2_ESE_V95_Linux_x86-64.tar
+: 1224031132:0;tar -xvf DB2_ESE_V95_Linux_x86-64.tar
+: 1224033053:0;fcd
+: 1224033075:0;ls -h
+: 1224033087:0;cd Desktop/cm84-linux-x86-64
+: 1224033088:0;cd was61-x86-64
+: 1224033170:0;cd Desktop/cm84-linux-x86-64/was61-x86-64
+: 1224033210:0;cd WAS 6.1
+: 1224033219:0;cd 6.1
+: 1224033279:0;cd 6.1.0.11
+: 1224033319:0;cd IM
+: 1224033321:0;cd DB2
+: 1224033324:0;cd 9.5
+: 1224033341:0;cd db295-x86-64
+: 1224033381:0;cd 8.4
+: 1224033391:0;cd cm84-x86-64
+: 1224033960:0;cd Desl
+: 1224033992:0;mkdir postgresql-833
+: 1224034001:0;wget http://nchc.dl.sourceforge.net/sourceforge/mecab/mecab-0.97.tar.gz
+: 1224034025:0;wget http://nchc.dl.sourceforge.net/sourceforge/mecab/mecab-ipadic-2.7.0-20070801.tar.gz
+: 1224034041:0;wget http://pgfoundry.org/frs/download.php/1655/textsearch_ja-8.3.1.tar.gz
+: 1224034081:0;wget http://yum.pgsqlrpms.org/reporpms/8.3/pgdg-redhat-8.3-4.noarch.rpm
+: 1224034372:0;tree -a
+: 1224034382:0;find . -name ".DS_Store" -print -exec rm -r {} ";" ; find . -name ._* -exec rm -r {} ";"
+: 1224034428:0;emacs ~/.zshrc
+: 1224034531:0;delds
+: 1224034538:0;. ~/.zshrc
+: 1224034548:0;vi ~/.zshrc
+: 1224034871:0;cd postgresql-833
+: 1224034879:0;ls -alth
+: 1224034963:0;ls ~/Desktop
+: 1224034967:0;ls alt ~/Desktop
+: 1224034970:0;ls -alt ~/Desktop
+: 1224034989:0;ls -alt ../postgresql-833
+: 1224035233:0;cd cm84-linux-x86-64
+: 1224035236:0;rm *.t
+: 1224035237:0;rm *.txt
+: 1224035245:0;tree -alt
+: 1224035368:0;mv cm84-x86-64 cm84-linux-x86-64
+: 1224035376:0;mv db295-x86-64 db295-linux-x86-64
+: 1224035382:0;mv was61-x86-64 was61-linux-x86-64
+: 1224077470:0;cd Server
+: 1224077508:0;cd jp/blueleaf/mushroom/mushroom-ear/1.0/mushroom-ear-1.0.ear/mushroom-web.war/WEB-INF/
+: 1224077561:0;vi web.xml
+: 1224127233:0;cd Development/Workspace/Eclipse/34-mushroom-20081003
+: 1224127240:0;cd mushroom-mailet
+: 1224155498:0;cd D
+: 1224155509:0;cd Development/Server/james/james-2.3.1/apps/james
+: 1224155518:0;cd var/mail
+: 1224155533:0;mkdir -p mushroom/queue
+: 1224217740:0;cd error
+: 1224217797:0;sudo find ./error -type file -exec ls {} \;
+: 1224217817:0;sudo find ./error -type file -exec grep '@co.jp' {} \;
+: 1224217871:0;sudo find ./error -type f -exec grep @co.jp {} \;
+: 1224217878:0;sudo find ./error -type f -exec grep "sample" {} \;
+: 1224217882:0;sudo find ./error -type f -exec grep "@" {} \;
+: 1224217903:0;sudo find ./error -type f -exec grep mushroom {} \;
+: 1224230023:0;sudo port -d sync
+: 1224230077:0;sudo port search nkf
+: 1224230089:0;sudo port variants nkf
+: 1224230131:0;sudo port install nkf
+: 1224230199:0;mkdir jis-sample.txt
+: 1224230240:0;rm jis-sample.txt
+: 1224230243:0;rm -R jis-sample.txt
+: 1224230255:0;sudo rm -R jis-sample.txt
+: 1224230261:0;vi jis-sample.txt
+: 1224230279:0;nkf -J jis-sample.txt jis-output.txt
+: 1224230296:0;vi jis-output.txt
+: 1224237231:0;cd 
+: 1224325163:0;mvn clean
+: 1224325293:0;mvn clean yuicompressor:compress
+: 1224326391:0;cd mushroom-ear-1.0-SNAPSHOT
+: 1224326399:0;unzip mushroom-web-1.0-SNAPSHOT.war
+: 1224327744:0;cd -
+: 1224328383:0;mvn yuicompressor:compress
+: 1224502322:0;mvn integration-test
+: 1224502578:0;exixit
+: 1224502580:0;lskdjeix
+: 1224502581:0;texit
+: 1224502583:0;sjdfixt
+: 1224547775:0;cd /Users/takuya/Development/Workspace/Eclipse/34-mushroom-20081003/mushroom/mushroom-ear/target
+: 1224547777:0;cd ../..
+: 1224578143:0;cd ~/Development/Workspace/Maven
+: 1224578286:0;svn update
+: 1224578296:0;svn revert 326
+: 1224578301:0;svn revert -r 326
+: 1224578326:0;svn help revert
+: 1224578349:0;svn help up
+: 1224579791:0;mvn clean pacakge
+: 1224579803:0;mvn clean package -Dmaven.test.skip=true
+: 1224661455:0;mvn install -Dmaven.test.skip=true
+: 1224720560:0;ï½ƒ®ï½ƒ¯ï½ƒ´ï½ƒ¥ï½ƒ³
+: 1224835764:0;cd ~/Library/Application Support/Firefox/Profiles/atwqyp8i.Net/gm_scripts/mushroom_autologin/
+: 1224835777:0;cd ~/Library/Application Support/Firefox/Profiles/atwqyp8i.Net/
+: 1224835785:0;cd ~/Library/Application\ Support/Firefox/Profiles/atwqyp8i.Net/
+: 1224835790:0;cd ~/Library/Application\ Support/Firefox/Profiles/atwqyp8i.Net/gm_scripts/mushroom_autologin/
+: 1224835796:0;cd gm_scripts
+: 1224840773:0;/Developer/Applications/Utilities/FileMerge
+: 1224840777:0;cd /Developer/Applications/Utilities/FileMerge
+: 1224840781:0;cd /Developer/Applications/
+: 1224840786:0;cd Utilities
+: 1224846879:0;eixtxit
+: 1224902598:0;mvn -P
+: 1225065332:0;cd ~/Development/Server/geronimo
+: 1225065353:0;./geronimo.sh --list-modules
+: 1225065366:0;./deploy.sh --list-modules
+: 1225065656:0;cd Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.3
+: 1225065663:0;./deploy.sh undeploy
+: 1225065676:0;./deploy.sh undeploy jp.blueleaf.mushroom/mushroom-ear/1.0/ear
+: 1225067693:0;mvn -Pjetty jetty:run -o
+: 1225078891:0;mkdir navi2ch
+: 1225078894:0;cd pna
+: 1225078899:0;cvs -z3 -d:pserver:anonymous@navi2ch.cvs.sourceforge.net:/cvsroot/navi2ch co navi2ch
+: 1225078908:0;cd navi2ch
+: 1225078922:0;./configure --with-emacs=/Applications/Emacs.app/Contents/MacOS/Emacs --with-lispdir=/Applications/Emacs.app/Contents/Resource/share/emacs/site-lisp/navi2ch --with-icondir=/Applications/Emacs.app/Contents/Resource/etc/navi2ch
+: 1225079206:0;./configure \\
+  --with-lispdir=/Applications/Emacs.app/Contents/Resources/site-lisp/navi2ch \\
+  --with-icondir=/Applications/Emacs.app/Contents/Resources/etc/navi2ch/icons \\
+  --with-emacs=/Applications/Emacs.app/Contents/MacOS/Emacs
+: 1225079218:0;make
+: 1225079231:0;make install
+: 1225079247:0;sudo make install
+: 1225095347:0;cd IBM
+: 1225095349:0;cd CM
+: 1225095350:0;l
+: 1225095350:0;sls
+: 1225095352:0;cd ls
+: 1225095353:0;cd cmgmt
+: 1225095358:0;cd connectors
+: 1225099337:0;cd ~/
+: 1225111771:0;ping pearl.dev2.blueleaf.co.jp
+: 1225111803:0;ping amber.dev2.blueleaf.co.jp
+: 1225153629:0;cp ~/Downloads/yasnippet-bundle.el ./.emacs.d/elisp/
+: 1225153781:0;cp ~/Downloads/yasnippet-0.5.6/yasnippet.el .emacs.d/elisp
+: 1225153793:0;cp -R ~/Downloads/yasnippet-0.5.6/snippets .emacs.d/elisp/
+: 1225153804:0;rm .emacs.d/elisp/yasnippet-bundle.el
+: 1225197580:0;scp biwa@biwa.dev.blueleaf.co.jp:backup/200820081028213417 ~/Desktop
+: 1225197587:0;scp biwa@biwa.dev.blueleaf.co.jp:backup/200820081028213417/ ~/Desktop
+: 1225197628:0;scp biwa@biwa.dev.blueleaf.co.jp:./backup/20081028213417/ ~/Desktop
+: 1225197635:0;scp biwa@biwa.dev.blueleaf.co.jp:~/backup/20081028213417/ ~/Desktop
+: 1225197661:0;scp -rq biwa@biwa.dev.blueleaf.co.jp:~/backup/20081028213417/ ~/Desktop
+: 1225244565:0;svnUp
+: 1225353477:0;ssh 
+: 1225354122:0;cd Development
+: 1225354125:0;cd Repository
+: 1225354150:0;	cd /etc/apache2/other
+: 1225354153:0;vi svn.conf
+: 1225354415:0;cd ~/Development/Repository
+: 1225355693:0;cd sandbox
+: 1225416750:0;svn
+: 1225416763:0;svn revert
+: 1225416767:0;svn revert HEAD
+: 1225416788:0;svn info
+: 1225416793:0;svn revert 361
+: 1225416798:0;svn revert help
+: 1225416802:0;svn help revert 
+: 1225416851:0;svn revert -R .
+: 1225416870:0;svn revert --recursive .
+: 1225416909:0;svn dif
+: 1225416919:0;svn clean
+: 1225416920:0;svn clean .
+: 1225416926:0;svn help clean
+: 1225416930:0;svn help
+: 1225416943:0;svn ls
+: 1225416995:0;svn st
+: 1225417036:0;mvn test -e
+: 1225417092:0;cd ta
+: 1225417097:0;cd sun
+: 1225418538:0;mvn test
+: 1225418568:0;cd target
+: 1225418577:0;cd surefire-reports
+: 1225418583:0;vi jp.blueleaf.mushroom.web.resources.LabelsResourceTest.txt
+: 1225418851:0;cd ../
+: 1225439612:0;cd mail
+: 1225439626:0;cd data
+: 1225441507:0;csplit -k -n 4 gmane.linux.debian.jp.devel '/^From .*/' '{10000}'
+: 1225441525:0;mkdir datamax
+: 1225441530:0;mv xx* datamax
+: 1225529217:0;vi settings.xml
+: 1225530642:0;ping ruby.osaka.blueleaf.co.jp
+: 1225536316:0;cd .dotfiles
+: 1225536322:0;svn ci -m 'daily update'
+: 1225536933:0;scp -rq biwa@biwa.dev.blueleaf.co.jp:/home/biwa/backup/20081101194642 ~/Desktop
+: 1225771881:0;mvn --versino
+: 1225771883:0;mvn --version
+: 1225774889:0;export MAVEN_OPTS="-Xms256M -Xmx256M -XX:PermSize=256m -XX:MaxPermSize=128m -javaagent:/Users/takuya/Development/Server/jetty/jetty-6.1.11/lib/spring-agent.jar"
+: 1225774934:0;mvn -Pjetty jetty:run
+: 1225778600:0;cd /opt/local/etc/
+: 1225778639:0;/opt/local/etc
+: 1225778650:0;mdfind
+: 1225778669:0;mdfindwd
+: 1225778680:0;mdfind ./ sample.html
+: 1225788787:0;ssh amber.dev2.blueleaf.co.jp
+: 1225810500:0;svn package
+: 1225847590:0;which maven
+: 1225847601:0;find / -name mvn
+: 1225847605:0;find /usr -name mvn
+: 1225847613:0;cd /usr/share
+: 1225847620:0;cd maven/
+: 1225847629:0;./mvn --version
+: 1225853251:0;cd temp
+: 1225853310:0;mvn clean eclipse:eclipse
+: 1225853407:0;mvn help
+: 1225853410:0;help mvn
+: 1225853412:0;mvn
+: 1225853422:0;mvn ?
+: 1225853428:0;mvn -?
+: 1225853431:0;mvn -help
+: 1225853464:0;cd .m2
+: 1225853466:0;cd repository
+: 1225853485:0;mvn compile
+: 1225853514:0;mvn -o
+: 1225853521:0;mvn -o package
+: 1225853581:0;mv jp jp-org
+: 1225853651:0;mvn clean compile
+: 1225853669:0;mvn clean package
+: 1225853765:0;rm -R jp
+: 1225853787:0;rm -Rf ./jp
+: 1225853804:0;rm -Rf mushroom
+: 1225853809:0;svn co http://biwa.dev.blueleaf.co.jp/svn/dir/trunk/mushroom
+: 1225853919:0;cdMu
+: 1225853921:0;cd mush
+: 1225853923:0;cd mushroom
+: 1225858748:0;mvn eclipse:eclipse -o
+: 1225858776:0;mvn install eclipse:eclipse -Dmaven.test.skip=true
+: 1225874275:0;claer
+: 1225875928:0;cd Des
+: 1225875930:0;cd Desktop
+: 1225875932:0;cd cm
+: 1225876222:0;cp 2,761.txt ../
+: 1225877744:0;mkdir error_mail
+: 1225877751:0;cp 2,761.txt error_mail
+: 1225878683:0;nkf
+: 1225878692:0;nkf --version
+: 1225878706:0;cd Desktop/error_mail
+: 1225878728:0;nkf -emQ 2,761.txt > decoded.txt
+: 1225878857:0;vi quoted.txt
+: 1225878873:0;nkf -mQ quoted.txt > decoded.txt
+: 1225878879:0;vi decoded.txt
+: 1225878885:0;open decoded.txt
+: 1225878991:0;emacs decoded.txt
+: 1225879125:0;rm decoded.txt quoted.txt
+: 1225885649:0;cd mushroom-domain-service
+: 1225885663:0;cd ~/Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.3/
+: 1225885690:0;find /Users/takuya -name dk.log
+: 1225891351:0;nkf man
+: 1225891439:0;echo 'FW: RE:=?iso-2022-jp?B?GyRCN0hCU0VFT0MbKEI=?=' | nkf -m
+: 1225891451:0;echo 'FW: RE:=?ISO-2022-JP?B?GyRCN0hCU0VFT0MbKEI=?=' | nkf -m
+: 1225891481:0;echo 'FW: RE:=?ISO-2022-JP?B?GyRCN0hCU0VFT0MbKEI=?=' | nkf -MQ
+: 1225891484:0;echo 'FW: RE:=?ISO-2022-JP?B?GyRCN0hCU0VFT0MbKEI=?=' | nkf -M
+: 1225891505:0;echo '=?iso-2022-jp?B?GyRCJE8kOCRhJF4kNyRGGyhK?='|nkf -m
+: 1225891560:0;echo '=?iso-2022-jp?B?GyRCJE8kOCRhJF4kNyRGGyhK?='|nkf -e
+: 1225891711:0;nkf -m '=?iso-2022-jp?B?GyRCJE8kOCRhJF4kNyRGGyhK?='
+: 1225891721:0;man nkf
+: 1225891742:0;vi teset.txt
+: 1225891763:0;nkf -m teset.txt
+: 1225891768:0;nkf -ml teset.txt
+: 1225891815:0;nkf -ml teset.txtls
+: 1225891821:0;nkf -m mail-1020
+: 1225891915:0;cd error_mail
+: 1225894835:0;vi 2,761.txt
+: 1225895718:0;cp ../cm/2,761.txt ./
+: 1225895738:0;rm ./.#*.txt
+: 1225895756:0;rm .2,761.txt.swp
+: 1225940067:0;ssh biwa@biwa.dev.blueleaf.co.jp
+: 1225980325:0;mvn pacakge
+: 1225980351:0;exitsudo find ./error -type f -exec grep mushroom {} \;
+: 1226028539:0;cp /Volumes/gimp262/change-x11-dpi ~./
+: 1226028544:0;cp /Volumes/gimp262/change-x11-dpi ~/
+: 1226028568:0;sudo ./change-x11-dpi
+: 1226028581:0;rm change-x11-dpi
+: 1226032345:0;cd Temp
+: 1226032348:0;cd testmails
+: 1226032353:0;cd datamax
+: 1226032357:0;pwd | pbcopy
+: 1226208058:0;cd /Volumes
+: 1226208104:0;cd Win\ HD/dev/workspace/rad7-works/fhbank/EmergencyContactPortlet/WebContent/js/main
+: 1226208116:0;open ec-register.js
+: 1226305496:0;pwd /Applications/Internet\ Explorer\ 6.0.app/Contents/Resources/drive_c/windows/Fonts | pbcopy
+: 1226305502:0;echo /Applications/Internet\ Explorer\ 6.0.app/Contents/Resources/drive_c/windows/Fonts | pbcopy
+: 1226305511:0;pbpaste
+: 1226305655:0;env LANG=ja_JP.eucJP open ~/Desktop/Internet\ Explorer\ 6.0.app
+: 1226305665:0;env LANG=ja_JP.eucJP open /Applications/Internet\ Explorer\ 6.0.app
+: 1226305804:0;ie6
+: 1226365719:0;env
+: 1226365738:0;cp .zshrc zshrc
+: 1226366155:0;zsh
+: 1226366159:0;which zsh
+: 1226366723:0;ls -a
+: 1226366727:0;vi .profile
+: 1226388518:0;echo $TERM
+: 1226388693:0;cat /usr/bin/login
+: 1226388695:0;q
+: 1226388844:0;screen
+: 1226448745:0;rm zshrc
+: 1226451305:0;ssh postgres@pearl.dev2.bleleaf.co.jp
+: 1226564975:0;ssh root@pearl.dev2.blueleaf.co.jp
+: 1226566898:0;vi .zshrc
+: 1226624602:0;ssh mushroom@pearl.dev2.bleleaf.co.jp
+: 1226720917:0;rm header-bg.png
+: 1226720921:0;cd .
+: 1226728836:0;ssh postgres@pearl.dev2.blueleaf.co.jp
+: 1226733505:0;which apache
+: 1226733512:0;ps aux | grep httpd
+: 1226733527:0;find / -name httpd.conf
+: 1226733543:0;cd /usr
+: 1226733546:0;cd local
+: 1226733550:0;cd share
+: 1226733566:0;cd apache2
+: 1226733577:0;cd o
+: 1226733581:0;ls other
+: 1226733585:0;vi httpd.conf
+: 1226733590:0;vim httpd.conf
+: 1226740234:0;cd  `
+: 1226740237:0;cd ~
+: 1226740241:0;cd Development/Server/geronimo
+: 1226740248:0;cd geronimo-jetty6-2.1.3
+: 1226740306:0;./deploy.sh search-plugins http://geronimo.apache.org/plugins/geronimo-2.1/
+: 1226740368:0;cd /Users/takuya/Development/Workspace/Eclipse/34-mushroom-20081003/mushroom/mushroom-web
+: 1226740377:0;mvn eclipse:eclipse
+: 1226740464:0;./deploy.sh search-plugins http://geronimo.apache.org/plugins/geronimo-2.1/ -u system -p manager
+: 1226740501:0;./deploy.sh -u system -p manager search-plugins http://geronimo.apache.org/plugins/geronimo-2.1/
+: 1226740797:0;./deploy.sh
+: 1226740814:0;./deploy.sh install-plugin
+: 1226740837:0;./deploy.sh list-modules
+: 1226740851:0;./deploy.sh -u system -p manager list-modules
+: 1226741572:0;./geronimo.sh -u system -p manager start
+: 1226741587:0;./geronimo.sh start -u system -p manager
+: 1226741710:0;./deploy.sh -u system -p manager search-plugins http://geronimo.apache.org/plugins/geronimo-2.1.3
+: 1226742207:0;./deploy.sh -u system -p manager search-plugins http://localhost/geronimo
+: 1226743705:0;cd Development/Workspace/Maven
+: 1226743713:0;svn co https://svn.apache.org/repos/asf/geronimo/server/branches/2.1/ geronimo
+: 1226744359:0;less BUILDING.txt
+: 1226744414:0;mvn install
+: 1226838632:0;scp Desktop/mushroom-manual.pdf mushroom@amber.dev2.blueleaf.co.jp:.
+: 1226841517:0;cd ../econtact
+: 1226841546:0;cd EmergencyContactPortlet/WebContent/js/util
+: 1226841553:0;emacs util.js
+: 1226885748:0;cd mushroom-web
+: 1226885755:0;cd src/main/resources
+: 1226885758:0;vi logback.xml
+: 1226885783:0;svn diff
+: 1226886280:0;mvn package -Dmaven.test.skip=true
+: 1226919862:0;cd Development/Server
+: 1226919864:0;cd geronimo
+: 1226919872:0;cd geronimo-jetty6-minimal-2.1.3
+: 1226919914:0;cd rc.d
+: 1226919924:0;cd etc
+: 1226919930:0;cd schema
+: 1226919937:0;cd var
+: 1226919939:0;cd jetty
+: 1226919945:0;cd config
+: 1226919948:0;vi README.txt
+: 1226919952:0;less README.txt
+: 1226920090:0;less config
+: 1226920093:0;less config.xml
+: 1226920200:0;less config-substitutions.properties
+: 1226920263:0;./geronimo.sh stop
+: 1226920300:0;cd geronimo-jetty6-javaee5-2.1.3
+: 1226920302:0;cd bin
+: 1226920306:0;./geronimo.sh start
+: 1226920339:0;firefox localhost:8080/console
+: 1226987569:0;cd /Applications/Firefox.app/Contents
+: 1226987630:0;./firefox -ProfileManager
+: 1226987837:0;cd Library
+: 1226987841:0;cd Application\ Support/Firefox
+: 1226987843:0;cd Profiles
+: 1226987925:0;rm r2lemnlb.Dev/*
+: 1226987933:0;rm -f r2lemnlb.Dev/*
+: 1226987950:0;cp atwqyp8i.Net/* r2lemnlb.Dev
+: 1226987958:0;cp -R atwqyp8i.Net/* r2lemnlb.Dev
+: 1226987993:0;rm -Rf r2lemnlb.Dev/*
+: 1226987997:0;cp -Rf atwqyp8i.Net/* r2lemnlb.Dev
+: 1226988004:0;tree
+: 1226988237:0;emacs minefield.sh
+: 1226988244:0;vi minefield.sh
+: 1226988326:0;chmod 755 ./minefield.sh
+: 1226988328:0;ls alt
+: 1226988330:0;ls -at
+: 1226988341:0;la
+: 1226988762:0;/Applications/Firefox.app/Contents/MacOS/firefox -ProfileManager
+: 1226990374:0;cd atwqyp8i.Net/chrome
+: 1226990377:0;vi userChrome
+: 1226990381:0;vi userChrome.css
+: 1226990411:0;cp userChrome.css userChrome.css.20081118
+: 1226990417:0;emacs userChrome
+: 1226990419:0;emacs userChrome.css
+: 1227054150:0;cd Library/Application\ Support/Firefox/Profiles/
+: 1227054157:0;cd atwqyp8i.Net
+: 1227054221:0;cd Applications
+: 1227054223:0;cd /Applications
+: 1227054229:0;cd Firefox
+: 1227054234:0;cd Firefox.app
+: 1227054237:0;cd Contents
+: 1227054240:0;cd Resources
+: 1227054247:0;cd MacOS
+: 1227054282:0;find ./ -name *.gif
+: 1227054288:0;find ./ -name *.png
+: 1227054293:0;find ./ -name .png
+: 1227054296:0;find ./ -name .gif
+: 1227054302:0;find ./ -name background.gif
+: 1227054306:0;cd chrome
+: 1227054315:0;cp browser.jar ~/Desktop
+: 1227054326:0;jar -xvf ~/Desktop/browser.jar
+: 1227054367:0;mv content ~/Desktop
+: 1227054538:0;cd defaults
+: 1227054541:0;cd pr
+: 1227054545:0;cd extensions
+: 1227054548:0;cd {\{972ce4c6-7e08-4474-a285-3208198ce6fd\}
+: 1227054550:0;cd \{972ce4c6-7e08-4474-a285-3208198ce6fd\}
+: 1227054567:0;cd modules
+: 1227054576:0;cd plugins
+: 1227054579:0;cd ..
+: 1227078429:0;cd /usr/local/share/apps/james
+: 1227081640:0;scp -rq root@amber.dev2.blueleaf.co.jp:/usr/local/share/james/apps/james/var/mail/mushroom/queue ~/Desktop
+: 1227085210:0;lls
+: 1227099792:0;mvn package
+: 1227140284:0;cd /Users/takuya/Development/Workspace/Maven/mushroom
+: 1227140286:0;svn up
+: 1227140304:0;cd mushroom-tools
+: 1227140344:0;chmod 744 ./archive.sh
+: 1227140345:0;ls t
+: 1227140346:0;ls -l
+: 1227140357:0;here
+: 1227144124:0;cd Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.3/bin
+: 1227144128:0;less geronimo.
+: 1227144130:0;less geronimo.sh
+: 1227144195:0;less install-geronimo.sh
+: 1227158939:0;pdw
+: 1227158941:0;clear
+: 1227177986:0;cd ~/Desktop
+: 1227178001:0;ls -alt
+: 1227178008:0;tar -xvf bl-20081120.tar.gz
+: 1227228117:0;notes
+: 1227232667:0;s
+: 1227232673:0;pwd
+: 1227232673:0;ls
+: 1227234961:0;less Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.3/var/log/jetty_2008_11_21.log 
+: 1227235158:0;tail -f Development/Server/geronimo/geronimo-jetty6-javaee5-2.1.3/var/log/jetty_2008_11_21.log 
+: 1227237598:0;ssh mushroom@pearl.dev2.blueleaf.co.jp
+: 1227240608:0;ssh mushroom@amber.dev2.blueleaf.co.jp
+: 1227264655:0;eixt
+: 1227264656:0;exit
+: 1227571397:0;ls
+: 1227571403:0;less .zshrc
+: 1227571434:0;ls
+: 1227571475:0;find /Applications/Notes.app/Contents/ -name *.icn-
+: 1227571477:0;find /Applications/Notes.app/Contents/ -name *.icn
+: 1227571480:0;find /Applications/Notes.app/Contents/ -name *.icns
+: 1227571488:0;find /Applications/Notes.app/Contents/ -name *.png
+: 1227571499:0;hre
+: 1227571500:0;here
+: 1227571523:0;cd /Applications/Notes.app/Contents
+: 1227571524:0;ls
+: 1227571525:0;here
+: 1227574277:0;ls
+: 1227574282:0;cd Development
+: 1227574283:0;ls
+: 1227574284:0;cd Server
+: 1227574284:0;ls
+: 1227574289:0;cd geronimo
+: 1227574289:0;ls
+: 1227574295:0;cd geronimo-jetty6-javaee5-2.1.3
+: 1227574296:0;ls
+: 1227574303:0;cd var
+: 1227574304:0;ls
+: 1227574305:0;cd derby
+: 1227574306:0;ls
+: 1227574310:0;tail -f derby.log
+: 1227574315:0;ls
+: 1227574317:0;cd ..
+: 1227574318:0;ls
+: 1227574320:0;cd config
+: 1227574320:0;ls
+: 1227574324:0;vi config.xml
+: 1227574330:0;vim config.xml
+: 1227574341:0;emacs config.xml
+: 1227574893:0;ls
+: 1227574898:0;ssh mushroom@amber.dev2.blueleaf.co.jp
+: 1227575745:0;ls
+: 1227575748:0;ssh mushroom@amber.dev2.blueleaf.co.jp
+: 1227607605:0;cd /Users/takuya/Development/Workspace/Maven/mushroom
+: 1227607607:0;svn diff
+: 1227607620:0;ls
+: 1227607622:0;svn up
+: 1227607626:0;ls
+: 1227607629:0;cd mushroom-web
+: 1227607630:0;ls
+: 1227607632:0;cd src
+: 1227607633:0;ls
+: 1227607634:0;cd main
+: 1227607635:0;ls
+: 1227607637:0;cd resources
+: 1227607637:0;ls
+: 1227607639:0;vi logback.xml
+: 1227607651:0;mvn package
+: 1227607803:0;ls
+: 1227607805:0;pwd
+: 1227607806:0;ls
+: 1227607924:0;cd ..
+: 1227607924:0;ls
+: 1227607925:0;cd ..
+: 1227607926:0;ls
+: 1227607926:0;cd ..
+: 1227607928:0;ls
+: 1227607929:0;cd ..
+: 1227607929:0;ls
+: 1227607931:0;pwd
+: 1227607934:0;cd ..
+: 1227607935:0;ls
+: 1227607937:0;cd mushroom
+: 1227607937:0;ls
+: 1227607939:0;mvn package
+: 1227609351:0;ssh mushroom@amber.dev2.blueleaf.co.jp
+: 1227614403:0;svnUp
+: 1227614405:0;svn up
+: 1227614416:0;mvn package
+: 1227659697:0;ls
+: 1227659698:0;pwd
+: 1227659699:0;ls
+: 1227659712:0;cd ~
+: 1227659712:0;ls
+: 1227659716:0;cd .dotfiles
+: 1227659716:0;ls
+: 1227659719:0;svn diff
+: 1227659729:0;svn st
+: 1227659733:0;svn add
+: 1227659736:0;svnadd
+: 1227659741:0;ls
+: 1227659747:0;svn ci -m 'update'
+: 1227660497:0;ls
+: 1227660505:0;cd Dropbox
+: 1227660505:0;ls
+: 1227660530:0;mkdir Preferences
+: 1227660531:0;ls
+: 1227660532:0;cd Preferences
+: 1227660533:0;ls
+: 1227660560:0;cd Pre
+: 1227660561:0;ls
+: 1227660562:0;pwd
+: 1227660566:0;mkdir Firefox
+: 1227660568:0;cd Firefox
+: 1227660568:0;ls
+: 1227660593:0;ln -s ~/Library/Application\ Support/Firefox/Profiles/w636zurd.Dev
+: 1227660594:0;ls
+: 1227660600:0;ln -s ~/Library/Application\ Support/Firefox/Profiles/atwqyp8i.Net
+: 1227660601:0;ls
+: 1227660729:0;ssh mushroom@amber.dev2.blueleaf.co.jp
+: 1227660866:0;cd /Users/takuya/Development/Workspace/Maven/mushroom
+: 1227660867:0;ls
+: 1227660870:0;cd mushroom-domain-service
+: 1227660871:0;ls
+: 1227660874:0;cd src/main/resources
+: 1227660874:0;ls
+: 1227660876:0;vi logback.xml
+: 1227660892:0;ls
+: 1227660894:0;svn diff
+: 1227660898:0;ls
+: 1227660899:0;cd ..
+: 1227660900:0;ls
+: 1227660901:0;cd ..
+: 1227660901:0;ls
+: 1227660902:0;cd ..
+: 1227660902:0;ls
+: 1227660903:0;cd ..
+: 1227660904:0;ls
+: 1227660907:0;cd mushroom-doam
+: 1227660913:0;cd mushroom-domain
+: 1227660913:0;ls
+: 1227660915:0;cd src
+: 1227660915:0;ls
+: 1227660918:0;cd main
+: 1227660918:0;ls
+: 1227660919:0;cd resources
+: 1227660920:0;ls
+: 1227660923:0;pwd
+: 1227660926:0;cd ../../..
+: 1227660926:0;ls
+: 1227660927:0;cd ..
+: 1227660928:0;ls
+: 1227660933:0;mvn package -Dmaven.test.skip=true
+: 1227661091:0;ls
+: 1227661233:0;pwd
+: 1227661234:0;ls
+: 1227661235:0;cd ..
+: 1227661235:0;ls
+: 1227661236:0;cd ..
+: 1227661236:0;ls
+: 1227661239:0;cd takuya
+: 1227661239:0;ls
+: 1227661240:0;cd Memo
+: 1227661241:0;ls
+: 1227661242:0;svn diff
+: 1227661249:0;svn ci -m 'daily update'
+: 1227661253:0;pwd
+: 1227661277:0;ls
+: 1227672131:0;s
+: 1227678083:0;ls
+: 1227678120:0;cd Library
+: 1227678120:0;ls
+: 1227678123:0;cd Preference
+: 1227678123:0;s
+: 1227678127:0;cd Preferences
+: 1227678128:0;ls
+: 1227678152:0;ls | grep keyboard
+: 1227678200:0;less com.apple.systempreferences.plist
+: 1227678208:0;open com.apple.systempreferences.plist
+: 1227686406:0;s
+: 1227686407:0;ls
+: 1227686411:0;ls | grep istat
+: 1227686438:0;open com.iSlayer.iStatMenusPreferences.plist
+: 1227686495:0;mkdir ~/Dropbox/iStatMenu
+: 1227686523:0;cp com.iSlayer.iStatMenusPreferences.plist ~/Dropbox/Preferences/iStatMenu
+: 1227686563:0;ls | grep remap
+: 1227686682:0;ls | grep mail
+: 1227686686:0;ls | grep remap
+: 1227686740:0;s
+: 1227686741:0;ls
+: 1227686758:0;cd /Library/org.pqrs/KeyRemap4MacBook/prefpane
+: 1227686758:0;ls
+: 1227686764:0;less checkbox.xml
+: 1227686771:0;ls
+: 1227686773:0;cd ..
+: 1227686774:0;ls
+: 1227686779:0;cd bin
+: 1227686780:0;ls
+: 1227686782:0;cd ..
+: 1227686782:0;ls
+: 1227686784:0;cd extra
+: 1227686784:0;ls
+: 1227686787:0;cd ..
+: 1227686787:0;ls
+: 1227686789:0;cd app
+: 1227686789:0;ls
+: 1227686791:0;cd ..
+: 1227686792:0;ls
+: 1227686793:0;cd server
+: 1227686794:0;ls
+: 1227686795:0;cd ..
+: 1227686795:0;ls
+: 1227686797:0;cd share
+: 1227686797:0;ls
+: 1227686799:0;cd ..
+: 1227686799:0;ls
+: 1227686810:0;man ln
+: 1227686837:0;mkdir ~/Dropbox/Preferences/Keyremap4macbook
+: 1227686848:0;ln -s ~/Dropbox/Preferences/Keyremap4macbook
+: 1227686863:0;ls
+: 1227686872:0;cd Dropbox
+: 1227686872:0;ls
+: 1227686873:0;tree
+: 1227686877:0;cd Preferences
+: 1227686878:0;ls
+: 1227686879:0;ls -alt
+: 1227686882:0;tree
+: 1227686887:0;cd Keyremap4macbook/
+: 1227686888:0;ls
+: 1227686907:0;ln -s /Library/org.pqrs/KeyRemap4MacBook/prefpane
+: 1227686908:0;ls
+: 1227686916:0;here
+: 1227687554:0;ls
+: 1227687557:0;cd ..
+: 1227687557:0;ls
+: 1227688031:0;cd Firefox
+: 1227688031:0;ls
+: 1227688316:0;pwd
+: 1227688317:0;ls
+: 1227688326:0;cd Library/Application\ Support/Firefox
+: 1227688326:0;ls
+: 1227688328:0;cd Profiles
+: 1227688328:0;ls
+: 1227688330:0;cd a
+: 1227688331:0;ls
+: 1227688333:0;cd atwqyp8i.Net
+: 1227688333:0;ls
+: 1227689056:0;cd ..
+: 1227689056:0;ls
+: 1227689059:0;cd Keyremap4macbook
+: 1227689059:0;ls
+: 1227689061:0;cd prefpane
+: 1227689061:0;ls
+: 1227689066:0;less checkbox.xml
+: 1227689196:0;man sysctl
+: 1227689274:0;less checkbox.xml
+: 1227691099:0;ls -alt
+: 1227691112:0;cd Memo
+: 1227691219:0;man ln
+: 1227692493:0;s
+: 1227692493:0;ls
+: 1227692496:0;ls -alt
+: 1227692502:0;ls
+: 1227692503:0;pwd
+: 1227692504:0;cd>.
+: 1227692504:0;ls
+: 1227692505:0;cd ..
+: 1227692505:0;ls
+: 1227692507:0;cd la-tl
+: 1227692508:0;ls -alt
+: 1227692594:0;vi .bashrc
+: 1227692622:0;vi .zshrc
+: 1227692629:0;ls
+: 1227692637:0;pwd
+: 1227692640:0;cd .dotfiles
+: 1227692640:0;ls
+: 1227692641:0;pwd
+: 1227692642:0;ls
+: 1227692644:0;ls -alt
+: 1227692651:0;pwd
+: 1227693487:0;s
+: 1227693496:0;cp ../.zsh_history ./
+: 1227693695:0;ls
+: 1227693697:0;ls -alt
+: 1227693705:0;cd .dotfiles
+: 1227693705:0;ls
+: 1227693707:0;svn diff
+: 1227693711:0;svn st
+: 1227693718:0;svn add .zsh_history
+: 1227693727:0;svn ci -m 'added zsh_history'
+: 1227693777:0;ls -alt
+: 1227693784:0;exit

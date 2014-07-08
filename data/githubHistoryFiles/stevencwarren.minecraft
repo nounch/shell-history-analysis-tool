@@ -1,0 +1,156 @@
+ll
+ls -la
+sudo ls
+cat server.properties
+vim server.properties
+vim server.properties
+exit
+ls
+screen
+exit
+ll
+ls -lah
+vim ops.txt 
+ps aux | grep minecraft
+./run.sh restart
+cat white-list.txt 
+screen --help
+screen
+clear
+ll
+ls -lah
+cat run.sh
+ps aux | grep minecraft
+screen -r
+clear
+exit
+screen -d
+screen -r
+ls
+exit
+screen -r
+screen -a
+exit
+screen -r
+exit
+exit
+screen -r
+screen 
+screen -r
+exit
+ll
+ls -lah
+ls -lah world/
+cat .git/config
+pwd
+git st
+git status
+git ci -am 'Updated world files.'
+git commit -am 'Updated world files.'
+git push origin master
+exit
+screen -r
+exit
+git status
+git add .bash_history minecraft world/players/* world/region/*
+git status
+git add world/*
+sudo git add world/*
+exit
+git push origin master
+exit
+screen -r
+screen
+screen -r
+exit
+lla
+ls -lah
+cat server.log
+exit
+ll
+ls -lah
+pwd
+exit
+exit
+screen -r
+exit
+ll
+ls -lah
+vim ops.txt 
+screen -r
+screen -a
+screen -d
+screen
+screen -r
+screen -r 21766.pts-1.li74-208
+screen -r 23646.pts-1.li74-208
+screen -r
+exut
+exit
+ls
+git status
+git add *
+git status
+git add world/* minecraftadmin  world/players/*
+sudo git add world/* minecraftadmin  world/players/*
+exit
+git status
+git add *
+git status
+git add minecraft world/* 
+git status
+git add world/*
+git status
+vim banned-players.txt
+git add banned-ips.txt banned-players.txt ops.txt 
+git status
+git commit -am 'updateing'
+git status
+git commit -m 'updateing server
+'
+git commit -m 'updating server'
+git status
+git add world/*
+vim server.log
+screen -r
+git status
+git add world/* 
+git status
+git commit -am 'updating server'
+git push origin master
+exit
+git pull origin master
+cat ~/.ssh/
+ssh keygen
+ssh keygen -t rsa
+ssh-keygen -t rsa
+cat ~/.ssh/id_rsa.pub 
+git pull origin master
+exit
+git pull origin master
+git push origin master
+git pull
+git pull origin master
+git push origin master
+exit
+screen -r
+exit
+screen -r
+exit
+screen -r
+screen -r
+exit
+cd /opt/minecraft/
+./run.sh
+./run.sh
+./run.sh
+./run.sh
+./run.sh
+./run.sh
+./run.sh
+./run.sh
+./run.sh
+./run.sh
+ls
+screen -r
+exit

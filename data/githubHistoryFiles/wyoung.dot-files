@@ -1,0 +1,1113 @@
+ls
+cd package-query/
+ls
+makepkg
+sudo pacman -S yajl
+makepkg
+pacman -U package-query-1.1-2-x86_64.pkg.tar.xz 
+sudo pacman -U package-query-1.1-2-x86_64.pkg.tar.xz 
+cd
+ls
+wget https://aur.archlinux.org/packages/ya/yaourt.tar.gz
+wget https://aur.archlinux.org/packages/ya/yaourt/yaourt.tar.gz
+ls
+tar xzvf yaourt.tar.gz 
+ls
+cd yaourt
+ls
+makepkg 
+sudo pacman -U yaourt-1.2.2-1-any.pkg.tar.xz 
+sudo pacman -U yaourt-1.2.2-1-any.pkg.tar.xz 
+yaourt -Syy
+yaourt -Syya
+sudo pacman -S pacman-color
+yaourt -S pacman-color
+pacman-color 
+sudo pacman-color -S ruby
+yaourt -S xmonad-darcs xmonad-contrib-darcs
+sudo pacman -S xmonad xmonad-contrib
+pacman -S git 
+sudo pacman -S git 
+yaourt -S freetype2-ubuntu fontconfig-ubuntu cario-ubuntu
+yaourt -S freetype2-ubuntu fontconfig-ubuntu cario-ubuntu
+pacman -Syy
+sudo pacman -Syy
+yaourt -S freetype2-ubuntu fontconfig-ubuntu cario-ubuntu
+yaourt -S freetype2-ubuntu fontconfig-ubuntu
+ls
+cd
+ls
+rm -rf yaourt.tar.gz 
+mkdir -p pkgs/aur
+mkdir -p working/git private/git
+cd private/git/
+git clone git@github.com:wyoung/dot-files.git
+pacman -S dropbpox
+sudo pacman -S dropbpox
+sudo pacman -S dropbox
+pacman -S chromium
+sudo pacman -S chromium
+sudo pacman -S --asdeps freetyp2 libxft cairo fontconfig
+sudo pacman -S --asdeps freetype2 libxft cairo fontconfig
+clear
+pacman
+pacman-color 
+ls
+ls
+cd
+ls
+pwd
+cd private/git/
+ls
+cd
+ls
+la
+ls -la
+vim .bash_profile 
+ls
+vim .bashrc 
+la
+ls
+clear
+ls
+mv package-query/ pkgs/aur/
+ls
+mv yaourt/ pkgs/aur/
+l
+ls
+sudo pacman -S openbox obconf obmenu
+pacman -S xterm
+sudo pacman -S xterm
+sudo pacman -S xterm
+mkdir -p ~/.config/openbox
+cp /etc/xdg/openbox/{rc.xml,menu.xml,autostart,environment} ~/.config/openbox/
+ls
+cd .config/
+ls
+cd openbox/
+ls
+l
+la
+ls -la
+vim rc.xml 
+ls
+cd
+ls
+vim .xinitr
+vim .xinitrc
+startx
+sudo reboot
+ls
+chromium &
+sudo ip link set wlan0 up
+sudo wifi-menu
+sudo wifi-menu
+cd /etc/X11/xorg.conf.d/
+ls
+cd ..
+ls
+sudo vim xorg.conf
+cd /etc/network.d/
+l
+ls
+rm wlan0-mc 
+sudo rm wlan0-mc 
+sudo wifi-menu
+sudo vim /etc/resolv.conf 
+ping google.com
+cat /etc/resolv.conf 
+iwconfig wlan0
+ifconfig
+ip link
+ping 192.168.1.1
+cd
+ls
+mkdir .ssh
+chmod 700 .ssh/
+cd .ssh/
+ls
+sudo pacman-color -Syu 
+sudo pacman -S wicd
+sudo pacman -S wicd-gtk 
+sudo vim /etc/rc.d/wicd 
+sudo pacman -S wicd-gtk 
+wicd-gtk 
+pacman -S dbus
+sudo pacman -S dbus
+vim id_rsa
+vim id_rsa
+ls
+chmod 600 id_rsa 
+cd
+ls
+ssh-add
+sudo pacman -S ssh
+sudo pacman -S openssh
+ssh-add 
+eval $(ssh-agent)
+ssh-add 
+sudo vim /etc/resolv.conf 
+ssh db-aws-1
+ssh mc
+clear
+ls
+ls
+rm Xterm.log.monticello.2012.12.06.23.04.17.345 
+ls
+cd private/git/
+ls
+git clone git@github.com:wyoung/dot-files.git
+git clone git@github.com:wyoung/dot-files.git
+git
+ls
+ps -ef | grep ssh-agent
+ssh admissions
+cat /etc/resolv.conf 
+sudo vim /etc/resolv.conf 
+git clone git@github.com:wyoung/dot-files.git
+sudo ip link set wlan0 down
+sudo ip link set eth0 up
+sudo dhcpcd eth0
+cd /etc/network.d/
+ls
+cd interfaces/
+ls
+la
+ls
+cd ..
+ls
+cd examples/
+ls
+vim ethernet-dhcp 
+ls
+cd ..
+ls
+cd ..
+ls
+grep -R -i "resolv" *
+sudo vim avahi/avahi-dnsconfd.action 
+ls
+ping google.com
+cd ~/private/git/
+ls
+git clone git@github.com:wyoung/dot-files.git
+cd
+ls
+cd private/git/dot-files/
+ls
+ls -la
+cp .bash* ~/
+cp .gemrc ~/
+cp .vim* ~/
+cp -R .vim* ~/
+cp -r .xmo* ~/
+ls
+cd
+ls
+la
+ls -la
+. .bashrc 
+cd .xmonad/
+ls
+clear
+ls
+pkill x
+ls
+exit
+ls
+vim .xinitrc 
+sudo pacman -S xmobar
+sudo pacman-color dmenu
+sudo pacman-color -S dmenu
+sudo pacman -S gnome-terminal
+ls
+gnome-terminal 
+ls
+clear
+exit
+ls
+clear
+ls
+pwd
+ls
+clear
+exit
+vim .xmonad/xmonad.hs 
+sudo pacman -S terminator
+exit
+ls
+exit
+vim .xmonad/xmonad.h
+cd .xmo
+ls
+cd .xmonad/
+ls
+rm xmonad.errors xmonad.hi xmonad.o xmonad-x86_64-linux 
+ls
+cd ..
+ls
+cd private/git/
+ls
+cd dotfiles/
+ls
+la
+cd .bashrc
+vim .bashrc
+cd .bashrc.d/
+ls
+cat aliases 
+cat completion 
+sudo pacman -S bashcompletion
+sudo pacman -S bash-completion
+ls
+cat pacman-color 
+cat prompt 
+ls
+cat python 
+ls
+cat history 
+ls
+cd ..
+ls
+la
+cat .mostrc 
+la
+l
+la
+cd .doc/
+ls
+cx
+cd .bin/
+ls
+cat abbr_pwd.py 
+:q!
+ls
+cd ..
+ls
+la
+ls -la
+cp -R .bash* ~/
+cp -R .bin ~/
+cd
+ls
+vim .bashrc
+vim .bash_profile 
+exit
+vim .xinitrc 
+sudo pacman -S xmobar
+sudo pacman-color dmenu
+sudo pacman-color -S dmenu
+sudo pacman -S gnome-terminal
+gnome-terminal 
+exit
+exit
+sudo pacman -S terminator
+exit
+exit
+pyhton
+python
+sudo pacman -S python
+sudo pacman-color -S python
+clear
+pwd
+cd /etc
+vim .bash.rccd
+vim .bin/abbr_pwd.py 
+pacman -S ttf-ubuntu
+sudo pacman -S ttf-ubuntu
+sudo pacman -Rcs ubuntu
+pacman -R ubuntu
+pacman -S ttf-ms-fonts
+sudo pacman -S ttf-ms-fonts
+sudo yaourt -S ttf-ms-fonts
+sudo yaourt -S ttf-vista-fonts ttf-google-webfonts monaco-linux-font ttf-monofur ttf-droid terminus-font ttf-ubuntu-font-faimly
+sudo yaourt -S ttf-vista-fonts ttf-google-webfonts monaco-linux-font ttf-monofur ttf-droid terminus-font ttf-ubuntu-font-family
+vim .xmonad/xmonad.hs 
+cd
+ls
+la
+vim .xmobarrc 
+man HUP
+man kill
+HUP
+kill xmobar
+pkill xmobar
+xmobar &
+ls
+la
+cat .Xauthority 
+pkill X
+ls
+startx
+vim .xinitrc 
+startx
+vim .xmonad/xmonad.hs 
+startx
+vim .xinitrc 
+startx
+cd private/git/
+ls
+git clone git@github.com:jthacker/dotfiles.git
+ls
+cd dot
+cd dotfiles/
+ls
+la
+ls -la
+cat .xmo
+cp .xmobarrc ~/
+cd .xmonad/
+ls
+cd ..
+ls
+cp -R .xmonad/ ~/
+ls
+cd
+ls
+vim .xinitrc 
+startx
+startx
+clear
+ls
+sudo pacman -S hwfino
+sudo pacman -S hwinfo
+hwinfo --framebuffer
+sudo hwinfo --framebuffer
+vim /boot/syslinux/syslinux.cfg 
+startx
+ls
+sudo vim /boot/syslinux/syslinux.cfg 
+sudo reboot
+exit
+sudo hwinfo --framebuffer
+vim /boot/syslinux/syslinux.cfg 
+startx
+sudo vim /boot/syslinux/syslinux.cfg 
+sudo reboot
+clear
+sudo pacman-color -Syu
+cd /etc/pacman.d/
+sudo mv mirrorlist mirrorlist.backup
+sudo rankmirrors -n 6 mirrorlist.backup > mirrorlist.backup 
+sudo -i
+sudo wifi-menu wlan0
+ping google.com
+cd
+sudo wifi-menu 
+sudo vim /etc/resolv.conf 
+sudo vim .xmobarrc 
+sudo pkill xmobar
+nohup xmobar &
+cat nohup.out 
+rm nohup.out 
+ls
+exit
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+update
+man pacman
+ping berkleemusic.com
+psg wicd
+wicd
+sudo wicd
+clear
+iwconfig wlan0
+sudo wicd-curses
+exit
+ls
+update
+upgrade
+ls
+clear
+ls
+clear
+vim .bash_prompt 
+. .bash_prompt 
+clear
+ls
+w
+top
+w
+man w
+w -s
+man w
+w --help
+w -h
+w
+pacman -S unclutter
+sudo pacman -S unclutter
+install trayer
+psg trayer
+vim .xmonad/xmonad.hs 
+ps -ef | grep demnu
+ps -ef | grep dmenu
+update
+exit
+man date
+vim .xinitrc 
+psg agent
+man ssh-agent
+ssh-agent -a
+man ssh-agent 
+eval $(ssh-agent)
+man eval
+psg ssh
+ssh-add
+cat /etc/resolv.conf 
+exit
+clear
+sudo wicd-curses 
+update
+date +"%m%d%y
+"
+date +"%m%d%y"
+date +"%m-%d%-y"
+date +"%m-%d-%y"
+date +"%H-%M-%S %m-%d-%y"
+man date
+date +"%H-%M-%S %m-%d-%y"
+date +"%H:%M:%S %m-%d-%y"
+date +"%H:%M:%S @ %m-%d-%y"
+man date
+date +"%H:%M:%S @ %a %d %Y"
+date +"%a %d %Y"
+date +"%a %d %Y :: %H:%M:S"
+date +"%a %d %Y :: %H:%M:%S"
+clear
+vim .bash_prompt 
+date +"%a %d %Y :: %H:%M:%S"
+vim .bash_prompt 
+source .bash_prompt 
+clear
+vim .bash_prompt 
+source .bash_prompt 
+clear
+l
+exit
+lspci
+lsmod
+lsmod | grep -i RTL8188CE
+lspci
+uname
+uname -a
+ls
+cd Downloads/
+ls
+tar 
+tar xzvf r
+tar xzvf rtl8188ce.gz
+ls
+cd rtl_92ce_92se_92de_8723ae_linux_mac80211_0007.0809.2012/
+ls
+make 
+cat /var/log/faillog 
+sudo cat /var/log/faillog 
+cd w
+cd /var/log/
+ls
+cd wicd/
+ls
+sudo cat wicd.log 
+modprobe
+modprobe -h
+modprobe -a
+sudo modprobe -a
+sudo modprobe
+sudo modprobe -n
+sudo modprobe -c
+sudo modprobe 
+sudo modprobe -h
+sudo modprobe -c | grep rtl
+sudo modprobe -c | grep rtl8192
+modprobe -r rrr8192e_pci
+sudo modprobe -r rrr8192e_pci
+sudo modprobe -r r8192e_pci
+sudo modprobe r8192e_pci
+sudo wicd-curses 
+ping google.com
+exit
+echo "export rvm_ignore_gemrc_issues=1" >> .rvmrc
+cat .rvmrc 
+exit
+vim .xmonad/xmonad.hs 
+dmesg 
+dmesg | grep -i rtl819
+clear
+sudo pacman -Syy
+ls
+pwd
+cd working/
+ls
+cd git/
+ls
+rvm
+\curl -L https://get.rvm.io | bash -s stable --ruby
+sudo wicd-curses 
+lspci 
+lspci  | grep -i wireless
+dmesg
+lspci  | grep -i wireless
+dmesg
+lspci  | grep -i wireless
+lspci 
+clear
+date
+vim .bash_history 
+sudo wifi-menu 
+sudo iwconfig wlan0
+ping 8.8.8.8
+rvm
+rvm list
+rvm install 1.9.3
+rvm
+rvm list
+rvm install 1.9.3
+rvm
+rvm list
+rvm install 1.9.3
+rvm
+rvm list
+rvm install 1.9.3
+sudo pacman -Sy --noconfirm gcc patch curl zlib readline libxml2 libxslt git autoconf automake diffutils make libtool bison subversion
+install ibgnome-keyrin
+install libgnome-keyrin
+install libgnome-keyring
+exit
+rvm
+rvm list
+rvm install 1.9.3
+pacman -Sy --noconfirm gcc patch curl zlib readline libxml2 libxslt git autoconf automake diffutils make libtool bison subversion
+sudo pacman -Sy --noconfirm gcc patch curl zlib readline libxml2 libxslt git autoconf automake diffutils make libtool bison subversion
+sudo wicd-curses 
+sudo pkill X
+sudo pkill Xk
+sudo pkill X
+exit
+sudo pacman -S terminator
+exit
+exit
+pyhton
+python
+sudo pacman -S python
+sudo pacman-color -S python
+pwd
+cd /etc
+vim .bash.rccd
+vim .bin/abbr_pwd.py 
+pacman -S ttf-ubuntu
+sudo pacman -S ttf-ubuntu
+sudo pacman -Rcs ubuntu
+pacman -R ubuntu
+pacman -S ttf-ms-fonts
+sudo pacman -S ttf-ms-fonts
+sudo yaourt -S ttf-ms-fonts
+sudo yaourt -S ttf-vista-fonts ttf-google-webfonts monaco-linux-font ttf-monofur ttf-droid terminus-font ttf-ubuntu-font-faimly
+sudo yaourt -S ttf-vista-fonts ttf-google-webfonts monaco-linux-font ttf-monofur ttf-droid terminus-font ttf-ubuntu-font-family
+vim .xmonad/xmonad.hs 
+vim .xmobarrc 
+man HUP
+man kill
+HUP
+kill xmobar
+pkill xmobar
+xmobar &
+cat .Xauthority 
+pkill X
+vim .xmonad/xmonad.hs 
+cd private/git/
+git clone git@github.com:jthacker/dotfiles.git
+cd dot
+cd dotfiles/
+ls -la
+cat .xmo
+cp .xmobarrc ~/
+cd .xmonad/
+cd ..
+cp -R .xmonad/ ~/
+sudo pacman -S hwfino
+sudo pacman -S hwinfo
+hwinfo --framebuffer
+sudo hwinfo --framebuffer
+vim /boot/syslinux/syslinux.cfg 
+sudo vim /boot/syslinux/syslinux.cfg 
+sudo reboot
+sudo ip link set wlan0 up
+sudo wifi-menu 
+sudo ip link set eth0 up
+sudo dhcpcd eth0
+vi /etc/resolv.conf 
+sudo vi /etc/resolv.conf 
+vi pacman-color 
+pacman -Syu
+vim .bashrc
+echo $pacman
+sudo echo $pacman
+vim .bashrc.d/pacman-color 
+rm .Xauthority 
+cd .local/
+cd share/
+vim .gemrc 
+cd .config/
+cd chromium/
+grep -R -i "font" *
+la
+c
+cd .bashrc.d/
+vim aliases 
+cat completion 
+cat history 
+cat prompt 
+:q!
+cd .bin
+cd .bin/
+vim download-website.sh 
+vim serve-directory.sh 
+vim xmonad.local 
+cp xmonad.local ~/.xinitrc 
+cd
+vim .xinitrc 
+sudo pacman-color -S gnome-keyring-daemon
+yaourt -S gnome-keyring-daemon
+cat .xinitrc 
+sudo pacman-color trayer nm-applet unclutter 
+sudo pacman-color -S trayer nm-applet unclutter 
+sudo pacman-color -S trayer networkmanager unclutter 
+startx
+sudo pacman -Syu
+sudo pacman-color -Syu
+sudo pkill pacman-color
+sudo kill -9 3649 3650
+ps -ef | grep pacman
+clear
+cp private/git/dot-files/.bashrc ~/
+ls
+. .bashrc
+vim .bashrc
+hostname
+hostname -f
+vim .bashrc
+source .bashrc
+clear
+ls
+man hostname
+clear
+ls
+clear
+vim .bashrc
+ls -la 
+cat .bash_
+cat .bash_aliases 
+la
+sudo vim .bash_aliases 
+puppetdir 
+. .bashrc
+update
+rm /var/lib/pacman/
+clear
+ls
+update
+sudo rm /var/lib/pacman/db.lck 
+update
+sudo wifi-menu wlan0
+sudo vim /etc/resolv.conf 
+clear
+vim .xinitrc 
+vim .bashrc
+vim .xinitrc 
+update
+ping 192.168.1.1
+ping 8.8.8.8
+vim /etc/resolv.conf 
+sudo vim /etc/resolv.conf 
+update
+ps -ef | grep pacman
+sudo pkill pacman
+sudo pkill -f pacman
+ps -ef | grep pacman
+sudo kill -9 4219 4220
+ps -ef | grep pacman
+clear
+ls
+ps
+ps -ef
+top
+ps -ef | grep pacman
+vim .bash_aliases 
+ls
+la
+ps -ef | grep pacman
+ls
+update
+sudo rm /var/lib/pacman/db.lck 
+update
+sudo pkill -f pacman-color
+sudo pkill -f pacman
+ps -ef | grep pacman
+sudo wicd-curses 
+systemctl 
+systemctl --help
+systemctl start wicd
+sudo systemctl start wicd
+psg wicd
+sudo wicd-curses 
+sudo wicd-curses wlan0
+ping google.com
+cat /etc/resolv.conf 
+startx
+ls
+la
+cat .bash_logout 
+cat .bash_pro
+cat .bash_profile 
+cat .bashrc
+vim .bashrc
+. .bashrc
+ls
+w
+man grep
+w
+hostname
+date
+date %H%m%s
+date %h%m%s
+man date
+date @%i
+date
+vim .bash_prompt 
+source .bash_prompt 
+ls
+clear
+date
+startx
+ps -ef | grep rvm
+startx
+rvm
+source .rvm/scripts/rvm
+rvm
+clear
+vim .bashrc
+startx
+vim .xmonad/xmonad.hs 
+startx
+ls
+cd Downloads/
+ls
+mv rtl_92ce_92se_92de_8723ae_linux_mac80211_0007.0809.2012/ rtl8188CE
+ls
+cd rtl8188CE/
+ls
+install abs
+ls
+ls -la | grep install
+ls
+make
+dmesg
+dmesg | grep rtl
+sudo reboot
+cd private/git/dotfiles/
+ls
+la
+vim .bashrc
+cd .b
+ls
+cd .bin/
+ls
+cat xmonad.local 
+cd
+ls
+rvm install 1.9.3
+ruby install ree
+rvm install ree
+cat .rvm/log/ruby-1.9.3-p327/fetch.log 
+cat /etc/resolv.conf 
+rvm install ree
+install base-devel linux-headers 
+cd Downloads/rtl8188CE/
+ls
+make
+make install
+sudo make install
+ls
+dmesg
+cat /etc/resolv.conf 
+ping 8.8.8.8
+ps -ef | grep rvm
+exit
+rvm list
+rvm install 1.9.3
+cat /etc/resolv.conf 
+rvm install 1.9.3
+rvm list
+rvm install 1.9.3
+cat /etc/resolv.conf 
+rvm install 1.9.3
+rvm list
+rvm install 1.9.3
+cat /etc/resolv.conf 
+rvm install 1.9.3
+dmesg | grep rtl
+sudo wicd-curses wlan0
+sudo systemctl start wicd
+sudo wicd-curses wlan0
+ping 8.8.8.8
+sudo wicd-curses wlan0
+ping 8.8.8.8
+sudo wifi-menu 
+ping 8.8.8.8
+sudo wifi-menu 
+ping 8.8.8.8
+install flashplayer
+sudo pacman -S libvdpau
+upgrade
+aspci
+acpi
+install acpi
+cat /etc/resolv.conf 
+sudo wifi-menu 
+ping 8.8.8.8
+cat /etc/resolv.conf 
+ip link set
+ip link
+sudo ip link set wlan0 down
+sudo wicd-curses 
+ping 8.8.8.8
+exit
+install acpi
+pacman -Syy
+startx
+dmesg | grep rtl
+modprobe 
+man modprobe
+install bash-completion
+clear
+update
+rvm list
+rvm use ree
+rvm gemset create puppet
+rvm use ree@puppet
+rvm gem list
+rvm all do gem list
+clear
+ls
+startx
+sudo poweroff
+rvm list
+rvm install 1.9.3
+cat /etc/resolv.conf 
+rvm install 1.9.3
+cat /etc/resolv.conf 
+rvm install 1.9.3
+ls
+exit
+cd .xmonad/
+ls
+vim xmonad.hs 
+ls
+cd
+ls
+rvm 
+rvm list
+ls
+rvm use ree@puppet
+gem list
+gem install puppet
+exit
+vim .bash_history 
+sud wifi-menu
+sudo wifi-menu
+sudo wicd-curses 
+ssh userservice001.berkleemusic.com
+ssh admissions.berkleemusic.com
+ssh mongobd
+ssh mongodb
+ssh mongodb.berkleemusic.com
+ssh admissions
+ssh admissions.berkleemusic.com
+sudo wicd-curses 
+ping google.com
+ssh admissions
+ssh admissions.berkleemusic.com
+ssh mongodb.berkleemusic.com
+exit
+upgrade
+cd /etc/pacman.d/
+ls
+cat mirrorlist
+cat mirrorlist.backup 
+sudo rankmirrors -n 6 mirrorlist.backup > mirrorlist.backup.new
+sudo -i
+w
+clear
+sudo wicd-curses 
+sudo /etc/rc.d/wicd start
+sudo wicd-curses 
+startx
+vim .xinitrc 
+sudo reboot
+sudo wicd-curses 
+sudo wifi-menu
+cat /etc/resolv.conf 
+alsamixer 
+upgrade
+l
+clear
+cd Downloads/
+l
+cd
+ls
+cd pkgs/
+l
+cd
+ls
+mv pkgs Downloads/
+l
+cd Downloads/
+ls
+cd
+ls
+man pacman
+pacman -s vim
+man pacman
+pacman -Qs vim
+install gvim
+vim
+ls
+install gnome-tweak-tool
+gnome-tweak-tool 
+ls
+cd working/git/
+ls
+cx
+cd per
+cd private/ls
+cd private/
+la
+l
+cd git/
+l
+cd dot
+cd dotfiles/
+l
+la
+vim .gitmodules 
+la
+cx
+l
+cd dot-files/
+l
+la
+cx
+ls
+rm -rf dotfiles/
+l
+cd dot-files/
+l
+la
+vim install.sh 
+ls -la
+clear
+rvm list
+rvm install 1.9.3
+cd
+ls
+cd
+ls
+vim .xmonad.test
+ls
+la
+cd .xmonad/
+ls
+cd ..
+ls
+mv .xmonad.test .xmonad/xmonad.new
+cd .xmonad/
+ls
+cp xmonad.hs xmonad.backup
+la
+cat xmonad.hi 
+rm xmonad.hi 
+ls
+rm xmonad.o 
+la
+cat xmonad.errors 
+rm xmonad.errors 
+la
+cat autostart.sh 
+la
+diff x
+diff
+diff xmonad.backup xmonad.hs 
+cp xmonad.new xmonad.hs 
+sudo wicd-curses 
+history
+sudo wifi-menu 
+ping google.com
+sudo /etc/rc.d/wicd start
+cd /etc/
+ls
+cd conf.d/
+ls
+cd ..
+ls
+cat os-release 
+cd systemd/
+l
+cd user/
+l
+cx
+cd system/
+l
+cxx
+l
+grep -R -i "monticello" *
+sudo grep -R -i "monticello" *
+sudo vim hostname 
+sudo vim host.conf 
+sudo vim hosts
+l
+cd xinetd.d/
+l
+cd
+ls
+sudo grep -R -i "network" 
+sudo grep -R -i "dbus" *
+sudo grep -R -i "dbus" /etc/*
+sudo systemctl 
+sudo systemctl --help
+sudo systemctl list-units
+sudo systemctl --help
+sudo systemctl list-units
+systemctl 
+systemctl --help
+sudo systemctl enable wicd.service 
+sudo vim /etc/systemd/system/dbus-org.wicd.daemon.service
+ls
+psg wicd
+sudo wicd-cli
+sudo wicd-client 
+ping google.ocm
+ping google.com
+cat /etc/resolv.conf 
+sudo vim /etc/resolv.conf 
+rvm list
+rvm install 1.9.2
+exit
+ssh mongodb001
+ssh mongodb001.berkleemusic.com
+exit
+ls
+cd working/
+ssh timetrade001
+ssh timetrade001.berkleemusic.com
+exit
+rvm use 1.9.3
+rvm gemset create codeacademy
+rvm use 1.9.3@codeacademy
+rvm list
+rvm list known
+exit

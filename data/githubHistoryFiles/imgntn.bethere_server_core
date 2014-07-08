@@ -1,0 +1,355 @@
+sudo su
+ls
+cd bethere_live/
+ls
+ls -la
+vi .gitignore 
+ls
+ls -l
+git --version
+cd ..
+sudo apt-get install expat
+sudo apt-get install curl
+sudo apt-get install zlib
+wget http://git-core.googlecode.com/files/git-1.7.8.4.tar.gz
+tar xvzf git-1.7.8.4.tar.gz 
+ls
+cd git-1.7.8.4/
+ls
+./configure
+make prefix=/usr all
+sudo apt-get install tcl
+make prefix=/usr all
+sudo make prefix=/usr install
+git --version
+cd ..
+ls
+rm -r git-1.7.8.4 git-1.7.8.4.tar.gz 
+ls
+git --version
+logout
+sudo su
+ls
+git --version
+git clone git@github.com:imgntn/bethere_practice.git
+sudo su
+ls
+ssh -vT git@github.com
+cd .ssh
+ls
+ls -laF
+cd ..
+sudo su
+cat .ssh/authorized_keys 
+ssh-add .ssh/authorized_keys 
+ls
+ls -laF
+cd .ssh
+ls -alF
+cd ..
+ssh-keygen -t rsa -C "temp key for setting up server"
+cd .ssh/
+vi id_rsa.pub 
+cd ..
+git config --global
+git config --global --get user.name
+cd .ssh
+ls
+cd ..
+git config user.name
+git config --global user.name "Ubuntu Server"
+git config --global user.email "jamesbradenpollack@gmail.com"
+sudo su
+git config --global user.name "James B. Pollack"
+git config --global user.name
+ls
+git clone git@github.com:imgntn/bethere_practice.git
+cd bethere_
+cd bethere_practice/
+ls
+git branch -M master old_express
+git rm -rf .
+cp -r ../bethere_live/ .
+ls
+rm -r bethere_live/
+cp -r ../bethere_live/* .
+ls
+git add .
+git status
+touch blah
+git status
+rm blah 
+git status
+git rm -rf .
+ls
+rm node_modules/
+ls
+rm -r node_modules/
+ls
+git checkout --orphan master
+ls
+git branch
+cd ..
+ls
+cd bethere_practice/
+ls
+cp -r ../bethere_live/* .
+ls
+git add .
+git status
+cd ..
+ls
+cd bethere_live/
+ls
+git init
+sudo chmod 666 .git/
+cd ..
+sudo chmod 777 bethere_live/
+cd bethere_live/
+ls
+git init
+ls
+git add .
+git commit -m 'added starting files'
+cd ..
+cd bethere_practice/
+git remote add socketversion "../bethere_live/.git"
+git pull socketversion master
+ls
+git branch
+git push
+git push --force
+git push origin old_express
+ls
+cd client/
+ls
+cd static/
+ls
+cd ..
+cd code/
+ls
+cd libs/
+ls
+cd ..
+..
+cd ..
+ls
+cd node_modules/
+ls
+cd ..
+ls
+cd client/
+ls
+cd views/
+ls
+cd ..
+cd templates/
+ls
+cd ..
+cd static/
+ls
+cd images/
+ls
+cd ../..
+ls
+cd css/
+ls
+cd libs/
+ls
+cd ..
+ls
+cd cod
+cd code
+ls
+cd libs/
+ls
+wget http://www.oampo.co.uk/labs/technocrat/js/audiolet/Audiolet.min.js
+ls
+git add .
+ls
+git status
+git commit -m 'added Three.js, Sparks.js, Tween.js, Audiolet.js libraries'
+ls
+cd ..
+git status
+git push
+vi README 
+git commit -a -m 'added readme'
+git push
+vi .gitignore 
+ls
+git status
+git add node_modules/
+git commit -a -m 're added node_modules to repo'
+git push
+ls
+cd node_modules/
+ls
+cd socketstream
+ls
+cd ..
+ls -laF
+rm socketstream
+mkdir socketstream
+cp /usr/lib/node_modules/socketstream/* socketstream/
+cp -r /usr/lib/node_modules/socketstream/* socketstream/
+cd socketstream/
+ls
+cd ..
+git status
+cd ..
+ls
+git status
+git commit -a -m 'removed socketstream symlink'
+git status
+git add node_modules/socketstream/
+node app.js
+sudo su
+git push
+node -v
+logout
+exit
+ls
+cd ls -laF
+ls -laF
+sudo chmod 755 bethere_live/
+ls -laF
+cd bethere_practice/
+ls
+cd client/
+ls
+cd ..
+ls
+cd bethere_live/
+ls
+ls -a
+ls -lF
+ls -laF
+cd ..
+cd bethere_practice/
+ls
+vi .gitignore
+git rm --cached node_modules/
+git rm -r --cached node_modules/
+ls
+git status
+git commit -a -m 'updated git ignore'
+git status
+ls
+cd client/code/libs/
+ls
+wget http://mrdoob.github.com/three.js/build/Three.js
+ls
+wget http://mrdoob.github.com/three.js/examples/js/Detector.js
+wget http://mrdoob.github.com/three.js/examples/js/Tween.js
+wget http://mrdoob.github.com/three.js/examples/js/Sparks.js
+ls
+ps x
+ps ux
+cd 
+sudo su
+git pull
+cd bethere_live/
+git pull
+git status
+cd client/static/assets/
+ls
+cd main/
+ls
+cd ..
+ls
+rm *
+rm -r main/
+cd ..
+git status
+git rm -r client/static/assets/
+git status
+git pull
+git pull origin master
+git status
+cd client/static/assets/
+ls -laF
+rm -r main
+rm -rf main
+sudo rm -r main
+ls
+cd ../../..
+ls
+git status
+ls
+git branch
+ls
+git fetch origin
+git branch
+git branch origin
+git branch help
+git --help
+git help branch
+git branch
+git help branch
+git branch -d help
+git branch -d origin
+git branch
+git help branch
+git branch -r
+screen -r
+sudo su
+git status
+git push origin master
+ls
+cd .git
+vi config 
+git pull
+vi config 
+cd ..
+git pull
+git push
+ps ux
+sudo su
+git pull
+screen -r
+sudo su
+git pull
+node app.js
+sudo su
+screen
+sudo su
+git push
+sudo su
+logout
+sudo su
+apt-get update
+sudo su
+exit
+ls
+cd bethere_live/
+ls
+cd server/rpc/actions/
+ls
+vi auth.coffee 
+cd ..
+git pull
+sudo su
+exit
+sudo su
+sudo us
+screen -list
+sudo su
+ls
+cd bethere.io/
+ls
+npm install twitter
+ls
+cd node_modules/
+ls
+cd twitter/
+ls
+cd test/
+ls
+cd ..
+nano
+ls
+nano twitter.js
+sudo su
+ls
+sudo su

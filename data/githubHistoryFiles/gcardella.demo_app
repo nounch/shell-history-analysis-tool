@@ -1,0 +1,500 @@
+ls
+cd db
+ls
+cd migrate
+cd ..
+ruby script/generate migration add_description_to_pizza_type
+ruby script/generate migration add_description_to_pizza_type type_descr:description
+ruby script/generate migration add_description_to_pizza_type type_descr:description crust_descr:description sauce_name:string sauce_descr:description
+ruby script/generate migration add_descriptions_to_pizza_type type_descr:description crust_descr:description sauce_name:string sauce_descr:description
+rake db:migrate
+ruby script/server
+ruby script/console
+cd ..
+rm -r ninospizzeria
+cp -r ninos_site_backup/05_25_10_RAILS/ninospizzeria ninospizzeria
+ls
+cd ninospizzeria
+ruby script/generate scaffold pizza_type pizza_id:integer title:string type_url:string pizza_description:text crust_name:string crust_description:text sauce_name:string sauce_description:text
+rake db:migrate
+ruby script/server
+exit
+cd ninospizzeria
+ruby script/server
+cd ninospizzeria
+ruby script/server
+exit
+cd ninospizzeria
+ls
+ruby script/console
+exit
+cd ninospizzeria
+ruby script/server
+exit
+cd ninospizzeria
+cd ninospizzeria
+ruby script/console
+cd ninospizzeria
+ruby script/console
+clear
+cd
+ls
+cd ajax_on_rails
+ls
+cd ajaxonrails
+ls
+ruby script/server
+ls
+cd app
+ls
+cd controllers
+ls
+cd ..
+cd views
+ls
+cd chapter5
+ls
+cd
+cd ajax_on_rails/ajaxonrails
+ruby script/server
+exit
+cd ninospizzeria
+ruby script/server
+ruby script/console
+cd ninospizzeria
+ruby script/servr
+ruby script/server
+cd ninospizzeria
+ruby script/console
+exit
+ls
+cd ninospizzeria
+ruby script/console
+exit
+cd ninospizzeria
+ruby script/console
+cd db
+ls
+cd migrate
+ls
+vi 20100528174628_create_pizza_types.rb
+cd ..
+ruby script/generate migration add_pizza_gallery
+cd db/migrate
+vi 20100602192914_add_pizza_gallery.rb
+cd ..
+rake db:migrate
+cd db/migrate
+ls
+vi 20100602192914_add_pizza_gallery.rb
+cd
+cd ninospizzeria
+rake db:migrate
+ruby script/console
+ruby script/generate migration pizza_types_pizzas pizza_id:integer pizza_type_id:integer
+rake db:migrate
+ruby script/console
+sqlite3 -line db/development.sqlite3
+cd ninospizzeria
+ls
+ruby script/console
+sqlite3 -line db/development.sqlite3
+cd ninospizzeria
+ruby script/server
+cd ..
+ruby rails test_app
+rails test_app
+cd test_app
+ls
+ruby script/generate scaffold order name:string address:text email:string
+ruby script/generate scaffold line_item product_id:integer order_id:integer
+vi db/migrate 20100602200413_create_line_items.rb
+cd test_app
+ruby script/server
+cd testapp
+ls
+cd test_app
+ls
+cd db/migrate
+ls
+vi 20100602200413_create_line_items.rb
+cd ..
+rake db:migrate
+ruby script/generate scaffold products title:string description:text
+ls
+cd app
+ls
+cd controllers
+ls
+cd ..
+rake db:migrate
+cd app/models
+ls
+vi order.rb
+vi product.rb
+vi line_item.rb
+cd ..
+ruby script/console
+sqlite3 -line db/development.sqlite3
+ruby script/console
+cd test_app
+ruby script/console
+cd ..
+ls
+rails pizza_test
+cd pizza_test
+ls
+ruby script/generate scaffold pizza
+ruby script/generate scaffold pizza_type name:string description:string crust:string sauce:string 
+ruby script/generate scaffold pizza pizza_type_id:integer name:string toppings:text
+ruby script/generate scaffold pizza_gallery pizza_type_id:integer pizza_id:integer
+rake db:migrate
+cd db
+cd migrate
+ls
+ruby script/generate scaffold pizza pizza_type_id:integer name:string toppings:text
+cd ..
+ruby script/generate scaffold pizza pizza_type_id:integer name:string toppings:text
+rake db:migrate
+ls
+cd app/views
+ls
+cd pizzas
+ls
+vi new.html.erb
+cd ..
+cd db/migrate
+ls
+vi 20100603034546_create_pizzas.rb
+vi 20100603034801_create_pizza_types.rb
+vi 20100603034546_create_pizzas.rb
+cd ..
+rake db:migrate
+cd db/migrate
+ls
+ruby script/migrate add columns_to_pizza
+cd ..
+ruby script/migrate add columns_to_pizza
+ruby script/generate migration add columns_to_pizza
+cd db/migration
+ls
+cd db
+ls
+cd migrate
+vi 20100603040605_add.rb
+cd ..
+ls
+rake db:migrate
+cd db/migrate
+vi 20100603040605_add.rb
+cd ..
+rake db:migrate
+cd ..
+rm -r pizza_test
+ls
+rails pizza_test
+cd pizza_test
+ls
+ruby script/generate scaffold pizza_type name:string description:text
+ruby script/generate scaffold pizza name:string description:text price:integer
+ruby script/generate pizza_gallery pizza_type_id:integer pizza_id:integer
+ruby script/generate scaffold pizza_gallery pizza_type_id:integer pizza_id:integer
+cd db/migrate
+vi 20100603041453_create_pizza_galleries.rb
+cd ..
+rake db:migrate
+ruby script/console
+cd app/models
+ls
+vi pizza.rb
+vi pizza_gallery.rb
+cd ..
+ruby script/console
+exit
+cd test_app
+ruby script/server
+cd ..
+ls
+cd pizza_test
+ruby script/server
+cd ..
+ls
+cd pizza_test
+ruby script/server
+cd ninospizzeria
+ls
+ruby script/generate migration pizza_gallery pizza_type_id:integer pizza_id:integer
+cd db/migrate
+vi 20100603185850_pizza_gallery.rb
+cd ..
+rake db:migrate
+sqlite3 -line db/development.sqlite3
+rake db:migrate
+sqlite3 -line db/development.sqlite3
+@pizza_gallery = PizzaGallery.find(1)
+ruby script/console
+rake db:migrate:redo STEP=4
+cd db/migration
+cd db/migrate
+ls
+cd ..
+rake db:migrate:redo STEP=2
+rake db:migrate:redo STEP=8
+clear
+ruby script/generate scaffold pizza_type title:string sub_title:string style_description:string crust_title:string crust_description:string sauce_title:string sauce_description:string
+ruby script/generate scaffold pizza image_full_url:string header:string subheader:string description:text combo_title:string combo_pizza_price:string combo_add_wing_price:string combo_add_soda_price:string
+ruby script/generate scaffold pizza_gallery pizza_id:integer pizza_type_id:integer
+cd db/migrate
+vi 20100603193514_create_pizza_galleries.rb
+cd ..
+rake db:migrate
+sqlite3 -line db/development.sqlite3
+rake db:migrate
+ruby script/server
+ruby script/console
+clear
+ruby script/console
+exit
+cd ninospizzeria
+ruby script/server
+cls
+clear
+ruby script/server
+exit
+ls
+cd pizza_test
+ls
+ruby script/console
+exit
+cd ninospizzeria
+ruby script/console
+exit
+cd ninospizzeria
+ruby script/server
+cd ninospizzerias
+cd ninospizzeria
+ruby script/server
+cd ninospizzeria
+ruby script/server
+cd ninospizzeria
+ruby script/server
+rake db:sessions:clear
+ruby script/server
+rake db:sessions:create
+rake db:migrate
+ruby script/server
+rake db:sessions:clear
+ruby script/server
+rake db:sessions:clear
+ruby script/server
+rake db:sessions:clear
+ruby script/server
+rake db:sessions:clear
+ruby script/server
+rake db:sessions:clear
+ruby script/server
+exit
+cd ninospizzeria
+ruby script/server
+mongrel_rails -d
+ls
+cd log
+ls
+rm mongrel.pid
+cd ..
+mongrel_rails -d
+mongrel_rails start -d
+exit
+ls
+cd ninos_site_backup
+ls
+mkdir 06_08_10_RAILS
+cd ..
+ls
+cp ninospizzeria ninos_site_backup/06_08_10_RAILS
+cp ninospizzeria -r ninos_site_backup/06_08_10_RAILS
+ls
+cd ninos_site_backup/06_08_10_RAILS
+ls
+cd ..
+exit
+cd ninospizzeria
+ruby script/generate scaffold pizza_price pizza_type:string size:string size_dimension:string price:integer
+rake db:migrate
+cd logs
+cd log
+ls
+cd ..
+rails_mongrel -stop
+cd log
+rm mongrel.pid
+cd ..
+ruby script/server
+exit
+ls
+cd ninospizzeria
+ls
+cd ninospizzeria
+ruby script/generate migration add_additional_price_to_pizza_prices additional_toppings:decimal
+cd db/migrate
+vi 20100612112041_add_additional_price_to_pizza_prices.rb
+cd ..
+ls
+rake db:migrate
+cd logs
+cd cc
+cd log
+ls
+cd ..
+ls
+mongrel_rails -stop
+mongrel_rails stop
+mongrel_rails stop -h
+mongrel_rails stop -P
+mongrel_rails stop -f
+mongrel_rails stop --force
+rails script/server
+ruby script/server
+cd log
+ls
+sudo shutdown now -r
+cd db/migrate
+cd ninospizzeria/db/migrate
+ls
+vi 20100612112041_add_additional_price_to_pizza_prices.rb
+cd ..
+ruby script/generate change_price_to_decimal_pizza_prices price:decimal
+ruby script/generate migration change_price_to_decimal_pizza_prices price:decimal
+rake db:migrate
+cd db/migrate
+vi 20100612122742_change_price_to_decimal_pizza_prices.rb
+cd ..
+rake db:migrate
+rake db:migrate redo
+rake db:migrate:redo
+cd db/migrate
+ls
+vi 20100612122742_change_price_to_decimal_pizza_prices.rb
+cd ..
+rake db:migrate:redo
+exit
+cd ninospizzeria
+ruby script/server
+rake db:migrate
+ruby script/server
+exit
+cd ninospizzeria
+ruby script/server
+rails_mongrel start -d
+mongrel_rails start -d
+exit
+cd ninospizzeria
+mogrel_rails stop
+mongrel_rails stop
+ruby script/server
+cd ninospizzeria
+ruby script/server
+cd ninospizzeria
+ls
+ruby script/server
+mongrel_rails start -d
+mongrel_rails stop
+mongrel_rails start -d
+mongrel_rails stop
+cd logs
+cd log
+ls
+rm mongrel.pid
+cd ..
+mongrel_rails start -d
+exit
+ls
+cd ninos_site_backup
+ls
+mkdir 06_16_10_RAILS
+cd ..
+ls
+cp ninospizzeria -r ninos_site_backup/06_16_10_RAILS
+lsninos_site_backup/06_16_10_RAILS
+ls ninos_site_backup/06_16_10_RAILS
+exit
+fdisk -l
+df -h
+cd ninospizzeria
+ls
+ruby script/server
+cd ninospizzeria
+ruby script/server
+cd ninospizzeria
+ruby script/server
+mongrel_rails start -d 
+exit
+cd ninospizzeria
+ls
+rake sessions:clear
+rake db:sessions:clear
+ls
+cd ninos_site_backup
+ls
+mkdir 07_01_10
+cd ..
+cp -r ninospizzeria ninos_site_backup/07_01_10
+cd ninos_site_backup/07_01_10
+ls
+cd 
+cd ninospizzeria
+ls
+
+sqlite3 -line db/development.sqlite3 "select * from pizza_galleries
+sqlite3 -line db/development.sqlite3 "select * from pizza_galleries
+sqlite3 -line db/development.sqlite3 "select * from pizza_galleries"
+rake db:sessions:clear
+sqlite3 -line db/development.sqlite3 "select * from pizza_galleries"
+rake db:sessions:clear
+exit
+cd ls
+ls
+cd ninos_site_backup
+mkdir 7_04_10
+cd ..
+cp -r ninospizzeria 7_04_10
+ls
+cd ninos_site_backup
+ls
+cd 7_04_10
+ls
+cd ..
+cd ll
+cd ..
+cp -r ninospizzeria ninos_site_backup/7_04_10
+ls
+cd ninos_site_backup/7_04_10
+ls
+cd 
+ls
+cd ninospizzeria
+rake db:sessions:clear
+cd ninospizzeria
+rake db:sessions:clear
+cd ninospizzeria
+script/console
+ruby script/console
+sqlite3 -line db/development.sqlite3
+ruby script/console
+cd ninospizzeria
+ruby script/console
+exit
+cd ninospizzeria
+ruby script/console
+rake db:sessions:clear
+mongrel_rails -stop
+mongrel_rails -help
+mongrel_rails
+mongrel_rails - stop
+mongrel_rails -restart
+ruby mongrel_rails -stop
+mongrel_rails -start
+mongrel_rails -start -d
+mongrel_rails stop
+mongrel_rails start
+exit

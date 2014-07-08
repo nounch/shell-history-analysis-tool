@@ -1,0 +1,52 @@
+ls
+ssh-keygen -i -f key.pub >> ~/.ssh/authorized_keys
+chmod go-twx ~/.ssh ~/.ssh/authorized_keys
+rm key.pub
+exit
+ls
+PS1="/u/h"
+PS1="\u@\h"
+PS1="\u@\h>>"
+nano index.php
+cd jeniferbacon.com
+nano index.php
+ls
+cd ..
+dir
+cd jeniferbacon.com.old/
+nano index.php
+cd ..
+cd jeniferbacon.com
+ls -al
+cd wp-content
+ls
+nano index.php
+cd themes
+ls
+nano index.php
+cd canvas/
+ls
+nano index.php
+cd .
+ls
+eval 'ssh-agent'
+ssh-add
+ssh-keygen -t rsa
+ssh-copy-id jeniferbacon@dreamhost.com
+ssh-copy-id jeniferbacon@mimosa.dreamhost.com
+ssh-copy-id jeniferbacon@mimosa
+whoami
+ssh-copy-id jeniferbacon@mimosa.dreamhost.com 
+cat ~/.ssh/id_rsa.pub | ssh jeniferbacon@mimosa.dreamhost.com "mkdir ~/.ssh; cat >> ~/.ssh/authorized_keys"
+git
+git help checkout
+git checkout
+git checkhout https://github/rudycazabon/enphase
+ls
+pwd
+git init
+touch .gitignore
+git add
+git add .
+sudo git add .
+php -version

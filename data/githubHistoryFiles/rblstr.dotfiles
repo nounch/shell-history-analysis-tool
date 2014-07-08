@@ -1,0 +1,74 @@
+: 1350401972:0;ls
+: 1350402023:0;cd Repos/lua-tiki-island/ls
+: 1350402025:0;cd Repos/lua-tiki-island/
+: 1350402027:0;ls
+: 1350402030:0;cd
+: 1350402034:0;tmux a -d
+: 1350402045:0;clear
+: 1350402147:0;vim .zshrc
+: 1350402157:0;exit
+: 1350402170:0;cd Repos/lua-tiki-island
+: 1350402201:0;tmux a -d
+: 1350402206:0;exit
+: 1350402212:0;clear
+: 1350402217:0;cd Repos/lua-tiki-island
+: 1350402250:0;cd
+: 1350402272:0;vim .zshrc.pre-oh-my-zsh
+: 1350402289:0;which vim
+: 1350402300:0;vim .bash_profile
+: 1350402319:0;vim .zshrc
+: 1350402332:0;which vim
+: 1350402337:0;exit
+: 1350402343:0;which vim
+: 1350402389:0;cd .zsh
+: 1350402416:0;grep -r *.zsh .
+: 1350402423:0;grep *.zsh .
+: 1350402432:0;grep -h
+: 1350402435:0;grep --help
+: 1350402481:0;ack
+: 1350402487:0;brew install ack
+: 1350402535:0;ack -h
+: 1350402538:0;Ack!
+: 1350402540:0;Ack
+: 1350402562:0;Ack -r *.zsh .
+: 1350402564:0;Ack -r *.zsh
+: 1350402571:0;Ack -r /*.zsh/
+: 1350402572:0;Ack -r /*.zsh
+: 1350402590:0;ls
+: 1350402599:0;locate zsh
+: 1350402632:0;sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+: 1350402641:0;locate zsh
+: 1350402755:0;grep -r themes .
+: 1350402767:0;cd .oh-my-zsh
+: 1350402768:0;ls
+: 1350402770:0;cd themes
+: 1350402772:0;ls
+: 1350402798:0;vim agnoster.zsh-theme
+: 1350403167:0;exit
+: 1350403176:0;cd .oh-my-zsh
+: 1350403180:0;cd themes
+: 1350403185:0;vim agnoster.zsh-theme
+: 1350403223:0;exit
+: 1350403234:0;cd Repos
+: 1350403237:0;cd lua-tiki-island
+: 1350403267:0;cd 
+: 1350403271:0;cd Documents
+: 1350403321:0;cd .oh-my-zsh
+: 1350403324:0;vf
+: 1350403325:0;cd
+: 1350403327:0;cd .oh-my-zsh
+: 1350403329:0;cd themes
+: 1350403333:0;vim agnoster.zsh-theme
+: 1350403578:0;cd Documents/
+: 1350403581:0;git status
+: 1350403702:0;cd /usr/
+: 1350403705:0;cd 
+: 1350403881:0;cd
+: 1350403890:0;cd Repos/lua-tiki-island
+: 1350403895:0;cd
+: 1350404003:0;git status
+: 1350404011:0;git add .zsh*
+: 1350404013:0;git status
+: 1350404017:0;git add .vim
+: 1350404020:0;git add .viminfo
+: 1350404026:0;git add .zsh_history

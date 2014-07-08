@@ -1,0 +1,115 @@
+git add .
+git commit -m "agregado banner en sitio, slider, vista vehiculo, campos nombre y apellido admin user "
+git push
+git push
+nano .gitignore 
+ls -al
+git pull
+su - root
+git add .
+git commit -m "agergado registro de visitas/impresiones vehiculo/banner"
+git push
+git push
+ls
+mysqldump -u root -p soloruedas2 > soloruedas2.sql
+mysqldump -u root -p soloruedas2 > soloruedas2.sql
+ls
+tar -zc soloruedas2.sql soloruedas2.tar
+ls
+tar -zfc soloruedas2.sql soloruedas2.tar
+tar -zfc soloruedas2.sql.tar soloruedas2.sql 
+tar -zfc soloruedas2.sql.tgz soloruedas2.sql 
+tar -zcvf soloruedas2.sql.tgz soloruedas2.sql 
+ls
+ls -lh
+gpg soloruedas2.sql.tgz 
+crypt soloruedas2.sql.tgz 
+zip -P rotrer.,123 soloruedas2.sql.zip soloruedas2.sql
+ls -l
+rm soloruedas2.sql
+git add .
+git commit -m "agregado respaldo db"
+git add .
+git commit -m "agregado seccion más visitados e impresiones de bannerds"
+git push
+git add .
+git commit -m "html, agregado controlador banners y visitas"
+git psuh
+git push
+git add .
+git commit -m
+git commit -m "update"
+git push
+more site/app/Config/database.php 
+mysqldump -h localhost - root -p soloruedas2 > soloruedas2_08022013
+mysqldump -h localhost -u root -p soloruedas2 > soloruedas2_08022013.sql
+ls
+more soloruedas2_08022013
+rm soloruedas2_08022013
+git add .
+git commit -m "udapte sql"
+git push
+exit
+git add .
+git commit -m "update"
+git push
+exit
+git pull
+cd site/
+cd app/tmp/
+ls
+cd cache/
+ls
+cd models/
+ls
+rm *.*
+ls
+rm myapp_cake_model_default_soloruedas2_*
+ls
+cd ..
+ls
+cd persistent/
+ls
+rm myapp_cake_core_*
+ls
+cd ..
+ls
+cd views/
+ls
+cd ..
+df -h
+git add .
+git commit -m "update site"
+git push
+git pull
+git pull
+git pull
+clear
+pwd
+su -s
+su - root
+cd site/app/
+Console/cake bake
+Console/cake bake
+Console/cake bake
+git add .
+git commit -m "udpdate"
+git push
+git pull
+git push
+git add .
+git commit -m "buscador simple"
+pwd
+git push
+pwd
+git add .
+git commit -m "agregado footer marcas, buscador marcas, validaciones loop busquedas"
+git push
+git pull
+git push
+git add .
+git commit -m "gitl pull auto"
+git push
+pd
+pwd
+ls -l

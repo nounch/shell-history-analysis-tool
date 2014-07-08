@@ -1,0 +1,745 @@
+  (let (tbl)                                                   \                                                                                                                                               
+    (mapc (lambda (path)                                       \                                                                                                                                               
+            (if (string-match "^\\(.*/site-lisp\\)\\b/?" path) \                                                                                                                                               
+                (let* ((spath (match-string 1 path))           \                                                                                                                                               
+                       (pair (assoc spath tbl)))               \                                                                                                                                               
+                  (if pair                                     \                                                                                                                                               
+                      (setcdr pair (1+ (cdr pair)))            \                                                                                                                                               
+                    (setq tbl (cons (cons spath 1) tbl))))))   \                                                                                                                                               
+          load-path)                                           \                                                                                                                                               
+    (princ (or (car (car (sort tbl (lambda (a b)               \                                                                                                                                               
+                                     (> (cdr a) (cdr b))))))   \                                                                                                                                               
+               "")))'
+emacs-snapshot -Q --batch --eval '         \                                                                                                                                               
+  (let (tbl)                                                   \                                                                                                                                               
+    (mapc (lambda (path)                                       \                                                                                                                                               
+            (if (string-match "^\\(.*/site-lisp\\)\\b/?" path) \                                                                                                                                               
+                (let* ((spath (match-string 1 path))           \                                                                                                                                               
+                       (pair (assoc spath tbl)))               \                                                                                                                                               
+                  (if pair                                     \                                                                                                                                               
+                      (setcdr pair (1+ (cdr pair)))            \                                                                                                                                               
+                    (setq tbl (cons (cons spath 1) tbl))))))   \                                                                                                                                               
+          load-path)                                           \                                                                                                                                               
+    (princ (or (car (car (sort tbl (lambda (a b)               \                                                                                                                                               
+                                     (> (cdr a) (cdr b))))))   \                                                                                                                                               
+               "")))')
+emacs-snapshot -Q --batch --eval '         \                                                                                                                                               
+  (let (tbl)                                                   \                                                                                                                                               
+    (mapc (lambda (path)                                       \                                                                                                                                               
+            (if (string-match "^\\(.*/site-lisp\\)\\b/?" path) \                                                                                                                                               
+                (let* ((spath (match-string 1 path))           \                                                                                                                                               
+                       (pair (assoc spath tbl)))               \                                                                                                                                               
+                  (if pair                                     \                                                                                                                                               
+                      (setcdr pair (1+ (cdr pair)))            \                                                                                                                                               
+                    (setq tbl (cons (cons spath 1) tbl))))))   \                                                                                                                                               
+          load-path)                                           \                                                                                                                                               
+    (princ (or (car (car (sort tbl (lambda (a b)               \                                                                                                                                               
+                                     (> (cdr a) (cdr b))))"")))'
+emacs Makefile 
+cd /usr/lib/emacs/23.2/x86_64-linux-gnu/
+ls
+cd ..
+ls
+cd ..
+ls
+cd 24.2.50/
+ls
+cd x86_64-linux-gnu/
+ls
+cd ..
+cd ..
+ls
+locate geben
+man locate
+updatedb
+locate riveria
+locate riviera
+cd /usr/share/emacs23/site-lisp/riviera
+ls
+cd ..
+cd ..
+sl
+ls
+cd ..
+ls
+cd emacs-snapshot/
+ls
+cd site-lisp/
+sl
+ls
+cp -r ../../emacs23/site-lisp/riviera/ .
+ls
+emacs-snapshot
+emacs-snapshot --help
+emacs-snapshot --help | grep debug
+emacs-snapshot --debug-init
+emacs-snapshot 
+emacs
+emacs
+emacs ~/.emacs
+emacas
+emacs
+emacs
+emacs
+emacs
+cd /var/www/jdhankle/
+ls
+cd jdhankle/
+ls
+~/Pythondbg/bin/pydbgp -kjh manage.py jdhankle.com:8080 --noreload --nothreading
+~/Pythondbg/bin/pydbgp -kjh manage.py runserver jdhankle.com:8080 --noreload --nothreading
+exit
+#1352689915
+ls
+#1352690101
+exit
+#1352690109
+ls
+#1352690110
+ls -la
+#1352690112
+ls
+#1352690236
+exit
+#1352690241
+ls
+#1352690327
+exit
+#1352690334
+ls
+#1352690376
+powepromt
+#1352690381
+powerpromt
+#1352690387
+powerprompt 
+#1352690444
+exit
+#1352690449
+ls
+#1352690461
+exit
+#1352690467
+ls
+#1352690671
+exit
+ls
+ls -la
+exit
+-d localhost:9000 manage.py runserver --noreload --nothreading
+cd ..
+cd ..
+ls
+/root/Pythondbg/bin/pydbgp -d localhost:9000 manage.py runserver --noreload --nothreading
+python manage.py runserver --noreload --nothreading
+/root/Pythondbg/bin/pydbgp -d localhost:9000 manage.py runserver jdhankle\.com:8080 --noreload --nothreading
+python manage.py runserver jdhankle.com:8080 --noreload --nothreading
+/root/Pythondbg/bin/pydbgp -d localhost:9000 manage.py runserver jdhankle.com:8080 --noreload --nothreading
+/root/Pythondbg/bin/pydbgp
+/root/Pythondbg/bin/pydbgp --help
+/root/Pythondbg/bin/pydbgp -kjared -d localhost:9000 manage.py runserver jdhankle.com:8080 --noreload --nothreading
+/root/Pythondbg/bin/pydbgp -kjared -d localhost:9000 manage.py runserver jdhankle.com:8080 --noreload --nothreading
+emacs ~/.emacs
+/root/Pythondbg/bin/pydbgp -kjared -d localhost:9000 manage.py runserver jdhankle.com:8080 --noreload --nothreading
+/root/Pythondbg/bin/pydbgp -kjd -d localhost:9000 manage.py runserver jdhankle.com:8080 --noreload --nothreading
+manage.py runserver jdhankle.com:8080 --noreload --nothreading
+./manage.py runserver jdhankle.com:8080 --noreload --nothreading
+python manage.py runserver jdhankle.com:8080 --noreload --nothreading
+ls
+cd static/
+ls -la
+cd ..
+ls
+ls -la
+chown -R www-data:www-data *
+python manage.py runserver jdhankle.com:8080 --noreload --nothreading
+python manage.py runserver --help
+python manage.py runserver -v jdhankle.com:8080 --noreload --nothreading --insecure
+python manage.py runserver -v 3 jdhankle.com:8080 --noreload --nothreading --insecure
+/root/Pythondbg/bin/pydbgp -kjd -d localhost:9000 manage.py runserver -v0 jdhankle.com:8080 --noreload --nothreading --insecure
+/root/Pythondbg/bin/pydbgp -kjd -d localhost:9000 manage.py runserver -v0 jdhankle.com:8080 --noreload --nothreading --insecure
+/root/Pythondbg/bin/pydbgp -kjd -d localhost:9000 manage.py runserver -v0 jdhankle.com:8080  --nothreading --insecure
+/root/Pythondbg/bin/pydbgp -kjd -d localhost:9000 manage.py runserver -v0 jdhankle.com:8080 --nothreading --insecure
+/root/Pythondbg/bin/pydbgp -kjd -d localhost:9000 manage.py runserver -v0 jdhankle.com:8080 --nothreading --insecure
+manage.py runserver -v0 jdhankle.com:8080 --nothreading --insecure
+python manage.py runserver -v0 jdhankle.com:8080 --nothreading --insecure
+python manage.py runserver -v3 jdhankle.com:8080 --insecure
+python manage.py runserver --help
+python manage.py runserver -v3 jdhankle.com:8080 --insecure --traceback
+emacs settings.py
+emacs local_settings.py
+ls
+rm *.pyc
+ls
+python manage.py runserver -v3 jdhankle.com:8080 --insecure --traceback
+emacs local_settings.py
+python manage.py runserver -v3 jdhankle.com:8080 --insecure --traceback
+python manage.py runserver -v3 jdhankle.com:8080 --insecure --traceback
+ls
+cd ..
+ls
+netstat -lpn
+kill -9 9954
+netstat -lpn
+netstat -lpn
+service nginx reload
+emacs /etc/nginx/sites-enabled/jdhankle.com 
+ls
+./start.sh
+ls
+ls
+cd jdhankle/
+ls
+python manage.py runserver -v3 jdhankle.com:8080 --insecure --traceback
+ls
+emacs see
+emacs settings.py
+ls
+emacs local_settings.py
+python manage.py runserver -v3 jdhankle.com:8080 --insecure --traceback
+ls
+cd ..
+ls
+tail -f error.log 
+python manage.py runserver --help
+cd jdhankle/
+python manage.py runserver --help
+python manage.py runserver -v 3 jdhankle.com:8080 --insecure --traceback
+~/Pythondbg/bin/pydbgp python manage.py runserver -v 3 jdhankle.com:8080 --insecure --traceback
+~/Pythondbg/bin/pydbgp manage.py runserver -v 3 jdhankle.com:8080 --insecure --traceback
+~/Pythondbg/bin/pydbgp -kjh manage.py runserver -v 3 jdhankle.com:8080 --insecure --traceback
+~/Pythondbg/bin/pydbgp -kjh manage.py runserver -v 3 jdhankle.com:8080 --insecure --traceback
+~/Pythondbg/bin/pydbgp -kjh manage.py runserver -v 3 jdhankle.com:8080 --npthreading --insecure --traceback
+~/Pythondbg/bin/pydbgp -kjh manage.py runserver -v 3 jdhankle.com:8080 --nothreading --insecure --traceback
+rm -rf *.pyc
+ls
+~/Pythondbg/bin/pydbgp -kjh manage.py runserver -v 3 jdhankle.com:8080 --nothreading --insecure --traceback
+~/Pythondbg/bin/pydbgp -kjh manage.py runserver -v 3 jdhankle.com:8080 --nothreading --insecure --traceback --noreload
+~/Pythondbg/bin/pydbgp -kjh manage.py runserver -v 3 jdhankle.com:8080 --nothreading --insecure --traceback --noreload
+cd /usr/local/lib/python2.6/dist-packages/
+ls
+cd mezzanine/
+ls
+cd core/
+ls
+ls -la
+ls
+ls --color
+emacs forms.py
+ls
+cd ..
+ls
+find . email
+find . | grep email
+emacs utils/email.py
+ls
+emacs ~/.bashrc
+vim
+vim ~/.bashrc
+emacs ~/.bashrc
+emacs ~/.bashrc
+emacs ~/.bashrc
+emacs ~/.bashrc
+emacs /etc/bash_completion.d/gem
+ls
+apt-get install bash-completion
+enacs ~/.bash_profile
+emacs ~/.bash_profile
+emacs ~/.bashrc
+ls
+cd /etc
+ls
+emacs bash_completion
+emacs bash.bashrc 
+emacs ~/.bash_profile
+exit
+exit
+#1352690944
+ls
+#1352690952
+exit
+#1352690983
+ls
+#1352690994
+exit
+#1352690749
+. ~/.bashrc
+#1352690750
+l
+#1352690777
+ls
+#1352690799
+emacs /etc/bash_completion
+#1352690866
+emacs ~/.bashrc
+#1352690870
+vim ~/.bashrc
+#1352690877
+vim ~/.bash_profile
+#1352691059
+. ~/bashrc
+#1352691063
+. ~/.bashrc
+#1352691076
+exit
+#1352691083
+ls
+#1352691100
+emacs /root/.bashrc
+#1352691132
+. ~/.bashrc
+#1352691145
+exit
+#1352691272
+ls
+#1352691278
+emacs /etc/exit
+#1352691282
+exit
+#1352691157
+emacs /root/.bashrc
+#1352691227
+. ~/.bashrc
+#1352691234
+emacs /root/.bashrc
+#1352691252
+. /etc/bash.bashrc 
+#1352691254
+ls
+#1352691271
+su root
+#1352691285
+exit
+#1352691416
+emacas
+#1352691418
+emacs
+#1352691425
+exit
+#1352691292
+ls
+#1352691301
+emacs /etc/fstab 
+#1352691319
+vim ~/.bashrc
+#1352691365
+te
+#1352691370
+emaca
+#1352691372
+emacs
+#1352691496
+apt-get install fortune
+#1352691504
+ls
+#1352691506
+exit
+#1352691582
+man emacs
+#1352691605
+ff
+#1352691612
+ff bash
+#1352691647
+fstr 
+#1352691658
+fstr PS1
+#1352691709
+myps
+#1352691713
+my_ps 
+#1352691730
+pp
+#1352691759
+ii
+#1352691783
+echo $HOST
+#1352691800
+echo $HOSTFILE
+#1352691803
+echo $HOSTNAME
+#1352691825
+exit
+#1352691828
+ii
+#1352691901
+emacs /etc/ssh/sshd_config 
+#1352691908
+vim /etc/ssh/sshd_config 
+#1352691971
+emacs /etc/ssh-banner
+#1352692067
+exit
+su root
+su root
+su root
+exit
+ls
+service sshd reload
+service ssh reload
+exit
+#1352692337
+ii
+#1352692400
+exit
+#1352692702
+emacs
+#1352692707
+emacs -nw
+#1352692714
+emacs foo
+#1352692727
+emacs -n
+#1352692731
+emacs -nw
+#1352692754
+emacs -nw ~/.bashrc
+#1352692760
+exit
+#1352692612
+emacs
+#1352692621
+/usr/bin/emacs-snapshot
+#1352692633
+/usr/bin/emacs-snapshot -nw
+#1352692846
+exit
+emacs /etc/motd
+emacs /etc/motd.tail 
+emacs /etc/motd
+emacs /etc/profile
+emacs /etc/issue
+ii
+su root
+emacs /root/.bashrc
+if [ -x /usr/games/fortune ]; then     /usr/games/fortune -s     # Makes our day a bit more fun.... :-)                                                                                                                                          ; fi
+su root
+emacs /root/.bashrc
+su root
+emacs /root/.bashrc
+su root
+su root
+emacs .bash_profile
+exit
+emacs .bash_profile
+exit
+ls
+emacs .bash_profile
+emacs /etc/bash_completion
+emacs /etc/bash.bashrc 
+rm /root/.bash_profile
+exit
+#1352692772
+enacs
+#1352692774
+emacs
+#1352692784
+emacs --help
+#1352692800
+emacs --help | grep nw
+#1352692807
+emacs
+#1352693075
+exit
+#1352693036
+ls
+#1352693048
+emacs
+#1352693234
+exit
+#1352693266
+emacs
+#1352693271
+fg "%emacs-snapshot" 
+#1352693274
+ls
+#1352693302
+fstr foo
+#1352693330
+fstr python
+#1352693339
+ls
+#1352693345
+fstr geben
+#1352693374
+l;s
+#1352693375
+ls
+#1352693390
+fstr form_field
+#1352693404
+fstr Thanks
+#1352693413
+ls
+#1352693416
+cd projects/
+#1352693417
+ls
+#1352693427
+fstr wisent
+#1352693440
+fstr make-local-variable
+#1352693450
+ls
+#1352693453
+cd ..
+#1352693454
+ls
+#1352693458
+ls -la
+#1352693469
+emacs .profile 
+#1352693475
+l
+#1352693477
+ls
+#1352693490
+cp .bashrc projects/
+#1352693492
+cd projects/
+#1352693493
+ls
+#1352693510
+utils
+#1352693511
+ls
+#1352693514
+mkdir utils
+#1352693515
+ls
+#1352693520
+mv .bashrc utils/
+#1352693520
+ls
+#1352693522
+cd utils/
+#1352693522
+ls
+#1352693528
+mv .bashrc bashrc
+#1352693528
+ls
+#1352693592
+touch README.md
+#1352693593
+ls
+#1352693596
+emacs README.md 
+#1352695480
+corename
+#1352695484
+corename README.md
+#1352695492
+corename /usr/bin/emacs
+#1352695498
+gdb
+#1352695505
+apt-get install gdb
+#1352695513
+corename /usr/bin/emacs
+#1352695521
+corename README.md
+#1352695522
+ls
+#1352695536
+emacs README.md 
+#1352696525
+su root
+#1352696676
+AND
+#1352696677
+and
+#1352696680
+&
+#1352696715
+exit
+#1352696799
+echo DISPLAY_FORTUNE
+#1352696803
+echo $DISPLAY_FORTUNE
+#1352696830
+exit
+#1352693624
+ls
+#1352693629
+emacs .bashrc
+#1352693749
+grep function .bashrc 
+#1352694148
+fastshell
+#1352694151
+fastprompt 
+#1352694152
+ls
+#1352694153
+ls -la
+#1352694471
+ff
+#1352694478
+ff geben
+#1352694482
+ff geben.el
+#1352694519
+grep function .bashrc 
+#1352694532
+emacs .bashrc 
+#1352694670
+emacs foo
+#1352694682
+ff foo
+#1352694693
+fe foo sed -i s/bar/baz/g
+#1352694701
+fe foo "sed -i s/bar/baz/g"
+#1352694704
+emacs foo 
+#1352694838
+fe foo "sed -i s/bar/baz/g"
+#1352694842
+emacs foo
+#1352694845
+emacs .bashrc 
+#1352695184
+my_ps
+#1352695188
+pp
+#1352695268
+emacs .bashrc 
+#1352697729
+emacs .bashrc .bash_settings
+#1352697997
+emacs .bash_aliases
+#1352698006
+ls
+#1352698013
+su root
+#1352698027
+emacs .bash_aliases 
+#1352698071
+exit
+#1352697391
+;s
+#1352697399
+echo $DISPLAY
+#1352697406
+emacs-snapshot
+#1352697482
+who am i
+#1352697639
+bg
+#1352698742
+exit
+#1352698795
+echo $BASH_CPMPLETION
+#1352698803
+echo $BASH_COMPLETION
+#1352698840
+exit
+#1352698990
+exit
+#1352699033
+exit
+#1352699064
+exit
+#1352699081
+exit
+#1352699170
+exit
+#1352699196
+exit
+#1352699217
+exit
+#1352699243
+exit
+#1352699271
+exit
+#1352699307
+exit
+#1352699333
+exit
+#1352699476
+exit
+#1352699523
+exit
+#1352699585
+exit
+#1352699629
+exit
+#1352699649
+exit
+#1352699693
+exit
+#1352699717
+exit
+#1352699733
+exit
+#1352699753
+exit
+#1352699875
+exit
+#1352699886
+exit
+#1352700075
+echo $DISPLAY_FORTUNE
+#1352700119
+DISPLAY_FORTUNE="y"
+#1352700120
+echo $DISPLAY_FORTUNE
+#1352700203
+exit
+#1352700292
+emacs
+#1352700296
+emacs -nw
+#1352700325
+exit
+#1352700375
+/usr/games/fortune 
+#1352700404
+-x /usr/games/fortune 
+#1352700406
+/usr/games/fortune 
+#1352700428
+exit
+#1352700460
+emacs .bash_aliases
+#1352700549
+exit
+#1352700566
+fstr "Makes more "
+#1352700568
+fstr "Makes more"
+#1352700572
+fstr "readable"
+#1352700589
+emacs .bash_aliases
+#1352700635
+vim .bash_settings
+#1352700640
+exit
+#1352700651
+fstr "readable"
+#1352700786
+exit
+#1352700897
+echo TAB_COMPLETE
+#1352700900
+echo $TAB_COMPLETE
+#1352700936
+if [ "{$TAB_COMPLETE}" == "y" ]; then echo "TRUE"; else echo "FALSE" ; fi
+#1352700968
+exit
+#1352700974
+if [ "{$TAB_COMPLETE}" == "y" ]; then echo "TRUE"; else echo "FALSE" ; fi
+#1352700984
+echo $TAB_COMPLETE
+#1352701007
+echo "${TAB_COMPLETE}"
+#1352701050
+echo "{$TAB_COMPLETE}"
+#1352701063
+exit
+#1352701086
+echo "${TAB_COMPLETE}"
+#1352701101
+exit

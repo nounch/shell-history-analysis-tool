@@ -1,0 +1,507 @@
+cd assignments/asg3j-airport-bstree/
+ls
+cd code/
+ls
+vim airport.java 
+cd ..
+ls
+cd ..
+cd labs/lab3c-scanf-arrays/
+cd code/
+ls
+cd ..
+cd lab6c-malloc-free/code/
+ls
+make all
+ls
+./nsort 
+ls
+make all
+ls
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+valgrind --leak-check=full nsort.c
+valgrind --leak-check=full 
+valgrind --leak-check=full nsort
+valgrind --leak-check=full ./nsort
+cd ..
+cd lab5c-gdb-valgrind/
+ls
+open lab5c-gdb-valgrind.pdf 
+cd ..
+cd lab6c-malloc-free/
+ls
+cd code/
+ls
+valgrind --leak-check=full ./nsort
+make all
+valgrind --leak-check=full ./nsort
+cd ..
+ls
+cd misc/
+ls
+vim sortlist.java
+cd ..
+ls
+lab4c-stdio-getopt/
+ls
+cd lab4c-stdio-getopt/
+cd code/
+ls
+vim cmatch.c
+cd ..
+ls
+cd lab6c-malloc-free/
+ls
+cd misc/
+ls
+cd ..
+find . -name cstring
+find . -name cstring*
+cd misc/
+ls
+vim strlist.c
+vim strlist
+vim strlist.c
+cd ..
+cd lab4c-stdio-getopt/
+ls
+cd code/
+ls
+vim cmatch.c
+cd ..
+cd .
+cd ..
+cd lab6c-malloc-free/
+ls
+cd misc/
+vim sortlist.java
+make all
+cd ..
+cd code/
+ls
+make all
+./nsort -d
+./nsort 
+make spotless
+make all
+./nsort 
+./lsort 
+ls
+cd Programming/12b/labs/lab6c-malloc-free/code/
+ls
+make all
+man -s 3 strcmp
+make all
+man -s 3 strcmp
+make all
+clear
+make all
+clear
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+clear
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+valgrind --leak-check=full ./nsort
+make all
+./nsort 
+make all
+./nsort 
+make all
+./nsort 
+make all
+clear
+make all
+clear
+make all
+clear
+make all
+make spotless
+make all
+clear
+make all
+clear
+make all
+man -s 3 strdup
+make all
+man -s 3 strdup
+ls
+./lsort 
+./lsort ten
+./lsort 
+make all
+./lsort 
+make all
+./lsort 
+valgrind --leak-check=full ./lsort
+make all
+./lsort 
+getopts
+man -s 3 getopts
+man -s getopt
+man -s 3 getopt
+make all
+man -s 3 getopt
+make all
+./lsort -d 
+./lsort 
+./lsort -q
+make all
+./lsort -q
+man -s 3 getopt
+make all
+cd ..
+ls
+cd misc/
+ls
+vim sortlist.java
+vim numlist.c
+loginUCSC
+exit
+ls
+loginUCSC
+cd Programming/12b/labs/
+ls
+cd lab6c-malloc-free/
+ls
+open lab6c-malloc-free.pdf 
+cd code/
+ls
+vim nsort.c
+ls
+vim Makefile 
+ls
+vim nsort.c
+man -s 3 malloc
+man -s 3 strdup
+:q!
+ls
+cd ..
+ls
+cd misc/
+ls
+vim sortlist.java
+cd ..
+ls
+cd code/
+ls
+vim nsort.c
+valgrind --leak-check=full ./nsort
+ls
+./nsort 
+./nsort 2>/dev/null/
+./nsort 2>/dev/null
+ls
+cd ..
+ls
+cd misc/
+ls
+vim sortlist.java
+ls
+cd ..
+ls
+cd code/
+ls
+vim lsort.c 
+rm lsort.c
+ls
+cp nsort.c lsort.c
+ls
+vim lsort.c 
+cid lsort.c 
+ls
+vim lsort.c 
+make all
+vim lsort.c 
+vim nsort.c 
+vim Makefile 
+vim lsort.c 
+vim nsort.c 
+vim Makefile 
+cd ..
+scp lab6c-malloc-free/ becker@unix.ic.ucsc.edu:private/12b/labs/
+scp -r lab6c-malloc-free/ becker@unix.ic.ucsc.edu:private/12b/labs/
+ls
+exit
+loginUCSC
+ls
+cd Programming/12b/
+ls
+open Readme.all.cmps012b.pdf 
+exit
+vim go
+dc
+ls
+cd Programming/12b/labs/
+cd lab6c-malloc-free/code/
+ls
+./nsort 
+vim go
+cd
+ls
+cd run/
+ls
+cd ..
+ls
+cd Videos/
+ls
+cd ..
+ls
+cd workspace/
+ls
+cd Lab6/
+ls
+cd ..
+ls
+mkdir cmps12a
+ls
+mv Lab6/ Program3/ Program4/ Program5/ cmps12a/
+ls
+cd Sums/
+ls
+cd ..
+ls
+cd ..
+ls
+eit
+ls
+cd .
+cd Programming/
+ls
+cd 12b/
+ls
+cd labs/
+ls
+sftp becker@unix.ic.ucsc.edu
+ls
+cd lab7c-headers-adts/
+ls
+exit
+ls
+cd Programming/12b/labs/lab6c-malloc-free/
+ls
+cd code/
+ls
+cd exit
+exit
+sudo apt-get install spotify
+exit
+ls
+cd Programming/12b/labs/lab7c-headers-adts/
+cd cod
+cd ..
+cd lab6c-malloc-free/code/
+ls
+vim nsort.c 
+im lsort.c 
+vim lsort.c 
+loginUCSC
+exit
+loginUCSC
+vim nsort.c
+ls
+loginUCSC
+exit
+vim go
+exit
+vim go
+cd Programming/12b/labs/lab6c-malloc-free/code/nsort.c
+cd Programming/12b/labs/lab6c-malloc-free/code/
+ls
+vim nsort.c 
+exit
+gcc
+gcc --help
+ls
+yum
+apt
+aptitude
+nano 
+sudo --help
+man -s sudo
+man -s 1 sudo
+man -s 3 sudo
+man -s 0
+man -s 0 sudo
+man -s 2
+man -s 2 sudo
+man -s 3 sudo
+man sudo
+clear
+exit
+sudo update
+alias
+sudo update
+update
+exit
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+cd
+ls
+cd Public/
+ls
+cd ..
+ls
+loginUCSC
+exit
+su
+ls
+su
+alias
+su
+sudo
+sudo update
+update
+exit
+loginUCSC
+exit
+cd Programming/
+ls
+cd personal/
+ls
+vim cmpshelper.java
+javac cmpshelper.java 
+vim cmpshelper.java 
+javac cmpshelper.java 
+vim cmpshelper.java 
+javac cmpshelper.java 
+vim cmpshelper.java 
+javac cmpshelper.java 
+vim cmpshelper.java 
+javac cmpshelper.java 
+ls
+java cmpshelper simp_word_list.txt 
+vim cmpshelper.java 
+java cmpshelper simp_word_list.txt 
+javac cmpshelper.java 
+java cmpshelper simp_word_list.txt 
+ls
+vim cmpshelper.java 
+javac cmpshelper.java 
+java cmpshelper simp_word_list.txt 
+vim simp_word_list.txt 
+vim cmpshelper.java 
+javac cmpshelper.java 
+java cmpshelper simp_word_list.txt 
+vim cmpshelper.java 
+javac cmpshelper.java 
+vim cmpshelper.java 
+javac cmpshelper.java 
+java cmpshelper simp_word_list.txt 
+vim cmpshelper.java 
+vim simp_word_list.txt 
+java cmpshelper simp_word_list.txt 
+javac cmpshelper.java 
+java cmpshelper simp_word_list.txt 
+vim cmpshelper.java 
+javac cmpshelper.java 
+java cmpshelper simp_word_list.txt 
+cat simp_word_list.txt 
+vim cmpshelper.java 
+javac cmpshelper.java 
+java cmpshelper simp_word_list.txt 
+vim cmpshelper.java 
+javac cmpshelper.java 
+vim cmpshelper.java 
+javac cmpshelper.java 
+java cmpshelper simp_word_list.txt 
+cmpshelper simp_word_list.txt > lead_digit.txt
+java cmpshelper simp_word_list.txt > lead_digit.txt
+vim lead_digit.txt 
+ls
+rm lead_digit.txt 
+ls
+vim anKcMdvk.txt 
+java cmpshelper anKcMdvk.txt 
+java cmpshelper anKcMdvk.txt > leading_digits.txt
+ls
+vim leading_digits.txt 
+rm simp_word_list.txt 
+rm test.txt 
+ls
+rm anKcMdvk.txt 
+ls
+exit
+ls
+cd Programming/personal/
+ls
+vim leading_digits.txt 
+gedit leading_digits.txt 
+vim cmpshelper.java 
+javac cmpshelper.java 
+vim cmpshelper.java 
+javac cmpshelper.java 
+exit
+ls
+cd dotfiles/
+ls
+ls
+cd dotfiles 
+ls
+cd ..
+ls
+man ln
+ls
+cd dotfiles/
+ls
+ls a
+ls -a
+cp .* ../
+cp .vim ../
+cp -r .* ../
+cd ..
+ls
+ls -a
+exit
+ls
+cd Programming/
+ls
+cd personal/
+ls
+vim cmpshelper.java 
+exit

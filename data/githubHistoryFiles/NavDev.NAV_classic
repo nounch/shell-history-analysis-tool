@@ -1,0 +1,40 @@
+cd dl_files
+ls
+exit
+ls
+cd dl_files
+ls
+cd installations
+dir
+ls
+cd ..
+cd ..
+ls
+cd dl_files
+ls
+lcd t:
+exit
+exit
+ping
+ping 152.101.83.180
+ping 152.101.83.183
+exit
+pwd
+cd ../../dl_files
+cd ..
+pwd
+dir
+cd ..
+dir
+cd home
+cde home
+dir
+cd home
+dir
+cd UpdatingMachine
+dir
+cd webdir
+cd dl_files
+dir
+quit
+exit

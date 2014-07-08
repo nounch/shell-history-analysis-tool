@@ -1,0 +1,26 @@
+ls
+sudo yum update
+ls
+cd /
+ls
+dir
+ls
+hepl
+gelp
+help
+ls
+ls /s
+gw
+date
+status
+status -help
+status -h
+cd ..
+ls
+su root
+ls
+yum mysqld
+cd ~
+sudo su
+exit
+sudo su

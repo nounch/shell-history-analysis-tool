@@ -1,0 +1,1347 @@
+a=`date`
+echo $a
+a='date'
+echo $a
+a=`date`
+echo $a
+a=$(date)
+echo $a
+cat test 
+sls
+ls
+cat -n readme.txt 
+exit
+clear
+adduser lohn2
+su 
+clear
+ls
+su 
+clear
+byobu
+sessao="Sessao Um"
+echo "$sessao" 
+exit
+echo "$sessao"
+sessao="Sessao Dois"
+echo "$sessao"
+vim script
+chmod +x script 
+./script 
+locale
+./script 
+vim script
+./script 
+vim script
+./script 
+locale 
+LANG=pt date "+%A"
+LANGUAGE=pt date "+%A"
+clear
+hoje=`date`
+echo $hoje
+unset $hoje
+unset hoje
+unset $hoje
+ls
+cat script 
+HOJE="ESTACIO"
+echo $HOJE
+cat script 
+./script 
+echo $HOJE
+cat script 
+cat -n script 
+./script 
+LANGUAGE=pt date "+%A"
+LANGUAGE=pt_BR date "+%A"
+LANG=pt_BR date "+%A"
+clear
+byobu
+ls
+cat script 
+echo $HOJE
+HOJE="ESTACIO"
+echo $HOJE
+cat script 
+./script 
+echo $HOJE
+cat script 
+cat -n script 
+man cat
+test a -eq b
+a="Lohn"
+b="Josemar"
+test `echo $a| wc -c` -gt `echo $b | wc -c` &&  echo "$a tem mais letras que $b" || echo "$b tem mais letras que $a"
+b="JML"
+test `echo $a| wc -c` -gt `echo $b | wc -c` &&  echo "$a tem mais letras que $b" || echo "$b tem mais letras que $a"
+vim desordem
+sort desordem 
+sort -d desordem 
+man sort
+sort -r desordem 
+sort desordem | tac
+tac script 
+sort desordem | tac | rev
+test 0 -eq 1 && echo "Verdadeiro" && echo "Continua Verdadeiro" || echo "Falso"
+test 0 -eq 0 && echo "Verdadeiro" && echo "Continua Verdadeiro" || echo "Falso"
+test 0 -eq 0 && test 0 -eq 1 && echo "Continua Verdadeiro" || echo "Falso"
+test 1 -eq 0 && test 0 -eq 1 && echo "Continua Verdadeiro" || echo "Falso"
+test 0 -eq 0 && test 0 -eq 0 && echo "Continua Verdadeiro" || echo "Falso"
+test 0 -eq 0 && test 0 -eq 0 && echo "Continua Verdadeiro" || echo "Falso" && echo "Continua Falso"
+clear
+a=
+echo $a
+set
+set | grep 'a='
+set a
+set | grep 'a=' | less
+test -z "$a"
+echo $?
+a=1
+test -z "$a"
+echo $?
+a=
+a=""
+a=0
+test -z "$a"
+echo $?
+ls
+./script 
+~/script 
+/home/lohn/script 
+../lohn/script 
+echo "Informe usuario";read user
+test "$user" = "Redes" && echo "User: $user" || echo "User: errado"
+echo "Informe usuario";read user
+test "$user" = "Redes" && echo "User: $user" || echo "User: errado"
+ipconfig
+ifconfig 
+clear
+dig lo.hn
+dig 172.1.33.187.in-addr.arpa
+dig under.lo.hn
+dig 30.2.70.177.in-addr.arpa
+dig under.lo.hn
+dig 30.2.70.177.in-addr.arpa
+dig mx gmail.com
+telnet alt3.gmail-smtp-in.l.google.com 25
+telnet google.com 80
+host lo.hn
+host 187.33.1.172
+dig 172.1.33.187.in-addr.arpa]
+host 187.33.1.172
+host under.lo.hn]
+host under.lo.hn
+host 177.70.2.30
+host gmail.com
+host 74.125.234.117
+ping6 2800:3f0:4001:802::1015
+expr 128 / 8
+ping6 2800:03f0:4001:0802:0000:0000:0000:1015
+clear
+dig txt gmail.com
+dig txt hotmail.com
+dig spf-a.hotmail.com
+dig msnhst.microsoft.com
+dig TXT spf-a.hotmail.com
+dig txt hotmail.com
+dig txt lo.hn
+dig txt hotmail.com
+dig txt spf-a.hotmail.com
+dig txt spf-b.hotmail.com
+dig txt spf-d.hotmail.com
+dig txt spf-a.hotmail.com
+dig dkim.hotmail.com
+dig txt dkim.hotmail.com
+dig txt _domainkey.gmail.com
+dig txt _domainkey.yahoo.com
+links http://antispam.yahoo.com/domainkeys
+telnet smtp.grupoglobo.com.br 25
+clear
+vim idade
+a=999
+echo $a
+echo \$a
+echo \$$
+echo $$
+echo \$$a
+echo \$$a\!
+echo $$a\!
+chmod +x idade 
+./idade 
+vim idade
+./idade 
+vim idade
+chmod +x idade.sh
+vim idade.sh
+chmod -x idade 
+ls -la idade
+chmod u+x idade 
+ls -la idade
+chmod o+x idade 
+ls -la idade
+chmod u+x idade 
+ls -la idade
+chmod u-x idade 
+ls -la idade
+./idade
+ls
+mv idade idade.jpg
+chmod +x idade.jpg 
+ls
+./idade.jpg 
+file idade.jpg 
+head -1 idade.jpg 
+vim idade.jpg
+file idade.jpg 
+vim idade.jpg
+file idade.jpg 
+mv idade.jpg idade
+vim idade 
+vim nome
+chmod +x nome 
+vim nome
+./nome 
+vim nome
+./nome 
+vim nome
+vim bindir
+vim nome
+vim bindir
+chmod +x bindir 
+./bindir 
+ls -la /usr/bin
+ls -la /usr/
+sudo su
+su
+clear
+vim idade 
+ls -la idade 
+./idade 
+./idade ]
+vim nome 
+./nome 
+vim bindir 
+./bindir 
+cat idade 
+vim testaArquivos
+Z
+chmod +x testaArquivos 
+./testaArquivos 
+./testaArquivos
+vim testaArquivos
+ls aaa
+echo $?
+ls aaa 2> /dev/null
+if ls aaa 2> /dev/null then ; echo "não executei" ; else echo "executei"
+if ls aaa 2> /dev/null then ; echo "não executei" ; else echo "executei" ; fi
+if ls aaa 2> /dev/null then ; echo "não executei" ; else ; echo "executei" ; fi
+if ls aaa 2> /dev/null ; then ; echo "não executei" ; else ; echo "executei" ; fi
+if ls aaa 2> /dev/null  then ; echo "não executei" ;  echo "executei" ; fi
+if ls aaa 2> /dev/null ; then  echo "não executei" ;  echo "executei" ; fi
+if ls aaa 2> /dev/null ; then  echo "não executei" ; else echo "executei" ; fi
+if ls aaa 2> /dev/null ; then echo "executei" ; else echo "não executei" ; fi
+if ls testaArquivos 2> /dev/null ; then echo "executei" ; else echo "não executei" ; fi
+vim parametro
+chmod +x parametro 
+./parametro 
+./parametro qweiotyqlwthqlwtiy
+./parametro qweiotyqlwthqlwtiy lkajdhlahg
+./parametro qweiotyqlwthqlwtiy lkajdhlahg kjlhjkg
+./parametro "Josemar Lohn"
+./parametro Josemar\ Lohn
+vim parametro
+clear
+vim relacao
+clear
+vim relacao
+chmod +x re
+chmod +x relacao 
+./relacao 2 5
+./relacao 2 2
+./relacao 5 2 
+vim relacao
+cp relacao relacao2
+vim relacao2
+vim juntaTudo
+vim relacao2
+vim juntaTudo
+chmod +x juntaTudo 
+./juntaTudo nao sei o que digitar
+./juntaTudo "nao sei" o que digitar 2
+vim juntaTudo
+clear
+date
+ntpdate a.ntp.br
+ps ax | grep ntp
+sudo ntpdate a.ntp.br
+su 
+ls aa
+ls aaa 2> /dev/null
+ls aaa 2> /dev/null ; echo $?
+ls 2> /dev/null ; echo $?
+ls idade 2> /dev/null ; echo $?
+ls idade > 2> /dev/null ; echo $?
+ls idade 2&1> /dev/null ; echo $?
+ls idade > /dev/null 2> /dev/null ; echo $?
+ls aaa > /dev/null 2> /dev/null ; echo $?
+vim lstest
+chmod +x lstest 
+./lstest 
+vim lstest
+./lstest 
+vim lstest
+ls
+ls > /dev/null
+vim lstest
+./lstest 
+vim lstest
+test 1 -eq 1
+echo $?
+test 1 -eq 0
+echo $?
+ls aaa
+ls aaa >/dev/null
+ls aaa >/dev/null 2> /dev/null
+vim lstest
+dig lo.hn
+dig mx lo.hn
+cd /etc/bind
+ls
+vim lohn.zone
+cat lohn.zone
+less lohn.zone
+nslookup ns1.lo.hn
+nslookup ns2.lo.hn
+c
+cd
+ls
+cat parametro 
+./parametro 
+./parametro Lohn
+./parametro Lohn Josemar
+./parametro Estacio
+./parametro Estacio Zimbra
+./parametro "Estacio Zimbra"
+./parametro Estacio\ Zimbra
+vim parametro 
+./parametro Estacio\ Zimbra
+echo "teste"
+echo "estacio"
+vim aaa
+ls
+vim lstest 
+vim case1
+chmod +x case1
+./case1 
+./case1
+clear
+./case1
+vim case1 
+./case1
+vim case2
+chmod +x case2
+./case
+./case2
+cp case1 case3
+cp -a case1 case3
+vim case3
+./case3
+clear
+a=1000
+echo "Valor $a"
+echo 'Valor $a'
+./case3
+vim case4
+chmod +x case4
+./case4
+su -
+xne
+xnew
+sudo su
+su 
+wintest
+su
+exit
+sudo su
+su -
+clear
+ls
+vim relacao
+vim relacao2
+vim relacao
+./relacao 3 5
+./relacao 10 9
+./relacao 10 10
+./relacao2 3 5
+./relacao2 3 1
+./relacao2 1 1
+vim relacao
+./juntaTudo um dois tres quatro cinco
+vim relacao
+./relacao 9 10
+vim relacao
+a=aaa b=bbb
+echo $a
+echo $b
+echo $a $b
+echo $a$b
+echo \$a$b
+vim parametro
+./parametro 
+./parametro 23890561938y2
+vim parametro
+./parametro 23890561938y2 2035723ojkgh
+./parametro 23890561938y2 2035723ojkgh 8o7rjhf7645
+a=1
+echo $a
+./parametro "23890561938y2 2035723ojkgh" 8o7rjhf7645
+./parametro 23890561938y2\ 2035723ojkgh 8o7rjhf7645
+ls -la
+cat juntaTudo 
+./juntaTudo um dois tres quatro cinco]
+./juntaTudo um dois tres quatro cinco
+vim juntaTudo2
+chmod +x juntaTudo
+chmod +x juntaTudo2
+./juntaTudo2  j j j j j j
+./juntaTudo2  j j j j j j h h jklh o o8h loi76 oibgkj ghjgfl g lçk hlk jh 
+vim juntaTudo
+./juntaTudo um dois tres quatro cinco
+vim juntaTudo
+./juntaTudo2  j j j j j j h h jklh o o8h loi76 oibgkj ghjgfl g lçk hlk jh :q
+./juntaTudo um]
+./juntaTudo um dois
+./juntaTudo um dois 3 quatro
+vim juntaTudo2
+cat juntaTudo | sed 's/bash/lohn/g'
+cat juntaTudo | sed 's/bash/laden/g'
+man bash
+apt-cache search shell
+apt-cache search shell | less
+byobu
+clear
+byobu
+lear
+clear
+byobu
+clear
+a=KJJERunfkRUfrnhfui
+echo $a | tr '[:upper:]' '[:lower:]'
+b=$(echo $a | tr '[:upper:]' '[:lower:]')
+echo $a
+echo $b
+ls
+./case3
+vim case3
+./case3
+vim case3
+LS
+ls
+cat case4
+./case4
+vim case5
+chmod +x case5
+./case5
+./case5]
+./case5
+vim case5
+./case5
+vim case5
+su
+byobu
+ls
+sudo su
+byobu
+celar
+clear
+ls
+vim zerador
+chmod +x zerador 
+./zerador 10
+vim zerador
+./zerador 10
+vim zerador
+./zerador 10
+vim zerador
+./zerador 10
+vim zerador
+cat
+cat test
+cat testaArquivos 
+cat > blabla
+cat blabla 
+vim times
+cut -d, -f1 times 
+echo $IFS | 
+cut -d",-" -f1 times 
+export OLDIFS=$IFS
+export IFS=,-
+echo $IFS
+export IFS=",-]"
+echo $IFS
+export IFS=",-"
+echo $IFS
+vim times
+cut -d",-" -f1 times 
+cut -d"" -f1 times 
+cut -d"," -f1 times 
+cut -d"," -f2 times 
+var=TestandoIssoAqui
+echo $var | cut -c1-5
+echo $var | cut -c9-12
+top -bn1
+telnet jairpc.no-ip.org
+ping jairpc.no-ip.org
+telnet jairpc.no-ip.org 3389
+nmap jairpc.no-ip.org
+sudo nmap jairpc.no-ip.org
+su
+sudo su
+su
+echo $$
+echo $$
+bash
+clear
+man grep
+vim a
+cat a | grep -e [a-z]*
+cat a | grep -e [a-z]\*
+cat a | grep -e ^[a-z]\*
+cat a | grep -e ^[a-z]\*$
+cat a | grep -e ^[a-z]{3,8}$
+cat a | grep -e '^[a-z]{3,8}$'
+cat a | grep -e '^[a-z]{3;8}$'
+cat a | grep -e '^[a-z]{8}$'
+cat a | grep -e '^[a-z]{3}$'
+cat a | grep -e '^[a-z]{4}$'
+cat a | grep -e '^[a-z]{4}'
+cat a | grep -e '[a-z]{4}'
+cat a | grep -e '^[a-z]$'
+cat a | grep -e ^[a-z]\{3,8}$
+cat a | grep -e ^[a-z]\{3,8\}$
+cat a | grep -e ^[a-z]\{3,8\}
+cat a | grep -e ^[a-z]*
+cat a | grep -e ^[a-z]*$
+cat a | grep -e ^[a-zA-Z0-9]*$
+vim a
+cat a | grep -e ^[a-zA-Z0-9]*$
+cat a | grep -e ^[a-zA-Z][a-zA-Z0-9]*$
+cat a | grep -ev ^[a-zA-Z][a-zA-Z0-9]*$
+cat a | grep -ve ^[a-zA-Z][a-zA-Z0-9]*$
+cat a | grep -ve ^[a-zA-Z][a-zA-Z0-9]\*$
+cat a | grep -e '[::punct::]'
+cat a | grep -e '[[:punct:]]'
+vim a
+cat a | grep -e '[[:punct:]]'
+cat a | sed -e '/[[:punct:]]//g'
+cat a | sed '/[[:punct:]]//g'
+cat a | sed -e 's/[[:punct:]]//g'
+cat /etc/passwd | grep -e '[[:punct:]]'
+alias 
+cat a | grep -ve ^[a-zA-Z][a-zA-Z0-9]\{3}$
+cat a | grep -ve ^[a-zA-Z][a-zA-Z0-9]\{3\}$
+cat a | grep -ve ^[a-zA-Z][a-zA-Z0-9]\{3\}
+cat a | grep -ve ^[a-zA-Z][a-zA-Z0-9]\{3\}$
+cat a | grep -ve ^[a-zA-Z][a-zA-Z0-9]\{3,5\}$
+cat a | grep -e ^[a-zA-Z][a-zA-Z0-9]\{3,5\}$
+cat a | grep -e ^[a-zA-Z][a-zA-Z0-9]\3$
+cat a | grep -e ^[a-zA-Z][a-zA-Z0-9]\3
+echo aaa | grep -1 a{3,2}
+echo aaa | grep -1 a\{3,2\}
+echo aaa | grep -1 a\{3,5\}
+echo aaa | grep -e a\{3,5\}
+echo aaa | grep -e (a\{3,5\})
+echo aaa | grep -e \(a\{3,5\}\)
+echo aaa | grep -e \(a\)\{3,5\}
+echo aaa | grep -e a
+echo aaa | grep -e a*
+echo aaa | grep -e a?
+echo aaa | grep -e a???
+echo aaa | grep -e a
+echo aaab | grep -e a?
+echo aaab | grep -e a.
+echo aaab | grep -e a*
+echo aaab | grep -e a2
+echo aaab | grep -e \\a2
+echo aaab | grep -e a\\2
+echo aaab | grep -e \(a{1,2\}\)
+echo aaab | grep -e \(a\{1,2\}\)
+echo aaab | grep -e a\{1,2\}
+echo aaab | grep a\{1,2\}
+grep lohn /etc/passwd
+grep ^lohn: /etc/passwd
+echo aaab | grep 'a\{1,2}'
+echo aaab | grep 'a{1,2}'
+echo aaab | egrep 'a{1,2}'
+echo aaab | grep -e 'a{1,2}'
+echo aaab | egrep 'a{1,2}'
+cat a | egrep '[a-z]{1,2}'
+cat a | egrep '^[a-z]{1,2}$'
+cat a | egrep '^[a-z]{1,2}'
+cat a | egrep '^[a-z]{3,8}$'
+cat a | egrep '^[a-z0-9]{3,8}$'
+cat a | egrep '^[a-z][a-z0-9]{2,7}$'
+su
+su -
+vim somaNum.sh
+chmod +x somaNum.sh 
+./somaNum.sh 3
+./somaNum.sh 10
+./somaNum.sh 100
+vim somaNum.sh
+echo $((1+1))
+echo $((19+19))
+echo $((18\19))
+echo $((18/19))
+who
+echo $$
+$(echo $$)
+echo $(echo $$)
+bash
+su -
+clear
+seq 10
+seq 5 10
+seq 5 2 10
+seq 10
+seq 5 10
+seq 0 10
+seq 0 100000000
+seq 0 10
+seq 10
+seq 0 3 30
+ls
+cat zerador 
+clear
+ls
+cat for4
+cat for3
+./for3
+cat for3 
+cat /etc/passwd
+cat /etc/passwd | grep ^lohn:
+pwd
+cd ..
+cd lohn2
+cd lohn3
+cd 
+lista=(Lohn Daniel Patrick)
+echo $lista
+echo ${lista[0]}
+echo ${lista[1]}
+echo ${lista[2]}
+echo ${lista[*]}
+echo ${#lista[*]}
+vim matriz3
+chmod +x matriz3 
+./matriz3 
+cat matriz3 
+./matriz3 
+a="1234567890"
+echo $a
+echo ${#a}
+a="1234567890123"
+echo ${#a}
+dig mx grupoglobo.com.br
+dig smtp.grupoglobo.com.br
+dig mullerpreiauditores.com.br
+echo -e "Josemar\nLohn"
+echo  "Josemar\nLohn"
+host 177.43.42.76 firewall.grupoglobo.com.br
+ping firewall.grupoglobo.com.br
+host 177.43.42.76 177.43.42.76
+ping firewall.grupoglobo.com.br
+host 177.43.42.76 firewall.grupoglobo.com.br
+host 177.43.42.76 177.43.42.76
+dig firewall.grupoglobo.com.br
+byobu
+byobu
+byobu
+çs
+ls
+ls -la
+clear
+ls
+vim decimo 
+./decimo a b c d e f g h i j k l 
+cat decimo 
+ps
+echo $$
+ps a
+ps ax
+vim pid
+chmod +x pid
+cat pid 
+echo $$
+./pid 
+ps ax | grep haproxy
+ls
+vim simNao.sh
+chmod +x simNao.sh 
+./simNao.sh 
+h
+./simNao.sh 
+vim simNao.sh
+vim simNao2.sh
+true
+false
+true
+echo $?
+false
+echo $?
+vim simNao2.sh
+chmod +x simNao2.sh 
+./simNao2.sh 
+vim simNao.sh 
+vim simNao2.sh 
+./simNao2.sh 
+cat simNao*
+clear
+ls
+ls > aaa
+cat aaa
+ls
+ls zzz
+ls zzz > aaa
+ls zzz 2> aaa
+cat aaa 
+clear
+cat
+cat > nomes.txt
+cat >> nomes.txt 
+vim nomes.txt 
+clear
+sort < nomes.txt > nomes_ordenados.txt 
+cat nomes_ordenados.txt 
+celar
+clear
+ls
+vim simNao.sh 
+vim simNao2.sh 
+vim simNao.sh 
+cat simNao*
+cat simNao.sh 
+cat simNao.sh simNao2.sh 
+globofw 
+cat simNao*
+vim mostra
+chmod +x mostra 
+cat mostra 
+./mostra teste teste2
+vim mostra
+./mostra teste teste2
+vim mostra
+./mostra teste teste2
+vim mostra 
+vim mostra2
+chmod +x mostra2
+./mostra2
+cat mostra
+vim soma
+chmod +x soma
+./soma
+vim soma
+cp soma soma2
+vim soma2
+./som2
+./soma2
+let 1 + 2
+let "1 + 2"
+echo `let "1 + 2"`
+let a="1 + 2"
+echo $a
+echo `expr 1 + 2`
+echo $((1 + 2))
+clear]
+clear
+top
+cat /etc/hostname 
+vim /etc/hostname 
+sudo su
+su
+ps
+echo $TTY
+echo $TERM 
+set | grep pts
+
+set | grep pts\/ | less 
+echo $SSH_TTY 
+ps
+bell
+beep
+sudo apt-get install beep
+su
+ls -la
+ps
+ps a
+ps x
+ps u
+ps ux
+ps au
+pstree
+pstree -p
+pstree -p | less
+echo $$
+ps aux | grep apache
+cat /etc/passwd | grep apache
+cat /etc/passwd | grep www
+cat /etc/passwd | grep -v www
+cd /etc/
+ls
+cat vsftpd.c
+cat vsftpd.conf 
+cat vsftpd.conf | grep -v '^#'
+cat vsftpd.conf | grep -v '#'
+wc -l vsftpd.conf 
+cat vsftpd.conf | grep -v '#' | wc -l
+ping 10.0.5.254
+ps a | more
+ps ax | more
+ps ax | les
+ps ax | less
+dmesg 
+dmesg | grep eth0
+dmesg | grep -i warning
+dmesg | grep -i fail
+dmesg | grep -i fail > log
+dmesg | grep -i fail > ~/log
+cat ~/log
+tail -f /var/log/messages
+su
+ps ax | grep tail
+su
+ls
+wall teste
+echo teste | wall 
+sleep 5 ; echo "Oi, tudo bem"  | wall
+clear
+vim calculadora
+chmod +x calculadora 
+./ca
+./calculadora 
+vim calculadora
+./calculadora 
+vim calculadora
+./calculadora 
+vim calculadora
+./calculadora 
+vim conversao
+chmod +x conversao 
+./conversao 
+vim conversao 
+./conversao 
+vim conversao 
+break
+echo $$
+vim sub1
+chmod +x sub1
+./sub1 
+vim subshell
+chmod +x subshell 
+./subshell 
+vim subshell
+./subshell 
+bg
+fg
+./subshell &
+ps -ef | grep subshell
+ls
+./subshell &
+fg
+ps -ef | grep subshell
+clear
+fg
+./subshell & > /dev/null
+./subshell & > /dev/nullfg
+fg
+./subshell > /dev/null &
+ps ax | grep shell
+ps ax | grep subshell
+jobs
+jobs -a
+jobs -l
+ps aux | grep subshell
+ps aux | grep 3532
+pstree -p | less
+echo $$
+pstree -p | less
+fg
+bash subshell > /dev/null &
+ps aux | grep sub
+ls
+fg
+vim subshell 
+bash subshell > /dev/null &
+ps ax | grep sub
+echo $PATH 
+vim subloop
+chmod +x sub
+chmod +x subloop 
+./subloop 
+fg
+killal sleep[
+byobu
+clear
+pstree | less
+pstree -n | less
+pstree -p | less
+ls -la /usr/bin/bashbug  
+ls -la /usr/bin/bash
+ls -la /bin/bash /bin/dash /bin/sh
+man bash
+lspci
+lspci --help
+lspci -n
+lspci
+lspci -n
+lspci --help
+lspci -n
+lspci --help
+cp /usr/share/misc/pci.ids .
+less pci.ids 
+ls
+cat subloop 
+less subloop 
+./subloop 
+clear
+ls
+clear
+seq 10
+seq 10 20
+seq 10 2 20
+seq 20 -2 10
+ls
+vim trabalho
+chmod +x trabalho 
+./trabalho 
+vim trabalho
+ifconfig 
+ifconfig | grep "inet addr"
+ifconfig | grep "inet addr" | head -1
+ifconfig | grep "inet addr" | head -1 | cut -f2 -d:
+ifconfig | grep "inet addr" | head -1 | cut -f2 -d: | cut -f1 -d" "
+ifconfig | grep "inet addr" | cut -f2 -d: | cut -f1 -d" "
+ifconfig | grep "inet addr" | head -1 | cut -f2 -d: | cut -f1 -d" "
+vim trabalho 
+./trabalho 
+ls
+grep bash *
+ifconfig 
+ifconfig  | grep inet
+ping google.co
+vi
+globofw 
+clear
+w
+ps ax
+ps ax | grepbahs
+ps ax | grep bash
+kill 15004
+kill 15007
+clear
+ps ax
+vim subloop 
+bash subloop 
+ps ax | grep -bach
+ps ax | grep -bash
+ps ax | grep bash
+kill 16163
+ps ax | grep bash
+kill 19163
+ps ax | grep bash
+kill 19166
+man sort
+cat /etc/passwd
+cat /etc/passwd | cut -f3 -d:
+cat /etc/passwd | cut -f3 -d: | sort -g
+cat /etc/passwd | cut -f3 -d: | sort -g | tail -1
+cat /etc/passwd | cut -f3 -d: | sort -g | tail -2
+cat /etc/passwd | cut -f3 -d: | sort -g | tail -1
+cat /etc/passwd | cut -f3 -d: | sort -g |head -1
+cat /etc/passwd | cut -f3 -d: | sort -g | tail -1
+lastid=`cat /etc/passwd | cut -f3 -d: | sort -g | tail -1`
+echo $lastid 
+userid=`expr $lastid + 1`
+echo $userid 
+userid=$(($lastid +1))
+echo $userid 
+cat /etc/passwd
+cat /etc/passwd | grep 65534
+lastid=`cat /etc/passwd | cut -f3 -d: | grep -v 65534 | sort -g | tail -1`
+echo $lastid 
+echo $lastid$userid
+su -
+whiptail 
+whiptail --infobox teste 40 40
+apt-cache search window
+apt-cache search whiptail
+apt-cache search curses
+dialog --title "ERRO" --msgbox "\nO nome $name já está em uso\nFavor escolher outro"  7 50
+dialog --infobox teste 40 40
+dialog --infobox teste 40 10
+dialog --infobox teste 10 00
+ls
+wget lo.hn/apache.log
+less apache.log 
+grep 404 apache.log 
+grep 'HTTP/1.1" 404' apache.log 
+grep '"GET /pma' apache.log 
+grep '"GET /pma*setup.php' apache.log 
+grep '"GET /pma.*setup.php' apache.log 
+grep '"GET /pma.*setup.php HTTP/1\.."' apache.log 
+grep '"GET /[pma|myAdmin].*setup.php HTTP/1\.."' apache.log 
+grep '"GET /[pma|myadmin].*setup.php HTTP/1\.."' apache.log 
+grep '"GET /.*/scripts/setup.php HTTP/1\.." 404' apache.log 
+grep '"GET /.*/scripts/setup.php HTTP/1\.." 404' apache.log  | cut -f1 -d" " 
+vim waf 
+iptables -A INPUT -s 60.29.82.126 -j DROP
+sudo suiptables -A INPUT -s 60.29.82.126 -j DROP
+sudo su
+su -
+ls
+grep apache *
+vim waf 
+./waf 
+vim waf 
+./waf 
+vim waf 
+./waf 
+vim waf 
+./sudo waf
+sudo ./waf
+su -
+tshark -n -f "tcp and dst
+ip_da_sua_maquina and tcp[tcpflags]
+& (tcp-syn) != 0 and tcp[tcpflags]
+& (tcp-ack) = 0" -E separator=":" -
+tshark -n -f "tcp and dst
+tshark -n -f "tcp and dst and tcp[tcpflags]
+& (tcp-syn) != 0 and tcp[tcpflags]
+& (tcp-ack) = 0" -E separator=":" -
+ip_da_sua_maquina and tcp[tcpflags]
+tshark -n -f "tcp and dst 177.70.2.30 and tcp[tcpflags] & (tcp-syn) != 0 and tcp[tcpflags] & (tcp-ack) = 0" -E separator=":" -Tfields -e ip.src -e tcp.port
+vim insiraDiretorio
+man test
+test 1
+echo $?
+test 0
+echo $?
+test x
+echo 
+echo $?
+test x
+echo $?
+test :
+echo $?
+test !
+echo $?
+vim insiraDiretorio
+chmod +x insiraDiretorio 
+./insiraDiretorio 
+su -
+mail
+ls
+ls | wc -l
+ls -la
+ls -l
+ls -l | grep ^d
+ls -l | grep -v ^d
+ls -l | grep -v ^d | wc -l
+ls -l | grep ^d | wc -l
+arquivos=`ls -l | grep ^d | wc -l`
+diretorios=$(ls -l | grep -v ^d | wc -l)
+echo "A parta atual possui $arquivos arquivos e $diretorios subdiretorios"
+arquivos=`ls -l | grep -v ^d | wc -l`
+diretorios=$(ls -l | grep ^d | wc -l)
+echo "A parta atual possui $arquivos arquivos e $diretorios subdiretorios"
+grep teste *
+man find
+man ls 
+w
+ls -R
+find .
+grep teste *
+grep bash *
+grep bash * | wc -l
+cat /etc/passwd
+top
+grep aaaa /etc/passwd
+echo $?
+grep lohn /etc/passwd
+echo $?
+vim marcius
+chmod +x marcius 
+cvim ma
+vim marcius 
+ls -la
+vim marcius 
+ls -la | less
+vim marcius 
+su -
+ls
+sudo su
+su
+su 
+clear
+dig SOA lo.hn
+dig NS lo.hn
+dig MX lo.hn
+dig lo.hn
+dig AAAA lo.hn
+dig terra.com.br
+dig esportes.terra.com.br
+apt-cache search layer
+apt-cache search layer | grep ipt
+apt-cache search iptable
+apt-cache search iptables | 
+apt-cache search iptables |
+apt-cache search iptables 
+dig www.facebook.com
+ls -la
+su
+ls
+cat waf
+sudo su
+su
+phploc
+su
+las
+lsa
+su[
+su
+git add .
+su
+ls -la
+git add .
+git -am "Fim da aula noturna de 08-11-2012"
+git commit -am "Fim da aula noturna de 08-11-2012"
+git config --global user.email "j@lo.hn"
+git commit -am "Fim da aula noturna de 08-11-2012"
+git push
+chmod +x verificaPortasAbertas 
+git add .
+git commit -am "Fim da aula noturna de 08-11-2012.2"
+git push
+ls
+vim knock
+ls
+ps ax | shellin
+ps ax | grep shellin
+su
+echo a               b
+ifconfig | grep HW
+ifconfig eth0 | grep HW 
+ifconfig eth0 | grep HW | read a ; echo $a
+man read
+readlink 
+readlink --help
+readline
+man read
+ifconfig eth0 | grep HW | read ; read a ;echo $a
+a=`ifconfig eth0 | grep HW`
+echo $a
+a=`ifconfig eth0 | grep HW` ; echo $a | cut -d\  -f7
+a=`ifconfig eth0 | grep HW` ; echo $a | cut -d\  -f4
+a=`ifconfig eth0 | grep HW` ; echo $a | cut -d\  -f5
+if [ "x$1" = "x" ] ; then echo "Vazio" ; else echo "Igual a $i" ; done
+if [ "x$i" = "x" ] ; then echo "Vazio" ; else echo "Igual a $i" ; fi
+i=0
+if [ "x$i" = "x" ] ; then echo "Vazio" ; else echo "Igual a $i" ; fi
+i=" "
+if [ "x$i" = "x" ] ; then echo "Vazio" ; else echo "Igual a $i" ; fi
+i=""
+if [ "x$i" = "x" ] ; then echo "Vazio" ; else echo "Igual a $i" ; fi
+unset i
+if [ "x$i" = "x" ] ; then echo "Vazio" ; else echo "Igual a $i" ; fi
+man test
+if [ -z "$i" ] ; then echo "Vazio" ; else echo "Igual a $i" ; fi
+i=""
+if [ -z "$i" ] ; then echo "Vazio" ; else echo "Igual a $i" ; fi
+i=" "
+if [ -z "$i" ] ; then echo "Vazio" ; else echo "Igual a $i" ; fi
+clear
+mkdir Exercicios
+cd Exercicios/
+mkdir 01
+cd 01
+vim texto.txt
+vim script
+chmod +x script
+./script 
+./script teste
+./script
+ls
+mv texto.txt enunciado.txt
+ls
+vim script 
+ls -la
+vim script 
+ls -la
+man ls
+ls -la
+ls -l | 
+ls -l | grep -v ^d
+ls -l | grep -v ^d | wc -l
+ls -l | grep -v ^d | grep -v ^total | wc -l
+vim script 
+echo *
+mkdir teste
+echo *
+grep teste *
+vim script 
+./script 
+./script a
+./script teste
+./script t
+vim script 
+man grep
+grep -l teste *
+grep -lc teste *
+grep -l -c teste *
+grep -c teste *
+grep -l teste *
+grep -l testes *
+grep testes *
+sudo su
+su
+l
+ls 
+cd Exercicios/
+ls
+cd0
+cd 01/
+ls
+vim script 
+./script teste
+ls
+ls -la
+ls
+ls teste/
+ls
+clear
+ls -la
+ls -l
+./script 
+./script teste
+grep teste 
+./script lohn
+./script bash
+./script script
+vim script 
+ls -l
+ls -l | grep ^d
+ls -l | grep ^-
+ls -l | grep -v ^d
+vim script 
+ls -l | grep -v ^d
+ls -l | grep ^d
+ls -l 
+ls -l | grep -v ^d
+vim script 
+./script "teste teste"
+./script "teste 1234"
+./script "teste"
+vim script 
+./script "teste 1234"
+grep teste 1234 *
+grep teste teste *
+grep "teste teste" *
+vim script 
+./script teste
+vim script 
+echo "
+dfgh"
+echo \"
+a=GustavoLocão
+a=GustavoPhilippiLocão
+echo "$a"
+echo '$a'
+echo '$a"""""'
+echo '$a"""""!&$%$¨@%@$#¨!'
+echo "$a"'"""""!&$%$¨@%@$#¨!'
+echo \"$a\"
+echo '"'$a'"'
+vim script 
+cd ..
+su
+cd Exercicios/
+ls
+mkdir 02
+cd 02/
+vim enunciado.txt
+vim script
+chmod +x script 
+./script 
+vim script
+man echo
+vim script
+man echo
+./script 
+vim script
+man test
+vim script
+./script 
+touch /tmp/arquivo
+./script 
+echo teste > /tmp/arquivo
+./script 
+vim script
+./script 
+vim script
+cd ..
+su 
+su -
+su
+cd Exercicios/
+ls
+mkdir 03
+cd 03
+ls
+vim script
+chmod +x script 
+./script 
+ls -l
+cd ..
+ls -l
+cd 01
+ls
+ls -l
+cd ..
+cd 03
+vim script 
+echo "a"
+echo \"a\"
+lohn=AULA
+echo $lohn
+echo \$lohn
+echo *
+echo \*
+mkdir teste teste2
+ls
+mkdir teste\ teste2
+ls
+ls -l
+rmdir teste teste2 teste\ teste2/
+ls -la
+./script 
+ls -l /etc/
+ls -l /etc/ | wc -l
+ls -l /etc/ | grep ^- | wc -l
+vim script 
+./script 
+vim script 
+./script 
+find /etc
+man find
+find -type f /etc
+find -type=f /etc
+man find
+find /etc -type f
+find /etc -type f | wc -l
+ls
+vim script 
+ps ax
+ps ax | grep apache
+su -

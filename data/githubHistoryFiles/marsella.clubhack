@@ -1,0 +1,178 @@
+sudo yum -y update
+sudo apt-get install yum
+exit
+sudo yum -y update
+sudo yum -y install httpd mysql mysql-server php php-cli php-mbstring php-mysql php-pdo php-soap php-xml
+yum update
+sudo yum update
+man yum
+sudo apt-get install httpd
+sudo yum list installed
+sudo -y yum update
+sudo yum -y update
+vim
+vim /etc/yum.conf
+sudo vim /etc/yum.conf
+sudo -y yum update
+sudo yum iy update
+sudo yum -y update
+sudo vim /etc/yum.conf
+sudo apt-get remove yum
+sudo aptitude update
+sudo aptitude dist-update
+sudo aptitude update && sudo aptitude dist-update
+sudo reboot
+ruby
+sudo apt-get install ruby1.9.1
+pwd
+vim test.rb
+ruby test.rb
+vim test.rb
+ruby test.rb
+vim test.rb
+ls
+rm test.rb
+ls
+cd /usr/lib/
+ls
+..
+cd ..
+ls
+cd local/
+ls
+cd bin/
+ls
+cd ..
+ls
+cd ..
+ls
+clear
+ls
+cd /
+ls
+cd home/
+ls
+ls -a
+cd ubuntu/
+ls -a
+cd ..
+ls
+cd /etc
+ls
+cd phpmyadmin/
+ls
+cd ..
+ls
+cd php
+ls
+cd php5
+ls
+vim conf.d
+cd ..
+ls
+cd phpmyadmin/
+ls
+vim config.inc.php 
+cd /etc/apache2/
+ls
+vim apache2.conf 
+sudo vim apache2.conf
+sudo dpkg-reconfigure -plow phpmyadmin
+cd
+cd ClubAPI/
+python club.py
+python
+clear
+sudo aptitude install apache2 php5-mysql libapache2-mod-php5 mysql-server
+ifconfig
+cd /var/www
+vim test.php
+sudo vim test.php
+sudo apt-get install phpmyadmin
+man apt-get
+ls
+cd
+ls
+pwd
+scp -r Marcella@wr-130-64-218-120.medford.tufts.edu:~/Documents/projects/clubapp .
+ls
+scp -r Marcella@wr-130-64-218-120.medford.tufts.edu:~/Documents/projects/clubapp .
+scp -r Marcella@wr-130-64-218-120.medford.tufts.edu:~/Documents/projects/clubapp/* .
+sudo apt-get install netcat
+ls
+cd ClubAPI
+python
+python club.py
+sudo pip install Flask
+sudo apt-get install pip
+easy_install pip
+sudo apt-get install python-setuptools
+sudo pip install Flask
+easy_install pip
+sudo easy_install pip
+sudo pip install Flask
+python club.py
+ls
+vim club.py
+python club.py
+nc -l 5000
+vim club.py
+python club.py
+vim club.py
+python club.py
+vim club.py
+python club.py
+nc -l 5000
+nc -l 80
+sudo nc -l 80
+python club.py
+vim club.py
+python club.py
+vim club.py
+python club.py
+vim club.py
+python club.py
+gem install lolcat
+sudo gem install lolcat
+ifconfig | lolcat
+find / -name "a"
+find / -name *
+find / *
+find / * | lolcat
+lolcat /dev/random
+cat /dev/random | lolcat
+cat /dev/random
+cat /dev/urandom
+clear
+cat /dev/urandom | lolcat
+ls
+vim club.py
+python
+vim club.py
+pushd .
+cd
+scp mhasti01@linux.cs.tufts.edu:~/.vimrc .
+popd
+vim club.py
+ls
+cd ClubAPI/
+ls
+python club.py
+python
+clear
+python
+clear
+python club.py
+clear
+python club.py
+cd ClubAPI/
+ls
+vim club.py
+git init
+sudo appt-get install git
+sudo apt-get install git
+git init
+git add *
+git commit -m "initial commit"
+clear
+vim club.py

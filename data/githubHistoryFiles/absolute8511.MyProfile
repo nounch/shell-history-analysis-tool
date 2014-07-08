@@ -1,0 +1,626 @@
+/Users/absolute/Downloads/ntfs-3g-2011.1.15/install-sh ; exit;
+ls /usr/
+ruby -e "$(curl -fsSLk https://gist.github.com/raw/323731/install_homebrew.rb)"
+brew
+brew macvim
+brew install macvim
+cd Down
+cd Downloads/
+cd ntfs-3g-2011.1.15/
+./configure 
+top
+ftp
+ftp -h
+ftp ftp://192.168.0.141:2121
+ftp ftp://192.168.0.141:2121
+python --version
+ioreg -l -p IODeviceTree | grep firmware-abi
+sudo nvram boot-args="arch=x86_64"
+python
+python --version
+exit
+python --version
+python
+:exit
+q
+bpython
+easy_install bpython
+sudo easy_install bpython
+bpython
+close
+q
+quit
+helo
+help
+cd Downloads/
+ls
+sudo sh setuptools-0.6c11-py2.7.egg 
+easy_install bpython
+cd hyk-proxy-0.9.1
+cd bin
+pwd
+sudo chmod +x start.sh 
+ls -l
+./start.sh 
+fg
+job
+jobs
+fg 1
+exit
+sudo brew hg
+sudo brew install hg
+sudo brew install pip && pip install mercurial
+easy_install mercurial
+sudo easy_install mercurial
+hg
+easy_install -h
+cd Downloads/
+ls
+cd ntfs-3g-2011.1.15/
+ls
+cat README 
+./configure
+sudo make
+cat README 
+sudo make install
+make
+sudo ./configure 
+make
+sudo make install
+ls
+./install-sh 
+cat INSTALL 
+ls
+cat Makefile.in
+cat Makefile.am 
+make Makefile.in
+make -f Makefile.in
+ls
+cd src
+ls
+cd ..
+ls
+cd Downloads/
+cd hyk-proxy-0.9.1/
+cd bin
+./start.sh 
+ls
+sudo nvram boot-args="arch=x86_64"
+cd Downloads/
+cd hyk-proxy-0.9.1/bin/
+./start.sh 
+cd /Library/Preferences/SystemConfiguration/
+ls
+sudo vim com.apple.Boot.plist 
+sudo vim com.apple.Boot.plist 
+sudo vim com.apple.Boot.plist 
+cd /Library/
+ls
+cd Preferences/SystemConfiguration/
+sudo vim com.apple.Boot.plist 
+cd ~
+cd Downloads/
+cd hyk-proxy-0.9.1/bin/
+./start.sh 
+exit
+sudo shutdown -h +5
+sudo shutdown -h +2
+cd /Library/Caches/
+cat /proc/version
+ls /proc
+ls
+cd Downloads/
+ls
+mv home-1 home
+cd home/
+ls
+mv home-1/absolute/ ./absolute/
+ls
+mv absolute/absolute/ home-1/
+cp
+cp -h
+cp -0help
+cp -help
+man cp
+cp -R -u home-1/absolute/* ./absolute/
+man cp
+cp -R home-1/absolute/* ./absolute/
+cd absolute/
+ls -a
+ls -a -l
+cd ..
+ls -l
+cd ..
+ls -l
+cd ..
+ls -l
+ls -a
+cp Downloads/home/absolute/.vim ./.vim
+mv Downloads/home/absolute/.vim ./.vim
+ls
+ls -a
+cd .vim
+ls
+cd ..
+cp Downloads/home/absolute/.vimrc ./.vimrc
+cat .vimrc
+:q
+cat .bash_profile 
+ls -a
+cp Downloads/home/absolute/.bashrc ./.bashrc
+cat ./bashrc
+ls -a
+cat .bashrc 
+g
+exit
+ctags
+vim
+l
+g
+ls -a
+cat .bashrc 
+ll
+vim 
+vim .vimrc 
+vim
+vim
+cat Downloads/home/home-1/absolute/.bashrc 
+vim .bash_profile 
+l
+ll
+exit
+l
+ll
+ls
+cp Downloads/home/absolute/.bashrc .bashrc
+cat .bashrc 
+:q
+exit
+l
+ls
+b home
+s home
+l
+cd Downloads/
+ls
+cd home
+ls
+ls -a
+cd absolute/
+ls -a
+rm
+rm -fR Documents/
+ls
+man rm
+rm -fR Dropbox/
+rm -fR Desktop/
+rm -fR Templates/
+ls
+ls Downloads/
+rm -fR Downloads/
+ls
+rm -fR Ubuntu\ One/
+rm -fR Public/
+ls
+mv workspace/ ~/Downloads/
+ls
+cd ..
+ls
+cd ..
+ls
+cd workspace/
+ls
+cd ..
+ls home/absolute/ -a
+ls -a home/absolute/
+cat home/absolute/.tortoisehg/
+cd home/absolute/.tortoisehg/
+ls
+xs ~
+cd ~
+brew tortoisehg
+sudo brew install tortoisehg
+sudo easy_install tortoisehg
+cd Downloads/
+cd home/
+ls -a
+cd absolute/
+ls -a
+ls -l -a
+tar
+man tar
+cd ..
+tar -tvf incbackupLinux-2011-03-11\ 20\:48\:01-based-on-2011-02-23\ 22\:39\:24.tar.gz 
+man tar
+tar -zxvf incbackupLinux-2011-03-11\ 20\:48\:01-based-on-2011-02-23\ 22\:39\:24.tar.gz /home/abolute/Documents
+tar -zxvf incbackupLinux-2011-03-11\ 20\:48\:01-based-on-2011-02-23\ 22\:39\:24.tar.gz /home/absolute/Documents
+tar -zxvf incbackupLinux-2011-03-11\ 20\:48\:01-based-on-2011-02-23\ 22\:39\:24.tar.gz /home/absolute/Document
+tar -zxvf incbackupLinux-2011-03-11\ 20\:48\:01-based-on-2011-02-23\ 22\:39\:24.tar.gz home/absolute/Document
+tar -tvf incbackupLinux-2011-03-11\ 20\:48\:01-based-on-2011-02-23\ 22\:39\:24.tar.gz home/absolute/D*
+tar -zxvf incbackupLinux-2011-03-11\ 20\:48\:01-based-on-2011-02-23\ 22\:39\:24.tar.gz home/absolute/Document*
+ls
+ls home/absolute/Documents/
+rm -fR workspace/
+ls
+ls | grep wo
+man cp
+mkdir test1
+mkdir test2
+cd test1
+mkdir same
+cd sam
+cd same/
+vim t1.txt
+cd ..
+cd test2
+mkdir same
+cd same
+vim t2.txt
+cd ..
+cp -R test2/* test1/
+cd test1/
+ls
+ls same
+cat t2
+cat same/t2.txt 
+cd ..
+cd test2
+cd same/
+vim t2.txt 
+cd ..\..
+cd ../..
+cp -R test2/* test1/
+cat test1/same/t2.txt 
+cat test1/same/t1.txt 
+exit
+ftp://192.168.0.141:2121
+ftp
+ftp 192.168.0.141:2121
+ftp ftp://192.168.0.141:2121
+ls /Volumes/NO\ NAME/
+ls -a /Volumes/NO\ NAME/
+ls -a /Volumes/NO\ NAME/ | grep android
+ls -a /Volumes/NO\ NAME/.android_secure/
+mv /Volumes/NO\ NAME/.android_secure /Volumes/NO\ NAME/.android_secure_bak
+ls -a /Volumes/NO\ NAME/.android_secure/
+ls -a /Volumes/NO\ NAME/.android_secure_bak/
+sudo umount /Volumes/NO\ NAME/
+sudo shutdown +1
+sudo shutdown -h +1
+ls .vimrc 
+ls .vim
+ls .vim/plugin/
+ls .vim/autoload/
+cp -R Downloads/snipMate/* .vim/
+ls .vim
+vim test.cpp
+cd Downloads/
+cd hyk-proxy-0.9.1/
+cd bin
+ls
+s hyk
+l
+./start.sh 
+cd "/"
+clear
+ls
+cd ~/.ssh
+ssh-keygen -t rsa -C "cool8511@gmail.com"
+vim .ssh/id_rsa
+ls .ssh
+vim .ssh/id_rsa.pub 
+ssh git@github.com
+git config --global user.name "Vincent"
+git config --global user.email "cool8511@gmail.com"
+git config --global github.user absolute8511
+git config --global github.token ae0dff9d8a78506b950a19ad7dbcb090
+git init
+touch README
+vim README
+git add README
+git commit -m 'project init'
+git remote add origin git@github.com:absolute8511/MyProfile.git
+git push -u origin master
+git remote add
+git push -u
+git push 
+git push -h
+mkdir MacProfile
+cd MacProfile/
+ln
+man link
+ln -s ~/.vim
+ls
+ls -a
+ln -s ~/.vimrc 
+ls -a
+cat .ssh
+
+cat ../.bashrc
+ln -s ~/.bash_history 
+ln -s ~/.bash_profile 
+ln -s ~/.bashrc 
+ls -a
+git add *
+git
+git diff
+git add .vimrc
+git diff
+git status
+git commit -m 'add mac profile'
+git diff
+git status
+git push -u origin master
+ln ~/.vimrc 
+ln
+rm .vimrc
+ln ~/.vimrc 
+cat .vimrc
+git status -h
+git status -s
+git status -h
+git status -s
+git status -b
+git status -h
+git status mod
+git status
+git status change
+git status -h
+git status -u no
+git status -u normal
+git status -u all
+git status
+git add .vimrc
+git status
+git commit -m 'change to hard link'
+git diff
+git diff -h
+git diff .vimrc
+git
+git push -u origin master
+git show
+git diff -cached
+git diff --cached
+git
+git rm .vim
+ln ~/.vim 
+ln -h
+ln ~/.vim/* 
+ls -a
+ulink .vimrc
+man link
+ul -h
+man ul
+git rm *
+ls -a
+cd ..
+ls
+git status
+vim README 
+git add .vim
+git add .vimrc 
+git add .bash_history 
+git add .bashrc 
+git add .bash_profile 
+git status
+git commit -m 'use the tags to decide the OS'
+git status
+git push -u origin master
+git
+git tag
+git tag -h
+git tag -a 'MacProfile'
+git tag -m 'MacProfile'
+git tag -m <MacProfile>
+git tag -m MacProfile
+git tag -a -m MacProfile
+git tag -a -f -m MacProfile
+git tag -a -l
+git tag -l
+git tag -a
+git tag -a 
+git tag -a 'MacProfile'
+git tag -a 'MacProfile' -m 'MacProfile'
+git tag -l
+git diff
+git commit -m 'add tags for mac'
+git add
+git add README 
+git diff
+git commit -m 'add tags for mac'
+git push -u origin master
+git log
+git log --oneline --decorate --graph
+exit
+git
+sudo brew install git
+git
+cd ~
+mkdir workspace
+ls
+cd workspace/
+cd ..
+cd workspace/
+svn checkout http://blacktree-alchemy.googlecode.com/svn/trunk/ blacktree-alchemy-read-only
+ls
+cd blacktree-alchemy-read-only/
+ls
+cd Configuration/
+ls
+vim Developer.xcconfig 
+cd ..
+ls
+vim Developer.xcconfig 
+cd Configuration/
+vim Developer.xcconfig 
+ls
+cd ..
+ls
+vim 01-README.txt 
+vim 03-TODO.txt 
+cd Documentation/
+ls
+ls -a
+cd ..
+cd Configuration/
+vim Developer.xcconfig 
+cd ..
+cd..
+cd ..
+ls
+rm -rf blacktree-alchemy-read-only/
+ls
+svn checkout http://blacktree-alchemy.googlecode.com/svn/branches/
+rm -rf branches/
+ls
+svn checkout http://blacktree-alchemy.googlecode.com/svn/branches/B5X QS
+cd QS
+cd Quicksilver/
+ls
+cd Configuration/
+ls
+vim Developer.xcconfig 
+cd ..
+ls
+vim README.markdown 
+vim B5X-README.txt 
+cd Quicksilver/
+ls
+cd ..
+vim README.markdown 
+ls
+ls
+pwd
+clang
+cd /Developer/Apps
+cd Quicksilver/
+cd Configuration/
+ls
+vim Developer.xcconfig 
+pbpaster
+pbpaste
+ls pbpaste
+ls $pbpaste
+ls . | grep Movies > pbcopy
+pbpaste
+man pbpaste
+$pbpaste
+ehco $pbpaste
+echo $pbpaste
+echo $(pbpaste)
+echo $PATH
+echo $PATH > pbcopy
+echo $PATH | pbcopy
+echo $pbpaste
+echo $(pbpaste)
+echo $TERM
+pwd
+history | grep git
+git diff
+git push -u origin master
+git diff
+git commit -m "mac change"
+git add .bash_history 
+git commit -m "mac profile"
+git diff
+git push -u origin master
+ctags
+sudo brew install ctags
+ctags
+ctags --version
+ctags -version
+man ctags
+cd /usr/local/Cellar/
+ls
+cd ctags/
+ls
+cd 5.8
+ls
+cd bin
+ls
+ctags
+./ctags
+ls -l
+cd ctags 
+sudo ./ctags 
+sudo ./ctags --help
+where ctags
+which ctags
+cd ~/Dropbox/temp/
+vim ListViewComponent.cpp 
+socktop
+systemtap
+cd /usr/share/doc/
+ls
+sudo brew install systemtap
+sudo easy-install systemtap
+sudo easy_install systemtap
+exit
+l
+g hyk
+./start.sh 
+cd "/Users/absolute/Desktop"
+cd '/Users/absolute/Downloads/'
+cd '/Users/absolute/Downloads/OpenTerminalHere.app/Contents/Resources/Scripts/'
+vim main.scpt 
+:q
+q
+ext
+exit
+iterm
+iTerm
+cd '/Users/absolute/Downloads/WTL81_9127/'
+cd '/Users/absolute/Downloads/'
+cd '/Applications/'
+cd /Users/absolute/workspace
+ls /Library/Scripts/
+git diff
+open .
+g hyk
+open .
+fdisk
+fdisk -l
+fdisk -f
+sudo fdsik -l
+sudo fdisk -l
+man fdisk
+fdisk -a
+fdisk -all
+fdisk /all
+fdisk /dev
+fdisk /dev/disk0
+sudo fdisk /dev/disk0
+sudo fdisk /dev/disk0s1
+sudo fdisk /dev/disk0s2
+sudo fdisk /dev/disk1
+n
+fdisk 
+sudo fdisk /dev/disk1
+df -k
+sudo fdisk /dev/disk1s1
+sudo fdisk /dev/disk1s2
+ping 218.72.23.167
+ipconfig
+ipconfig /all
+ipconfig -a;;
+ipconfig -all
+ipconfig -a
+netstat
+ifconfig
+ping 115.200.246.188
+netstat -a
+ifconfig
+g hyk
+./start.sh 
+g hyk
+./start.sh 
+G HYK
+g hyk
+./start.sh 
+sudo shutdown -h +60
+homebrew
+brew
+brew install tmux
+ps
+g hyk
+./start.sh 

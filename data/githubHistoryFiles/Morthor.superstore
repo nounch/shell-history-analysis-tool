@@ -1,0 +1,566 @@
+yum install git-all
+-s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
+curl -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
+bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
+rvm install 1.9.3
+exit
+rvm requirements
+yum install -y gcc-c++ patch readline readline-devel zlib zlib-devel libyaml-devel libffi-devel openssl-devel make bzip2 autoconf automake libtool bison iconv-devel
+rvm install 1.9.3
+ruby --version
+exit
+ruby --version
+rvm use 1.9.3
+ruby --version
+gem
+gem install rails
+gem 
+gem list --local
+gem install sqlite3
+port install sqlite3 +universal
+yum install sqlite-devel
+gem install sqlite3
+rails new servertest
+ls
+cd servertest
+ls
+cd public/
+ls
+rm index.html
+ls
+rails g scaffold products name price:decimal --skip-stylesheets
+gem install execjs
+rails g scaffold products name price:decimal --skip-stylesheets
+exit
+rails g scaffold products name price:decimal --skip-stylesheets
+cs..
+ls
+cd servertest
+rails g scaffold products name price:decimal --skip-stylesheets
+gem
+ruby
+ruby --version
+rvm use 1.9.3
+ruby --version
+rvm default 1.9.3
+ruby -v
+rails g scaffold products name price:decimal --skip-stylesheets
+yum localinstall --nogpgcheck http://nodejs.tchol.org/repocfg/fedora/nodejs-stable-release.noarch.rpm
+yum localinstall --nogpgcheck http://nodejs.tchol.org/repocfg/fedora/nodejs-stable-release.noarch.rpm --skip-broken
+rails g scaffold products name price:decimal --skip-stylesheets
+cd config
+ls
+cd ..
+ls
+gemfile
+vim gemfile
+cd servertest
+nano Gemfile
+rails g scaffold products name price:decimal --skip-stylesheets
+rvm default 1.9.3
+rails g scaffold products name price:decimal --skip-stylesheets
+sudo yum list \*java-1\* | grep open 
+rpm -qa \*fonts\* 
+rails g scaffold products name price:decimal --skip-stylesheets
+bundle install
+gem install nodejs
+nano Gemfile
+bundle update
+rails g scaffold products name price:decimal --skip-stylesheets
+gem 
+gem list --local
+rails generate scaffold products name price:decimal --skip-stylesheets
+rails
+rails c
+gem install rubyracer
+yum install nodejs
+yum localinstall --nogpgcheck http://nodejs.tchol.org/repocfg/fedora/nodejs-stable-release.noarch.rpm
+yum localinstall --nogpgcheck http://nodejs.tchol.org/repocfg/fedora/nodejs-stable-release.noarch.rpm --skip-broken
+yum install nodejs
+yum install npm
+cd
+yum install openssl-devel
+cd /usr/local/src
+wget http://nodejs.org/dist/node-v0.4.10.tar.gz
+tar zxvf node-v0.4.10.tar.gz
+cd node-v0.4.10
+./configure
+make
+make install
+rails generate scaffold products name price:decimal --skip-stylesheets
+ruby -v
+rails
+cd servertest
+ls
+cd
+cd servertest
+ls
+rails generate scaffold products name price:decimal --skip-stylesheets
+ls
+cd app
+ls
+cd ..
+ls
+cd config
+ls
+nano routes.rb
+rails s
+cd
+echo "hope" > /etc/hostname
+hostname -F /etc/hostname
+cd etc
+ls
+cd ..
+ls
+cd etc
+nano /default/dhcpcd
+ls
+cd default
+ls
+cd
+echo "HOSTNAME=plato" >> /etc/sysconfig/network
+echo "HOSTNAME=hope" >> /etc/sysconfig/network
+hostname "hope"
+ls
+cd ..
+cd etc/hosts
+cd /etc/hosts
+ls
+cd etc
+ls
+cd hosts
+nano hosts
+cd
+cd servertest
+ls
+cd servertest
+rails s -p 80
+rvm default 1.9.3
+ruby -v
+rails s -p 80
+rake db:migrate
+rails s -p 80
+cd servertest
+ls
+ruby -v
+rvm --default use 1.9.3
+ruby -v
+nano Gemfile
+bundle install
+bundle update
+nano Gemfile
+gem install twitter-bootstrap-rails
+bundle update
+nano Gemfile
+bundle update
+rails s -p 80
+rails g bootstrap:install
+rails g bootstrap:themed products
+rails s -p 80
+ls
+cd servertest
+rails s
+rails s -p 80
+cd servertest
+rails s -p 80
+rails s -p 80 -d
+exit
+cd ~/.ssh
+mkdir .ssh
+cd ~/.ssh
+ls
+ssh-keygen -t rsa -C "joaofgsoares@gmail.com"
+ls
+nano id_rsa.pub
+yum install vim
+bim id_rsa.pub
+vim id_rsa.pub
+ssh -T git@github.com
+git config --global user.name "Joao Soares"
+git config --global user.email "joaofgsoares@gmail.com"
+cd ..
+ls
+cd servertest
+git init
+touch README
+git add README
+git commit -m 'first commit'
+git remote add origin git@github.com:Morthor/serverter.git
+git remote add origin git@github.com:Morthor/servertest.git
+git push -u origin master
+git remote add origin git@github.com:Morthor/servertest.git
+git push -u origin master
+git remote add origin git@github.com:Morthor/servertest.git
+git push -u origin master
+ls
+cd config
+ls
+cd ..
+vim config.ru
+cd ..
+dir
+cd .ssh
+dir
+cd ..
+dir
+ls
+cd servertest
+ls
+cd git
+cd .git
+dir
+vim config
+ep -fs
+fs
+es
+fp
+f
+help
+jobs
+jobs help
+jobs --help
+jobs -l
+fc --help
+cd -ls
+f -ls
+ps -ef
+ps -ef | grep ruby
+kill -9 1
+ps -ef | grep ruby
+kill -9 4318
+ps -ef | grep ruby
+exit
+ls
+cd servertest
+cd .git
+vim config
+git remote add origin git@github.com:Morthor/servertest.git
+git push -u origin master
+cd..
+cd ..
+git push -u origin master
+git commit -m 'test commit'
+git add *
+git add %
+git add app
+git add *.screen
+git add -A
+git commit -m 'test commit'
+git push -u origin master
+git pull -u origin master
+useradd -d /gome/teamspeak teamspeak
+ls
+cd ..
+useradd -d /gome/teamspeak teamspeak
+ls
+useradd -d /home/teamspeak teamspeak
+su teamspeak
+ls
+cd
+ls
+cd servertest
+rails s -p 80 -d
+useradd -d /home/runserver runserver
+surunserver
+su runserver
+cd servertest
+git pull
+cd servertest
+rails g scaffold todo text:text when:date
+rails g bootstrap:themed todo -f
+bundle exec rake db:migrate
+rails g bootstrap:themed todo -f
+git commit
+git add -A
+git commit
+git push
+git reset
+ls
+git commit -a
+git push
+rails g bootstrap:themed todos -f
+ls
+cd app
+ls
+cd controllers
+ls
+cd ..
+cd views
+ls
+rm -rf todo
+ls
+cd ..
+cd models
+ls
+cd ..
+git commit -a
+cd ..
+git add -A
+git commit -a
+git push
+yum install java-1.6*
+wget http://www.minecraft.net/minecraft-server.zip
+wget https://s3.amazonaws.com/MinecraftDownload/launcher/minecraft_server.jar
+java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+exi
+exit
+yum install java
+su minecraft
+exit
+cd
+cd
+cd ..
+ls
+adduser /home/minecraft/ minecraft
+adduser -b /home/minecraft/ minecraft
+useradd -d /home/minecraft minecraft
+su minecraft
+ls
+cd ..
+ls
+cd home
+ls
+rm -rf minecraft
+rm -rf teamspeak
+userremove minecraft
+user --help
+useradd --help
+cd servertest
+git pull
+cd servertest
+rails s -p 80
+cd servertest/
+rails s -d
+rails s -d -p 80
+ls
+mkdir teamspeak
+cd teamspeak
+wget ftp://ftp.freenet.de/pub/4players/teamspeak.org/releases/ts2_server_rc2_20201.tar.bz2 
+tar -xjf ts2_server_rc2_20201.tar.bz2 
+ls
+cd tss2_rc2
+./teamspeak2-server_startscript start 
+./teamspeak2-server_startscript status
+su cfrag
+exit
+useradd cfrag -p mamas
+su cfrag
+quit
+logout
+passwd cfrag
+su cfrag
+logout
+ls
+rm -rf teamspeak
+ls
+adduser teamspeak
+passwd teamspeak
+su teamspeak
+logout
+mkdir teamspeak
+su teamspeak
+logout
+exit
+ls
+cd ..
+ls
+cd home
+ls
+cd teamspeak
+cd ..
+nano ts3info.txt
+ls
+wget http://teamspeak.gameserver.gamed.de/ts3/releases/3.0.2/teamspeak3-server_linux-x86-3.0.2.tar.gz
+tar zxf teamspeak3-server_linux-x86-3.0.2.tar.gz 
+ls
+cd teamspeak3-server_linux-x86
+ls
+./ts3server_linux_x86 createinifile=1
+|CRITICAL|DatabaseQuery |   | unable to load database            plugin library "libts3db_sqlite3.so", halting!
+rm libts3db_sqlite3.so 
+./ts3server_linux_x86 createinifile=1
+yum install sqlite3
+ls
+cd sql
+cd ..
+tar zxf teamspeak3-server_linux-x86-3.0.2.tar.gz 
+cd ..
+tar zxf teamspeak3-server_linux-x86-3.0.2.tar.gz 
+cd teamspeak3-server_linux-x86
+ls
+ts3server_minimal_runscript.sh
+./ts3server_minmal_startscript start
+./ts3server_minimal_startscript start
+./ts3server_minimal_runscript start
+ls
+nano ts3server.ini
+./ts3server_linux_x86 start
+bash ts3server_minimal_runscript.sh 
+./ts3server_linux_x86 start
+cd teamsapek
+ls
+cd ..
+cd home
+cd teamspeak
+ls
+cd teamspeak3-server_linux-x86
+./ts3server_linux_x86 start
+bash ts3server_minimal_runscript.sh 
+ls
+cd ..
+ls
+cd usr
+ls
+cd ..
+ls
+cd home
+ls
+cd teamspeak
+ls
+cd teamspeak3-server_linux-x86
+ls
+cd ts3server_linux_x86 
+ls
+sh ts3server_startscript.sh 
+sh ts3server_startscript.sh start
+sh ts3server_startscript.sh status
+exit
+sh ts3server_startscript.sh status
+cd ..
+ls
+cd home
+ls
+cd teamspeak
+ls
+cd teamspeak3-server_linux-x86
+sh ts3server_startscript.sh status
+exit
+cd ..
+cd home
+cd teamspeak/
+sh ts3server_startscript.sh status
+cd teamspeak3-server_linux-x86
+sh ts3server_startscript.sh status
+exit
+cd ..
+cd home
+cd teamspeak/teamspeak3-server_linux-x86
+ 
+sh ts3server_startscript.sh status
+exit
+cd ..
+cd home/teamspeak/teamspeak3-server_linux-x86
+ls
+cd ..
+ls
+cd ..
+ls
+cd cfrag
+ls
+cd ..
+ls
+ cd ..
+ls
+nano ts3info.txt
+exit
+bash help
+help bash
+yum install noip2
+yum install no-ip
+yum install "Development Tools"
+yum search development
+yum search development tools
+yum install gcc
+yum group install "Development Tools"
+yum groupinstall "Development Tools"
+ls
+mkdir duc
+cd duc
+get https://www.no-ip.com/client/linux/noip-duc-linux.tar.gz
+bash get https://www.no-ip.com/client/linux/noip-duc-linux.tar.gz
+https://www.no-ip.com/client/linux/noip-duc-linux.tar.gz
+wget https://www.no-ip.com/client/linux/noip-duc-linux.tar.gz
+ls
+tar xvzf noip-duc-linux.tar.gz 
+ls
+cd noip-2.1.9-1/
+ls
+./configure
+make
+make install
+ls
+nano README.FIRST
+/usr/local/bin/noip2
+LS
+ls
+noip2
+root
+clear
+yum search zsh
+yum install zsh
+zsh
+help zsh
+zsh help
+zsh
+exit
+c d..
+ls
+cd ..
+cd home/teamspeak/teamspeak3-server_linux-x86
+ls
+grep server
+cd logs
+ls
+nano ts3server_2012-03-14__18_37_35.478375_0.log 
+ls
+cd ..
+ls
+cd doc
+ls
+cd CHANGELOG
+nano CH
+nano CHANGELOG
+ls
+cd ..
+ls
+nano CHANGELOG 
+ls
+cd files
+ls
+cd virtualserver_1/
+ls
+cd channel_1
+ls
+cd ..
+ls
+cd ,,
+cd ..
+ls
+cd ..
+ls
+cd sql
+ls
+cd ..
+ls
+nano ts3server.ini]
+nano ts3server.ini
+ls
+cd ..
+ls
+cd runserver
+ls
+cd ..
+ls
+cd ..
+ls
+cd root
+.s
+ls
+apt-get
+brew
+bash
+zsh
+echo $SHELL
+zsh-newuser-install
+zsh
+exit

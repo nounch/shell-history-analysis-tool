@@ -1,0 +1,201 @@
+: 1351539906:0;cat .zsh
+: 1351539906:0;cat .zsh_history
+: 1351539906:0;cat .zshrc
+: 1351539906:0;dir
+: 1351539906:0;ls -l
+: 1351539906:0;vdir
+: 1351539906:0;l s-al
+: 1351539906:0;alias
+: 1351539906:0;whence
+: 1351539906:0;whence ls
+: 1351539906:0;whence whence
+: 1351539906:0;whence which
+: 1351539906:0;whence cat
+: 1351539906:0;man whence
+: 1351539906:0;whence --help
+: 1351539906:0;whence -aw
+: 1351539906:0;whence -w
+: 1351539906:0;whence -w ls
+: 1351539906:0;whence -a ls
+: 1351539906:0;cd ISO
+: 1351539906:0;dmesg
+: 1351539906:0;cd 2DO/
+: 1351539906:0;mkdir MongoDB
+: 1351539906:0;cd MongoDB
+: 1351539906:0;git clone https://github.com/karlseguin/the-little-mongodb-book
+: 1351539906:0;ls -al
+: 1351539906:0;source ~/.zshrc___
+: 1351539906:0;cups-calibrate
+: 1351539906:0;geany .zsh*
+: 1351539906:0;PON
+: 1351539906:0;pob
+: 1351539906:0;xlinks2
+: 1351539906:0;gg 
+: 1351539906:0;bin/google.sh
+: 1351539906:0;pathchk
+: 1351539906:0;export 
+: 1351539906:0;~/bin/google.sh
+: 1351539906:0;xlinks2 google.com.tr
+: 1351539906:0;google.sh
+: 1351539906:0;export
+: 1351539906:0;cd bin
+: 1351539906:0;_webbrowser
+: 1351539906:0;wnb 08.jpeg
+: 1351539906:0;wnb delete
+: 1351539906:0;chromium-browser -disable-images
+: 1351539906:0;watch ifcon
+: 1351539906:0;wget http://openmymind.net/mongodb.pdf
+: 1351539906:0;ping 8.8.8.8
+: 1351539906:0;ifconfig
+: 1351539906:0;poff
+: 1351539906:0;pon
+: 1351539906:0;watch ifconfig
+: 1351539906:0;strings
+: 1351539906:0;history | awk '{print $2}' | sort | uniq -c | sort -rn | head
+: 1351539906:0;usbhid-dump
+: 1351539906:0;hist
+: 1351539906:0;history
+: 1351539906:0;history --help
+: 1351539906:0;history -h
+: 1351539906:0;man history
+: 1351539906:0;chsh -s $(which zsh)
+: 1351539906:0;echo $SHELL
+: 1351539898:0;sudo su
+: 1351539917:0;prompt adam
+: 1351539919:0;prompt adam1
+: 1351539920:0;prompt adam2
+: 1351539933:0;prompt bart
+: 1351539947:0;prompt bigfade
+: 1351539964:0;prompt clint
+: 1351539979:0;htop
+: 1351539987:0;prompt elite
+: 1351539995:0;prompt fade
+: 1351540001:0;prompt fire
+: 1351540020:0;prompt oliver i
+: 1351540021:0;prompt oliver 
+: 1351540038:0;prompt pws
+: 1351540044:0;date
+: 1351540051:0;prompt redhat
+: 1351540059:0;cd Belgeler
+: 1351540067:0;cd phpinfo
+: 1351540080:0;prompt suse
+: 1351540135:0;nhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+: 1351540161:0;prompt zefram
+: 1351540164:0;prompt off
+: 1351540170:0;claerr
+: 1351540269:0;promptinit
+: 1351540323:0;compinit
+: 1351540329:0;man compinit
+: 1351540332:0;zsh compinit
+: 1351540336:0;compinit 
+: 1351540339:0;compinit --help
+: 1351540342:0;compinit -h
+: 1351540540:0;ls comp-bin q
+: 1351540581:0;zstyle ':completion:*' menu select
+: 1351540660:0;ll out4.jpeg
+: 1351540751:0;ls Denizin-Pasta-Tasarimi-2012-2.jpg
+: 1351540832:0;bindkey "^[[A" history-beginning-search-backward
+: 1351540832:0;bindkey "^[[B" history-beginning-search-forward
+: 1351540864:0;help
+: 1351540921:0;prompt -l
+: 1351541099:0;prompt walters
+: 1351541186:0;;2~RPROMPT="[%{$fg[yellow]%}%?%{$reset_color%}]"
+: 1351541190:0;RPROMPT="[%{$fg[yellow]%}%?%{$reset_color%}]"
+: 1351541198:0;lasd
+: 1351541201:0;asdfasdf
+: 1351541202:0;lsadf
+: 1351541202:0;lasdfa
+: 1351541205:0;cd 
+: 1351541207:0;cd Belgeler/q
+: 1351541210:0;cd Belgeler/
+: 1351541214:0;cd www
+: 1351541234:0;prompt 
+: 1351541241:0;prompt -p walters
+: 1351541261:0;prompt -c
+: 1351541278:0;prompt_walters_help
+: 1351541308:0;prompt_walters_setup --HELP
+: 1351541311:0;prompt_walters_setup --help
+: 1351541316:0;prompt_walters_setup
+: 1351541320:0;prompt_walters_setup blue
+: 1351541330:0;prompt walters blue
+: 1351541404:0;autoload -U colors && colors
+: 1351541417:0;PROMPT="%{$fg[red]%}%n%{$reset_color%}@%{$fg[blue]%}%m %{$fg[yellow]%}%1~ %{$reset_color%}%#"
+: 1351541954:0;mkdir 0
+: 1351541955:0;cd 0
+: 1351541957:0;wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
+: 1351541964:0;wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O -
+: 1351541973:0;wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O
+: 1351541976:0;wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh
+: 1351541995:0;geany install.sh
+: 1351542047:0;hash
+: 1351542051:0;man hash
+: 1351542066:0;hash git
+: 1351542076:0;hash ls
+: 1351542084:0;zmore
+: 1351542111:0;/usr/bin/env
+: 1351542114:0;/usr/bin/env git
+: 1351542119:0;/usr/bin/env ls
+: 1351542123:0;man /usr/bin/env 
+: 1351542161:0;asda || {echo erorr}
+: 1351542268:0;cd src
+: 1351542269:0;cd git
+: 1351542290:0;git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
+: 1351542434:0;git clone git://github.com/robbyrussell/oh-my-zsh.git
+: 1351542448:0;cat .oh-my-zsh
+: 1351542452:0;cd .oh-my-zsh
+: 1351542455:0;cd ..
+: 1351542460:0;rm -rf .oh-my-zsh
+: 1351542598:0;knotify4
+: 1351542615:0;cd oh-my-zsh
+: 1351542627:0;cat oh-my-zsh.sh
+: 1351542643:0;d themes
+: 1351542646:0;cd themes
+: 1351542653:0;cat af-magic.zsh-theme
+: 1351542683:0;source 3den.zsh-theme
+: 1351542713:0;asd
+: 1351542753:0;pkill chromium-browse\ \<defunct\>
+: 1351542762:0;pkill -9 chromium-browse\ \<defunct\>
+: 1351542766:0;sudo pkill -9 chromium-browse\ \<defunct\>
+: 1351542772:0;pgrep chromium-browsem
+: 1351542777:0;pgrep chromium-browse\ \<defunct\>
+: 1351542781:0;pgrep chromium-browse
+: 1351542793:0;sudo pkill chromium-browse
+: 1351543633:0;cldeaer
+: 1351543637:0;ls
+: 1351543664:0;q
+: 1351543674:0;view 09.jpeg
+: 1351543681:0;see 10.jpeg
+: 1351543689:0;see 10.jpeg --debug=1
+: 1351543748:0;test -n "$DISPLAY"
+: 1351543751:0;test "$DISPLAY"
+: 1351543753:0;test
+: 1351543755:0;man test
+: 1351543775:0;echo $DISPLAY
+: 1351543779:0;starxt
+: 1351543780:0;starx
+: 1351543785:0;startx
+: 1351543808:0;mc
+: 1351543820:0;rm .zshrc___
+: 1351543828:0;mkdir J
+: 1351543850:0;mv *.jpg J
+: 1351543851:0;mv *.jpeg J
+: 1351543870:0;cd IMG
+: 1351543876:0;cd Belgeler/www
+: 1351543878:0;pwd
+: 1351543879:0;cd
+: 1351543978:0;path
+: 1351544002:0;clear
+: 1351544003:0;ll
+: 1351544025:0;path+=/home/u/bin
+: 1351544044:0;geany ~/.zshrc
+: 1351544069:0;echo $path
+: 1351544079:0;l
+: 1351544099:0;rename-all-files-to-file-date.sh
+: 1351544420:0;fdupes -r .
+: 1351544436:0;fdupes -rNd .
+: 1351544544:0;man test
+: 1351544547:0;ll
+: 1351544561:0;cat .zcompdump
+: 1351544568:0;l
+: 1351544570:0;ll
+: 1351544591:0;cp .zsh_history{,_BACKUP}

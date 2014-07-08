@@ -1,0 +1,497 @@
+sudo add-apt-repository "deb http://archive.canonical.com/ lucid partner"
+sudo apt-get update
+sudo apt-get install sun-java6-jdk
+user@ubuntu:~# java -version
+~# java -version
+java -version
+sudo addgroup hadoop
+adduser --ingroup hadoop hduser
+sudo adduser --ingroup hadoop hduser
+su - hduser
+sudo apt-get install openssh-client
+sudo apt-get install openssh-server
+man sshd_config
+sd hduser
+sd - hduser
+su - hduser
+sd - hduser
+su - hduser
+sudo addgroup hadoop
+su - hduser
+cat /proc/sys/net/ivp6/conf/all/disable_ipv6
+su - hduser
+cat $HOME/.ssh/id_rsa.pub >> $HOME/.ssh/authorized_keys
+chmod 600 .ssh/authorized_keys
+ssh-copy-id michael@michael
+sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.original
+sudo chmod a-w /etc/ssh/sshd_config.original
+sudo etc/init.d/ssh restart
+sudo /etc/init.d/ssh restart
+ssh-keygen -t dsa
+ssh-copy-id username@remotehost
+ssh-copy-id michael@remotehost
+cat $HOME/.ssh/id_rsa.pub >> $HOME/.ssh/authorized_keys
+su -
+su
+su&#58
+chmod -w /etc/sysctl.conf
+su - hduser
+cd /usr/local
+tar xzf hadoop-0.21.0tar.gz
+cd
+cd /downloads/
+cd /Downloads/
+cd /michael/
+cd /home
+cd /michael/
+cd /michael
+cd /downloads
+cd hduser
+cd home
+cd
+cd /home/michael
+cd /home
+cd michael
+cd downloads
+cd home
+cd /home
+cd /michael/
+cd downloads
+su - hduser
+cd usr
+cd etc
+su - hduser
+cd etc
+cd /etc/
+open sysct1.conf
+pico sysct1.conf
+chmod -w sysct1.conf
+chmod -w sysct1
+chmod -w syscl.conf
+chmod -w syscl
+chmod -w sysctl
+chmod -w sysctl.conf
+sudo chmod -w sysctl.conf
+sudo chmod -s sysctl.conf
+sudo chmod -7 sysctl.conf
+sudo chmod 7 sysctl.conf
+cd
+su - hduser
+cat /proc/sys/net/ipv6/conf/all/disable_ipv6
+su - hduser
+sudo tar -ztvf hadoop-0.20.2.tar.gz
+sudo chmod 7 usr/local/
+cd /usr/local/
+cd
+sudo chmod 7 /usr/local/
+cd /usr/local
+sudo mv hadoop-0.20.2 hadoop
+sudo chown -R hduser:hadoop hadoop
+cd 
+export HADOOP_HOME=/usr/local/hadoop
+export JAVA_HOME=/usr/lib/jvm/java-6-sun
+export JAVA_HOME=/usr/lib/jvm/java-6-su
+export JAVA_HOME=/usr/lib/jvm/java-6-sun
+unalias fs &> /dev/null
+alias fs="hadoop fs"
+unalias hls &> /dev/null
+alias hls="fs -ls"
+cd /$HOME/
+cd
+su - hduser
+cd /usr
+cd /local
+cd /local/
+cd local
+cd hadoop
+cd conf
+chmod 7 hadoop-env.sh
+sudo chmod 7 hadoop-env.sh
+sudo shutdown -h 20:40
+shutdown
+shutdown 20:40
+su shutdown 20:40
+shutdown --help
+shutdown -h 20:40
+su - hduser
+sudo mkdir -p /app/hadoop/tmp
+sudo chown hduser:hadoop /app/hadoop/tmp
+sudo chmod 750 /app/hadoop/tmp
+cd app
+cd home
+cd system
+help
+dir
+cd
+cd/
+dir
+cd bin
+dir
+back
+cd /home
+cd /app
+dir
+cd /hadoop
+cd hadoo
+cd hadoop
+chmod 7 'tmp'
+sudo chmod 7 'tmp'
+cd tmp
+dir
+sudo chmod 750 tmp
+chmod 750 'tmp'
+chmod 1 'tmp'
+chmod 1
+cd /home
+cd
+cd conf
+cd home
+cd /home
+cd /conf
+cd conf
+cd
+cd /conf
+cd 'conf'
+cd conf
+cd /usr
+cd local
+cd hadoop
+chmod 7 conf
+sudo chmod 7 conf
+cd conf
+chmod 7 core-site.xml
+sudo chmod 7 core-site.xml
+sudo chmod 7 hdfs-site.xml
+sudo chmod 7 mapred-site.xml
+su - hduser
+/usr/local/hadoop/bin/hadoop namenode -format
+/usr/local/hadoop/bin/start-all.sh
+1s -1 /tmp/gutenberg/
+HADOOP_HOME/bin/start-all.sh
+cd /bin
+start-all.sh
+cd
+cd /usr
+cd local
+cd hadoop
+cd bin
+start-all.sh
+start-all
+cd
+cd /urs
+cd /usr
+cd local
+sudo chmod 7 hadoop
+sudo chmod 7 bin
+cd hadoop
+sudo chmod 7 bim
+sudo chmod 7 bin
+cd bin
+chmod 7 all
+chmod 7 start-all.sh
+sudo chmod 7 start-all.sh
+hadoop fs -mkdir testdata
+cd hadoop
+cd /hadoop
+cd /
+usr/local/hadoop/bin/hadoop fs -mkdir testdata
+usr/local/hadoop/bin/hadoop fs -put <PATH to synthetic_control.data> testdata
+usr/local/hadoop/bin/hadoop fs -put usr/local/hadoop/bin/testdata testdata
+cd usr/local/hadoop
+mvn clean install
+sudo apt-get install maven2
+ruby -v
+sudo apt-get install ruby
+sudo chmod 7 /app
+rvm info
+ls -a
+bash < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
+sudo apt-get install curl
+bash < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
+git
+sudo apt-get install git
+bash < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
+ls -a
+vi .bashrc
+rvm info
+rvm install 1.9.2
+vi .bahrc
+vi .bashrc
+vim
+sudo apt-get install vim
+vim .bashrc
+cd Downloads/
+rvm use 1.9.2
+ruby -v
+rvm use system
+ruby -v
+cd
+ls
+cd workspace
+ls
+cd ..
+cd
+ls
+cd RubymineProjects/
+ls
+cd Tictactoe
+ls
+rvm use 1.9.2
+vi .rvmrc
+rvm use system
+cd ..
+cd Tictactoe/
+cd ..
+cd Tictactoe/
+rvm gemset create Tictactoe
+rvm gemset use Tictactoe
+vi .rvmrc 
+cd ..
+cd Tictactoe/
+ls
+ruby run.rb 
+gem install rubydebug19
+sudo apt-get install build-essential zlib1g-dev libssl-dev libreadline5-dev
+cd ..
+rvm uninstall 1.9.2
+rvm install 1.9.2
+cd Tictactoe/
+gem install rubydebug19
+apt-get install zlib
+sudo apt-get install zlib
+sudo apt-get search zlib
+sudo apt-get install zlib1g-dev
+rvm package install zlib
+rvm pkg install zlib
+rvm environment
+rvm notes
+rvm requirements
+sudo /usr/bin/apt-get install build-essential openssl libreadline6 libreadline6-dev curl git-core zlib1g zlib1g-dev libssl-dev libyaml-dev libsqlite3-0 libsqlite3-dev sqlite3 libxml2-dev libxslt-dev autoconf libc6-dev ncurses-dev automake libtool bison 
+cd ..
+rvm uninstall 1.9.2
+rvm install 1.9.2
+cd Tictactoe/
+gem install ruby-debug19
+whereis zlib
+locate
+locate zlib
+cd ..
+rvm uninstall 1.9.2
+rvm install 1.9.2 --with-zlib-dir=~/.rvm/usr
+cd Tictactoe
+gem install ruby-debug19
+gem list
+ls -ld /usr/local
+sudo chmod 755 /usr/local
+ls -ld /usr/local
+gem list
+ls -ld /usr/local/bin
+sudo chmod 755 /usr/local/bin
+gem list
+cd /usr
+cd local
+cd hadoop
+cd bin
+start-all.sh
+./start-all.sh
+cd /usr/local/hadoop
+mvn install
+./examples/bin/build-20news-bayes.sh
+cd /usr
+cd local
+cd hadoop
+cd bin
+./start-all.sh
+irb
+cd /usr
+cd local
+cd hadoop/bin
+./start-all.sh
+ps
+-ef
+ps -ef
+cd /usr/local/
+ls
+cd ma
+cd mahout-distribution-0.5/
+mvn install
+./examples/bin/build-20news-bayes.sh
+whereis java
+env
+export JAVA_HOME = /usr/bin/java
+export JAVA_HOME=/usr/bin/java
+./examples/bin/build-20news-bayes.sh
+ls -l /usr/bin/java
+locate
+locate java
+locate tools.jar
+ls usr/lib/jvm/java-6-sun-1.6.0.26
+ls /usr/lib/jvm/java-6-sun-1.6.0.26
+JAVA_HOME=/usr/lib/jvm/java-6-sun-1.6.0.26
+java -version
+JAVA_HOME=/usr/lib/jvm/java-6-openjdk
+./examples/bin/build-20news-bayes.sh
+cd examples
+cd bin
+ls
+pico build-20news-bayes.sh 
+ls
+./mahout org.apache.mahout.classifier.bayes.PrepareTwentyNewsgroups
+./mahout org.apache.mahout.classifier.bayes.PrepareTwentyNewsgroups -h
+./mahout -h
+./mahout prepare20newsgroups
+./mahout canopy
+mahout org.apache.mahout.classifier.bayes.PrepareTwentyNewsgroups   -p examples/bin/work/20news-bydate/20news-bydate-test   -o examples/bin/work/20news-bydate/bayes-test-input   -a org.apache.mahout.vectorizer.DefaultAnalyzer mahout  -c UTF-8
+./mahout org.apache.mahout.classifier.bayes.PrepareTwentyNewsgroups   -p examples/bin/work/20news-bydate/20news-bydate-test   -o examples/bin/work/20news-bydate/bayes-test-input   -a org.apache.mahout.vectorizer.DefaultAnalyzer   -c UTF-8
+ls ../examples/bin/./mahout org.apache.mahout.classifier.bayes.PrepareTwentyNewsgroups   -p ../examples/bin/work/20news-bydate/20news-bydate-test   -o ../examples/bin/work/20news-bydate/bayes-test-input   -a org.apache.mahout.vectorizer.DefaultAnalyzer   -c UTF-8
+./mahout org.apache.mahout.classifier.bayes.PrepareTwentyNewsgroups   -p ../examples/bin/work/20news-bydate/20news-bydate-test   -o ../examples/bin/work/20news-bydate/bayes-test-input   -a org.apache.mahout.vectorizer.DefaultAnalyzer   -c UTF-8
+./mahout
+./mahout prepare20newsgroups
+./mahout org.apache.mahout.classifier.bayes.PrepareTwentyNewsgroups   -p ../examples/bin/work/20news-bydate/20news-bydate-test   -o ../examples/bin/work/20news-bydate/bayes-test-input   -a org.apache.mahout.vectorizer.DefaultAnalyzer   -c UTF-8
+cd ~
+whereis mahour
+whereis mahout
+ls
+pwd
+cd /usr/local/mahout-distribution-0.5/
+ls
+ls bin
+bin/mahout --help
+locate java
+locate java.tools
+locate java-tools
+locate tools.jar
+export JAVA_HOME=/usr/lib/jvm/java-6-openjdk/
+bin/mahout --help
+bin/mahout -h
+man mahour
+man mahout
+ls
+cd examples/
+ls
+cd bin/
+ls
+vi build-cluster-syntheticcontrol.sh 
+vi build-20news-bayes.sh 
+ls
+cd bin
+mahout org.apache.mahout.classifier.bayes.PrepareTwentyNewsgroups
+ls
+./mahout org.apache.mahout.classifier.bayes.PrepareTwentyNewsgroups
+locate java-tools
+locate tools.jar
+env
+vi /home/michael/.bashrc 
+ls
+cd ..
+ls
+pwd
+cd examples/bin/work/20news-bydate/
+ls
+cd bayes-train-input/
+ls
+vi rec.motorcycles.txt 
+vi alt.atheism.txt 
+cd..
+ls
+cd ..
+ls
+cd 20news-bydate-train/
+ls
+cd rec.motorcycles/
+ls
+vi 101725 
+cd ..
+ls
+vi alt.atheism/
+vi alt.atheism/53219
+cd ..
+ls
+mv bayes-test-input/ temp
+ls
+vi bayes-test-input/sci.med.txt 
+ls
+cd ..
+ls
+c d..
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd bin
+ls
+./mahout 
+./mahout trainclassifier
+cd
+ruby -v
+rvm list
+rvm use 1.9.2
+rvm -v
+which gem
+sudo gem install rails --version 3.0.1
+gem install rails --version 3.0.1
+rails -v
+mkdir rails_projects
+cd rails_projects
+rails new first_app
+cd first_app/
+mate Gemfile
+vi Gemfile
+rvm -use 1.9.2
+rvm
+rvm --help
+-use 1.9.2
+rvm -v
+ruby -use 1.9.2
+whereis first_app
+whereis ruby
+cd /usr/bin
+ls
+cd ruby
+cd local
+whereis ruby
+cd ruby
+cd
+whereis first_app
+cd first_app
+whereis first app
+whereis firstapp
+cd
+ruby -v
+ruby -rvm
+rvm use 1.9.2
+ls
+cd rails_projects
+ls
+cd first_app
+open Gemfile
+pico Gemfile
+sudo apt-get install libxslt-dev libxm12-dev libsqlite3-dev
+bundle install
+rails server
+git
+git config --global user.name "Michael Iorga"
+git config --global user.email michael.iorga@stanford.edu
+git config --global alias.co checkout
+git config --global core.editor
+git config --global core.editor "mate -w"
+git config --global core.editor "gvim -f"
+cit init
+git init
+git add .
+status
+git status
+git commit -m "Initial commit"
+git log
+q
+git q
+git exit
+git remote add origin git@github.com:<michael.iorga>/first_app.git
+git remote add origin git@github.com:<michael>/first_app.git
+git remote add origin git@github.com<michael@michael-HP-Pavilion-dv7-Notebook-PC>/first_app.git
+git init
+git remote add origin git@github.com: michael/first_app.git
+git push origin master
+man git-pull

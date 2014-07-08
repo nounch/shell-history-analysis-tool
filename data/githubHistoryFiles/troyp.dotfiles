@@ -1,0 +1,59 @@
+locate sources.list
+sudo nano /etc/apt/sources.list
+ls sources.list.d/
+ls /etc/apt
+ls /etc/apt/sources.list.d/
+sudo nano /etc/apt/sources.list
+gi
+uname -r
+git clone git:github.com/troyp/dotfiles.git
+git clone git@github.com:troyp/dotfiles.git
+ls .ssh
+man ssh
+cd .ssh
+ssh-keygen -t rsa -C "troyp@gmail.com"
+cat id_rsa.pub 
+ls
+rm id*
+ssh-keygen -t rsa -C "troyp7@gmail.com"
+cat id_rsa.pub 
+git clone git@github.com:troyp/dotfiles.git
+ls
+cp dotfiles ~
+cd
+cat /etc/bash.bashrc 
+man ls
+lsmod |grep -i wacom
+sudo apt-get install git
+git clone git@github.com/troyp/dotfiles
+cd .ssh
+mkdir .ssh
+cd .ssh
+ssh-keygen -t rsa -C "troyp7@gmail.com"
+cat id_rsa.pub 
+git clone git@github.com:troyp/dotfiles
+mv dotfiles/ ~
+cd ..
+diff .fonts.conf 
+diff .fonts.conf dotfiles/.fonts.conf 
+sudo apt-get install colordiff
+colordiff .fonts.conf dotfiles/.fonts.conf 
+nano .bashrc
+colordiff .fonts.conf dotfiles/.fonts.conf 
+nano .bashrc
+cd dotfiles
+git add .
+cp ../.fonts.conf .
+rm .xsession-errors 
+git rm .xsession-errors
+git status
+git commit -a -m ""
+git commit -a -m "update"
+git push -u origin master
+man dpkg
+cd..
+dpkg --set-selections add-inst-pkgs-netrunner 
+dpkg --set-selections < add-inst-pkgs-netrunner 
+sudo dpkg --set-selections < add-inst-pkgs-netrunner 
+apt-get dselect-upgrade
+sudo apt-get dselect-upgrade

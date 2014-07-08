@@ -1,0 +1,73 @@
+mysql
+mysql -hdb418911579.db.1and1.com -udbo418911579 -pyD3_k-k_Xp7zFJS
+ls
+pw
+pwd
+cd MYMD/
+ls
+cd ..
+ls
+cd modules/
+ls
+cd ..
+ls
+more INSTALL.txt 
+ls
+cd themes/
+ls
+more README.txt 
+ls
+cd ..
+ls
+cd sites/
+ls
+cd default/
+ls
+more settings.php 
+ls
+cd ..
+ls
+cd ..
+ls
+who
+w
+what
+who
+id
+ls -la
+who
+id
+exit
+ls
+pwd
+ls /tmp
+ls
+pwd
+cd /tmp
+man zip
+zip -r mymarylandnet.zip /kunden/homepages/8/d353388214/htdocs
+quit
+exit
+ls
+find -name "*config*"
+find -name "*setting*"
+cd sites/default
+more settings.php 
+mysqldump --help
+mysqldump -H db374877010.db.1and1.com -d db374877010 -u dbo374877010 -p 2UwaXuhE > jmysqldump.sql
+mysqldump -H db374877010.db.1and1.com -d db374877010 -u dbo374877010 -p 2UwaXuhE > /tmp/jmysqldump.sql
+mysqldump -h db374877010.db.1and1.com -d db374877010 -u dbo374877010 -p 2UwaXuhE > /tmp/jmysqldump.sql
+mysqldump -h db374877010.db.1and1.com -d db374877010 -u dbo374877010 -p2UwaXuhE > /tmp/jmysqldump.sql
+more /tmp/jmysqldump.sql 
+more /tmp/mymarylandnet_dump.sql 
+quit
+exit
+more /tmp/mymarylandnet_dump.sql 
+mysqldump  -hdb374877010.db.1and1.com -ddb374877010 -udbo374877010 -p2UwaXuhE  --no-create-db --no-create-info > /tmp/jmysqldump.sql
+mysqldump --help
+mysqldump -help
+mysqldump db374877010 -hdb374877010.db.1and1.com -udbo374877010 -p2UwaXuhE  --no-create-db --no-create-info > /tmp/jmysqldump.sql
+vi /tmp/jmysqldump.sql 
+mysqldump db374877010 -hdb374877010.db.1and1.com -udbo374877010 -p2UwaXuhE > /tmp/jmysqldump.sql
+vi /tmp/jmysqldump.sql 
+exit

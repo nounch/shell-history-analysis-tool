@@ -1,0 +1,419 @@
+vim
+vim .vimrc
+ls -a
+vim .CFUserTextEncoding 
+ls -a
+sudo vim /etc/passwd 
+curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
+curl -O https://raw.github.com/joshfng/railsready/master/railsready.sh && bash railsready.sh
+curl -O https://raw.github.com/joshfng/railsready/master/railsready.sh && bash railsready.sh
+rails
+gem
+gem install rails
+rvm
+rvm
+cd .rvm/
+ls
+cd ..
+cd bi
+cd .rvm/bin/
+ls
+rvm
+./rvm
+cd ~
+brew
+git
+ls
+ls -a
+cd .bashrc
+vim .bashrc
+vim .bash_profile 
+rvm
+rails
+rvm
+rvm use
+rvm use latest
+rvm usage
+rvm use 1.9.3
+rvm install ruby
+rvm install ruby-1.9.3-p194
+rvm
+rails
+rvm
+rvm use
+rvm use latest
+rvm usage
+rvm use 1.9.3
+rvm install ruby
+rvm install ruby-1.9.3-p194
+echo $log_file
+echo $LOGNAME 
+rvm
+rails
+rvm
+rvm use
+rvm use latest
+rvm usage
+rvm use 1.9.3
+rvm install ruby
+rvm install ruby-1.9.3-p194
+rvm requirements
+brew install libksba
+brew install libksba
+echo $SHELL
+rvm requirements
+gcc
+g++brew update
+brew update
+brew tap homebrew/dupes
+brew install autoconf automake apple-gcc42
+rvm pkg install openssl
+rvm reinstall all --force
+rvm requirements
+which gcc
+rvm install 1.9.3
+rvm system ; rvm gemset export system.gems ; rvm 1.9.3 ; rvm gemset import system.gems
+rvm create alias default 1.9.3
+rvm alias create default 1.9.3
+ruby
+which ruby
+which gem
+gem install rails
+rvm install passenger
+gem install passenger
+gem spec nokogiri
+gem install nokogiri
+brew install libiconv
+brew link libiconv
+em install nokogiri -- --with-iconv-dir=/usr/local/Cellar/libiconv/1.13.1
+gem install nokogiri -- --with-iconv-dir=/usr/local/Cellar/libiconv/1.13.1
+brew install libxml2
+brew install libxslt
+gem install nokogiri -- --with-iconv-dir=/usr/local/Cellar/libiconv/1.13.1
+libxml2
+brew link libxml2 libxslt
+gem install nokogiri -- --with-xml2-include=/usr/local/Cellar/libxml2/2.7.8/include/libxml2 
+                        --with-xml2-lib=/usr/local/Cellar/libxml2/2.7.8/lib 
+                        --with-xslt-dir=/usr/local/Cellar/libxslt/1.1.26 
+                        --with-iconv-include=/usr/local/Cellar/libiconv/1.13.1/include 
+vim
+gem install nokogiri -- --with-xml2-include=/usr/local/Cellar/libxml2/2.7.8/incl
+ude/libxml2 --with-xml2-lib=/usr/local/Cellar/libxml2/2.7.8/lib --with-xslt-dir=
+/usr/local/Cellar/libxslt/1.1.26 --with-iconv-include=/usr/local/Cellar/libiconv
+/1.13.1/include --with-iconv-lib=/usr/local/Cellar/libiconv/1.13.1/lib
+vim 
+gem install nokogiri -- --with-xml2-include=/usr/local/Cellar/libxml2/2.7.8/
+    incl ude/libxml2 --with-xml2-lib=/usr/local/Cellar/libxml2/2.7.8/lib --with-
+    xslt-dir= /usr/local/Cellar/libxslt/1.1.26 --with-iconv-include=/usr/local/C
+    ellar/libiconv /1.13.1/include --with-iconv-lib=/usr/local/Cellar/libiconv/1
+    .13.1/lib
+vim
+gem install nokogiri -- --with-xml2-include=/usr/local/Cellar/libxml2/2.7.8/incl
+ude/libxml2 --with-xml2-lib=/usr/local/Cellar/libxml2/2.7.8/lib --with-xslt-dir=
+/usr/local/Cellar/libxslt/1.1.26 --with-iconv-include=/usr/local/Cellar/libiconv
+bash ./noko 
+brew version
+brew --version
+wget http://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.13.1.tar.gz
+brew install wget
+wget http://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.13.1.tar.gz
+tar xvfz libiconv-1.13.1.tar.gz 
+cd libiconv-1.13.1
+./configure --prefix=/usr/local/Cellar/libiconv/1.13.1
+make
+make install
+cd ..
+ls
+rm libiconv-1.13.1*
+rm libiconv-1.13.1* -r
+rm -r libiconv-1.13.1* 
+ls
+rm railsready.sh
+rm noko
+rm system.gems 
+rm railsready/
+rm -r railsready/
+ls
+gem install nokogiri
+gem install nokogiri -- --with-xml2-include=/usr/local/Cellar/libxml2/2.7.8/include/libxml2 
+                        --with-xml2-lib=/usr/local/Cellar/libxml2/2.7.8/lib 
+                        --with-xslt-dir=/usr/local/Cellar/libxslt/1.1.26 
+                        --with-iconv-include=/usr/local/Cellar/libiconv/1.13.1/include 
+                        --with-iconv-lib=/usr/local/Cellar/libiconv/1.13.1/lib
+gem install nokogiri -- --with-xml2-include=/usr/local/Cellar/libxml2/2.7.8/include/libxml2 --with-xml2-lib=/usr/local/Cellar/libxml2/2.7.8/lib --with-xslt-dir=/usr/local/Cellar/libxslt/1.1.26 --with-iconv-include=/usr/local/Cellar/libiconv/1.13.1/include --with-iconv-lib=/usr/local/Cellar/libiconv/1.13.1/lib
+vim .rvm/gems/ruby-1.9.3-p194/gems/nokogiri-1.5.5/ext/nokogiri/gem_make.out 
+vim vim .rvm/gems/ruby-1.9.3-p194/gems/nokogiri-1.5.5/ext/nokogiri/mkmf.log 
+vim .rvm/gems/ruby-1.9.3-p194/gems/nokogiri-1.5.5/ext/nokogiri/mkmf.log 
+gem install nokogiri -- --with-xml2-include=/usr/local/Cellar/libxml2/2.7.8/include/libxml2 --with-xml2-lib=/usr/local/Cellar/libxml2/2.7.8/lib --with-xslt-dir=/usr/local/Cellar/libxslt/1.1.26 --with-iconv-include=/usr/local/Cellar/libiconv/1.13.1/include --with-iconv-lib=/usr/local/Cellar/libiconv/1.13.1/lib
+gem install nokogiri -- --with-xml2-include=/usr/local/Cellar/libxml2/2.7.8/include/libxml2 --with-xml2-lib=/usr/local/Cellar/libxml2/2.7.8/lib --with-xslt-dir=/usr/local/Cellar/libxslt/1.1.26 --with-iconv-include=/usr/local/Cellar/libiconv/1.13.1/include --with-iconv-lib=/usr/local/Cellar/libiconv/1.13.1/lib
+gem uninstall nokogiri
+gem install nokogiri -- --with-xml2-include=/usr/local/Cellar/libxml2/2.7.8/include/libxml2 --with-xml2-lib=/usr/local/Cellar/libxml2/2.7.8/lib --with-xslt-dir=/usr/local/Cellar/libxslt/1.1.26 --with-iconv-include=/usr/local/Cellar/libiconv/1.13.1/include --with-iconv-lib=/usr/local/Cellar/libiconv/1.13.1/lib
+brew link libicon
+brew link libiconv
+brew usage
+brew
+brew uninstall libiconv
+brew uninstall libiconv
+brew uninstall libiconv
+brew install libiconv
+brew link libiconv
+gem install nokogiri -- --with-iconv-dir=/usr/local/Cellar/libiconv/1.14
+gem install nokogiri -- --with-iconv-dir=/usr/local/Cellar/libiconv/1.14
+gem install nokogiri -- --without-xml2-include=/usr/local/Cellar/libxml2/2.8.0/include/libxml2 --without-xml2-lib=/usr/local/Cellar/libxml2/2.8.0/lib --without-xslt-dir=/usr/local/Cellar/libxslt/1.1.26 --without-iconv-include=/usr/local/Cellar/libiconv/1.14/include --without-iconv-lib=/usr/local/Cellar/libiconv/1.14/lib
+gem install nokogiri -- --with-xml2-include=/usr/local/Cellar/libxml2/2.8.0/include/libxml2 --with-xml2-lib=/usr/local/Cellar/libxml2/2.8.0/lib --with-xslt-dir=/usr/local/Cellar/libxslt/1.1.26 --with-iconv-include=/usr/local/Cellar/libiconv/1.14/include --with-iconv-lib=/usr/local/Cellar/libiconv/1.14/lib
+gem install nokogiri --with-xml2-include=/usr/local/Cellar/libxml2/2.8.0/include/libxml2 --with-xml2-lib=/usr/local/Cellar/libxml2/2.8.0/lib --with-xslt-dir=/usr/local/Cellar/libxslt/1.1.26 --with-iconv-include=/usr/local/Cellar/libiconv/1.14/include --with-iconv-lib=/usr/local/Cellar/libiconv/1.14/lib
+gem install nokogiri -- --with-xml2-include=/usr/local/Cellar/libxml2/2.8.0/include/libxml2 --with-xml2-lib=/usr/local/Cellar/libxml2/2.8.0/lib --with-xslt-dir=/usr/local/Cellar/libxslt/1.1.26 --with-iconv-include=/usr/local/Cellar/libiconv/1.14/include --with-iconv-lib=/usr/local/Cellar/libiconv/1.14/lib
+which ruby
+gem install nokogiri -- --with-xslt-lib=/usr/local/Cellar/libxslt/1.1.26/lib --with-xslt-include=/usr/local/Cellar/libxslt/1.1.26/include/libxslt --with-iconv-dir=/usr/local/Cellar/libiconv/1.14 --with-xml2-dir=/usr/local/Cellar/libxml2/2.8.0
+gem install nokogiri -- --with-xslt-lib=/usr/local/Cellar/libxslt/1.1.26/lib --with-xslt-include=/usr/local/Cellar/libxslt/1.1.26/include/libxslt --with-iconv-dir=/usr/local/Cellar/libiconv/1.14 --with-xml2-dir=/usr/local/Cellar/libxml2/2.8.0
+gem install rmagick
+cd /
+ls
+cd Users/
+ls
+cd jack/
+ls
+which xcode
+xcode
+rm -rf $rvm_path/usr
+rvm requirements
+rvm reinstall 1.9.3
+brew install libksba
+rvm reinstall 1.9.3
+gem install nokogiri
+rvm pkg
+rvm pkg install iconv openssl zlib autoconf libxml2 libxslt
+rvm reinstall all --force
+rvm pkg install zlib
+rvm pkg install openssl
+rvm pkg install libxml2
+rvm pkg install libxml2 --verify-downloads 1
+rvm pkg
+rvm pkg install libxslt --verify-downloads 1
+rvm reinstall all --force
+cd /usr/local/Cellar/
+ls
+cd libxml2/
+ls
+cd ..
+cd libxslt/
+ls
+cd ../libiconv/
+ls
+gem install nokogiri -- --with-xml2-include=/usr/local/Cellar/libxml2/2.8.0/include/libxml2 --with-xml2-lib=/usr/local/Cellar/libxml2/2.8.0/lib --with-xslt-dir=/usr/local/Cellar/libxslt/1.1.26 --with-iconv-include=/usr/local/Cellar/libiconv/1.14/include --with-iconv-lib=/usr/local/Cellar/libiconv/1.14/lib
+cd ..
+ls
+cd libxml2/
+ls
+cd 2.8.0/
+ls
+cd include/
+ls
+cd ..
+pwd
+ls
+cd lib/i
+cd lib/
+ls
+cd ../include/
+ls
+vim libxml2/
+ls
+cd libxml2/
+ls
+cd libxml/
+ls
+cd ../../..
+ls
+cd include/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+cd libxslt/
+ls
+cd cd ../..
+cd ..
+ls
+cd libiconv/1.14/
+ls
+cd include/
+ls
+cd ..
+cd lib/
+ls
+cd ..
+cd ..
+cd ..
+cd libxslt/
+l
+ls
+cd 1.1.26/
+ls
+cd include/
+ls
+cd libxslt/
+ls
+cd ..
+cd libexslt/
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+gem install nokogiri
+rvm pkg
+gem install nokogiri -- --with-opt-dir=/Users/jack/.rvm/usr 
+rails
+gem install rails
+gcc
+which gcc
+gcc
+g++
+/usr/bin/gcc
+CC=/usr/bin/gcc-4.2 rvm reinstall all
+gem install rails
+/usr/bin/gcc-4.2
+rvm requirements
+brew install apple-gcc42
+brew uninstall apple-gcc42
+brew uninstall apple-gcc42
+brew install apple-gcc42
+brew link apple-gcc42
+/usr/bin/gcc
+brew link apple-gcc42 --force
+cd /usr/local/Cellar/apple-gcc42/
+ls
+cd 4.2.1-5666.3/
+ls
+cd bin/
+ls
+gcc-4.2
+cd ~
+rvm implode
+gem uninstall rvm
+gem list -d rvm
+gem list
+vim .bashrc
+vim .bash_profile 
+vim .zprofile 
+ls
+vim .zshenv 
+ls
+ls -a
+cd .vim
+vim .vim
+ls
+ls -a
+cd ..
+ls
+ls -a
+cd ~
+vim .gem/
+ls
+ls -a
+ls -a
+ruby
+which ruby
+ruby --version
+brew install rbenv
+vim .bash_profile 
+vim .zshenv 
+ls
+brew install ruby-build
+rbenv install 1.9.3
+rbenv install 1.9.3p124
+rbenv install 1.9.3-p124
+clang
+rbenv install 1.9.3-p123
+rbenv install 1.9.3-p124
+rbenv install 1.9.3-p194
+which ruby
+which ruby
+gem install rails
+brew install readline
+brew link readline
+ls
+ls -a
+cd .gem
+ls
+cd ruby/
+ls
+cd 1.8/
+ls
+cd ../..
+cd ../.rbenv/
+ls
+cd versions/
+ls
+cd 1.9.3-p194/
+ls
+cd lib/
+ls
+cd ruby/
+ls
+cd 1.9.1/
+ls
+cd ..
+cd ..
+ls
+cd ruby/
+ls
+cd gems/
+ls
+cd 1.9.1/
+ls
+cd gems/
+ls
+cd ~
+ls
+brew doctor
+vim .bashrc 
+ls
+ls -a
+vim .bash_profile 
+ls
+vim .bash_profile 
+brew doctor
+brew uninstall ruby-build
+brew uninstall rbenv
+ls
+ls -a
+rm -rf .gem .rbenv
+ls
+ls -a
+vim .bash_profile 
+vim .zprofile 
+which rub
+which ruby
+ruby --version
+vim .bashrc
+ls -a
+vim .bash_login 
+ls
+ls -a
+vim .bash_profile 
+ls -a
+vim .zprofile 
+curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
+which bash
+exec /bin/bash
+ls
+cd ~
+ls
+rvm install 1.9.3 --with-gcc=gcc-4.2 --with-readline-dir=/usr/local/Cellar/readline/6.2.4
+irb
+pry
+vim ~/.zshrc
+ls
+la
+ls -G
+cd workspace/web/rails/NTUMB/
+ls -G
+vim ~/.bashrc

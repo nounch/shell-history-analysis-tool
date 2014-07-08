@@ -1,0 +1,500 @@
+conky acpi
+man sselp  | less -RN
+man ssgrep  | less -RN
+cd ..
+cd
+cd -
+cd
+man ssgrep  | less -RN
+man ssvncviewer  | less -RN
+man mtr | less -RN
+mtr
+man gkeytool-4.3  | less -RN
+man runantlr  | less -RN
+man bash | less -RN
+emacs -nw
+tmux
+emacs -nw
+./monitors/twoMonitors.sh 
+emacs -nw
+screen -S devS
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+cd ..
+b
+screen -S WM
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+htop
+ps aux | grep emacs
+kill -9 7678
+htop
+cd temp/
+mkdir -p hackerMonthly; cd $_
+cp -r ~/Downloads/hackermonthly-issue021.zip .; unzip *; tree -C | less -RN
+evince hackermonthly-issue021-ipad.pdf &
+evince hackermonthly-issue021.pdf &
+cd notes/statistics/fortune500/
+ls
+cd
+cd temp/cookies/
+sqlite3 cookies.sqlite 
+cd notes/statistics/fortune500/
+ls
+cd ~/temp/cookies/
+man bash | less -RN
+./node.js 
+emacs -nw
+tmux
+emacs -nw
+screen -S devS
+DISPLAY=:= xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hP 
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+htop
+man bash | less -RN
+./node.js 
+emacs -nw
+tmux
+emacs -nw
+screen -S devS
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+cd programs/
+man httrack | less -RN
+mkdir -p httrack; cd $_
+mv ~/Downloads/httrack-3.46.1.tar.gz .
+tar -zxvf httrack-3.46.1.tar.gz 
+tree -C | less -R | less -N
+cd .
+cd ..
+rm -rf httrack/
+man httrack  | less -RN
+man bash | less -RN
+./node.js 
+emacs -nw
+tmux
+emacs -nw
+screen -S devS
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+emacs -nw
+screen -S devS
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+htop
+emacs --daemon
+htop
+cd .vimperator
+ls -lisa
+tree -C | less -R | less -N
+mkdir plugin
+mkdir colors
+cd temp/
+mkdir -p zenburnVimp; cd $_
+mv ~/Downloads/myzenburn.vimp .
+mv myzenburn.vimp zenburnish.vimp 
+view zenburnish.vimp 
+ls -lsia
+cp -r zenburnish.vimp  zenburnish.vimp .bkp
+ls -lsia
+mkdir -p zenburnish.vimp; cd $_
+ls -slia
+cp -r zenburnish.vimp zenburnish.vimp.bkp
+ls s-lai
+ls -lsia
+man patch  | less -RN
+ls
+mv ~/Downloads/zenburn.vimp.diff .
+view zenburn
+view zenburn.vimp.diff 
+patch  > zenburn.vimp.diff 
+ls
+patch < zenburn.vimp.diff 
+ls -lsia
+view zenburn.vimp.diff 
+rm -r zenburn.vimp.diff 
+patch zenburnish.vimp < zenburn.vimp.diff 
+vimdiff zenburnish.vimp zenburnish.vimp.bkp 
+cp -r zenburnish.vimp ~/.vimperator/colors/
+cd
+man bash | less -RN
+./node.js 
+emacs -nw
+tmux
+emacs -nw
+screen -S devS
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hp now
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+emacs --daemon
+iotop
+ps aux | grep tiger
+watch -n 0.1 ps aux | grep tiger
+watch -n 0.1 $(ps aux | grep tiger)
+watch -n 0.1 cat #$(ps aux | grep tiger)
+watch -n 0.1 cat $(ps aux | grep tiger)
+watch -n 0.1 echo $(ps aux | grep tiger)
+watch -n 0.1 printf "%s\n" $(ps aux | grep tiger)
+watch -n 0.1 $(ps aux | grep tiger)
+while 0; do ps aux | grep tiger; done
+while true; do ps aux | grep tiger; done
+while true; do ps aux | grep tiger; clear; done
+while true; do ps aux | grep tiger; clear; sleep 0.5; done
+while true; do ps aux | grep tiger; sleep 0.1; clear; done
+while true; do ps aux | grep tiger; sleep 0.3; clear; done
+ps aux |grep ff
+kill -9 7090
+ps aux |grep ff
+ps aux|grep ff
+kill -9 10903
+ps aux|grep ff
+cd .vimperator/plugin/
+rm -rf test.js 
+ls -lsia
+man bash | less -RN
+./node.js 
+emacs -nw
+tmux
+emacs -nw
+screen -S devS
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+emacs --daemon
+man bash | less -RN
+./node.js 
+emacs -nw
+tmux
+emacs -nw
+screen -S devS
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+man bootchart  | less -RN
+bootchart 
+./node.js 
+emacs -nw
+tmux
+emacs -nw
+screen -S devS
+emacs -nw
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+man curl | less -RN
+curl -I http://www2.census.gov/geo/tiger/GENZ2010/gz_2010_us_050_00_20m.zip
+./node.js 
+emacs -nw
+tmux
+emacs -nw
+screen -S devS
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+emacs --daemon
+ls notes.bkp/
+cp -r notes/*.bkp notes.bkp/
+ls notes.bkp/
+cp -r notes.bkp/ notes.bkp.bkp
+cp -r notes/*.bkp notes.bkp/
+rm -fr notes.bkp
+cp -r notes/*.bkp notes.bkp/
+mkdir notes.bkp
+cp -r notes/*.bkp notes.bkp/
+ls notes.bkp
+cp -r notes/**.bkp notes.bkp/
+ls notes.bkp
+find ./notes -iregex '.*\.bkp'
+find ./notes -iregex '.*\.org'
+rm -rf notes.bkp/*
+cp -r notes/**.org notes.bkp/
+ls notes.bkp
+cp -r notes/*.org notes.bkp/
+rm -rf notes.bkp/*
+cp -r notes/*.org notes.bkp/
+view notes.bkp
+mv notes.bkp.bkp/ notes.bkp.old
+wc -l notes.bkp/*
+wc -l notes.bkp/* | sort -rn
+wc -l notes.bkp/* | sort -rn | less
+wc -l notes.bkp/* | sort -rn | less | cut -f1
+wc -l notes.bkp/* | sort -rn | less | cut -f0
+wc -l notes.bkp/* | sort -rn | less | cut -d' ' -f0
+wc -l notes.bkp/* | sort -rn | less | awk '{ print $0 }'
+wc -l notes.bkp/* | sort -rn | less | awk '{ print $1 }'
+wc -l notes.bkp/* | sort -rn | less | awk '{ print $1 }' | ed '1,1d'
+wc -l notes.bkp/* | sort -rn | awk '{ print $1 }' | sed '1,1d' | less -RN
+cdb git && mkdir highcharts; cd $_ && git clone git://github.com/highslide-software/highcharts.com/.git; cd ./* && tree -C | less -RN
+ls
+git clone git://github.com/highslide-software/highcharts.com/
+tree -C | less -NR
+tree -C | less -N
+du -sh highcharts.com/
+cd ..
+man tree | less -RN
+cd temp/
+ls
+cd geddy
+tree -C
+tree -CN
+tree -Ch
+tree -hc
+tree -hC
+tree -C
+man tree | less -RN
+tree -Cn
+man tree | less -RN
+cd programs
+mkdir -p eclipseTrader; cd $_
+mv ~/Downloads/eclipsetrader-N201301040902-linux.gtk.x86.tar.gz .
+tar -zxvf eclipsetrader-N201301040902-linux.gtk.x86.tar.gz 
+tree -C | less -R | less -N
+cd eclipsetrader/
+./trader 
+./trader --consolelog
+./trader -consolelog
+cd ..
+rm -rf eclipseTrader/
+cd programs/eclipseTrader/eclipsetrader/
+tree -C | less -R | less -N
+ls
+ls workspace/
+ls -lis workspace/
+ls -lisa workspace/
+tree -C workspace/
+cd workspace/
+tree -C | less -R | less -N
+cd ..
+htop
+ps aux | grep chromium
+kill -9 3781
+ps aux | grep chromium
+ipython
+man ipython | less -RN
+cd /home/gronpy/programming/python/matplotlib/examples/candlestick
+ls
+./candlestick.py 
+./candlestick.py  | less
+./candlestick.py
+man bash | less -RN
+./node.js 
+emacs -nw
+tmux
+emacs -nw
+screen -S devS
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+view /var/log/wtmp
+python -v
+python --version
+last | grep -rins --color="always" 'reboot' | less
+cdb python/matplotlib/uptime/
+./uptime.py 
+python uptime.py 
+python uptime.py | less
+python uptime.py
+python uptime.py | less
+python uptime.py
+last | grep reboot
+python uptime.py
+cdb python/matplotlib/test/quotes/
+cdb python/matplotlib/test/quotes/
+python quotes.py 
+python quotes.py  | less
+python quotes.py
+python quotes.py  | less
+python quotes.py
+ls
+python quotes.py
+ipython
+man ipython | less -RN
+ipython --pylab
+last
+last | less -R
+last -t >>>MMDDHHMMSS | less -R
+last -t YYYYMMDDHHMMSS | less -R
+last -t MM | less -R
+last -t 2012 | less -R
+last -t 2013 | less -R
+last -n 100 | less -R
+last -n 300 | less -R
+last | less -R
+last -R | less -R
+last | less -R
+last -x | less -R
+last | less -R
+man last | less -RN
+man uptime  | less -RN
+uptime 
+man last | less -RN
+man bash | less -RN
+./node.js 
+emacs -nw
+tmux
+emacs -nw
+screen -S devS
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+emacs --daemon
+wicd-curses 
+iotop 
+cdb python/matplotlib/uptime/
+ls
+python uptime.py 
+man python | less -RN
+echo $PYTHONPATH
+man python | less -RN
+cd programs
+mkdir -p eclipseTrader; cd $_
+mv ~/Downloads/eclipse-platform-3.8.1.tar.gz .
+tar -zxvf eclipse-platform-3.8.1.tar.gz 
+cd eclipse-platform-3.8/
+ls
+tree -C | less -R | less -N
+ls
+ls -lisa
+view notice.html 
+cd ..
+ls
+cd
+cd music/diverse/
+mplayer *
+cdb git/matplotlib/
+cd matplotlib/
+git pull origin master 
+tree -C | less -R | less -N
+find .* -iregex 'finance\.py' -exec view {}
+find .* -iregex 'finance\.py' --exec view {}
+find .* -iregex 'finance\.py' -exec view {}\;
+find .* -iregex 'finance\.py' -exec view \{}\;
+find .* -iregex "finance\.py" -exec view {} \;
+find .* -iregex "finance\.py" -exec "view {} \;"
+find .* -iregex "finance\.py" -exec cat {} \;
+find .* -iregex "finance\.py"
+find .** -iregex "finance\.py"
+find .* -iregex "finance.py"
+find .* -iregex "finance"
+ls
+find * -iregex "finance"
+find ./** -iregex "finance"
+find ./** -iregex "finance.py"
+find ./** -iregex ".*finance.*"
+find ./** -iregex ".*finance\.py.*"
+find ./* -iregex ".*finance\.py.*"
+find ./* -iregex ".*finance\.py.*" -exec view {} \;
+find ./* -iregex ".*finance\.py.*" -exec wc -l {} \;
+find ./* -iregex ".*finance\.py.*" -exec view {} \;
+find ./* -iregex ".*finance\.py.*" -exec view -c "/candlestick" {} \;
+man view | less -RN
+echo $PYTHONHOME
+echo $PYTHONPATH
+view /usr/lib/python2.7/string.py
+view /usr/lib/python2.7/pprint.py
+ipython
+./node.js 
+emacs -nw
+tmux
+emacs -nw
+screen -S devS
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+cd music/diverse/
+mv ~/Downloads/CTFxC\ Outro\ Theme\ Song\ -\ Cover\ by\ TeraBrite.mp3 .
+ls
+man rake | less -RN
+mkdir -p angularJS; cd $_
+mkdir -p uncompressed; cd $_
+wget http://code.angularjs.org/1.0.5/angular.js
+wc -l angular.js 
+view angular.js 
+du -sh angular.js 
+cd ..
+mkdir -p minified; cd $_
+wget http://code.angularjs.org/1.0.5/angular.min.js
+cd ..
+ls
+mv minified/angular.min.js .
+mv uncompressed/angular.js .
+ls
+rm -r minified/ uncompressed/
+ls
+cd
+ls angularJS/
+cdb git/angularJS/
+cd angular.js/
+ls
+git pull  origin master
+tree -C | less -R | less -N
+view Rakefile 
+tree -C | less -R | less -N
+./node.js 
+emacs -nw
+tmux
+emacs -nw
+screen -S devS
+DISPLAY=:0 xinit /usr/bin/openbox -- :0 &
+screen -S WM
+sudo shutdown -hP now
+./.config/openbox/autostart.sh 
+./monitors/twoMonitors.sh 
+cd programs/
+ls
+cd lightTable/
+ls
+mkdir old
+mv * old/
+mkdir latest
+cd latest/
+mv ~/Downloads/LightTableLinux.tar.gz .
+tar -zxvf LightTableLinux.tar.gz 
+ls
+cd LightTable/
+tree -C | less -R | less -N
+./LightTable 
+cd
+cd temp/
+rm -rf lt/
+iotop 
+view /var/log/wtmp
+man dmesg  | less -RN
+dmesg 
+dmesg | less
+cd /home/gronpy/programming/python/matplotlib/test/history
+cd data/
+history 
+history | less -RN
+man history  | less -RN
+history > data 

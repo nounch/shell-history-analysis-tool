@@ -1,0 +1,7 @@
+: 1338380113:0;la
+: 1338380116:0;cd
+: 1338380117:0;la
+: 1338380127:0;more .zprofile
+: 1338380141:0;cd project/dotfiles/
+: 1338380147:0;mv ~/.zprofile ./
+: 1338380151:0;mv ~/.zsh_history ./

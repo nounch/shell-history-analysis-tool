@@ -1,0 +1,500 @@
+svadmin help
+svnadmin help
+svnadmin help deltify
+ls
+rm -rf Helperia/
+ls
+svnadmin create Helperia
+ls
+cd /var/www/
+ls
+mv -r Igor /home/igor/
+mv Igor /home/igor/
+ls
+svn import /var/www/ file:///var/svn-repos/Helperia/
+cd /home/igor/
+ls
+mkdir HP
+cd HP
+svn co
+svn up
+svn help co
+svn co /var/svn-repos/Helperia
+svn co Helperia
+svn co file:///var/svn-repos/Helperia
+ls
+cd Helperia/
+ls
+svn log
+svn import /var/www/ file:///var/svn-repos/Helperia/
+sudo svn import /var/www/ file:///var/svn-repos/Helperia/
+cd ..
+ls
+cd ..
+ls
+rm -r HP/
+svn co file:///var/svn-repos/Helperia
+ls
+cd Helperia/
+ls
+cd /etc/apache2/
+cd sites-enabled/
+ls
+cp 000-default 3300-andrei
+sudo cp 000-default 3300-andrei
+sudo vi 3300-andrei 
+sudo cp 000-default 3355-igor
+sudo rm -r 3355-igor 
+sudo cp 3300-andrei 3355-igor
+sudo vi 3355-igor 
+sudo vi 3300-andrei 
+sudo /etc/init.d/apache2 restart
+cd ..
+ls
+sudo vi apache2.conf 
+sudo /etc/init.d/apache2 restart
+sudo mv sites-enabled/3300-andrei 3300-andrei
+sudo /etc/init.d/apache2 restart
+cd sites-enabled/
+ls
+sudo vi 3355-igor 
+ls /home
+sudo adduser sapphire
+ls /home
+sudo tail -f /var/log/auth.log
+cd /var/www/adm/
+ls
+cd ..
+sudo vi common.php 
+cd adm/
+ls
+vi adm_categories.php 
+vi adm_articles.php 
+vi adm_adduser.php 
+sudo /etc/init.d/apache2 restart
+cd /etc/apache2/sites-enabled/
+ls
+vi 3355-igor 
+sudo vi 000-default 
+sudo /etc/init.d/apache2 restart
+sudo vi 000-default 
+ls
+cd ..
+ls
+sudo vi apache2.conf 
+grep Listen: *
+cd conf.d/
+l
+ls
+vi security 
+cd ..
+ls
+sudo vi ports.conf 
+sudo /etc/init.d/apache2 restart
+sudo /etc/init.d/apache2 restart
+sudo vi ports.conf 
+cd sites-enabled/
+ls
+cp 3355-igor andrei-3331
+sudo cp 3355-igor andrei-3331
+sudo cp 3355-igor roman-3332
+sudo vi andrei-3331 
+sudo vi roman-3332 
+cd /home/andrei/
+ls
+ls
+cd /home/sapphire/
+ls
+ls
+ls
+ls /home/sapphire/
+ls /home/andrei/
+ls /home/andrei/
+ls /home/andrei/
+ls /home/andrei/
+usergroup
+group
+sudo group
+groups
+groups andrei
+groups roman
+groups sapphire
+sudo usermod sapphire -G www-data
+groups sapphire
+sudo usermod sapphire -G www-data
+groups sapphire
+sudo usermod -G www-data sapphire
+groups sapphire
+cd /var/svn-repos/
+ls
+sudo /etc/init.d/apache2 restart
+cd /etc/svn2cl/
+ls
+cd ..
+cd ..
+ls
+cd /var/svn-repos/
+ls
+cd project_help/
+ls
+cd conf
+ls
+vi passwd
+sudo usermod -G subversion sapphire
+groups sapphire
+su sapphire
+sudo su sapphire
+cd /etc/
+sudo nano sudoers 
+mysql -u root -p
+mysql -u root -p
+ls
+cd /var/
+ls
+cd svn-repos/
+ls
+cd project_help/
+ls
+cd conf/
+ls
+vi svnserve.conf 
+ls
+vi authz 
+vi passwd 
+cd ..
+cd ..
+cd ..
+ls -l
+cd svn-repos/
+ls -l
+su saphire
+su sapphire
+sudo su sapphire
+cd andrei/
+cd Helperia/
+svn up
+blame adm/images/arrow_up.gif 
+svn blame adm/images/arrow_up.gif 
+cd ..
+su igor
+cd ..
+ls
+sudo chmod 777 -R andrei
+sudo su andrei
+cd ..
+sudo chmod 777 -r sapphire/
+sudo chmod 777 sapphire/ -r
+sudo chmod 777 sapphire/
+sudo chmod 777 sapphire/
+sudo chmod 777 -R sapphire/
+sudo su sapphire/
+cd sapphire/
+cd Helperia/
+ls
+svn up
+svn status
+svn ci adm/images/arrow_up.gif 
+svn add adm/images/arrow_up.gif 
+snv ci
+svn ci
+su igor
+groups
+groups sapphire
+groupadd help
+addgroup help
+sudo addgroup
+sudo addgroup help
+sudo help addgroup
+sudo man addgroup
+groups
+sudo useradd -G www-data sapphire
+sudo usermod -G www-data sapphire
+groups sapphire
+sudo su sapphire
+ls
+sudo chmod 777 .svn
+sudo su sapphire
+sudo mv /home/spirit/admBlock/ /opt/tomcat/webapps/admBlock/
+sudo mv /home/spirit/admBlock/ /opt/tomcat/webapps/
+sudo mv /home/spirit/admBlock/ /opt/tomcat/webapps/
+exit
+mysql -u root -p
+exit
+cd /var/www/
+svn status
+ls
+sudo mv /home/spirit/admBlock/ /opt/tomcat/webapps/
+sudo mysqldump help_web > /home/spirit/help_web-15-04-2010.sql
+sudo mysqldump -p help_web > /home/spirit/help_web-15-04-2010.sql
+sudo mv /home/spirit/admBlock/ /opt/tomcat/webapps/
+exit
+sudo
+sudo usermod igor
+sudo usermod igor -d /
+sudo usermod igor -d/
+sudo usermod igor -dvar
+sudo usermod igor -d var
+sudo usermod -d /var igors
+sudo usermod -d /var igor
+sudo usermod -d igor
+sudo mv /home/spirit/solr/ /opt/tomcat/webapps/
+cd /opt/tomcat/bin/
+sudo shutdown.sh 
+sudo ./shutdown.sh 
+sudo ./startup.sh 
+cd ..
+sudo ./bin/shutdown.sh 
+sudo ./bin/startup.sh 
+sudo ./bin/shutdown.sh 
+cd ..
+cd ./J
+cd ./Jetspeed/
+sodu ./bin/startup.sh 
+sudd ./bin/startup.sh 
+sudo ./bin/startup.sh 
+sudo nano /opt/Jetspeed/conf/tomcat-users.xml 
+sudo nano /opt/Jetspeed/conf/tomcat-users.xml 
+perl "print '123'"
+perl print '123'
+sudo mv /home/spirit/admBlock/ /opt/tomcat/webapps/
+sudo mv /home/spirit/admBlock/ /opt/Jetspeed/webapps/
+sudo mv /home/spirit/solr.war /opt/tomcat/webapps/
+cd ./Jetspeed/
+cd /opt/Jetspeed/
+sudo ./bin/shutdown.sh 
+cd ..
+cd ./tomcat
+sudo ./bin/shutdown.sh 
+sudo ./bin/startup.sh 
+cd ./webapps/solr
+dir
+cd ..
+rm ./solr
+sudo rm ./solr
+sudo rm solr
+sudo rm solr
+sudo rm ./solr/
+sudo kill ./solr
+sudo rm -r ./solr/
+sudo mv /home/spirit/solr/ /opt/tomcat/
+sudo mv /home/spirit/solr/ /opt/tomcat/solr
+cd ..
+sudo rm -r ./conf/
+sudo ./bin/shutdown.sh 
+sudo ./bin/startup.sh 
+sudo mv /home/spirit/catalina.policy /opt/tomcat/conf/
+sudo mv /home/spirit/catalina.properties /opt/tomcat/conf/
+sudo mv /home/spirit/context.xml /opt/tomcat/conf/
+sudo mv /home/spirit/logging.properties /opt/tomcat/conf/
+sudo mv /home/spirit/server-minimal.xml /opt/tomcat/conf/
+sudo mv /home/spirit/server.xml /opt/tomcat/conf/
+sudo mv /home/spirit/tomcat-users.xml /opt/tomcat/conf/
+sudo mv /home/spirit/web.xml /opt/tomcat/conf/
+sudo ./bin/shutdown.sh 
+sudo ./bin/startup.sh 
+cd /opt/tomcat
+sudo ./bin/shutdown.sh 
+sudo ./bin/startup.sh 
+cd ..
+sudo chmod 0777
+chmod --help
+sudo ./tomcat/bin/shutdown.sh 
+sudo ./tomcat/bin/startup.sh 
+sudo mv /home/spirit/host-manager.xml /opt/tomcat/conf/Catalina/localhost/
+sudo mv /home/spirit/manager.xml /opt/tomcat/conf/Catalina/localhost/
+sudo ./tomcat/bin/shutdown.sh 
+sudo ./tomcat/bin/startup.sh 
+ps  grep java
+ps  grep| java
+ps | grep java
+ps -ae
+ps -af
+ps -af
+ps -aw
+ps -aew
+ps -aefw
+sudo ./tomcat/bin/startup.sh 
+sudo ./tomcat/bin/startup.sh 
+ps -aefw
+ps -aew
+ps -aefw
+sudo ./tomcat/bin/startup.sh 
+sudo /opt/tomcat/bin/startup.sh 
+ps -aefw
+ps -aefw
+passwd
+cd /var/log
+ls
+vi auth.log
+mysql -u -root -p
+mysql -u root -p
+mysql -h 82.179.188.5
+mysql -h 127.0.0.1 -u root -p
+mysql -h localhost -u root -p
+passwd
+passwd
+sudo /etc/init.d/iptables status
+sudo /etc/init.d/iptables stop
+sudo iptables status
+sudo iptables -h
+sudo iptables -stop
+sudo iptables stop
+sudo /opt/tomcat/bin/shutdown.sh 
+ls
+cd /var/log
+ls
+auth.log
+mysql
+mysql -u root -p
+mysql -u root
+/etc/init.d/mysqld restart
+ps
+ps -aefw
+nano /etc/mysql/my.cnf 
+sudo nano /etc/mysql/my.cnf 
+sudo /etc/init.d/mysql restart
+mysql -u root
+mysql
+mysql -u root
+mysql -u root -p
+mysql -u root -p
+nano /etc/mysql/my.cnf 
+sudo /etc/init.d/mysql restart
+mysql
+mysql
+nano /etc/mysql/my.cnf 
+sudo nano /etc/mysql/my.cnf 
+sudo /etc/init.d/mysql restart
+mysql -u root -p
+sudo rm /opt/tomcat/webapps/admBlock/
+sudo rm -r /opt/tomcat/webapps/admBlock/
+sudo mv /home/spirit/admBlock/ /opt/tomcat/webapps/
+sudo apt-get install mc
+mc
+/etc/init.d/apache2 restart
+sudo /etc/init.d/apache2 restart
+sudo chmod 0777 /etc/apache2/conf.d/
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/conf.d/tomcat6.conf 
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/conf.d/tomcat6.conf 
+sudo nano /etc/apache2/conf.d/tomcat6.conf 
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/conf.d/tomcat6.conf 
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/conf.d/tomcat6.conf 
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/mods-enabled/proxy.conf 
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/mods-enabled/proxy.conf 
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/mods-enabled/proxy.conf 
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/mods-enabled/proxy.conf 
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/mods-enabled/proxy.conf 
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/mods-enabled/proxy.conf 
+sudo nano /etc/apache2/conf.d/tomcat6.conf 
+sudo /etc/init.d/apache2 restart
+sudo nano /var/log/apache2/error.log
+mc
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/mods-enabled/proxy.conf 
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/mods-enabled/proxy.conf 
+sudo /etc/init.d/apache2 restart
+sudo nano /etc/apache2/mods-enabled/proxy.conf 
+sudo /etc/init.d/apache2 restart
+sudo chmod 0777 /opt/tomcat/webapps/
+sudo chmod 0777 /opt/tomcat/webapps/admBlock/
+sudo rm -r /opt/tomcat/webapps/admBlock/
+sudo chmod 0777 /opt/tomcat/webapps/admBlock/
+mysql
+mysql -u root -p
+exit
+mysql -u root -p
+exit
+mysql -u root -p
+mc
+mysql -u root -p
+mysql -u root -p
+mysqldump office_club > /var/www/ok_22_05_2010.sql
+sudo mysqldump -u root -p office_club > /var/www/ok_22_05_2010.sql
+mysql -u root -p
+mysqldump -u root -p help_web > /home/spirit/help_web-28-08-2010.sql
+exit
+mc
+sudo htpasswd /var/www/wiki/.htpasswd hproject
+mysql -u root
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p
+mc
+sudo mc
+mysql -u root -p
+mysql -u root -p
+sudo mc
+sudo mc
+sudo chmod 777 /var/www/ProHelp/index.php 
+sudo chmod 777 /var/www/ProHelp/create.php 
+sudo mc
+sudo mc
+sudo mc
+mc
+htpasswd /var/www/wiki/.htpasswd hproject
+sudo mc
+cd /opt/tomcat/
+sudo ./bin/shutdown.sh 
+sudo ./bin/startup.sh 
+sudo ./bin/shutdown.sh 
+sudo ./bin/startup.sh 
+sudo ./bin/shutdown.sh 
+sudo ./bin/startup.sh 
+sudo ./bin/shutdown.sh 
+sudo ./bin/startup.sh 
+sudo ./bin/shutdown.sh 
+sudo ./bin/startup.sh 
+sudo mc
+sudo chmod -R a+w /var/www/openx/var
+sudo chmod -R a+w /var/www/openx/www/admin/plugins
+sudo chmod -R a+w /var/www/openx/www/images
+sudo chmod -R a+w /var/www/openx/var
+sudo chmod -R a+w /var/www/openx/var/cache
+sudo chmod -R a+w /var/www/openx/var/plugins
+sudo chmod -R a+w /var/www/openx/var/templates_compiled
+sudo chmod -R a+w /var/www/openx/plugins
+sudo chmod -R a+w /var/www/openx/www/admin/plugins
+sudo chmod -R a+w /var/www/openx/www/images
+su mc
+sudo mc
+sudo mysqldump -u root -p
+sudo mysqldump -u root -p help_web > help_web_24-02-2011
+sudo mysqldump -u root -p help_web > /home/spirit/help_web_24-02-2011.sql
+sudo mc
+sudo mc
+sudo adduser victor
+sudo mc
+exit
+sudo mc
+sudo mc
+sudo mc
+history
+sudo htpasswd /var/www/wiki/.htpasswd hproject
+sudo adduser Alex
+sudo adduser alex
+sudo cd /opt/
+sudo /opt/tomcat/bin/shutdown.sh 
+sudo /opt/tomcat/bin/startup.sh 
+cd /opt/
+sudo /opt/tomcat/bin/shutdown.sh 
+sudo /opt/tomcat/bin/startup.sh 
+sudo ./tomcat/bin/shutdown.sh 
+sudo ./tomcat/bin/startup.sh 
+cd ./tomcat
+sudo ./bin/shutdown.sh 
+sudo ./bin/startup.sh 

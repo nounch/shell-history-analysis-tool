@@ -1,0 +1,549 @@
+apachectl graceful
+sudo apachectl graceful
+php -info
+php -info | grep mcrypt
+cd /usr/lib
+ls
+cd php
+ls
+cd install-pear-nozlib.phar 
+cd extensions/
+ls
+cd no-debug-non-zts-200
+cd no-debug-non-zts-2009
+cd no-debug-non-zts-20090626/
+ls
+cd ..
+sudo vim /etc/php.ini
+sudo apachectl graceful
+cd
+cd Sites/magento/
+vim .gitignore
+git init
+git add .
+vim .gitignore
+git add .
+git commit -m 'initial commit'
+git remote add pagoda git@git.pagodabox.com:magneto-foobar.git
+git push pagoda --all
+curl 
+curl -sL http://tinyurl.com/7ccchmg | sudo php
+pf
+pf setup
+1
+pf list apps
+pf clone ask-fb.phpfogapp.com
+pf setup
+pf setup
+pf clone ask-fb.phpfogapp.com
+pf clone ask-fb.phpfogapp.com
+cd
+cd .ssh/
+cat id_rsa.pub 
+pf clone ask-fb.phpfogapp.com
+pf setup
+pf setup
+pf clone ask-fb.phpfogapp.com
+cd
+cd
+cd Sites/
+mkdir ask-fb
+cd ask-fb/
+pf clone ask-fb.phpfogapp.com
+pf clone ask-fb.phpfogapp.com
+sudo pf clone ask-fb.phpfogapp.com
+pf clone ask-fb.phpfogapp.com
+exit
+cd
+cd Sites/e85/
+cd build/
+ant minify
+ant minify
+ant minify
+ant minify
+ant minify
+ant minify
+ant minify
+ant minify
+ant minify
+ant minify
+ant minify
+ant minify
+ant minify
+sudo vim /etc/hosts
+cd
+vim Sites/httpd-vhosts.conf 
+apachectl graceful
+sudo apachectl graceful
+sudo vim /etc/hosts
+exit
+npm update
+npm update all
+npm 
+npm update node
+homebrew
+brew
+brew update
+brew list
+brew update wakeonlan
+brew update mcrypt
+brew update jhead
+/Users/sartami/Applications/android-sdk-macosx/tools/android ; exit;
+/Users/sartami/Applications/android-sdk-macosx/tools/emulator-x86 ; exit;
+/Users/sartami/Applications/android-sdk-macosx/tools/emulator ; exit;
+ll
+ls
+cd Applications/android-sdk-macosx/
+ls
+cd tools/
+./emulator-x86 
+./emulator-x86  @sartami
+./emulator -avd avd
+./android 
+/Users/sartami/Applications/android-sdk-macosx/tools/android ; exit;
+cd 
+vim /etc/apache2/httpd.conf
+vim sudo /etc/apache2/httpd.conf
+ sudo vim /etc/apache2/httpd.conf
+ls -l
+cd /etc/apache2/
+ls -l
+sudo vim httpd.conf
+sudo pico httpd.conf
+sudo apachectl restart
+ls
+cd users/
+ls
+vim sartami.conf 
+sudo vim sartami.conf 
+sudo apachectl restart
+sudo apachectl restart
+sudo vim sartami.conf 
+cd ..
+sudo pico httpd.conf
+sudo apachectl restart
+cd users/
+sudo vim sartami.conf 
+httpd -l
+cd
+vim Sites/httpd-vhosts.conf 
+sudo apachectl restart
+cd /var/log/
+cd apache2/
+ls
+ll
+ls
+ls -l
+car sokos-mobi-error_log 
+cat sokos-mobi-error_log 
+cat sokos-mobi-error_log 
+cat sokos-mobi-access_log 
+top
+cd
+cd Sites/sokos-mobi/chmod 775 cache
+cd Sites/sokos-mobi/
+chmod 775 cache/
+chmod 777 cache/
+chmod 777 data/
+apachectl status
+apachectl restart
+sudo apachectl restart 
+ls
+php -c index.php 
+php -c batch/dataGetKasdfji.php 
+php -c batch/dataGetKasdfji.php 
+php -c batch/dataGetKasdfji.php 
+php -c batch/dataGetKasdfji.php 
+php -c batch/dataGetKasdfji.php 
+curl
+curl http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+curl http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+cd
+ cd .ssh
+ls
+cat id_rsa
+cat id_rsa.pub 
+exit
+git config --global color.ui auto
+git
+ls
+touch foo.bat
+ls
+rm foo.bat 
+curl http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+curl http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+curl http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+ssh 172.24.98.253
+ssh 172.24.98.253
+ssh 172.24.98.253
+ssh 172.24.98.253
+ssh jseppala@172.24.98.253
+:q
+wget -qO http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+brew install wget
+ls
+cd
+ls
+brew install wget
+exit
+ping http://ftpmirror.gnu.org/
+ping ftpmirror.gnu.org
+exit
+brew install wget
+curl -O http://ftp.gnu.org/gnu/wget/wget-1.13.4.tar.gz
+brew install wget
+brew install wget
+brew install wget
+wget -qO http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+wget --help
+wget http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+cat dataGetKasdfji.php 
+98880987
+ls
+rm dataGetKasdfji.php 
+wget http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php >/dev/null 2>&1
+ls
+rm dataGetKasdfji.php 
+wget --help
+ls
+wget -q http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+wget -q -output-document /dev/null http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+wget -q -append-output /dev/null http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+wget --help
+wget -qO http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+wget -qo http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+wget -qO /dev/null http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+wget -qO /dev/null http://www.s-kampanja.net/sokos/mobi/batch/dataGetKasdfji.php
+exit
+ssh nimikko@172.24.98.253
+crontab -e
+exit
+cd
+ls
+cd Sites/
+ls
+cd ..
+ls
+cd Sources/
+ls
+curl -s http://getcomposer.org/installer | php
+cd Si
+cd ..
+ls
+cd Sites/
+ls
+vim /etc/php.ini
+sudo vim /etc/php.ini
+sudo vim /etc/php.ini
+cd 
+cd Sites/
+curl -s http://getcomposer.org/installer | php
+sudo mv composer.phar  /usr/bin/composer
+composer 
+composer about
+composer search facebook
+sudo vim /etc/php.ini
+composer search facebook
+exit
+cd 
+cd Sites/
+mkdir blog
+cd blog/
+wget http://wordpress.org/latest.tar.gz
+ls
+tar xvfz
+tar xvfz latest.tar.gz 
+sudo vim ../httpd-vhosts.conf 
+sudo /etc/hosts
+sudo vim /etc/hosts
+sudo vim ../httpd-vhosts.conf 
+sudo apachectl restart
+ls
+cp wp-config-sample.php wp-config.php
+vim wp-config.php 
+mysql
+mysql root@localhost
+mysql -u root
+mysql --help
+mysql -u root -h local
+vim wp-config.php 
+vim wp-config.php 
+mysql -u root -h local -d wp-blog
+mysql --help
+mysql -u root -h local -D wp-blog
+mysql -u root -h localhost -D wp-blog
+vim wp-config.php 
+vim wp-config.php 
+mysql -u root -h 127.0.0.1
+mysql -u root -h 127.0.0.1 -p root
+mysql -u root -h 127.0.0.1 -p
+vim wp-config.php 
+ls
+cd wp-content/
+cd plugins/
+ls
+wget http://downloads.wordpress.org/plugin/wp-pagenavi.2.82.zip
+wget http://downloads.wordpress.org/plugin/wp-pagenavi.2.82.zip
+wget http://downloads.wordpress.org/plugin/wordpress-wiki.1.0.2.zip
+ls
+unzip
+unzip -d wordpress-wiki.1.0.2.zip 
+unzip wordpress-wiki.1.0.2.zip 
+ls
+unzip wp-pagenavi.2.82.zip 
+ssh nimikko@172.24.98.253
+ssh nimikko@172.24.98.253
+ssh nimikko@172.24.98.253
+ssh nimikko@172.24.98.253
+ssh nimikko@172.24.98.253
+php -v
+sudo vim /etc/hosts
+cd
+vim Sites/httpd-vhosts.conf 
+sudo apachetl restart
+sudo apachectl restart
+cd Sites/
+mkdir s2
+cd s2
+composer install
+composer init
+composer init
+ls
+composer install
+ls
+cd vendor/
+ls
+cd symfony/
+ls
+cd symfony/
+ls
+cd src
+ls
+cd Symfony/
+ls
+composer init
+composer init
+composer init
+composer install
+ls
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+ls
+rm -fr *
+composer create-project symfony/framework-standard-edition .
+cd ..
+rmdir s2
+ls s2
+rm -fr s2
+composer create-project symfony/framework-standard-edition s2
+ls
+cd s2
+ls
+vim ../httpd-vhosts.conf 
+sudo apachectl restart
+sudo vim /etc/hosts
+sudo apachectl restart
+P
+apachectl status
+sudo vim /etc/hosts
+vim ../httpd-vhosts.conf 
+sudo apachectl restart
+vim ../httpd-vhosts.conf 
+sudo apachectl restart
+ls
+vim /etc/php.ini
+sudo vim /etc/php.ini
+sudo apachectl restart
+ls -l
+chown -R apache:apache app/cache/
+chown apache:apache -R app/cache/
+chown -R -u apache:apache app/cache/
+users
+chown 775 app/cache/
+sudo chown 775 app/cache/
+sudo chown 777 app/cache/
+sudo chown 777 app/logs/
+composer
+composer require intl
+composer search intl
+composer require sonata-project/intl-bundle
+composer require sonata-project/intl-bundle
+vim composer.json 
+composer install
+cd app/
+ls -l
+chown sartami cache/
+sudo chown sartami cache/
+sudo chown sartami cache/
+sudo chown sartami logs/
+ls -l
+chmod 777 logs/
+ls -l
+chmod 755 logs/
+chmod 755 cache/
+chmod 775 logs/
+chmod 775 cache/
+chmod 777 cache/
+chmod 777 logs/
+cd ..
+composer install
+composer install intl
+composer require sonata-project/intl-bundle
+vim composer.json 
+ls
+chmod 777 -R app/cache/
+chmod -R 777 app/cache/
+ls
+sudo vim /etc/hosts
+cd
+vim Sites/httpd-vhosts.conf 
+sudo apachectl restart
+vim Sites/httpd-vhosts.conf 
+sudo apachectl restart
+cd /Users/sartami/Sites/static/
+ls
+chmod 777 output.php 
+crontab -e
+ls
+ls
+mkdir fb
+cd fb
+composer init
+cd ..
+cd
+cd Sites/sp
+cd Sites/sp-mobi/
+ls -l
+chmod 777 cache/
+cd cache/
+ls 
+rm *
+ls
+ls
+ls
+rm *
+ls -l
+ls
+cd ..
+ls
+touch dump.xml
+chmod 777 dump.xml 
+ls
+rm getpobs.xml 
+ls
+ls -l
+tar -pczf spankki.tar.gz .
+cd ..
+tar -pczf spankki.tar.gz sp-mobi/
+ls -l
+cd sp-mobi/cache/
+ls
+rm * 
+cd ..
+tar -pczf spankki.tar.gz sp-mobi/
+cd ..
+tar -pczf spankki.tar.gz sp-mobi/
+tar -pczf spankki.tar.gz sp-mobi/
+brew
+brew search mongo
+brew install mongodb
+mongod run --config /usr/local/etc/mongod.conf 
+sudo pecl install mongo
+mongo
+&mongod run --config /usr/local/etc/mongod.conf 
+& mongod run --config /usr/local/etc/mongod.conf 
+vim /etc/php.ini
+sudo vim /etc/php.ini
+sudo apachctl restart
+sudo apachectl restart
+php
+brew search mongo
+php -V
+php -v
+brew install php53-mongo
+brew install josegonzalez/php/php53-mongo
+brew tap josegonzalez/php
+brew install josegonzalez/php/php53-mongo
+sudo vim /etc/php.ini
+sudo apachectl restart
+php
+php --modules
+vim /usr/local/etc/mongod.conf 
+cd /usr/local/var/
+ls
+ls -l
+cd mongodb/
+ls
+ls -l
+exit
+brew update
+brew upgrade
+mongod
+mongod run
+sudo vim /etc/hosts
+cd
+vim Sites/httpd-vhosts.conf 
+cd Sites/
+ls
+ls -l
+ll
+sudo apachectl restart
+ll
+brew update
+brew update
+brew install ngrep
+git clone https://github.com/mathiasbyenes/dotfiles.git && cd dotfiles && ./bootstrap.sh
+git clone https://github.com/mathiasbynens/dotfiles.git && cd dotfiles && ./bootstrap.sh
+exit
+ll
+vim .bash_profile 
+vim .bash_prompt 
+vim .aliases 
+l
+ngrep 
+cd Sites/geonames/
+wget http://www.openlayers.org/download/OpenLayers-2.12.tar.gz
+tar xvzf OpenLayers-2.12.tar.gz 
+rm OpenLayers-2.12.tar.gz 
+cd OpenLayers-2.12/
+cd ..
+mkdir css
+mkdir js
+mkdir img
+cd OpenLayers-2.12/
+copy OpenLayers.js ../js/.
+cp OpenLayers.js ../js/.
+..
+l js
+cd OpenLayers-2.12/
+l
+cd img/
+ll
+l
+cp . .../img/.
+cp * ../../img/.
+cd ..
+cd img
+l
+cd ..
+cd css
+wget http://jscrollpane.kelvinluck.com/style/jquery.jscrollpane.css
+l
+..
+cd js/
+wget http://jscrollpane.kelvinluck.com/script/jquery.mousewheel.js
+wget https://github.com/vitch/jScrollPane/blob/master/script/jquery.jscrollpane.min.js
+l
+cat jquery.jscrollpane.min.js.html 
+vim jquery.jscrollpane.min.js.html 
+vim jquery.jscrollpane.min.js
+l
+cat /var/mail/sartami 
+cd /.MobileBackups/
+su
+sudo cd /.MobileBackups/
+l
+top

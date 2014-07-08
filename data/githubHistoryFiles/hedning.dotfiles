@@ -1,0 +1,500 @@
+bg
+utorrent 
+./opera -pd .
+bg
+utorrent 
+fg %1
+utorrent 
+cd /home/hedin/.ion3/
+ls
+vim cfg_ioncore.lua 
+atq
+vim cfg_ioncore.lua 
+ls
+vim cfg_ioncore.lua 
+
+r
+clear
+ls
+vim cfg_ion.lua 
+rm .*
+ls
+utorrent 
+df -h
+sudo bluetoothoff 
+sudo bluetooth
+utorrent 
+boggle 
+utorrent 
+killall mplayer
+killall opera
+fg
+utorrent 
+ls 
+utorrent 
+cd /media/sda1/movies/
+unzip 129242.zip 
+utorrent 
+mplayer Koyaanisqatsi.DvdRip.DivX/Koyaanisqatsi.DvdRip.DivX.avi 
+u
+utorrent 
+ls
+ls *itizen*
+utorrent 
+mplayer -sub CITIZEN\ KANE\ -\ 1941\ \[PALDVD\]\ XVID\ MP3\ ENG\ \[A-RG\]/SUBTITLES/SUBTITLES.sub CITIZEN\ KANE\ -\ 1941\ \[PALDVD\]\ XVID\ MP3\ ENG\ \[A-RG\]/CITIZEN\ KANE\ -\ 1941\ \[PALDVD\]\ XVID\ MP3\ ENG\ \[A-RG\].avi 
+ls
+rm Top.Chef.S04E06.DSR.XviD-ORENJi.avi 
+utorrent 
+vim test
+cpp test 
+cpp --help
+vim test
+cpp test|sed "^#
+man cpp
+cpp test|sed "^# d"
+cpp test|sed "d ^#"
+cpp test|sed "s/^#.*//"
+vim test
+cpp test 
+vim test
+cd
+cd Desktop/opera-9.50-20080327.6-shared-qt.i386-1887/
+./opera -pd .
+cd ../opera-9.50-20080417.6-shared-qt.i386-1929/
+./opera -pd .
+zsh
+cd /media/sda1/movies/
+cd House\ Season\ 3/
+mplayer House\ 301\ -\ Meaning.avi 
+mplayer -sub The.Diving.Bell.And.The.Butterfly.LIMITED.DVDRip.XviD-DMT.srt The.Diving.Bell.and.the.Butterfly.LIMITED.DVDRip.XviD-DMT/dmt-diving.avdd --searchi 
+hidd --search
+xmodmap -e "clear lock"
+xmodmap -e "keycode 66 = Escape asciitilde"
+zsh
+cd doc/operaconfig/
+vim custom_opera_keyboard.opera 
+zsh
+alsamixer 
+sh
+cd /media/sda1/movies/House\ Season\ 3/
+ls
+zsh
+zsh
+vim doc/diverse/asdf
+zsh
+top
+top 
+sh
+top
+clear
+killall opera
+zsh
+sudo killall opera
+kill opera
+kill 29681
+killall nautilus 
+killall opera
+kill 29681
+sudo kill 29681 
+killall NetworkManager
+sudo killall NetworkManager
+exit 
+zsh
+killall nautilus 
+exit 
+killall unclutter 
+exit 
+exit
+cd -
+exit
+killall opera
+sudo killall opera
+top
+stop opera
+sudo stop opera
+sudo stop 30631
+exit 
+killall gnome-volume-manager 
+mount 
+gnome-volume-manager
+cd /media/disk
+ls
+..
+cd disk-1
+ls
+touch aue 
+mount
+aoeu
+exit
+exit 
+zsh
+l
+wc <configure
+wc configure
+exit
+exit 
+zsh
+l
+wc <configure
+wc configure
+exit
+bind --help
+bind -h
+
+
+
+exit
+bind 
+bind -h
+bind -m
+bind -m vi
+exit 
+exit
+zsh
+exit 
+aoe='toheu\ oeutha'
+echo $aoe
+aoe=toheu\ oeutha
+echo $aoe
+for i in $aoe; do echo $i; done
+for i in "$aoe"; do echo $i; done
+for i in '$aoe'; do echo $i; done
+exit 
+a=$(ls -R /media/sda1/musikk/)
+echo $a
+ls -R /media/sda1/musikk/ | grep /
+ls -R /media/sda1/musikk/ | grep / | sed 's=:$=\'*='
+=
+ls -R /media/sda1/musikk/ | grep / | sed 's=:$=\'*='
+ls -R /media/sda1/musikk/ | grep / | sed 's=:$="* "='
+ls -R /media/sda1/musikk/ | grep / | sed 's=:$="* "=' | sed 's=^="='
+a=$(ls -R /media/sda1/musikk/ | grep / | sed 's=:$="* "=' | sed 's=^="=')
+echo $a
+ls -R /media/sda1/musikk/ | grep / | sed 's=:$="*=' | sed 's=^="='
+a=$(ls -R /media/sda1/musikk/ | grep / | sed 's=:$="*=' | sed 's=^="=')
+echo $a
+for i in $a; do echo $i >> ~/.musclibr ; done
+less ../.musclibr 
+ls -R /media/sda1/musikk/ | grep / | sed 's=:$="*=' | sed 's=^="='
+a=$(ls -R /media/sda1/musikk/ | grep / | sed s/\:\$/\'\*/ | sed s/\^/\'/)
+echo $a
+a=$(ls -R /media/sda1/musikk/ | grep / | sed s/\:\$/\'\/\*/ | sed s/\^/\'/)
+a=$(ls -R /media/sda1/musikk/ | grep / | sed s/\:\$/\''/'\*/ | sed s/\^/\'/)
+a=$(ls -R /media/sda1/musikk/ | grep / | sed s=\:\$=\''/'\*= | sed s/\^/\'/)
+a=$(ls -R /media/sda1/musikk/ | grep / | sed s\=\:\$\=\''/'\*\= | sed s/\^/\'/)
+echo $a
+>~/.musclibr 
+for i in $a ; do if [ ! -f $i ] ; exit ;  done
+for i in $a ; do [ ! -f $i ] && continue; echo $a >> ~/.musclibr ; done
+cd
+head .musclibr 
+for i in $a ; do [ for i in $a ; do [ ! -f $i ] && continue; echo $a >> ~/.musclibr ; done $i ] && continue; echo $a >> ~/.musclibr ; done
+for i in $a ; do [ for i in $a ; do [ ! -f $i ] && continue; echo $a >> ~/.musclibr ; done $i ] && continue; echo $a >> ~/.musclibr ; done
+for i in $a ; do echo $a >> ~/.musclibr ; done
+head .musclibr 
+less .musclibr 
+vim .musclibr 
+>.musclibr 
+a=$(ls -Rb /media/sda1/musikk/ | grep / | sed s\=\:\$\=\''/'\*\= | sed s/\^/\'/)
+echo $a
+man ls
+a=$(ls -R --escape /media/sda1/musikk/ | grep / | sed s\=\:\$\=\''/'\*\= | sed s/\^/\'/)
+echo $A
+echo $a
+ls -b sda/musikk/
+ls -Rb sda/musikk/
+exit 
+for i in "/media/sda1/musikk/Antonin Dvorak - Rusalka (3CD) (Fleming, Mackerras, Czech Philharmonic Orchestra)"/ ; do echo $i; done
+for i in "/media/sda1/musikk/Antonin Dvorak - Rusalka (3CD) (Fleming, Mackerras, Czech Philharmonic Orchestra)"/ ; do echo $i \n; done
+for i in "/media/sda1/musikk/Antonin Dvorak - Rusalka (3CD) (Fleming, Mackerras, Czech Philharmonic Orchestra)"/ ; do echo $i <newline>; done
+for i in "/media/sda1/musikk/Antonin Dvorak - Rusalka (3CD) (Fleming, Mackerras, Czech Philharmonic Orchestra)"/ ; do echo $i <newline> ; done
+for i in "/media/sda1/musikk/Antonin Dvorak - Rusalka (3CD) (Fleming, Mackerras, Czech Philharmonic Orchestra)"/ ; do echo $i ; done
+for i in /media/sda1/musikk/Antonin Dvorak - Rusalka (3CD) (Fleming, Mackerras, Czech Philharmonic Orchestra)/ ; do echo $i ; done
+for i in '/media/sda1/musikk/Antonin Dvorak - Rusalka (3CD) (Fleming, Mackerras, Czech Philharmonic Orchestra)'/ ; do echo $i ; done
+man gdm
+exit 
+echo \n
+sh
+exit 
+[ $x ] && echo aseu
+[ $a ] && echo aseu
+a=aoeu
+[ $a ] && echo aseu
+$a
+man test
+bash
+aoe='aosenut ano\ aoeu'
+for i in $aoe; do echo $aoe; done
+for i in $aoe; do echo $i; done
+aoe="aosenut ano\ aoeu"
+for i in $aoe; do echo $i; done
+for i in "/media/sda1/musikk/Arizona\ Dream\ OST\ Goran\ Bregovic" "/media/sda1/musikk/Tchaikovsky - Violin Concerto (1996)"/; do echo $i; done
+find /media/sda1/musikk/ | sed 's=$=" ' | sed 's=^="'
+find /media/sda1/musikk/ | sed 's=$=" =' | sed 's=^="='
+for i in $(find /media/sda1/musikk/ | sed 's=$=" =' | sed 's=^="='); do echo $i >> ~/hohoho; done
+cd
+less hohoho 
+echo $(find /media/sda1/musikk/ | sed 's=$=" =' | sed 's=^="=')
+aoeuu='"aoeuau aoeu eu" "oaeu aoeu"'
+for i in $aoeuu; do echo $i; done
+for i in "aou aoue aou" " aoeu aoe " aoeu; do echo $i; done
+for i in "$aoeuu"; do echo $i; done
+for i in $aoeuu; do echo $i; done
+man sh
+exit 
+IFS=:
+comix ~/manga/hagaren72.cbz 
+IFS=: export IFS
+comix ~/manga/hagaren72.cbz 
+exit 
+IFS=:
+var='/media/sda1/musikk/:/home/hedin/musikk' 
+echo $var
+find $var
+find
+find /home/hedin/musikk/
+find /home/hedin/musikk/ | grep Abso
+l
+apropos cd burner
+apt-cdrom --help
+acs cd burner
+apropos cd burner
+cdw 
+gcdw
+a=(a b c d)
+echo ${a[@]}
+echo ${a[1]}
+echo ${a[0]}
+echo ${a[*]}
+find sda/musikk/ logs/ 
+FILES=(find ${CAT_PATH[@]} | sed 's=$=" =' | sed 's=^="=')
+FILES=($(find ${CAT_PATH[@]} | sed 's=$=" =' | sed 's=^="='))
+echo $FILES 
+a=($(find ${CAT_PATH[@]} | sed 's=$=" =' | sed 's=^="='))
+echo $a
+a=($(find ${CAT_PATH[@]} | sed 's=$=" =' | sed 's=^="=')) export a
+echo $a
+a=aeous
+echo $a
+vorbiscomment musikk/
+vorbiscomment musikk/ 2> /dev/null 
+vorbiscomment musikk/ > /dev/null 
+vorbiscomment musikk/Absolution/02.\ Apocalypse\ Please.ogg 2> /dev/null 
+vorbiscomment musikk/Absolution/02.\ Apocalypse\ Please.ogg 2>&1 /dev/null 
+vim bin/musclibr 
+man echo 
+echo $IFS 
+sh
+sh -V
+man tr
+man test
+[ games = *ames ] && echo aehu
+man sh
+man test
+fg
+vim bin/musclibr 
+man cdw
+gcdw -g
+cd /media/
+l
+cd cdrom
+l
+..
+gcdw 
+cd -
+l
+gcdw 
+a=("a b c" "1 2 3")
+for i in "${a[@]}"; do echo $i; done
+man bash
+vim musclibr 
+..
+>.musclibr 
+musclibr 
+less .musclibr 
+vorbiscomment musikk/Absolution/02.\ Apocalypse\ Please.ogg > /dev/null 2>&1
+echo $?
+vorbiscomment musikk/ dev/null 2>&1
+vorbiscomment musikk/This\ Is\ England\ -\ Soundtrack/01\ -\ Track\ \ 1.mp3 dev/null 2>&1
+vorbiscomment musikk/J.\ Brahms-F.\ Mendelssohn\ -\ Cello\ and\ Piano\ Sonatas\,\ Janos\ Starker\,\ Gyorgy\ Sebok\[FLAC\]by\ Tony/01\ Allegro\ non\ troppo.flac dev/null 2>&1
+vorbiscomment musikk/J.\ Brahms-F.\ Mendelssohn\ -\ Cello\ and\ Piano\ Sonatas\,\ Janos\ Starker\,\ Gyorgy\ Sebok\[FLAC\]by\ Tony/01\ Allegro\ non\ troppo.flac dev/null
+vorbiscomment musikk/J.\ Brahms-F.\ Mendelssohn\ -\ Cello\ and\ Piano\ Sonatas\,\ Janos\ Starker\,\ Gyorgy\ Sebok\[FLAC\]by\ Tony/01\ Allegro\ non\ troppo.flac > dev/null 2>&1
+vorbiscomment musikk/J.\ Brahms-F.\ Mendelssohn\ -\ Cello\ and\ Piano\ Sonatas\,\ Janos\ Starker\,\ Gyorgy\ Sebok\[FLAC\]by\ Tony/01\ Allegro\ non\ troppo.flac > /dev/null 2>&1
+echo $?
+fg
+musclibr 
+less .musclibr 
+fg
+musclibr 
+fg
+musclibr 
+less .musclibr 
+fg
+musclibr 
+less .musclibr 
+fg
+musclibr 
+less .musclibr 
+fg
+musclibr 
+vim bin/musclibr 
+musclibr 
+fg
+vim bin/musclibr 
+musclibr 
+less .musclibr 
+fg
+musclibr 
+fg
+less .musclibr 
+fg
+musclibr 
+fg
+musclibr 
+less 
+echo $IFS 
+less .musclibr 
+>.musclibr 
+fg
+musclibr 
+less .musclibr 
+fg
+vim bin/musclibr 
+musclibr 
+less .musclibr 
+vim bin/musclibr 
+musclibr 
+less .musclibr 
+fg
+musclibr 
+less .musclibr 
+fg
+musclibr 
+less .musclibr 
+fg
+musclibr 
+less .musclibr 
+>.musclibr 
+musclibr 
+less .musclibr 
+fg
+>.musclibr 
+musclibr 
+fg
+>.musclibr 
+musclibr 
+less .musclibr 
+fg
+musclibr 
+less .musclibr 
+>.musclibr 
+musclibr 
+less .musclibr 
+fg
+musclibr 
+vim bin/musclibr 
+musclibr 
+cd musikk/
+l
+cd Nicolo\ Paganini/
+l
+cd Guitar\ Music.\ Marco\ Tamayo/
+l
+mv 01\ -\ Grand\ Sonata\ in\ A\ major\:\ Allegro\ rustico.flac 01\ -\ Grand\ Sonata\ in\ A\ major\:\ Allegro\ rustico.ogg
+vorbiscomment 01\ -\ Grand\ Sonata\ in\ A\ major\:\ Allegro\ rustico.ogg 
+mv 01\ -\ Grand\ Sonata\ in\ A\ major\:\ Allegro\ rustico.flac 01\ -\ Grand\ Sonata\ in\ A\ major\:\ Allegro\ rustico.flac
+fg
+
+vim /home/hedin/bin/musclibr 
+killall nautilius
+killall nautilus
+exit 
+$((4*2.4))
+exit 
+ls *(/*)
+find -iname '*(\*)'
+ping hw.no
+ls *(/*/*)
+ls "*(/*/*)"
+ls *(/*/*)
+exit
+su
+mplayer -sub The.Diving.Bell.And.The.Butterfly.LIMITED.DVDRip.XviD-DMT.srt The.Diving.Bell.and.the.Butterfly.LIMITED.DVDRip.XviD-DMT/dmt-diving.avdd --searchi  
+exit
+kill
+exit
+aoeu
+exit
+ls [!r]
+ls [!r]*
+exit
+opera -window 10496984 -remote openURL\('http://www.google.com/search?client=opera&rls=en&q=aoeu&sourceid=opera&num=%i%ie=utf-8&oe=utf-8/'\)
+exit
+opera -window 10496984 -remote openURL\('http://www.google.com/search?client=opera&rls=en&q=aoeu&sourceid=opera&num=%i%ie=utf-8&oe=utf-8')
+opera -window 10496984 -remote openURL\('http://www.google.com/search?client=opera&rls=en&q=aoeu&sourceid=opera&num=%i%ie=utf-8&oe=utf-8'\)
+opera -window 10496984 -remote openURL\('http://www.google.com/search?client=opera&rls=en&q=aoeu&sourceid=opera&num=%i%ie=utf-8&oe=utf-8/'\)
+opera -window 10496984 -remote openURL\('http://www.google.com/search?client=opera&rls=en&q=aoeu&sourceid=opera&num=%i%ie=utf-8&oe=utf-8'\)
+opera -window 10496984 -remote openURL\('www.google.com/search?client=opera&rls=en&q=aoeu&sourceid=opera&num=%i%ie=utf-8&oe=utf-8'\)
+opera -window 10496984 -remote openURL\('http://www.google.com/search?client=opera&rls=en&q=aoeu&sourceid=opera&num=%i%ie=utf-8&oe=utf-8'\)
+opera -window 10496984 -remote openURL\('http://www.google.com/search?client=opera&rls=en&q=aoeu&sourceid=opera&num=%i%ie=utf-8&oe=utf-8/'\)
+opera -window 10496984 -remote openURL\('http://www.google.com/search?client=opera&rls=en&q=aoeu&sourceid=opera&num=%i%ie=utf-8&oe=utf-8'\)
+opera -window 10496984 -remote openURL\('http://www.google.com/search?client=opera&rls=en&q=aoeu&sourceid=opera&num=%i%ie=utf-8&oe=utf-8/'\)
+opera -window 10496984 -remote openURL\('http://www.google.com/search?client=opera&rls=en&q=aoeu&sourceid=opera&num=%i%ie=utf-8&oe=utf-8'\)
+opera -window 10496984 -remote openURL\('http://www.google.com/search?client=opera&rls=en&q=aoeu&sourceid=opera&num=%i%ie=utf-8&oe=utf-8/'\)
+X --version
+Xorg --version
+man Xorg 
+which Xorg
+ll $(which Xorg)
+ll $(which X)
+man X
+man Xorg 
+whois 193.213.112.4
+whois 130.67.15.198
+cd /etc/
+vim resolv
+vim resolv.conf 
+cd resolvconf/
+l
+cd update-libc.d/
+l
+vim avahi-daemon 
+cd ../../
+exit
+git branch 
+exit
+echo "/home/debhed/temp" |sed -e "s=.*/\([^\/]*\)\$=\1="
+exit
+if [ ! $aoeu ] ; then echo "hoho"; fi
+exit
+users
+users
+bash -l
+{ sleep 5 && echo "finished" } & echo "started"; 
+( sleep 5 && echo "finished" ) & echo "started"; 
+exit
+function test() { echo $#}
+function test() { echo $#; }
+aoeu="hoho hehe"
+test $aoeu 
+exit
+aoeu="hoho hehe"
+echo $aoeu
+aoeu="hoho hehe"
+echo $IFS
+echo $aoeu
+aoeu="hoho\ hehe"
+exit
+telnet 192.168.1.1 9000
+l
+telnet 192.168.1.1 9000
+date
+l
+hash
+man hash
+man 1 hash
+hash --help
+hash -h
+cat test > foo1 > foo2
+cat foo1 
+cat foo2 

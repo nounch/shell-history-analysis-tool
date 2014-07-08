@@ -1,0 +1,1024 @@
+ifconfig
+exit
+cd Arbeit/Rprogramming/npExact/
+R CMD check npExact
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+sudo pm-suspend
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+pacupg
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+pacupg
+exit
+keepassx &
+exit
+sudo pm-suspend
+exit
+nano .gtkrc-2.0 
+gtk-chtheme 
+nano .gtkrc-2.0 
+exit
+evince &
+find $(find ~/.themes /usr/share/themes/ -wholename "*/gtk-3.0" | sed -e "s/^\(.*\)\/gtk-3.0$/\1/")\
+-wholename "*/gtk-2.0" | sed -e "s/.*\/\(.*\)\/gtk-2.0/\1"/
+find $(find ~/.themes /usr/share/themes/ -wholename "*/gtk-3.0" | sed -e "s/^\(.*\)\/gtk-3.0$/\1/")\
+-wholename "*/gtk-2.0" | sed -e "s/.*\/\(.*\)\/gtk-2.0/\1"/
+cp .gtkrc-2.0 .gtkrc-3.0
+cat .gtkrc-2.0 
+nano .gtkrc-3.0 
+gtk-chtheme 
+evince &
+exit
+cat backup1
+cat backup2 
+cat backup3
+aurbuild faience-themes
+pacins faience-themes-0.5.2-1-any.pkg.tar.xz 
+gtk-chtheme 
+pacs gtk-engine-unico
+cd .config/gtk-3.0/
+cat settings.ini 
+..
+mv gtk-3.0/ ~/Else/
+l
+evince
+gtk-chtheme 
+evince
+gtk-chtheme 
+pacs gtk-engine
+aurbuild zukitwo-themes
+..
+pacrem pspp
+pacrem pino
+rm pino*
+rmdir pino/
+rm -R pino/*
+rmdir pino/
+rm -R pspp/*
+rm pspp*
+rmdir pspp/
+pacrem thunar-dropbox
+pacrem tint2-themes
+rm *.tar.gz
+rm *.tar.gz.1
+rm *.tar.gz*
+rm getbat.c 
+rm PKGBUILD 
+pacrem batterymon-clone
+pacrem archey3/
+pacrem archey3
+gtk-chtheme 
+exit
+mv Else/gtk-3.0/ .config/.gtk-3.0/
+cd .config
+mv .gtk-3.0/ gtk-3.0/
+la gtk-3.0/
+cd gtk-3.0/
+cat settings.ini 
+exit
+nano .gtkrc-3.0 
+cd .config/gtk-3.0/
+cat settings.ini 
+evince
+mv settings.ini bakk_settings.ini
+ln -s /usr/share/themes/Zukitwo/gtk-3.0/settings.ini settings.ini
+evince
+exit
+evince
+cd la
+cat .gtkrc-3.0 
+cat .gtkrc-2.0 
+cd /usr/share/themes/Zukitwo/gtk-3.0/
+cat settings.ini 
+cat gtk.css 
+..
+cd gtk-2.0/
+cat gtkrc 
+exit
+nano .gtkrc-3.0 
+exit
+cd .config/gtk-3.0/
+rm settings.ini 
+mv bakk_settings.ini settings.ini
+l
+...
+pacupg
+cd .themes
+cd Zukitwo/
+cd gtk-3.0/
+md5sum
+md5sum *
+md5sum /usr/share/themes/Zukitwo/gtk-3.0/*
+cat .gtkrc-2.0 
+nano .gtkrc-2.0 
+cat backup1 
+rm backup1 
+cat backup2 
+rm backup2
+cat backup3 
+mv backup3 .gtkrc.mine
+cd .gtkrc.mine 
+rm .gtkrc.mine 
+mv .gtkrc-2.0 dotfiles/
+mv .gtkrc-3.0 dotfiles/
+ln -s dotfiles/.gtkrc-2.0 .gtkrc-2.0
+ln -s dotfiles/.gtkrc-3.0 .gtkrc-3.0
+ln -s dotfiles/.gtkrc.mine .gtkrc.mine
+cat .gtkrc-2.0 
+cat .gtkrc-3.0 
+exit
+evince
+cat .config/bakk.gtk-3.0/settings.ini 
+exit
+la .themes/
+cd .themes
+la Ivi_ob/
+la Universal/
+cd /usr/share/themes/
+evince
+gtk-chtheme 
+sudo gtk-chtheme 
+gtk-chtheme 
+pacrem playbill-blue
+pacrem playbill
+pacs playbill
+pacloc playbill
+alias
+paclocs play
+evince
+lxappearance 
+history | grep zukitwo
+aurbuild zukitwo-themes
+pacins zukitwo-themes-20120817-2-any.pkg.tar.xz 
+cd /usr/share/themes/
+lxappearance 
+evince
+exit
+cd .config/gtk-3.0/
+md5sum *
+..
+mv gtk-3.0/ bakk.gtk-3.0/
+cp -r /usr/share/themes/Zukitwo/gtk-3.0/ ~/.config/
+evince
+cd gtk-3.0/
+cat settings.ini 
+nano settings.ini 
+cat settings.ini 
+cat ~/.gtkrc-3.0 
+nano ~/.gtkrc-3.0 
+evince
+cat settings.ini 
+nano settings.ini 
+pacs appearance
+pacin lxappearance
+lxappearance 
+evince
+pacs librsvg
+pacs gnome-themes
+pacin gnome-themes-extras
+..
+la gtk-2.0/
+..
+cat .gtkrc-2.0 
+rm .gtkrc-3.0 
+rm .gtkrc.mine 
+lxappearance 
+cd .config/
+mv gtk-3.0/ bakkgtk3/
+mkdir gtk-3.0
+la gtk-3.0/
+cat gtk-3.0/settings.ini 
+evince
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd Arbeit/Rprogramming/npExact/
+R CMD check npExact
+exit
+pacupg
+pacclean
+exit
+pacs gecko
+pacin gecko-mediaplayer
+pacupg
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+~
+exit
+alsamixer 
+pacupg
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+pacs chromium
+pacin chromium
+chromium &
+exit
+chromium &
+pacupg
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+pacpg
+pacupg
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+pacupg
+pacloc m17n
+pacloc m17n-db
+pacloc m17n-lib
+exit
+alsamixer 
+pacupg
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd Arbeit/Rprogramming/npExact/
+R CMD check npExact
+cat npExact.Rcheck/00install.out 
+R CMD check npExact
+cat npExact.Rcheck/00install.out 
+R CMD check npExact
+cat npExact.Rcheck/00check.log 
+R CMD check npExact
+R CMD build npExact
+R CMD install npExact
+R CMD install npExact_0.1.tar.gz 
+R CMD install --help
+R
+exit
+cd Arbeit/Rprogramming/npExact/
+..
+l
+rm npstatscoursedata\ ex.xlsx 
+cd npExact/
+la npExact/R/
+exit
+cd Arbeit/Rprogramming/npExact/la
+cd Arbeit/Rprogramming/npExact/
+evince npExact.Rcheck/npExact-manual.pdf &
+exit
+history | scan
+history | scan
+history | grep scan
+xsane
+history | grep xsane
+evince &
+x
+xsane &
+e
+exit
+scanimage -L
+/usr/local/Brother/
+aurbuild brscan2
+pacins brscan2-0.2.5-1-x86_64.pkg.tar.xz 
+sudo /usr/local/Brother/sane/setupSaneScan2 -i
+scanimage -L
+scanimage --format=tiff > test.tiff
+feh test.tiff 
+xsane
+scanimage --format=jpeg > test.jpeg
+feh test.jpeg 
+lsusb
+gpasswd -a reitero scanner
+sudo gpasswd -a reitero scanner
+sudo gpasswd -a reitero lp
+scanimage -L
+scanimage --format=jpeg > test.jpeg
+feh test.jpeg 
+man scanimage
+exit
+scanimage -L
+scanimage --list-devices
+scanimage -d brother2:bus1;dev1 --format=jpeg > test.jpeg
+lsusb
+man scanimage
+exit
+man scanimage
+exit
+man scanimage
+echo $SANE_DEFAULT_DEVICE
+cat /etc/sane.d/bh.conf 
+cat /etc/udev/rules.d/10-usbprinter.rules 
+lsusb
+nano /etc/udev/rules.d/10-usbprinter.rules 
+sudo nano /etc/udev/rules.d/10-usbprinter.rules 
+sudo service udev restart
+sudo systemctl udev restart
+sudo systemd udev restart
+sudo systemctl restart udev
+sudo systemctl restart udev.service
+systemctl status udev.service
+sudo systemctl enable udev.service
+pacs udevi
+pacs udev
+lsusb
+scanimage -L
+sudo nano /etc/sane.d/dll.conf 
+echo $SANE_DEFAULT_DEVICE
+aurbuild brother-dcp7010
+pacloc brother
+paclocs brother
+xsane &
+cd /dev/usb/lp0 
+cd /dev/usb/
+cd lp0 
+cat lp0 
+aaaaaii
+scanimage -f “ scanner number %i device %d is a %t,  model  %m,
+              produced by %v ”
+scanimage -f “ scanner number %i device %d is a %t,  model  %m,
+              produced by %v ”
+scanimage -f “ scanner number %i device %d is a %t,  model  %m,produced by %v ”
+sudo scanimage -L
+sudo scanimage --format=jpeg > test.jpeg
+aurbuild sane-git
+pacins sane-git-20121205-1-x86_64.pkg.tar.xz 
+cd s
+cd src/
+cd sane-backends
+scanimage -L
+/usr/local/Brother/sane/setupSaneScan1 -i
+sudo /usr/local/Brother/sane/setupSaneScan1 -i
+sudo /usr/local/Brother/sane/setupSaneScan2 -i
+scanimage -L
+xsane
+sudo scanimage --format=jpeg > test.jpeg
+scanimage --format=jpeg > test.jpeg
+feh test
+feh test.jpeg 
+rm test.jpeg 
+scanimage --format=jpeg > test.jpeg
+feh test.jpeg 
+scanimage --format=jpeg > test.jpeg
+feh test.jpeg 
+scanimage --format=jpeg > test.jpeg
+feh test.jpeg 
+scanimage --format=jpeg > test.jpeg
+feh test.jpeg 
+scanimage -x 100 -y 100 --format=jpeg > test.jpeg
+feh test.jpeg &
+scanimage -x 200 -y 200 --format=jpeg > test.jpeg
+feh test.jpeg &
+scanimage -h
+scanimage --help -d brother2:bus1;dev1
+sudo scanimage -x 200 -y 200 --format=jpeg > test.jpeg
+scanimage --format=jpeg > gedicht1.jpeg
+feh gedicht1.jpeg 
+scanimage --format=jpeg > gedicht2.jpeg
+feh gedicht2.jpeg 
+feh gedicht1.jpeg 
+sudo scanimage -x 200 -y 200 --format=jpeg > gedicht1a.jpeg
+scanimage -x 200 -y 200 --format=jpeg > gedicht1a.jpeg
+feh 
+feh gedicht1a.jpeg 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd Arbeit/Rprogramming/npExact/
+R CMD check npExact
+R CMD build npExact
+pacupg
+exit
+ping www.gmx.at
+ping www.chess.com
+exit
+wicd-client --tray &
+exit
+pacupg
+nano /etc/pacman.conf
+sudo nano /etc/pacman.conf
+pacupg
+exit
+cd dotfiles/.config/awesome/
+git submodule add git://github.com/zauster/Orglendar.git .
+...
+git submodule add git://github.com/zauster/Orglendar.git .config/awesome/
+git submodule add git://github.com/zauster/Orglendar.git .config/awesome/orglendar
+gst
+cd -
+ln -s orglendar/orglendar.lua orglendar.lua
+exit
+pwd
+cd Dropbox/Org/
+pwd
+exit
+pacloc awesome
+cd dotfiles/.config/awesome/
+git rm orglendar
+git rm -r orglendar
+...
+git rm -r orglendar
+git rm -r .config/awesome/orglendar
+gst
+history | grep submodule
+cd -
+cd orglendar
+gst
+gco 
+gb
+gco awesome-3.4.x
+gitk
+gb
+gst
+exit
+evince 
+exit
+awesome -k
+man awesome
+cd dotfiles/.config/awesome/
+c icons/
+cd icons/
+exit
+exec sudo -u root -s -H -p Password:
+exec sudo -u root -s -H -p Password:
+cd .config/awesome/icons/
+rm *.png
+rm n2i.xcf 
+feh ac.png 
+exit
+pacloc convert
+pacin convert
+cd Downloads/xbm8x8
+for x in *; do convert "${x}" "${x%.*}.png"; done
+cp *.png ~/dotfiles/.config/awesome/icons/
+exit
+ps aux | grep urxvt
+kill 14060
+ps aux | grep urxvt
+kill 100004
+kill 11463
+exit
+cd .config/awesome/icons/
+for x in *.xbm; do convert -bordercolor transparent -border 25x25 -gravity center -crop 20x20+0+0 "${x}" "${x%.*}.png"; done
+for x in *; do convert -bordercolor transparent -border 25x25 -gravity center -crop 20x20+0+0 "${x}" "${x%.*}.png"; done
+rm *.png
+for x in ~/Downloads/xbm8x8/*.xbm; do convert -bordercolor transparent -border 25x25 -gravity center -crop 20x20+0+0 "${x}" "${x%.*}.png"; done
+cp ~/Downloads/xbm8x8/*.png .
+exit
+pacloc chromium
+exit
+cd .config/
+la bakk.gtk-3.0/
+la bakkgtk3/
+exit
+cd .config
+gst
+cd awesome/orglendar
+gst
+git push origin master
+gst
+git push origin awesome-3.4.x
+gitk
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+pacupg
+exit
+top
+kill 25392
+exit
+cd Arbeit/Rprogramming/npExact/
+R CMD check npExact
+R CMD build npExact
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+pacupg
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+sudo pm-suspend
+pacupg
+pacrem chromium
+pacupg
+iwconfig
+pacupg
+exit
+sudo pm-suspend
+exit
+sudo pm-suspend
+exit
+sudo pm-suspend
+exit
+pdfjoin
+cd studium/thesis/tplm/reports/
+pdfjoin masterthesis.pdf cv_oreiter_masterthesis.pdf 
+evince cv_oreiter_masterthesis-joined.pdf 
+man pdfjoin
+exit
+man pdfjoin
+cd studium/thesis/tplm/reports/
+evince cv_oreiter_masterthesis-joined.pdf 
+pdfjoin masterthesis.pdf cv_oreiter_masterthesis.pdf 
+evince cv_oreiter_masterthesis-joined.pdf 
+pdfinfo cv_oreiter_masterthesis.pdf 
+pdfinfo masterthesis.pdf 
+pdfinfo cv_oreiter_masterthesis.pdf 
+rm cv_oreiter_masterthesis.pdf 
+pdfjoin masterthesis.pdf cv_oreiter_masterthesis.pdf 
+evince cv_oreiter_masterthesis-joined.pdf 
+pdfjoin masterthesis.pdf cv_oreiter_masterthesis.pdf 
+evince cv_oreiter_masterthesis-joined.pdf 
+exit
+pacupg
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+ext
+exit
+ps aux | grep screen
+kill 900
+ps aux | grep screen
+exit
+wicd-client --tray &
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+pacupg
+exit
+wicd-client --tray &
+exit
+pacupg
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+pacupg
+exit
+mount
+umount /dev/sdb1
+sudo umount /dev/sdb1
+exit
+sudo pm-suspend
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+pacupg
+exit
+wicd-client --tray &
+exit
+pacupg
+exit
+sudo pm-suspend
+exit
+wicd-client --tray &
+eexit
+exit
+wicd-client --tray &
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3
+wine RosettaStoneVersion3.exe 
+pacupg
+exit
+pacupg
+exit
+wicd-client --tray &
+exit
+ pacclean
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+pacupg
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe &
+exit
+wicd-client --tray &
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe &
+exit
+wicd-client --tray &
+exit
+cd /media/Seagate_Expansion_Drive/
+cp ~/ebookers_buchung_alles.pdf 
+cp ~/ebookers_buchung_alles.pdf . 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+pacupg
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+pacs hindi
+pacs devana
+pacs deva
+pacs script
+exit
+pacs xetex
+exit
+pacs texlive-lang
+exit
+cd /usr/lib/pm-utils/power.d/
+lsmod | grep snd
+modinfo snd_hda_codec_conexant
+alsamixer 
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+devnag sample.dn 
+pdflatex sample.tex 
+evince sample.pdf &
+exit
+pacs texlive-lang
+pacin texlive-langextra
+pacs texlive-fonts
+alsamixer 
+exit
+devnag sample.dn 
+pdflatex sample.tex 
+evince sample.pdf &
+devnag sample.dn 
+pdflatex sample.tex 
+devnag sample.dn 
+pdflatex sample.tex 
+devnag sample.dn 
+pdflatex sample.tex 
+devnag sample.dn 
+pdflatex sample.tex 
+devnag sample.dn & pdflatex sample.tex 
+devnag sample.dn && pdflatex sample.tex 
+devnag sample.dn & pdflatex sample.tex 
+devnag sample.dn && pdflatex sample.tex 
+exit
+cp Downloads/Kingpin\[1996\]DvDRip-Rdgrnnr/ /media/Seagate_Expansion_Drive/Filme/
+cp Downloads/Kingpin\[1996\]DvDRip-Rdgrnnr/* /media/Seagate_Expansion_Drive/Filme/
+exit
+sudo pm-suspend
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+pacupg
+exit
+wicd-client --tray &
+exit
+sudo pm-suspend
+exit
+wicd-client --tray &
+pacupg
+wicd-client --tray &
+ps aux | grep wicd
+kill 1600
+exit
+ifconfig
+iwconfig
+exit
+pacupg
+exit
+pacupg
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+lua
+lua -e 'lgi = require("lgi") print(lgi.cairo, lgi.Pango, lgi.PangoCairo)
+
+
+
+pacs lgi
+pacupg
+exit
+sudo restart
+sudo shutdown
+sudo shutdown -c
+sudo shutdown now
+exit
+alsamixer 
+ps aux | grep wicd
+wicd-client --tray &
+alsamixer 
+cd dotfiles/.config/awesome/
+man meld
+exit
+awesome -k
+pacs xephyr
+pacin xorg-server-xephyr
+exit
+Xephyr -ac -br -noreset -screen 800x600 :1
+Xephyr -ac -br -noreset -screen 800x600 :1 &
+DISPLAY=:1.0
+awesome -c ~/.config/awesome/rc.lua
+cd dotfiles/
+chmod +x xephyr-awesome 
+. xephyr-awesome 
+ps aux | grep xephyr
+Xephyr -ac -br -noreset -screen 800x600 :1
+Xephyr -ac -br -noreset -screen 800x600 :1 &
+DISPLAY=:1.0
+awesome -c ~/.config/awesome/rc.lua &
+ps aux | grep awesome
+kill 4809
+awesome -c ~/.config/awesome/rc.tdy.lua &
+ps aux | grep awesome
+kill 5573
+ps aux | grep xephyr
+exit
+/bin/pidof Xephyr | cut -d\  -f1
+ps aux | grep Xephyr
+kill 4739
+exit
+cd dotfiles/
+cp .config/awesome/rc.lua rc.lua.backup
+. awesome_test start
+. awesome_test restart
+la .config/awesome/icons/
+. awesome_test restart
+. awesome_test stop
+exit
+cd dotfiles/
+. awesome_test start
+. awesome_test restart
+. awesome_test stop
+. awesome_test start
+. awesome_test restart
+. awesome_test stop
+. awesome_test start
+. awesome_test restart
+. awesome_test stop
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+. awesome_test start
+cd dotfiles/
+. awesome_test start
+. awesome_test restart
+. awesome_test stop
+exit
+alsamixer 
+exit
+lsusb
+scanimage -L
+exit
+pacs scan
+pacs sane
+history | grep scan
+scanimage -L
+scanimage --format=jpeg > test.jpeg
+pacs gphoto
+history | less
+sudo scanimage -L
+where libgphoto2.so.2
+which libgphoto2.so.2
+whereis libgphoto2.so.2
+ln -s /usr/local/bin/libgphoto2.so.2 /lib/libgphoto2.so
+man ln
+ln -s /lib/libgphoto2.so /usr/local/bin/libgphoto2.so.2
+sudo ln -s /lib/libgphoto2.so /usr/local/bin/libgphoto2.so.2
+sudo scanimage -L
+whereis libgphoto2.so.2
+which libgphoto2.so.2
+sudo ln -s /lib/libgphoto2.so /usr/bin/libgphoto2.so.2
+sudo ln -s /lib/libgphoto2.so /bin/libgphoto2.so.2
+sudo ln -s /lib/libgphoto2.so /usr/local/sbin/libgphoto2.so.2
+scanimage -L
+history | grep scanimage
+scanimage --format=jpeg > test.jpeg
+pacs libgphoto
+lsusb
+scanimage -L
+history | grep rules
+nano /etc/udev/rules.d/10-usbprinter.rules 
+sudo nano /etc/udev/rules.d/10-usbprinter.rules 
+pacs sane
+pacin sane
+history | grep gpasswd
+scanimage -L
+scanimage --format=jpeg > test.jpeg
+history | grep scanimage
+scanimage -x 200 -y 200 --format=jpeg > gedicht1a.jpeg
+scanimage -x 200 -y 200 --format=tiff > gedicht1a.tiff
+man scanimage
+scanimage -h
+scanimage --help -d pixma:04A91709
+scanimage --help -d pixma:04A91709_B34DFC
+scanimage -d pixma:04A91709_B34DFC > passport.pnm
+scanimage --format=tiff -d pixma:04A91709_B34DFC > passport.tiff
+scanimage --format=tiff -d pixma:04A91709_B34DFC > visum.tiff
+scanimage --format=tiff -d pixma:04A91709_B34DFC > passport.tiff
+exit
+cd .config/awesome/orglendar/
+gst
+gb
+gb master
+gco master
+exit
+scanimage --format=tiff -d pixma:04A91709_B34DFC > passport.tiff
+scanimage --help -d pixma:04A91709_B34DFC
+scanimage --format=tiff --resolution=600 -d pixma:04A91709_B34DFC > passport.tiff
+scanimage --format=tiff --resolution=300 -d pixma:04A91709_B34DFC > passport.tiff
+scanimage --format=tiff --resolution=150 -d pixma:04A91709_B34DFC > passport.tiff
+scanimage --format=tiff --resolution=150 -d pixma:04A91709_B34DFC > visum.tiff
+scanimage --format=tiff --resolution=150 -d pixma:04A91709_B34DFC > passport.tiff
+cd dotfiles/
+. awesome_test start
+. awesome_test restart
+. awesome_test stop
+. awesome_test start
+. awesome_test restart
+exit
+cd dotfiles/
+. awesome_test stop
+exit
+cd Dropbox/Dokumente/
+convert fp_passport_small.jpeg 1.pdf
+convert passport_small.jpeg 2.pdf
+convert visum_small.jpeg 3.pdf
+history | grep masterthesis
+pdfjoin 1.pdf 2.pdf 3.pdf pass.pdf
+pdfjoin 1.pdf 2.pdf 3.pdf
+mv 3-joined.pdf pass.pdf
+evince pass.pdf 
+wicd-client --tray &
+ex
+exit
+pacs freecell
+pacupg
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+sudo pm-suspend
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+sudo pm-suspend
+exit
+mount -a
+sudo mount -a
+exit
+restart
+reboot
+alsamixer 
+exit
+pacupg
+exit
+sudo pm-suspend
+exit
+wicd-client --tray &
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+history | grep loop
+exit
+la /media/
+cd disk
+cd /media/
+cd disk
+cd ../disk2/
+..
+la mnt/
+cd ~/Downloads/Rosetta\ Stone\ V3\ -\ Hindi/
+mount -t iso9660 -o ro,loop=/dev/loop0 Rosetta_Stone_V3_-_Hindi_-_Level_2.iso /media/disk/
+sudo mount -t iso9660 -o ro,loop=/dev/loop0 Rosetta_Stone_V3_-_Hindi_-_Level_2.iso /media/disk/
+mount -o loop Rosetta_Stone_V3_-_Hindi_-_Level_2.iso /media/disk/
+sudo mount -o loop Rosetta_Stone_V3_-_Hindi_-_Level_2.iso /media/disk/
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+pacupg
+exit
+alsamixer 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe &
+pacupg
+exit
+pacupg
+exit
+wicd-client --tray &
+exit
+ping www.google.com
+ping 192.168.0.1
+ping www.google.com
+exit
+wicd-client --tray &
+ping www.gmx.at
+exit
+iwconfig
+sudo iwconfig wlan0 power on
+exit
+reboot
+wicd-client --tray &
+ping www.gmx.at
+hex
+ping www.gmx.at
+ping 192.168.0.1
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+pacupg
+pacs asunder
+pacin asunder
+pacin cdparanoia
+cdparanoia &
+pacin asunder
+grip
+pacs sound
+asunder &
+exit
+pacupg
+pacs systemd
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe &
+exit
+pacupg
+ext
+exit
+sudo pm-suspend
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+sudo pm-suspend
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+pacupg
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+wicd-client --tray &
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+exit
+cd .wine/drive_c/Program\ Files\ \(x86\)/Rosetta\ Stone/Rosetta\ Stone\ Version\ 3/
+wine RosettaStoneVersion3.exe 
+pacupg
+exit
+pacs banshee
+pacin banshee
+pacs rhythmbox
+pacin rhythmbox
+exit
+pacin banshee
+banshee &
+exit
+ps aux | grep banshee
+kill 20301
+banshee &
+ps aux | grep banshee
+kill 20685
+banshee &
+ps aux | grep banshee
+kill 21106
+pacrem banshee
+pacin rhythmbox
+rhythmbox &
+exit
+pacrem rhythmbox
+history | grep cups
+sudo systemctl restart cups
+cd Downloads/
+mv *.mp3 /media/JUKEBOX/Music/Podcasts/EconTalk/
+sudo mv *.mp3 /media/JUKEBOX/Music/Podcasts/EconTalk/
+cd /media/JUKEBOX/
+history | grep chown
+sudo chown reitero -R *

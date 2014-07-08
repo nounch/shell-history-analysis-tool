@@ -1,0 +1,210 @@
+: 1340204059:0;mvim .zshrc
+: 1340204321:0;ls .oh-my-zsh
+: 1340204396:0;scpt
+: 1340204477:0;mvim .zshrc
+: 1340345690:0;cd Movies/.lol
+: 1340345695:0;ls
+: 1340345714:0;mplayer iak-x-art-110413.mov
+: 1340373386:0;brews
+: 1340376082:0;ls .oh-my-zsh/themes
+: 1340376093:0;mvim .zshrc
+: 1340376106:0;cd .oh-my-zsh/themes
+: 1340376131:0;cp fishy.zsh-theme fishy-mod.zsh-theme
+: 1340376435:0;cd Documents
+: 1340378892:0;cd Movies/.lol
+: 1340378948:0;mplayer ktr.xart.12.05.16.connie.romantic.memories.mov
+: 1340409425:0;cat /etc/hosts
+: 1340409887:0;sudo ipconfig
+: 1340409898:0;ipconfig
+: 1340410109:0;ping ajax.googleapis.com
+: 1340472276:0;ssh muse@192.168.1.149
+: 1340472299:0;cd Downloads
+: 1340472300:0;ls
+: 1340472309:0;scpt
+: 1340472386:0;mvt
+: 1340472499:0;scpt
+: 1340472506:0;mvt
+: 1340495592:0;clear
+: 1340509534:0;cd Downloads
+: 1340509536:0;scpt
+: 1340509541:0;mvt
+: 1340510494:0;cd Movies/
+: 1340510512:0;mv X-Art.12.06.15.Caprice.And.Angel.Girls.Night.XXX.1080p.MOV-KTR/ktr.xart.12.06.15.caprice.and.angel.girls.night.mov .lol/
+: 1340510518:0;ls .lol
+: 1340510523:0;rm -r X-Art.12.06.15.Caprice.And.Angel.Girls.Night.XXX.1080p.MOV-KTR
+: 1340510596:0;cd .lol
+: 1340510635:0;mplayer ktr.xart.12.06.15.caprice.and.angel.girls.night.mov
+: 1340596538:0;cd Movies/.lol
+: 1340596540:0;mplayer ktr.xart.12.06.15.caprice.and.angel.girls.night.mov
+: 1340668196:0;cd Developer/Obj-C/prog1
+: 1340668246:0;clang -fobjc-arc -framework Foundation main.m -o prog1
+: 1340668284:0;mvim main.m
+: 1340670009:0;mvim main.m.old
+: 1340670024:0;mvim main.m.old.m
+: 1340670097:0;clang -fobjc-arc -framework Foundation main.m.old.m -o prog1
+: 1340725689:0;man clang
+: 1340725782:0;cd Developer/Obj-C/prog1
+: 1340725783:0;ls
+: 1340725805:0;clang -fobjc-gc -framework Foundation main.m.old.m -o prog1
+: 1340725820:0;clang -fobjc-arc -framework Foundation main.m.old.m -o prog1
+: 1340725831:0;clang -v
+: 1340725962:0;llvm
+: 1340726753:0;ls /
+: 1340727296:0;clang -v
+: 1340727334:0;locate uninstall-devtools
+: 1340727355:0;sudo /Library/Developer/4.1/uninstall-devtools --mode=all
+: 1340727421:0;clang -v
+: 1340727432:0;locate uninstall-devtools
+: 1340727447:0;sudo /Library/Developer/Shared/uninstall-devtools --mode=all
+: 1340727560:0;clang -v
+: 1340729360:0;cd Developer/Obj-C/prog1
+: 1340729361:0;ls
+: 1340729440:0;clang -fobjc-arc -framework Foundation main.m -o prog1
+: 1340729449:0;ls
+: 1340729452:0;./prog1
+: 1340729905:0;clang -v
+: 1340769072:0;cd Movies/.lol/
+: 1340769091:0;mplayer ktr.xart.12.06.15.caprice.and.angel.girls.night.mov
+: 1340808474:0;man clang
+: 1340850909:0;cd Downloads
+: 1340850910:0;scpt
+: 1340850915:0;mvt
+: 1340881258:0;cd ../Developer/Obj-C
+: 1340881259:0;ls
+: 1340881286:0;mkdir FractionTest
+: 1340881294:0;mvim main.m
+: 1340881303:0;cd FractionTest
+: 1340881307:0;mvim main.m
+: 1340881732:0;touch Fraction.m
+: 1340882167:0;clang -fobjc-arc -framework Foundation Fraction.m main.m -o FractionTest
+: 1340882215:0;./FractionTest
+: 1340882753:0;man dd
+: 1340883886:0;clang -fobjc-arc -framework Foundation Fraction.m main.m -o FractionTest
+: 1340886400:0;./FractionTest
+: 1340886445:0;clang -fobjc-arc -framework Foundation Fraction.m main.m -o FractionTest
+: 1340886447:0;./FractionTest
+: 1340890549:0;cd Developer/Obj-C/FractionTest
+: 1340890555:0;mvim main.m
+: 1340890752:0;clang -fobjc-arc -framework Foundation Fraction.m main.m -o FractionTest
+: 1340890869:0;./FractionTest
+: 1340890938:0;clang -fobjc-arc -framework Foundation Fraction.m main.m -o FractionTest
+: 1340890940:0;./FractionTest
+: 1340987253:0;cd Developer/Obj-C
+: 1340987256:0;mkdir Rectangle
+: 1340987258:0;cd Rectangle
+: 1340987266:0;touch Rectangle.h
+: 1340987271:0;touch Rectangle.m
+: 1340987279:0;mvim Rectangle.h
+: 1340987621:0;touch main.m
+: 1340987846:0;clang -fobjc-arc -framework Foundation *.m -o RectangleTest
+: 1340987926:0;./RectangleTest
+: 1340988020:0;clang -fobjc-arc -framework Foundation *.m -o RectangleTest
+: 1340988021:0;./RectangleTest
+: 1340999050:0;clang -fobjc-arc -framework Foundation *.m -o RectangleTest
+: 1341013581:0;cd Downloads
+: 1341013582:0;scpt
+: 1341013587:0;mvt
+: 1341045877:0;cd ../Movies
+: 1341045880:0;cd .lol
+: 1341045885:0;mplayer iak-x-art-110413.mov
+: 1341156334:0;cd Downloads
+: 1341156335:0;scpt
+: 1341156346:0;mvt
+: 1341352868:0;cd Downloads
+: 1341352869:0;scpt
+: 1341352881:0;mvt
+: 1341353839:0;type ls
+: 1341353851:0;type cp
+: 1341379506:0;cd ../Movies/.lol
+: 1341379585:0;mplayer iak-x-art-110413.mov
+: 1341419123:0;cd Downloads
+: 1341419124:0;scpt
+: 1341419129:0;mvt
+: 1341425908:0;cd ../.Trash
+: 1341425909:0;ls
+: 1341425919:0;rm -f Kim\ Knauf\ Origin\ and\ Evolution\ of\ the\ New\ Testament\ Spring\ 2011.docx
+: 1341466830:0;cd Movies/.lol
+: 1341466970:0;mplayer ls -l
+: 1341466975:0;ls -l
+: 1341467017:0;file iak-x-art-110413.mov
+: 1341467053:0;mplayer iak-x-art-110413.mov
+: 1341467183:0;mplayer ktr.xart.12.06.15.caprice.and.angel.girls.night.mov
+: 1341521990:0;cd Developer/Obj-C/Rectangle
+: 1341521991:0;ls
+: 1341522042:0;:b1
+: 1341522219:0;clang -fobjc-arc -framework Foundation *.m -o RectXY
+: 1341522380:0;./RectXY
+: 1341522401:0;:bn
+: 1341522418:0;clang -fobjc-arc -framework Foundation *.m -o RectXY
+: 1341524482:0;cd ~/Downloads
+: 1341524483:0;mvt
+: 1341554391:0;cd Movies/.lol
+: 1341554392:0;ls
+: 1341554438:0;mplayer ktr.xart.12.06.15.caprice.and.angel.girls.night.mov
+: 1341592136:0;clear
+: 1341592138:0;cd Downloads
+: 1341592139:0;mv
+: 1341592140:0;mvt
+: 1341592265:0;cd /private/var/log/asl
+: 1341592266:0;ls
+: 1341592297:0;sudo rm *.asl
+: 1341593948:0;ps aux | grep crond
+: 1341594039:0;ls /usr/lib/cron/tabs
+: 1341594047:0;sudo ls /usr/lib/cron/tabs
+: 1341594090:0;ls -l /usr/lib/cron
+: 1341594103:0;ls -l /usr/lib/cron/tabs
+: 1341594110:0;sudo ls -l /usr/lib/cron/tabs
+: 1341677939:0;mkdir Developer/launchd
+: 1341694799:0;cd Downloads
+: 1341694800:0;ls
+: 1341694805:0;scpt
+: 1341694810:0;mvt
+: 1341695261:0;defaults write com.apple.dock no-glass -boolean YES
+: 1341695265:0;killall Dock
+: 1341695287:0;defaults write com.apple.dock no-glass -boolean YES
+: 1341695288:0;killall Dock
+: 1341695301:0;defaults write com.apple.dock no-glass -boolean NO
+: 1341695302:0;killall Dock
+: 1341782351:0;cd Downloads
+: 1341782352:0;scpt
+: 1341782361:0;mvt
+: 1341836788:0;clear
+: 1341836800:0;ls /
+: 1341836804:0;ls -a /
+: 1341836819:0;clear
+: 1341836823:0;ls -a /
+: 1341837039:0;mvim .zshrc
+: 1341837137:0;fortune | cowsay
+: 1341837143:0;clear
+: 1341837192:0;echo "oh-my-zsh is kool" | cowsay
+: 1341837199:0;echo "oh-my-zsh is kool" | cowsay -s
+: 1341837203:0;clear
+: 1341837205:0;echo "oh-my-zsh is kool" | cowsay -s
+: 1341837237:0;ls
+: 1341837244:0;clear
+: 1341837247:0;echo "oh-my-zsh is kool" | cowsay -s
+: 1341837253:0;ls -a
+: 1341839091:0;cd Developer/Configs/vim-config
+: 1341839092:0;ls
+: 1341839140:0;gst
+: 1341839173:0;gss
+: 1341839298:0;cd
+: 1341839314:0;mvim .oh-my-zsh/themes/flazz.zsh-theme
+: 1341839379:0;mvim .zshrc
+: 1341839400:0;ls -a
+: 1341839413:0;cd Developer/Configs/vim-config
+: 1341839444:0;clear
+: 1341839447:0;cd
+: 1341839448:0;clear
+: 1341839465:0;echo "oh-my-zsh rox" | cowsay
+: 1341839473:0;cd Developer/Configs/vim-config
+: 1341853317:0;cat .oh-my-zsh/plugins/osx/osx.plugin.zsh
+: 1341853385:0;man-preview kill
+: 1341856250:0;ssh muse@192.168.1.149
+: 1341856678:0;cd Downloads
+: 1341856692:0;scp m2300w-0.51.tar.gz muse@192.168.1.149
+: 1341856698:0;ssh muse@192.168.1.149
+: 1341857568:0;ifconfig
+: 1341858806:0;cd
+: 1341858816:0;mkdir Developer/Configs/zsh-config
+: 1341858832:0;cp .zsh* Developer/Configs/zsh-config

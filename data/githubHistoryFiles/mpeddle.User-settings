@@ -1,0 +1,500 @@
+rails s
+cd /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin
+ls
+ls -l
+cd ..
+ls
+cd lib/
+ls
+cd ruby/
+ls
+cd 1.8/
+ls
+cd ..
+ls
+cd user-gems
+ls
+cd 1.8/
+ls
+cd gems/
+ls
+cd ../..
+ls
+cd ..
+ls
+cd site_ruby
+ls
+cd 1.8/
+ls
+cd ..
+cd ..
+ls
+cd gems/1.8/
+ls
+cd gems/
+ls
+cd ../../../
+ls
+ls
+cd Downloads/
+lsls
+ls
+cd pip-1.0.2
+ls
+python setup.py
+ls
+cd ..
+ls setuptools-0.6c11-py2.7.egg 
+sh setuptools-0.6c11-py2.7.egg 
+$ curl -O http://python-distribute.org/distribute_setup.py
+curl -o http://python-distribute.org/distribute_setup.py
+curl -O http://python-distribute.org/distribute_setup.py
+python distribute_setup.py 
+ls
+cd pip-1.0.2
+ls
+python setup.
+python setup.py 
+sudo python setup.py 
+curl http://python-distribute.org/distribute_setup.py | python
+curl https://raw.github.com/pypa/pip/master/contrib/get-pip.py | python
+sudo pip install dmsl
+sudo easy_install cython
+sudo pip install dmsl
+ls
+sudo pip install dmsl
+ls
+cd ..
+ls
+cd ~
+ls
+cd Downloads/
+ls
+sudo pip install dmsl
+python -m dmsl -h
+python -m dmsl
+gem install heroku
+sudo gem install heroku
+irb
+irb --simple-prompt
+irb --simple-prompt -rrbconfig
+ruby -e 'puts
+ruby -e 'puts
+ruby -h
+ruby -e 'puts
+puts
+puts 'e'
+
+
+
+end
+ruby -e 'puts $:'
+cd .
+ruby -e 'puts $:'
+irb
+ri -h
+::wq
+:qlsls:q
+ls
+ls
+cd ..
+ls
+irb
+ls
+cd Code/
+ls
+cd Rails/
+ls
+cd sample_app/
+ls
+git checkout master
+git checkout -b modeling-users
+rails generate controller Users new
+rails generate model User name:string email:string
+mate db/migrate/20120126044417_create_users.rb 
+bundle exec rake db:migrate
+npm install -g coffee-script
+sudo npm install -g coffee-script
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+~/../Volume
+~/../Volumes
+ls ~/..
+ls ~/../../Volumes/
+python
+ls
+cd DE
+cd Code/
+ls
+cd Python\ Scripts/
+ls
+cd SSC\ Genetics/
+ls
+python movefiles.py 
+python movefiles.py 
+cd ~
+ls
+cd Desktop/test/`
+ls
+
+
+
+cd Desktop/
+ls
+cd test/
+ls
+ls destdir/
+ls
+mv destdir/files files
+ls
+ls destdir/
+ls
+cd Code/
+ls
+mv Python\ Scripts/ Python
+ls
+cd Python/
+ls
+cd SSC\ Genetics/
+ls
+git init
+git add *
+ls
+git
+git show
+git log
+git
+git push
+git diff
+git status
+git commit
+git commit "Initial Commit"
+git commit
+commit -m "initial commit'
+"
+git commit -m "Initial Commit"
+git branch fresh
+git
+git status
+git checkout fresh
+ls
+ls
+cd Code/Rails/sample_app/
+ls
+mate Gemfile
+bundle install
+bundle exec annotate --position before
+mate app/models/user.rb 
+annotate
+bundle exec annotate
+mate app/models/user.rb 
+rails console --sandbox
+bundle exec rake db:test:prepare
+mate app/models/user.rb
+rails console --sandbox
+mate app/models/user.rb
+ls spec/
+ls spec/models/
+mate spec/models/user_spec.rb 
+bundle exec rspec spec/models/user_spec.rb 
+mate spec/models/user_spec.rb 
+bundle exec rspec spec/models/user_spec.rb 
+mate spec/models/user_spec.rb 
+bundle exec rspec spec/models/user_spec.rb 
+mate spec/models/user_spec.rb 
+mate app/models/user.rb
+bundle exec rspec spec/models/user_spec.rb 
+mate spec/models/user_spec.rb 
+bundle exec rspec spec/models/user_spec.rb 
+bundle exec rspec spec/models/user_spec.rb 
+mate app/models/user.rb
+mate spec/models/user_spec.rb 
+bundle exec rspec spec/models/user_spec.rb 
+mate spec/models/user_spec.rb
+mate app/models/user.rb
+bundle exec rspec spec/models/user_spec.rb 
+bundle exec rspec spec/models/user_spec.rb 
+bundle exec rspec spec/models/user_spec.rb 
+rails c
+mate spec/models/user_spec.rb
+mate app/models/user.rb 
+bundle exec rspec spec/models/user_spec.rb 
+mate spec/models/user_spec.rb
+mate spec/models/user_spec.rb
+rails console --sandbox
+mate app/models/user.rb 
+bundle exec rspec spec/models/user_spec.rb 
+rails generate migration add_email_uniqueness_index
+mate db/migrate/20120127034503_add_email_uniqueness_index.rb 
+bundle exec rake db:migrate
+bundle exec rake db:migrate --trace
+mate db/migrate/20120127034503_add_email_uniqueness_index.rb 
+mate app/models/user.rb 
+bundle exec rspec spec/models/user_spec.rb 
+bundle exec rake db:migrate
+rails c
+cd Code/Rails/sample_app/
+tail -f log/development.log
+cd Code/Rails/sample_app/
+ls
+bundle exec rake db:migrate
+mate app/views/layouts/application.html.erb
+rails c
+mate app/views/layouts/application.html.erb
+rails s
+rails s
+mate app/views/layouts/application.html.erb
+rails server --environment production
+rails server --environment production
+cd Code/Rails/sample_app/
+rails server --environment production
+Rails console
+cd Desktop/
+ls
+cd test/
+ls
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+ls
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+ls
+mkdir destdir
+ls
+python
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+python movefiles.py 
+ls
+cd Code/
+ls
+cd Learn/Node/
+ls
+node helloworld.js 
+node server.js 
+ls
+node foo.js 
+rm foo.js 
+mate server.js 
+node server.js 
+node server.js 
+cd Code/Learn/Node/
+ls
+node server.js 
+node server.js 
+ls
+ls
+node server.js 
+ls
+cd Code/Learn/Node/
+ls
+node server.js 
+node server.js 
+mate index.js
+node index.js 
+mate index.js 
+mate index.js 
+mate server.js 
+node index.js 
+mate router.js
+mate server.js 
+mate index.js 
+node index.js 
+mate router.js 
+mate index.js
+mate requestHandlers.js
+mate server.js 
+mate router.js 
+mate router.js 
+mate index.js 
+mate requestHandlers.js
+mate server.js 
+mate requestHandlers.js
+mate router.js 
+node index.js 
+mate server.js 
+mate requestHandlers.js
+mate router.js 
+mate index.js 
+mate server.js 
+mate router.js 
+mate server.js 
+mate router.js 
+mate requestHandlers.js 
+node index.js 
+mate requestHandlers.js 
+node index.js 
+mate requestHandlers.js 
+node index.js 
+mate requestHandlers.js 
+node index.js 
+mate requestHandlers.js 
+mate requestHandlers.js 
+node index.js 
+mate requestHandlers.js 
+find /
+node index.js 
+node index.js 
+mate server.js 
+mate router.js 
+mate re
+mate requestHandlers.js 
+mate index.js 
+node index.js 
+mate requestHandlers.js 
+node index.js 
+mate requestHandlers.js 
+node index.js 
+ls
+cd ..
+ls
+mkdir JQUERY
+ls
+cd J
+cd JQUERY/
+ls
+cd code/
+mate chapter_02/01_document_ready/script.js 
+cd Code/Rails/sample_app/
+mate app/views/users/show.html.erb
+mate app/controllers/users_controller.rb
+mate config/routes.rb
+mate config/routes.rb
+mate app/views/users/show.html.erb 
+mate app/controllers/users_controller.rb 
+mate app/controllers/users_controller.rb 
+mate config/routes.rb
+git add .
+git commit -m "Finished first cut of the User model"
+mate spec/models/user_spec.rb
+rails s
+ls
+cd Code/Rails/sample_app/
+rails s
+rails c
+rails s
+cd Code/Learn/VI/
+ls
+mv pytest pytest.py
+python pytest.py 
+/Users/matthewpeddle/Code 
+cd /Users/matthewpeddle/Code 
+ls
+ls
+pushd ~/Downloads/
+ls
+mvim SSC_IAN_GUIDS.tab 
+popd
+ls
+vim
+ruby
+cd /usr/local/
+ls
+ls -a
+cd ~
+ls -a
+cd .viminfo 
+mvim .viminfo 
+ls
+ruby --v
+irb
+ruby *.rb
+ls
+ls -l
+ls -a
+mvim .vimrc
+mvim
+ls -a
+ls
+ls -a
+mvim .vimrc 
+mvim .vimrc 
+mvim .bash_profile
+mvim .profile 
+echo $PATH
+mvim .bash_profile
+mvim .profile 
+mvim .ssh/
+mvim .GuitarPro/
+rm .GuitarPro/
+ls -a .GuitarPro/
+rm .GuitarPro/
+ls -a .Trash/
+ls
+ls -a
+ls -a .
+mvim .pip
+mvim .vim
+ls ~/Downloads/
+mv ~/Downloads/blacklight.vim ~/.vim
+ls .vim
+mvim .vimrc
+mvim ~/Code/Python/SSC\ Genetics/movefiles.py 
+ls
+echo $VIMRUNTIME
+echo $VIM
+ls
+ls $HOME
+mvim .vimrc
+mvim ~/Code/Python/SSC\ Genetics/movefiles.py 
+ls
+mvim .vimrc 
+mvim ~/Code/Python/SSC\ Genetics/movefiles.py 
+ls
+mvim .vimrc 
+ls
+mvim ~/Code/Python/SSC\ Genetics/movefiles.py 
+ls
+cd .vim
+ls
+mkdir colors
+mv blacklight.vim colors/
+cd ~
+mvim .vimrc 
+ls
+mvim ~/Code/Python/SSC\ Genetics/movefiles.py 
+mvim .vimrc 
+mvim ~/Code/Python/SSC\ Genetics/movefiles.py 
+mvim

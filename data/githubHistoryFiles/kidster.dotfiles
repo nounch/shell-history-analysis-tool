@@ -1,0 +1,2000 @@
+git commit -am "Added user.properties file for runJmeter sh"
+git st
+git push
+git st
+ls
+mc
+git st
+mit -Didm.properties.location=target/config/JENKINS
+git st
+git commit -am "Added 500 exception to logger"
+git pull
+git st
+git push
+clear
+ls
+git st
+git rm src/main/java/com/rackspace/idm/api/error/temp
+rm src/main/java/com/rackspace/idm/api/error/temp
+git st
+git add src/main/java/com/rackspace/idm/api/error/temp
+git st
+git stash
+git stash drop 
+git st
+ls
+cd ..
+ls
+cd CurlScripts/
+git pull
+git stash 
+git pull
+git st
+ls
+vi createUserSignUp.sh 
+clear
+exit
+cd projects/GlobalAuth
+ls
+clear
+ls
+git st
+vi src/main/java/com/rackspace/idm/api/error/temp.html
+clear
+git st
+cd src/main/java/com/rackspace/idm/api/error/temp.html
+cd src/main/java/com/rackspace/idm/api/error/
+ls
+cat temp.html 
+cat temp.html >> ~/projects/CurlScripts/createUserSignUp.sh 
+rm temp.html 
+ls
+clear
+ls
+cd
+cd projects/GlobalAuth
+ls
+ifconfig
+git st
+clera
+git pull
+git st
+git commit -am "Added xml output for result.jtl"
+git st
+git push
+git checkout aspectj-annotations 
+git pull
+git st
+ckear
+clear
+pwd
+git st
+git add --all
+git st
+mit -Didm.properties.location=target/config/JENKINS
+git st
+git commit -am "Finished all validation test for entity validation"
+clear
+git st
+git pull
+git push
+clear
+git st
+gi tst
+git st
+git checkout master 
+git st
+mdj -Didm.properties.location=target/config/JENKINS
+clear
+git st
+git checkout src/main/config/JENKINS/idm.properties
+git st
+clera
+clear
+ls
+clear
+ls
+git checkout aspectj-annotations 
+git s
+git st
+clear
+git log
+clear
+git st
+git add --all
+mit -Didm.properties.location=target/config/JENKINS
+git st
+mc
+mit -Didm.properties.location=target/config/JENKINS
+git st
+git commit -am "Finished all validation for v1.1"
+git st
+git push
+git st
+git checkout master 
+git pull
+git merge aspectj-annotations 
+git st
+git push
+git st
+exit
+ssh identity@10.127.7.12
+clear
+exit
+cd projects/CurlScripts/
+ls
+vi cloudCurlCalls.sh 
+exit
+ls
+clear
+export ENDPOINT=https://auth.staging.us.ccp.rackspace.net
+export USER=jmunoztest
+export USER_APIKEY=1234567890
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"RAX-KSKEY:apiKeyCredentials":{"username":"'$USER'","apiKey":"'$USER_APIKEY'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+clear
+curl -X DELETE -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/token/$TOKEN -H "Accept: application/xml" --verbose --insecurtUTH_USER=auth
+r
+clear
+export AUTH_USER=auth
+export AUTH_PWD=auth123
+export TOKEN=51999f90-79b9-4f78-9edb-48cd10e300f4
+curl -X DELETE -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/token/$TOKEN -H "Accept: application/xml" --verbose --insecure
+export USER=jmunoztest
+export USER_PWD=Password1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"RAX-KSKEY:apiKeyCredentials":{"username":"'$USER'","apiKey":"'$USER_APIKEY'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export TOKEN=a9b03fc0-1e1c-4426-9be3-af7b81e9b9f7
+curl -X DELETE -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/token/$TOKEN -H "Accept: application/xml" --verbose --insecure
+clear
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"RAX-KSKEY:apiKeyCredentials":{"username":"'$USER'","apiKey":"'$USER_APIKEY'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+clear
+ls
+clear
+export USER=CarlosAdmin
+export USER_PWD=CAPassword01
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+ER=jmunoztest
+export USER_PWD=Password1
+export USER_APIKEY=1234567890
+export USER=jmunoztest
+export USER_PWD=Password1
+export USER_APIKEY=1234567890
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"RAX-KSKEY:apiKeyCredentials":{"username":"'$USER'","apiKey":"'$USER_APIKEY'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export USER=CarlosAdmin
+export USER_PWD=CAPassword01
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"RAX-KSKEY:apiKeyCredentials":{"username":"'$USER'","apiKey":"'$USER_APIKEY'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export USER=CarlosAdmin
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+exit
+export ENDPOINT=https://staging.identity.api.rackspacecloud.com
+git st
+clear
+export ENDPOINT=https://staging.identity.api.rackspacecloud.com
+export AUTH_USER=auth
+export AUTH_PWD=auth123
+export USERNAME=CarlosAdmin
+curl -X GET $ENDPOINT/v2.0/users?name=$USERNAME -H "Accept: application/json" -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure | json
+curl -X GET -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/users/$USERNAME -H "Accept: application/xml" --verbose --insecure | xml
+curl -X DELETE -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/users/$USERNAME -H "Accept: application/xml" --verbose --insecure
+export USER=identityAdminStagingUser
+export USER_PWD=4bb2X6=1r1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export ADMIN_TOKEN=77380b443d8349b48d959ec8b75b1f25
+export USERID=10005956
+curl -X DELETE $ENDPOINT/v2.0/softDeleted/users/$USERID -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export ADMIN_TOKEN=77380b443d8349b48d959ec8b75b1f25
+curl -X DELETE -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/users/$USERNAME -H "Accept: application/xml" --verbose --insecure
+export USERID=10019851
+curl -X DELETE $ENDPOINT/v2.0/softDeleted/users/$USERID -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+clear
+export AUTH_USER=auth
+export AUTH_PWD=auth123
+export AUTH_USER=authbad
+export AUTH_PWD=auth123bad
+export TOKEN=97cd758555f64ba98cd3eba84723807dbad
+export ENDPOINT=https://staging.identity.api.rackspacecloud.com
+curl -X GET -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/token/$TOKEN -H "Accept: application/xml" --verbose --insecure | xml
+clear
+export AUTH_USER=CarlosAdmin
+export AUTH_PWD=CAPassword01
+export AUTH_USER=auth
+export AUTH_PWD=auth123
+export USERNAME=CarlosAdmin
+export USER_PWD=CAPassword01
+curl -X POST -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/auth-admin -d '<passwordCredentials password="'$USER_PWD'" username="'$USERNAME'" xmlns="http://docs.rackspacecloud.com/auth/api/v1.1"/>' -H "Content-Type: application/xml" -H "Accept: application/xml" --verbose --insecure | xml
+echo $ENDPOINT 
+ls
+clera
+clear
+ls
+export USER=CarlosAdmin
+export USER_PWD=CAPassword01
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+
+export ADMIN_TOKEN=77380b443d8349b48d959ec8b75b1f25
+curl -X DELETE $ENDPOINT/v2.0/tokens/$TOKENID -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+clear
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export ADMIN_TOKEN=de27cd4e-cbe1-463b-afbb-5b7430b4cc57
+export TOKEN=77380b443d8349b48d959ec8b75b1f25bad
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+clear
+ls
+clear
+export USER=CarlosAdmin
+export USER_PWD=CAPassword01
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export TOKEN=de27cd4e-cbe1-463b-afbb-5b7430b4cc57
+export ADMIN_TOKEN=77380b443d8349b48d959ec8b75b1f25
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export ENDPOINT=https://auth.staging.us.ccp.rackspace.net
+export USER=auth
+export USER_PWD=auth123
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export ADMIN_TOKEN=my-simple-demo-token
+clear
+export USER=CarlosAdmin
+export USER_PWD=CAPassword01
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export TOKEN=de27cd4e-cbe1-463b-afbb-5b7430b4cc57
+export ADMIN_TOKEN=my-simple-demo-token
+curl -X DELETE $ENDPOINT/v2.0/tokens/$TOKENID -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export ADMIN_TOKEN=de27cd4e-cbe1-463b-afbb-5b7430b4cc57
+curl -X DELETE $ENDPOINT/v2.0/tokens -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export AUTH_USER=auth
+export AUTH_PWD=auth123
+export USERNAME=CarlosAdmin
+export TOKEN=de27cd4e-cbe1-463b-afbb-5b7430b4cc57
+curl -X DELETE -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/token/$TOKEN -H "Accept: application/xml" --verbose --insecure
+export ADMIN_TOKEN=de27cd4e-cbe1-463b-afbb-5b7430b4cc57
+export USERNAME=cmarin1
+curl -X GET $ENDPOINT/v2.0/users?name=$USERNAME -H "Accept: application/json" -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure | json
+export ENDPOINT=https://staging.identity.api.rackspacecloud.com
+curl -X GET $ENDPOINT/v2.0/users?name=$USERNAME -H "Accept: application/json" -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure | json
+export TOKEN=de27cd4e-cbe1-463b-afbb-5b7430b4cc57
+export ADMIN_TOKEN=de27cd4e-cbe1-463b-afbb-5b7430b4cc57bad
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export USER=CarlosAdmin
+export USER_PWD=CAPassword01
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export TOKEN=c381e1a2-129d-4741-95eb-e788c4659a08
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export USER_KEY=1234567890
+export USERNAME=jmunoztest
+export MOSSOID=80463
+export NASTID=StagingUS_1982865e-45ea-4051-b75e-9a912ac08c1f
+export USER_PWD=Password1
+clear
+export AUTH_USER=auth
+export AUTH_PWD=auth123
+curl -X POST -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/users -d '<v1:user enabled="true" id="'$USERNAME'" key="'$USER_KEY'" mossoId="'$MOSSOID'" nastId="'$NASTID'" xmlns:v1="http://docs.rackspacecloud.com/auth/api/v1.1"/>' -H "Content-Type: application/xml" -H "Accept: application/xml" --verbose --insecure | xml
+clear
+export USER_PWD=Password1
+export USEREMAIL=test@rackspace.com
+curl -X POST $ENDPOINT/v2.0/users/$USERID -d '<user username="'$USERNAME'" email="'$USEREMAIL'" enabled="true" ns1:password="'$USER_PWD'" xmlns:ns1="http://docs.openstack.org/identity/api/ext/OS-KSADM/v1.0" xmlns:ns2="http://docs.openstack.org/identity/api/v2.0" />' -H "Content-type: application/xml" -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export ADMIN_TOKEN=my-simple-demo-token
+curl -X POST $ENDPOINT/v2.0/users/$USERID -d '<user username="'$USERNAME'" email="'$USEREMAIL'" enabled="true" ns1:password="'$USER_PWD'" xmlns:ns1="http://docs.openstack.org/identity/api/ext/OS-KSADM/v1.0" xmlns:ns2="http://docs.openstack.org/identity/api/v2.0" />' -H "Content-type: application/xml" -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+curl -X GET -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/users/$USERNAME -H "Accept: application/xml" --verbose --insecure | xml
+export USERNAME=jmunoztest
+curl -X GET $ENDPOINT/v2.0/users?name=$USERNAME -H "Accept: application/json" -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure | json
+export USERID=10062355
+curl -X POST $ENDPOINT/v2.0/users/$USERID -d '<user username="'$USERNAME'" email="'$USEREMAIL'" enabled="true" ns1:password="'$USER_PWD'" xmlns:ns1="http://docs.openstack.org/identity/api/ext/OS-KSADM/v1.0" xmlns:ns2="http://docs.openstack.org/identity/api/v2.0" />' -H "Content-type: application/xml" -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export USER=jmunoztest
+export USER_PWD=Password1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export TOKEN=79d7d879764945a5a969393a71b29451
+export ADMIN_TOKEN=my-simple-demo-token
+curl -X DELETE $ENDPOINT/v2.0/tokens/$TOKENID -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export ADMIN_TOKEN=my-simple-demo-tokenbad
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+clear
+export ADMIN_TOKEN=my-simple-demo-token
+curl -X DELETE $ENDPOINT/v2.0/users/$USERID -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export USER=auth
+export USER_PWD=auth123
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export ADMIN_TOKEN=my-simple-demo-token
+curl -X DELETE $ENDPOINT/v2.0/users/$USERID -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+curl -X DELETE $ENDPOINT/v2.0/softDeleted/users/$USERID -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export ADMIN_TOKEN=77380b443d8349b48d959ec8b75b1f25
+curl -X DELETE $ENDPOINT/v2.0/softDeleted/users/$USERID -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export USER=identityAdminStagingUser
+export USER_PWD=4bb2X6=1r1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export ADMIN_TOKEN=cb510b99d6354116bb2bc33dc585d146
+curl -X DELETE $ENDPOINT/v2.0/softDeleted/users/$USERID -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+clear
+export ENDPOINT=https://auth.staging.us.ccp.rackspace.net
+clear
+export USER_KEY=1234567890
+export USERNAME=jmunoztest
+export MOSSOID=80463
+export NASTID=StagingUS_1982865e-45ea-4051-b75e-9a912ac08c1f
+export USER_PWD=Password1
+export AUTH_USER=auth
+export AUTH_PWD=auth123
+curl -X POST -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/users -d '<v1:user enabled="true" id="'$USERNAME'" key="'$USER_KEY'" mossoId="'$MOSSOID'" nastId="'$NASTID'" xmlns:v1="http://docs.rackspacecloud.com/auth/api/v1.1"/>' -H "Content-Type: application/xml" -H "Accept: application/xml" --verbose --insecure | xml
+export ADMIN_TOKEN=my-simple-demo-token
+curl -X POST $ENDPOINT/v2.0/users/$USERID -d '<user username="'$USERNAME'" email="'$USEREMAIL'" enabled="true" ns1:password="'$USER_PWD'" xmlns:ns1="http://docs.openstack.org/identity/api/ext/OS-KSADM/v1.0" xmlns:ns2="http://docs.openstack.org/identity/api/v2.0" />' -H "Content-type: application/xml" -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export USERNAME=jmunoztest
+export USERID=212197
+curl -X POST $ENDPOINT/v2.0/users/$USERID -d '<user username="'$USERNAME'" email="'$USEREMAIL'" enabled="true" ns1:password="'$USER_PWD'" xmlns:ns1="http://docs.openstack.org/identity/api/ext/OS-KSADM/v1.0" xmlns:ns2="http://docs.openstack.org/identity/api/v2.0" />' -H "Content-type: application/xml" -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+clear
+ls
+clear
+export RACKER_TOKEN=5218851418fd41f7b34268d9eb8a4e77
+export USERNAME=jmunoztest
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com/cloud
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+export RACKER_TOKEN=5218851418fd41f7b34268d9eb8a4e77
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com/cloudddd
+export USER=jmunoztest
+export USER_PWD=Password1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export USER=jmunoztest
+export USER_PWD=Password1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export USER=identityAdminStagingUser
+export USER_PWD=4bb2X6=1r1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export ADMIN_TOKEN=cb510b99d6354116bb2bc33dc585d146
+export USERNAME=jmunoztest
+curl -X GET $ENDPOINT/v2.0/users?name=$USERNAME -H "Accept: application/json" -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure | json
+export USERID=212197
+curl -X GET $ENDPOINT/v2.0/users/$USERID/OS-KSADM/credentials -H "X-Auth-Token: $ADMIN_TOKEN" -H "Accept: application/xml" --verbose --insecure | xml
+export RACKER_TOKEN=5218851418fd41f7b34268d9eb8a4e77
+export USERNAME=jmunoztest
+export ENDPOINT=export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com
+export RACKER_TOKEN=5218851418fd41f7b34268d9eb8a4e77
+export USERNAME=jmunoztest
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME/unmigrate -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+clear
+ls
+export ENDPOINT=https://auth.staging.us.ccp.rackspace.net
+export ADMIN_TOKEN=my-simple-demo-token
+curl -X POST $ENDPOINT/v2.0/users/$USERID -d '<user username="'$USERNAME'" email="'$USEREMAIL'" enabled="true" ns1:password="'$USER_PWD'" xmlns:ns1="http://docs.openstack.org/identity/api/ext/OS-KSADM/v1.0" xmlns:ns2="http://docs.openstack.org/identity/api/v2.0" />' -H "Content-type: application/xml" -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export USER=jmunoztest
+export USER_PWD=Password1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+echo $USER_PWD 
+curl -X GET $ENDPOINT/v2.0/users/$USERID/OS-KSADM/credentials -H "X-Auth-Token: $ADMIN_TOKEN" -H "Accept: application/xml" --verbose --insecure | xml
+curl -X POST $ENDPOINT/v2.0/users/$USERID/OS-KSADM/credentials -d '<?xml version="1.0" encoding="UTF-8"?><passwordCredentials xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.openstack.org/identity/api/v2.0" username="'$USERNAME'" password="'$USER_PWD'"/>' -H "Content-type: application/xml" -H "X-Auth-Token: $ADMIN_TOKEN" -H "Accept: application/xml" --verbose --insecure
+curl -X GET $ENDPOINT/v2.0/users/$USERID/OS-KSADM/credentials -H "X-Auth-Token: $ADMIN_TOKEN" -H "Accept: application/xml" --verbose --insecure | xml
+clear
+ls
+clear
+export USER=jmunoztest
+export USER_PWD=Password1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export USER_APIKEY=1234567890
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"RAX-KSKEY:apiKeyCredentials":{"username":"'$USER'","apiKey":"'$USER_APIKEY'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+curl -X GET $ENDPOINT/v2.0/users/$USERID/OS-KSADM/credentials -H "X-Auth-Token: $ADMIN_TOKEN" -H "Accept: application/xml" --verbose --insecure | xml
+curl -X POST $ENDPOINT/v2.0/users/$USERID/OS-KSADM/credentials -d '<?xml version="1.0" encoding="UTF-8"?><passwordCredentials xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.openstack.org/identity/api/v2.0" username="'$USERNAME'" password="'$USER_PWD'"/>' -H "Content-type: application/xml" -H "X-Auth-Token: $ADMIN_TOKEN" -H "Accept: application/xml" --verbose --insecure
+curl -X GET $ENDPOINT/v2.0/users/$USERID/OS-KSADM/credentials -H "X-Auth-Token: $ADMIN_TOKEN" -H "Accept: application/xml" --verbose --insecure | xml
+export USER=jmunoztest
+export USER_PWD=Password1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+echo $USER_PWD 
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+clear
+ls
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"RAX-KSKEY:apiKeyCredentials":{"username":"'$USER'","apiKey":"'$USER_APIKEY'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+echo $ENDP
+echo $ENDPOINT 
+export RACKER_TOKEN=5218851418fd41f7b34268d9eb8a4e77
+export USERNAME=jmunoztest
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME/unmigrate -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+clear
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com/cloud
+export USERNAME=jmunoztest
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"RAX-KSKEY:apiKeyCredentials":{"username":"'$USER'","apiKey":"'$USER_APIKEY'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+clear
+export AUTH_USER=auth
+export AUTH_PWD=auth123
+export TOKEN=51999f90-79b9-4f78-9edb-48cd10e300f4
+curl -X GET -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/token/$TOKEN -H "Accept: application/xml" --verbose --insecure | xml
+curl -X DELETE -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/token/$TOKEN -H "Accept: application/xml" --verbose --insecure
+export TOKEN=51999f90-79b9-4f78-9edb-48cd10e300f4
+xport ADMIN_TOKEN=cb510b99d6354116bb2bc33dc585d146bad
+export ADMIN_TOKEN=cb510b99d6354116bb2bc33dc585d146bad
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export USER=jmunoztest
+export USER_PWD=Password1
+clear
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"RAX-KSKEY:apiKeyCredentials":{"username":"'$USER'","apiKey":"'$USER_APIKEY'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export RACKER_TOKEN=5218851418fd41f7b34268d9eb8a4e77
+export USERNAME=jmunoztest
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME/unmigrate -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+clear
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+clear
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com/cloud
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"RAX-KSKEY:apiKeyCredentials":{"username":"'$USER'","apiKey":"'$USER_APIKEY'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export TOKEN=1da225cf-0937-4882-9877-6c27d12e6cfb
+export ADMIN_TOKEN=my-simple-demo-token
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure | json
+clear
+ls
+curl -X DELETE $ENDPOINT/v2.0/tokens -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export ADMIN_TOKEN=my-simple-demo-tokenbad
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure | json
+clear
+ls
+clear
+ls
+clear
+export RACKER_TOKEN=5218851418fd41f7b34268d9eb8a4e77
+export USERNAME=jmunoztest
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com
+export USERNAME=CarlosAdmin
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME/unmigrate -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+clear
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com/cloud
+export ADMIN_TOKEN=c381e1a2-129d-4741-95eb-e788c4659a08
+export TOKEN=1da225cf-0937-4882-9877-6c27d12e6cfbbad
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export RACKER_TOKEN=5218851418fd41f7b34268d9eb8a4e77
+export USERNAME=jmunoztest
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME/unmigrate -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com/cloud
+export ADMIN_TOKEN=c381e1a2-129d-4741-95eb-e788c4659a08
+export TOKEN=1da225cf-0937-4882-9877-6c27d12e6cfb
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export RACKER_TOKEN=5218851418fd41f7b34268d9eb8a4e77
+export USERNAME=jmunoztest
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+export USER=jmunoztest
+export USER_APIKEY=1234567890
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"RAX-KSKEY:apiKeyCredentials":{"username":"'$USER'","apiKey":"'$USER_APIKEY'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com/cloud
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"RAX-KSKEY:apiKeyCredentials":{"username":"'$USER'","apiKey":"'$USER_APIKEY'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export TOKEN=1da225cf-0937-4882-9877-6c27d12e6cfb
+export ADMIN_TOKEN=my-simple-demo-token
+curl -X DELETE $ENDPOINT/v2.0/tokens -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export ADMIN_TOKEN=c381e1a2-129d-4741-95eb-e788c4659a08
+curl -X GET $ENDPOINT/v2.0/tokens/$TOKEN -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+exit
+export XML='<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://cloud.rackspace.com/signup/3.0" xmlns:ns1="http://cloud.rackspace.com/person/1.0" xmlns:ns2="http://cloud.rackspace.com/account/1.0">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <ns:CreateAccount>
+            <ns:accountName>Reach Test</ns:accountName>
+            <!--Optional:-->
+clera
+clear
+ls
+cd projects/GlobalAuth
+git pull
+ls
+git st
+git checkout aspectj-annotations 
+git st
+git pul
+git pull
+clear
+ls
+clear
+mc
+clear
+killall ssh synergyc 
+synergyc 10.6.115.106
+clear
+wget 10.6.115.140:8000/patch.diff
+ls
+git st
+vi patch.diff 
+git apply patch.diff
+git st
+rm patch.diff 
+ls
+git st
+clear
+ls
+git st
+git checkout src/main/java/com/rackspace/idm/domain/entity/ObjectMapper.java
+git st
+git vimdiff 
+clera
+clear
+git st
+git stash 
+git st
+git checkout master 
+git st
+clear
+git st
+mc
+skill 
+xkill
+clear
+git st
+mit -Didm.properties.location=target/config/JENKINS
+git st
+git commit -am "Fixed UK baseId issue"
+git st
+mdj -Didm.properties.location=target/config/JENKINS
+clear
+ls
+git st
+git checkout src/main/config/JENKINS/idm.properties
+git st
+git pull
+git push
+git pull
+clear
+git checkout -
+clear
+git st
+git stash pop 
+clear
+git st
+mvc
+mc
+mdj -Didm.properties.location=target/config/JENKINS
+clear
+ls
+git st
+git diff src/main/java/com/rackspace/idm/api/resource/RootResource.java
+git checkout  src/main/java/com/rackspace/idm/api/resource/RootResource.java
+git st
+clear
+git st
+mvc
+mc
+mdj -Didm.properties.location=target/config/JENKINS
+git st
+git diff src/main/resources/app-config.xml
+git st
+git diff src/main/resources/app-config.xml
+git checkout src/main/resources/app-config.xml
+git st
+mc
+mdj -Didm.properties.location=target/config/JENKINS
+mc
+mit -Didm.properties.location=target/config/JENKINS
+mc
+mit -Didm.properties.location=target/config/JENKINS
+mc
+mit -Didm.properties.location=target/config/JENKINS
+git st
+git add src/main/java/com/rackspace/idm/aspect/ValidateAspect.java src/main/java/com/rackspace/idm/domain/entity/ObjectMapper.java src/main/java/com/rackspace/idm/validation/ObjectConverter.java src/main/java/com/rackspace/idm/validation/entity/AuthenticationRequestForValidation.java
+git st
+git add --all
+git st
+git commit -am "Completed entity conversion for v2.0"
+git st
+git pull
+git push
+git st
+clear
+git st
+git checkout master 
+clear
+git st
+cd
+clear
+ls
+cd projects/
+ls
+cd CurlScripts/
+git st
+git pull
+git st
+ls
+vi cloudCurlCalls.sh 
+git st
+clear
+exit
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com
+export CLIENT_ID=18e7a7032733486cd32f472d7bd58f709ac0d221
+export CLIENT_SECRET=password1
+curl -X POST $ENDPOINT/v1/tokens -d '{"authCredentials":{"grant_type": "CLIENT_CREDENTIALS","client_id": "'$CLIENT_ID'","client_secret": "'$CLIENT_SECRET'"}}' -H "Content-Type: application/json" -H "Accept: application/json" --verbose --insecure | json
+export TOKEN=53fff37228d9484683a89b7b16c03e8b
+export RACKER=jorge.munoz
+read -s -p "password:" PASSWORD
+curl -X POST $ENDPOINT/v1/tokens -d '<rackerCredentials password="'$PASSWORD'" username="'$RACKER'" client_secret="'$CLIENT_SECRET'" client_id="'$CLIENT_ID'" grant_type="PASSWORD" xmlns="http://idm.api.rackspace.com/v1.0"/>' -H "Content-Type: application/xml" -H "Accept: application/xml" --verbose --insecure | xml
+clear
+exit
+cd projects/CurlScripts/
+ls
+vi foundationCurlCalls.sh 
+git st
+git add --all
+git st
+git commit -am "updated script
+"
+git st
+git push
+git st
+clear
+git st
+clear
+vi createUserSignUp.sh 
+export ENDPOINT=https://smix.prod.us.ccp.rackspace.net/signup/3.0?wsdl
+clear
+exit
+cd
+sdiff file1 file2
+clear
+ls
+rm file1 file2
+ls
+cd projects/
+ls
+vi CurlScripts/
+exit
+export ENDPOINT=https://staging.identity.api.rackspacecloud.com
+export RACKER_TOKEN=5218851418fd41f7b34268d9eb8a4e77
+export USERNAME=jmunoztest
+export ENDPOINT=https://staging.rackidentity.api.rackspacecloud.com
+curl -X POST $ENDPOINT/migration/cloud/users/$USERNAME/unmigrate -H "X-Auth-Token: $RACKER_TOKEN" -H "Accept: application/xml" --verbose --insecure
+export ENDPOINT=https://auth.staging.us.ccp.rackspace.net
+clear
+ls
+clear
+ls
+clear
+ls
+export ENDPOINT=https://auth.staging.us.ccp.rackspace.net
+export AUTH_USER=auth
+export AUTH_PWD=auth123
+export USERNAME=jmunoztest
+curl -X DELETE -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/users/$USERNAME -H "Accept: application/xml" --verbose --insecure
+clear
+export ENDPOINT=https://staging.identity.api.rackspacecloud.com
+export USER=jmunoztest
+export USER_PWD=Password1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export USER=uatest2
+export USER_PWD=Reset123
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json > file1
+ls
+export USER=jmunoztest
+export USER_PWD=Password1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json > file2
+clear
+ls
+sdiff file1 file2
+clear
+export USER=identityAdminStagingUser
+export USER_PWD=4bb2X6=1r1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+export ADMIN_TOKEN=cb510b99d6354116bb2bc33dc585d146
+clear
+export TENANT_ID=5844487
+export USERID=10062694
+export ROLE_ID=29
+curl -X PUT $ENDPOINT/v2.0/tenants/$TENANT_ID/users/$USERID/roles/OS-KSADM/$ROLE_ID -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+export USER=jmunoztest
+export USER_PWD=Password1
+curl -X POST $ENDPOINT/v2.0/tokens -d '{"auth":{"passwordCredentials":{"username":"'$USER'","password":"'$USER_PWD'"}}}' -H "Content-type: application/json" --verbose --insecure | json
+clear
+export ROLE_ID=29
+curl -X PUT $ENDPOINT/v2.0/users/$USERID/roles/OS-KSADM/$ROLE_ID -H "X-Auth-Token: $ADMIN_TOKEN" --verbose --insecure
+exit
+cd projects/
+ls
+cd GlobalAuth
+ls
+cd ..
+ls
+cd ls
+ls
+clear
+ls
+cd CurlScripts/
+ls
+vi cloudCurlCalls.sh 
+exit
+REACH:
+======
+export ENDPOINT=https://ui.staging.reach.rackspace.com/accounts/?next=/a/devservers/
+exit
+cd CurlScripts/
+ls
+vi createUserSignUp.sh 
+clear
+ls
+l;l
+ll
+rm .cloudCurlCalls.sh.swp 
+rm .createUserSignUp.sh.swp 
+ls
+ll
+vi createUserSignUp.sh 
+rm .createUserSignUp.sh.swp \
+ll
+vi createUserSignUp.sh 
+clear
+ls
+cd
+cd projects/GlobalAuth
+ls
+git st
+cd scripts/jmeter/
+ls
+cd ..
+ls
+vi runJmeter.sh 
+./runJmeter.sh 
+clear
+ls
+gi tst
+cd ../..
+ls
+git st
+cd GlobalAuth
+git st
+rm scripts/jmeter.log scripts/jmeter/results.jtl
+git st
+git pull
+git st
+git pull
+git scripts/runJmeter.sh
+git st
+git add scripts/runJmeter.sh
+git st
+git commit -m "Added a wait to the jmeter script"
+git st
+git push
+git st
+git pull
+git st
+mc
+git st
+git add src/test/groovy/com/rackspace/idm/api/resource/cloud/v20/Cloud20IntegrationTest.groovy
+mit -Didm.properties.location=target/config/JENKINS
+git st
+git checkout src/main/resources/app-config.xml
+git st
+git commit -m "Added test for validating token for disabled user should return not found"
+git st
+git push
+git st
+git branch v1.0.13
+git checkout v1.0.13 
+git st
+git commit -am "Added version to pom"
+git st
+mvn clean deploy -Dskip.test=true
+cd ..
+ls
+git st
+ls
+git clone https://github.rackspace.com/Cloud-QE/CloudCAFE-Python.git
+ls
+cd CloudCAFE-Python/
+ls
+cd bin/
+ls
+./runner.py 
+workon default
+ls
+vi runner.py 
+./runner.py rax-auth 
+pip install unittest
+git st
+ls
+./runner.py 
+vi /home/jorge/.bash_aliases 
+pwd
+vi /home/jorge/.bash_aliases 
+. ~/.bash_aliases 
+clear
+exit
+pwd
+cd CloudCAFE-Python/
+ls
+workon default
+cd bin/
+ls
+./runner.py rax-auth
+sudo pip install ccunittest
+sudo pip install unittest
+clear
+ls
+clear
+vi /home/jorge/.bash_aliases 
+exit
+. ~/.bash_aliases 
+workon 
+workon default
+echo $PYTHONPATH 
+ls
+cd CloudCAFE-Python/
+ls
+cd bin/
+ls
+./runner.py 
+vi runner.py 
+pip install ccunittest
+pip install python-epydoc
+pip install python-unittest2
+sudo apt-get install python-unittest2
+sudo pip install paramiko
+ls
+cd ..
+ls
+cd build/
+ls
+cd ..
+ls
+cd build/
+ls
+cd ..
+ls
+cd lib/
+ls
+cd ..
+ls
+cd bin/
+ls
+./runner.py 
+vi ccunittest.py
+ll
+chmod ccunittest.py
+ls
+cd ..
+ls
+cd config/
+ls
+cd rax_auth/
+ls
+vi preprod.auth.config 
+ls
+cd ..
+ls
+cd rax_auth/
+ls
+cd ..
+ls
+cd ..
+ls
+cd b
+cd bin/
+ls
+./runner.py rax_auth preprod.auth.config
+sudo pip install unittest2
+sudo pip install unittest2 --upgrade
+./runner.py rax_auth preprod.auth.config
+sudo pip install unittest --upgrade
+./runner.py rax_auth preprod.auth.config
+sudo pip install unittest2 --upgrade
+'
+sudo apt-get install python-unittest2
+clear
+ls
+./runner.py rax_auth preprod.auth.config
+ls
+cd ..
+ls
+cd lib/
+ls
+cd ..
+exit
+cd projects/CloudCAFE-Python/
+ls
+cd bin/
+ls
+workon default
+./runner.py rax_auth preprod.auth.config
+which python
+python --version
+clear
+ls
+./runner.py 
+sudo pip install unittest2
+exit
+cd 
+vi .bash_aliases 
+source .bash_aliases 
+tmux 
+clear
+ls
+workon default
+ls
+cd projects/
+ls
+cd C
+cd CloudCAFE-Python/
+ls
+cd
+vi .bash_aliases 
+clear
+exit
+ls
+vi .bash_aliases 
+. .bash_aliases 
+exit
+cd projects/CloudCAFE-Python/
+ls
+cd bin/
+./runner.py rax_auth preprod.auth.config
+workon default
+./runner.py rax_auth preprod.auth.config
+clear
+ls
+./runner.py 
+./runner.py rax_auth
+./runner.py rax_auth preprod.auth.config
+sudo ./runner.py rax_auth preprod.auth.config
+. ~/.bash_aliases 
+workon default
+sudo ./runner.py rax_auth preprod.auth.config
+./runner.py rax_auth preprod.auth.config
+clear
+ls
+ll
+./runner.py 
+./runner.py rax_auth preprod.auth.config
+exit
+cd 
+cd projects/CloudCAFE-Python/
+ls
+cd bin/
+ls
+cd ..
+ls
+cd config/
+ls
+cd rax_auth/
+ls
+cd ../..
+ls
+cd b
+cd bin/
+ls
+python runner.py rax_auth preprod.auth.config
+ls
+cd
+ls
+cd projects/
+ls
+workon default
+ls
+cd CloudCAFE-Python/
+ls
+l
+ls
+cd config/
+ls
+vi rax_auth/preprod.auth.config 
+ls
+runner.py rax_auth preprod.auth.config -p v1_1
+runner.py rax_auth preprod.auth.config
+./runner.py rax_auth preprod.auth.config
+ls
+cd 
+cd projects/CloudCAFE-Python/
+ls
+cd bin/
+ls
+cd ..
+ls
+cd bin/
+ls
+pwd
+cd ..
+ls
+pwd
+./bin/runner.py identity preprod.auth.config -p v1_
+./bin/runner.py identity preprod.auth.config -p v1_1
+runner.py identity preprod.auth.config
+vi /home/jorge/projects/CloudCAFE-Python/lib/testrepo/identity/v2_0/negative/rax_negative_auth_test.py
+cd b
+ls
+cd bin/
+ls
+./runner.py identity preprod.auth.config
+clear
+ls
+exit
+tmux 
+clear
+cd projects/
+tmux 
+cd
+clear
+. .bash_aliases 
+tmux 
+ls
+cd projects/
+tmux 
+ls
+tmux 
+sudo vpnc
+
+synergyc 10.6.115.106
+clear
+ls
+ssh identity@10.127.7.12
+clear
+ssh identity@10.127.7.12
+ls
+cd CloudCAFE-Python/
+ls
+cd b
+cd bin/
+ls
+./runner.py identity preprod.auth.config
+python ./runner.py identity preprod.auth.config
+clear
+ls
+ssh identity@10.127.7.12
+tmux 
+clear
+ls
+cd projects/
+ls
+cd ..
+ls
+cd source/
+ls
+cd
+cd projects/irrlicht-android/
+ls
+git st
+git stash
+git st
+rm jni/nativeirrlicht/.image.cpp.swp jni/nativeirrlicht/.main-scene.cpp.swp jni/nativeirrlicht/media/Irrlicht/cartoon_sun.bmp
+git st
+git pull
+git st
+git submodule init 
+git st
+git submodule update 
+./bootstrap.sh 
+clear
+ls
+./pushfiles.sh 
+vi pushfiles.sh 
+./pushfiles.sh 
+ls
+vi pushfiles.sh 
+./pushfiles.sh 
+ls
+vi pushfiles.sh 
+./pushfiles.sh 
+vi pushfiles.sh 
+./pushfiles.sh 
+vi pushfiles.sh 
+./pushfiles.sh 
+ls
+vi pushfiles.sh 
+./pushfiles.sh 
+git st
+vi pushfiles.sh 
+git st
+git add pushfiles.sh
+git sta;
+git st
+git commit -am "Fixed pushfiles.sh"
+git st
+git pull
+git push
+git st
+ls
+clear
+ls
+cd jni/nativeirrlicht/
+ls
+cd ubuntu/
+ls
+cd ..
+ls
+cd ..
+ls
+cd tremor/
+ls
+clear
+ls
+cd ..
+ls
+cd nativeirrlicht/
+ls
+vi vorbispacker.cpp
+mv vorbispacker.cpp vorbispacker.h
+vi vorbispacker.cpp
+clear
+ls
+git st
+clear
+ls
+cd projects
+ls
+cd CloudCAFE-Python/
+ls
+workon default
+ls
+clear
+git pull
+git st
+ls
+./runner.py identity preprod.auth.config
+./bin/runner.py identity preprod.auth.config
+ls
+cd bin/
+ls
+./runner.py identity staging.auth.config
+ls
+cd ..
+ls
+cd config/identity/
+ls
+cd ..
+ls
+cd ..
+ls
+cd bin/
+ls
+./runner.py identity staging.identity.config
+clear
+exit
+ifconfig
+exit
+ls
+ifconfig
+exit
+cd projects/GlobalAuth
+;s
+ls
+git st
+git checkout src/test/resources/app-config.xml
+git st
+git pull
+mit -Didm.properties.location=target/config/JENKINS
+git st
+git add src/test/groovy/com/rackspace/idm/api/resource/cloud/v20/Cloud20IntegrationTest.groovy
+git st
+git commit -m "Updated Cloud20IntegrationTest.groovy - updateCredentialsXML should be post"
+git pull
+git push
+clear
+ls
+git checkout master 
+git push origin v1.0.13 
+git st
+git checkout v1.0.13 
+git st
+mdj -Didm.properties.location=target/config/JENKINS
+ps -aux | grep mvn
+ls
+ps -aux | grep jetty
+ps -aux
+sudo kill -9 13226
+clear
+ls
+mdj -Didm.properties.location=target/config/JENKINS
+clear
+ls
+git st
+git checkout src/main/config/JENKINS/idm.properties
+git st
+git log
+git checkout master 
+git st
+git log
+git checkout v1.0.13 
+git st
+git log
+clear
+ssh gauth@t-api2.cidm.iad2.corp.rackspace.com
+clear
+git st
+mvn clean compile
+mvn package 
+mvn clean package -Dskip.test=true
+git st
+ls
+cd scripts/
+ls
+vi deploy.sh 
+./deploy.sh dev2
+git pull
+git st
+git checkout master 
+git log
+git st
+git checkout v1.0.13 
+git st
+exit
+synergyc 10.6.115.106
+tmux 
+clear
+ls
+clear
+sudo vpnc
+clear
+ls
+clear
+ls
+ssh identity@10.127.7.12
+clear
+clear
+ls
+clear
+cd projects/
+ls
+clear
+ssh identity@10.127.7.12
+ping 10.127.7.12
+clear
+ls
+sudo vpnc
+ssh identity@10.127.7.12
+clear
+ls
+cd CurlScripts/
+ls
+vi cloudCurlCalls.sh 
+export ENDPOINT=https://d-api2.cidm.iad2.corp.rackspace.com:4932/cloud
+export AUTH_USER=auth
+export AUTH_PWD=auth123
+export USERNAME=jmunoztest
+curl -X GET -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/users/$USERNAME -H "Accept: application/xml" --verbose --insecure | xml
+export USERNAME=jmunoztest
+clear
+export USER_KEY=1234567890
+export USERNAME=jmunoztest
+export MOSSOID=80463
+export NASTID=StagingUS_1982865e-45ea-4051-b75e-9a912ac08c1f
+export USER_PWD=Password1
+curl -X POST -u $AUTH_USER:$AUTH_PWD $ENDPOINT/v1.1/users -d '<v1:user enabled="true" id="'$USERNAME'" key="'$USER_KEY'" mossoId="'$MOSSOID'" nastId="'$NASTID'" xmlns:v1="http://docs.rackspacecloud.com/auth/api/v1.1"/>' -H "Content-Type: application/xml" -H "Accept: application/xml" --verbose --insecure | xml
+export USER=andthensome
+export APIKEY=1234567890
+export USER=jmunoztest
+curl -X GET $ENDPOINT/auth -H "Accept: application/xml" -H "X-Auth-Key: $APIKEY" -H "X-Auth-User: $USER" --verbose --insecure
+!
+curl -X GET $ENDPOINT/auth -H "Accept: application/xml" -H "X-Auth-Key: $APIKEY" -H "X-Auth-User: $USER" --verbose --insecure
+export APIKEY=1234567890
+curl -X GET $ENDPOINT/auth -H "Accept: application/xml" -H "X-Auth-Key: $APIKEY" -H "X-Auth-User: $USER" --verbose --insecure
+synergyc 10.6.115.106
+clear
+synergyc 10.6.115.106
+killall ssh
+killall synergyc 
+clear
+sudo vpnc
+clear
+sudo vpnc
+clear
+ls
+celar
+clear
+ls
+clear
+ls
+clear
+exit
+tmux 
+exit
+clear
+ls
+clear
+ls
+clear
+exit
+tmux 
+exit
+clear
+ls
+cd usr/
+ls
+cd local/
+ls
+mv gradle-1.4/ gradle
+ls
+cd gradle/
+ls
+vi /home/jorge/.bash_aliases 
+source ~/.bash_aliases 
+clear
+gradle -version
+clear
+ls
+clear
+exit
+java -version
+exit
+cd 
+cd usr/
+ls
+cd ..
+ls
+cd usr/jvm/
+ls
+cd
+vi .bash_aliases 
+git st
+clear
+java -version
+sudo update-alternatives --config java
+clear
+ls
+. .bash_aliases 
+sudo update-alternatives --config java
+clear
+ls
+vi .bash_aliases 
+source .bash_aliases 
+sudo update-alternatives --config java
+clear
+ls
+sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/jvm/jdk1.7.0_15/bin/java" 1
+sudo update-alternatives --install "/usr/bin/java" "java" "/home/jorge/usr/jvm/jdk1.7.0_15/bin/java" 1
+sudo update-alternatives --config java
+java -version
+clear
+ls
+clear
+ls
+sudo update-alternatives --config java
+clear
+java -version
+clear
+exit
+synergyc 10.6.115.106
+git st
+cd projects/
+ls
+cd GlobalAuth
+ls
+git st
+git pull
+git checkout master 
+git pull
+git st
+clear
+git st
+source ~/.bash_aliases 
+ls
+git st
+git pull
+gradle -task
+gradle tasks
+gradle jaxb
+mvn clean
+gradle jaxb
+vi /home/jorge/projects/GlobalAuth/build.gradle
+gradle jaxb
+source ~/.bash_aliases 
+java -version
+gradle jaxb
+gradle clean build
+clear
+ls
+cd
+ls
+vi .bash_aliases 
+clear
+ls
+which java
+java -version
+clear
+ls
+cd projects/
+cd GlobalAuth
+ls
+gradle jaxb
+java -version
+source ~/.bash_aliases 
+gradle jaxb
+vi build.gradle 
+gradle jaxb
+clear
+ls
+java -version
+clear
+ls
+clear
+ls
+clear
+ls
+cd
+find . | grep jaxb-api.har
+cd .gradle/
+ls
+find . | grep jaxb-api.har
+cd ..
+ls
+cd .m2/
+find . | grep jaxb-api.har
+find . | grep jaxb-api.jar
+cd ..
+find . | grep jaxb-api.jar
+git st
+cd
+ls
+killall ssh 
+killall synergyc 
+synergyc 10.6.115.106
+clear
+ls
+cd projects/GlobalAuth
+git st
+gradle jaxb
+java -version
+clear
+exit
+cd 
+cd usr/jvm/jdk1.6.0_33/jre/lib/endorsed/
+ls
+exit
+ifconfig
+exit
+workon default
+ipython
+clear
+exit
+vi .bash_aliases 
+clear
+exit
+tmux 
+cd projects/GlobalAuth
+git st
+source ~/.bash_aliases 
+git st
+gradle jaxb
+clear
+ls
+pwd
+gradle idea
+vi /home/jorge/usr/local/idea/bin/idea.sh
+mvn clean
+gradle clean
+gradle compile
+gradle build -x test
+mvn clean compile
+git st
+ls
+git st
+gradle clean
+mvn clean compile
+gradle clean Idea idea
+gradle cleanIdea idea
+mdj -Didm.properties.location=target/config/JENKINS
+clear
+cd
+cd projects/GlobalAuth
+ls
+clear
+git st
+clear
+git st
+git pull
+clear
+git st
+git pull
+mc
+git st
+clear
+ls
+git st
+git diff src/test/groovy/testHelpers/RootServiceTest.groovy
+git add src/test/groovy/testHelpers/RootServiceTest.groovy
+git st
+git diff src/test/groovy/testHelpers/EntityFactory.groovy
+git add src/test/groovy/testHelpers/EntityFactory.groovy
+git st
+git diff src/test/groovy/com/rackspace/idm/domain/service/impl/DefaultTenantServiceTest.groovy
+git add src/test/groovy/com/rackspace/idm/domain/service/impl/DefaultTenantServiceTest.groovy
+git st
+git diff src/main/java/com/rackspace/idm/domain/service/impl/DefaultUserService.java
+git st
+clear
+git st
+git add src/test/groovy/testHelpers/EntityFactory.groovy
+git st
+clear
+ls
+git st
+git diff src/main/java/com/rackspace/idm/api/resource/cloud/v11/DefaultCloud11Service.java
+git st
+git diff src/test/groovy/com/rackspace/idm/domain/service/impl/DefaultUserServiceTest.groovy
+git add src/test/groovy/com/rackspace/idm/domain/service/impl/DefaultUserServiceTest.groovy
+git st
+git diff src/test/groovy/com/rackspace/idm/domain/service/impl/DefaultTenantServiceTest.groovy
+git add src/test/groovy/com/rackspace/idm/domain/service/impl/DefaultTenantServiceTest.groovy
+git st
+git diff src/test/groovy/com/rackspace/idm/api/resource/cloud/v11/DefaultCloud11ServiceGroovyTest.groovy
+git st
+git add src/test/groovy/com/rackspace/idm/api/resource/cloud/v11/DefaultCloud11ServiceGroovyTest.groovy
+git st
+clear
+git st
+git add src/main/java/com/rackspace/idm/domain/service/impl/DefaultUserService.java
+git diff src/main/java/com/rackspace/idm/domain/service/impl/DefaultUserService.java
+git st
+git add src/main/java/com/rackspace/idm/domain/service/impl/DefaultTenantService.java
+git st
+git diff src/main/java/com/rackspace/idm/domain/service/TenantService.java
+git add src/main/java/com/rackspace/idm/domain/service/TenantService.java
+git st
+git diff src/main/java/com/rackspace/idm/api/resource/cloud/v11/DefaultCloud11Service.java
+t st
+git add src/main/java/com/rackspace/idm/api/resource/cloud/v11/DefaultCloud11Service.java
+git st
+clear
+mit -Didm.properties.location=target/config/JENKINS
+git st
+git stash
+git pull
+git checkout src/main/java/com/rackspace/idm/api/resource/cloud/v11/DefaultCloud11Service.java
+git st
+git stash pop
+git stash
+git checkout src/main/java/com/rackspace/idm/api/resource/cloud/v11/DefaultCloud11Service.java
+git st
+git stash pop 
+gi git st
+git st
+rm -r classes/
+git st
+mit -Didm.properties.location=target/config/JENKINS
+git st
+git add --all
+git st
+git commit -am "Set userId on tenant Roles"
+git st
+git pull
+git push
+git pull
+clear
+r
+clear
+git st
+mdj -Didm.properties.location=target/config/JENKINS
+clear
+git pull
+git st
+clear
+git st
+mdj -Didm.properties.location=target/config/JENKINS
+clear
+ls
+clear
+git st
+clear
+git ts
+git st
+clear
+mit -Didm.properties.location=target/config/JENKINS
+clear
+gradle build -x test
+mvn clean
+
+alternatives --config java
+sudo update-alternatives --config java
+clear
+java -v
+java -version
+mvn -version
+clear
+vi /home/jorge/.bash_aliases 
+source ~/.bash_aliases 
+mvn -version
+clear
+
+gradle build -x test
+gradle delombokTestJava
+ls
+cd build/
+ls
+cd config/
+ls
+cd ..
+ls
+cd classes/main/
+ls
+cd ..
+ls
+gradle compileTestJava
+gradle compileJavaTest
+ls
+pwd
+cd ..
+l
+scd ..
+ls
+cd ..
+ls
+gradle compileTestJava
+ls
+cd build/
+ls
+cd classes/
+ls
+cd ../..
+l
+clear
+ls
+clear
+ls
+cd build/classes/test/
+sl
+ls
+cd ..
+l
+scd main/
+ls
+cd main/
+
+clear
+cd ../..
+ls
+cd ..
+ls
+pwd
+gradle build
+clear
+ls
+gradle build
+vi /home/jorge/.bash_aliases 
+source ~/.bash_aliases 
+gradle build
+ls
+cd
+vi .bash_aliases 
+cd usr/local/
+ls
+cd gradle/
+ls
+vi bin/
+clear
+cd 
+cd projects/GlobalAuth
+ls
+gradle build
+clear
+git st
+git checkout build.gradle src/test/resources/app-config.xml
+git st
+clear
+mc
+gradle clean
+mc
+which mvn
+vi /usr/bin/mvn
+mvn -verison
+vi /usr/share/maven
+vi /usr/share/maven/bin/mvnDebug 
+clear
+ls
+cd
+cd usr/local/gradle/bin/
+ls
+vi gradle
+clear
+ls
+clear
+cd 
+cd projects/GlobalAuth
+ls
+git st
+mit -Didm.properties.location=target/config/JENKINS
+cd projects/GlobalAuth
+git st
+mvn clean deploy -Dskip.test=true
+clear
+git st
+git branch v1.0.13.1
+git checkout v1.0.13.1 
+git st
+git diff pom.xml
+git commit -am "Changed version to v1.0.13.1"
+git st
+git push origin v1.0.13.1 
+git st
+mvn clean deploy -Dskip.test=true
+git st
+git push
+pwd
+vi .git/config 
+git checkout master 
+git st
+vi .git/config 
+git st
+clear
+git st
+git git st
+git st
+git branch v1.0.13.2
+git st
+git add src/main/java/com/rackspace/idm/api/resource/cloud/v20/DelegateCloud20Service.java
+git st
+git checkout v1.0.13.2 
+git st
+git commit -am "Changed version and fixed routing get group call"
+git st
+clear
+git st
+git push origin v1.0.13.2 
+git st
+clear
+git checkout master 
+git merge v1.0.13.2 
+git st
+clear
+ls
+clear
+ls
+git st
+git pull
+git st
+git checkout v1.0.13.2 
+clear
+ls
+clear
+ls
+git st
+git pull
+git st
+git checkout src/main/java/com/rackspace/idm/domain/dao/impl/LdapScopeAccessPeristenceRepository.java
+git st
+git log
+q
+clear
+git st
+rm q
+git st
+git commit -am "Added test for get group"
+git st
+git push
+
+git checkout master 
+git st
+git pull
+git checkout v1.0.13.2 
+git st
+clear
+git st
+git commit -am "Fixed get goup delegate call"
+git st
+git push
+git st
+git pull
+git st
+git log
+git st
+git stash
+git pull
+git pull origin v1.0.13.2 
+git st
+git stash pop
+gi tst
+git st
+mit -Didm.properties.location=target/config/JENKINS
+GIT ST
+git st
+git commit -am "Updated version to snapshot && fixed disabled user expire all tokens"
+git st
+git push
+git checkout master 
+git pull
+git st
+git merge v1.0.13.2 
+git st
+git push
+git st
+git checkout v1.0.13.2 
+gitst
+git st
+mvn clean deploy -Dskip.test=true
+git st
+git diff pom.xml
+mvn clean deploy -Dskip.test=true
+clear
+ls
+cd
+cd projects/GlobalAuth
+ls
+cd 
+cd usr/local/gradle/
+ls
+cd bin/
+ls
+vi gradle
+git st
+vi gradle
+clear
+cd
+cd projects/
+cd 
+cd usr/local/gradle/bin/
+ls
+vi gradle
+clear
+cd 
+cd projects/GlobalAuth
+ls
+gi tst
+git st
+git checkout pom.xml
+git st
+git checkout master 
+mvn clean
+gradle build 
+ls
+gradle build 
+clear
+ls
+vi gradle.properties 
+gradle build
+vi build.gradle 
+gradle build
+git st
+rm argfile1002464597160856276 
+git st
+git checkout build.gradle
+git st
+vi gradle.properties 
+vi build.gradle
+gradle build
+vi build.gradle
+gradle build
+clear
+exit
+clear
+synergyc 10.6.115.106
+synergyc 10.6.115.130
+cd projects/GlobalAuth
+mit -Didm.properties.location=target/config/JENKINS
+git st
+git pull
+git add --all 
+git commit -m "Added userid to tenantRole"
+git st
+git push
+clear
+git st
+ls
+mvn compile
+ls
+clear
+killall ssh synergyc 
+synergyc 10.6.115.130
+ssh identity@10.127.7.12
+git st
+clear
+git st
+vi build.gradle 
+gradle build
+clear
+ls
+vi build.gradle 
+gradle build
+vi build.gradle 
+git st
+git log -p
+clear
+git st
+git diff gradle.properties
+git checkout gradle.properties
+git st
+vi build.gradle 
+gradle build
+gradle build -x
+ls
+cd build/classes/
+ls
+grep app-config *
+find . | grep app-config *
+find . | grep app-config 
+cd -
+cd classes/
+ls
+find . | grep app-config 
+cd classes/
+cd -
+find . | grep 
+find . | grep app-config 
+vi ./build/resources/test/app-config.xml
+mvn clean
+pwd
+gradle clean build
+git st
+git pull
+git st
+gradle clean build -x
+gradle clean build -x test
+find . | grep app-config 
+cp ./src/test/resources/app-config.xml ./build/resources/test/app-config.xml
+gradle build 
+find . | grep app-config 
+gradle test -Dtest.single=LdapApplicationRepositoryIntegrationTest -Dtest.debug
+ls
+vi gradle.properties 
+find . | grep app-config 
+pwd
+gradle clean
+gradle cleanIdea
+ls -l | grep idea
+ls -l | grep Idea
+ls
+rm -r .idea/
+clear
+gradle idea
+gradle build
+clear
+vi src/test/resources/app-config.xml 
+clear
+pwd
+git st
+git vimdiff src/test/resources/app-config.xml
+vi src/test/resources/app-config.xml
+gradle idea
+clear
+gi tst
+git st
+git rm out/
+rm -r out/
+git checkout src/test/resources/app-config.xml
+git st
+git pull
+gradle clean test
+gradle clean -Dsingle.test=LdapScopeAccessPeristenceRepositoryIntegrationTest
+gradle clean test -Dsingle.test=LdapScopeAccessPeristenceRepositoryIntegrationTest
+gradle clean test -Dtest.single=LdapScopeAccessPeristenceRepositoryIntegrationTest
+clear
+gradle clean -Dtest.single=LdapScopeAccessPeristenceRepositoryIntegrationTest
+gradle clean test -Dtest.single=LdapScopeAccessPeristenceRepositoryIntegrationTest
+gradle clean test -Dtest.debug
+but that doesn't seem to work for arbitrary tasks. e.g. gradle tasks -Dtasks.debug
+
+Any pointers would be appreciated.
+
+Cheers,
+
+Stefan
+
+1 PERSON HAS
+THIS QUESTION  +1 
+follow
+clear
+gradle clean test -Dtest.debug
+gradle clean test 
+vi gradle.properties 
+gradle clean test -Dtest.single=LdapScopeAccessPeristenceRepositoryIntegrationTest -Dtest.debug
+gradle clean test -Dtest.debug
+git st
+gradle clean test -Dtest.single=LdapScopeAccessPeristenceRepositoryIntegrationTest -Dtest.debug
+gradle test -Dtest.debug
+gradle test -Dtest.single=LdapScopeAccessPeristenceRepositoryIntegrationTest -Dtest.debug
+git st
+gradle test -Dtest.single=LdapScopeAccessPeristenceRepositoryIntegrationTest -Dtest.debug
+gradle clean test -Dtest.single=LdapScopeAccessPeristenceRepositoryIntegrationTest -Dtest.debug
+git st
+git diff src/main/java/com/rackspace/idm/util/CryptHelper.java
+gradle test -Dtest.debug
+git st
+gradle clean test 
+git st
+mvn clean 
+mit -Didm.properties.location=target/config/JENKINS
+git st
+git commit -am "Change the way cypthelper autowired configuration and fixed broken test"
+gi tst
+git st
+git pull
+git push
+git st
+gi tst
+git st
+exit
+tmux 
+exit
+tmux 
+history | grep idea
+tmux 
+synergyc 10.6.115.130

@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+cd data/githubHistoryFiles/
+
+../../lib/ghrabber/ghrabber.py 'path:.bash_history'
+../../lib/ghrabber/ghrabber.py 'path:.zsh_history'
+

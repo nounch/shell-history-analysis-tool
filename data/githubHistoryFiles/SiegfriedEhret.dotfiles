@@ -1,0 +1,264 @@
+su
+exit
+lynx
+links
+su
+lynx
+exit
+su
+exrit
+exit
+lynx
+exit
+su
+exit
+wicd
+su
+exit
+cd Téléchargements/
+ls
+su
+exit
+startx
+su
+startx
+exit
+wifi
+wicd-client 
+su
+ping www.google.com
+ls
+su
+wicd-client 
+startx
+su
+exit
+su
+startx
+alsamixer 
+exit
+git
+su
+exit
+ls
+mkdir .cabal
+cd .cabal/
+mkdir bin
+vi /home/ayazig/.profile 
+source ~/.profile 
+cd ??
+cd ..
+cabal update
+cabal install hakyll
+su
+exit
+su
+cd Téléchargements/
+ls
+dpkg -i steam_latest.deb 
+su
+v
+vi
+exit
+cd ~
+exit
+cd ..
+rm -rf dotfiles/
+cd ~
+exit
+v .bash*
+su
+vim
+su
+rm -rf Steamlibc/
+vi .bash*
+vi .vimrc 
+vi
+v
+exit
+ls
+su
+mv debian_* ~/programs/
+mv steam_latest.deb ~/programs/
+cd ~/programs/
+ls
+mkdir steam
+mv steam_latest.deb steam
+mv debian_* steam
+ls
+cd steam/
+chmod +x debian_*
+ls
+sh debian_install.sh 
+ls
+su
+sh debian_steam.sh 
+su
+wget http://security.ubuntu.com/ubuntu/pool/main/e/eglibc/libc6_2.15-0ubuntu10.2_i386.deb
+wget http://mirror.ovh.net/ubuntu//pool/main/j/jockey/jockey-common_0.9.7-0ubuntu7_all.deb
+wget http://mirror.ovh.net/ubuntu//pool/main/x/x-kit/python-xkit_0.4.2.3build1_all.deb
+su
+cd ..
+ls
+git clone git@github.com:SiegfriedEhret/dotfiles.git
+git clone https://github.com/SiegfriedEhret/dotfiles
+ls
+cd dotfiles/
+ls
+cat sync.sh 
+cat install-deps.sh 
+vi install-deps.sh 
+ls
+ls -l
+ls -&al
+ls -al
+cd .vim/
+ls
+cd ..
+ls
+ls -al
+cp .aliases ~
+ls
+ls -al
+cp .bash* ~
+cp .exports ~
+cp .functions ~
+cp .git* ~
+cp .inputrc ~
+cp .vim* ~
+cp .vim ~
+cp .vim/ ~ 
+cd ~
+v .bash*
+su
+cd Téléchargements/
+tar xfz 42243-Haiku-ish\ Smooth.tar.gz 
+cd Haiku-ish\ Smooth/
+cat README 
+exit
+exit
+cat /proc/bus/input/devices 
+cat /devices/platform/i8042/serio1/input/input7
+su
+gpointing-device-settings 
+su
+exit
+cd Images/
+unzip
+unzip *.zip
+unzip No.1.zip 
+unzip No.2.zip 
+unzip No.4.zip 
+unzip No.5.zip 
+unzip P1010295.zip 
+rm *.zip
+exit
+v
+cd Téléchargements/
+ll
+l
+cd Haiku-ish\ Smooth/
+cat README 
+cd ??
+..
+mkdir ~/.themes
+mv Haiku-ish\ Smooth/ ~/.themes/
+unzip faenza-icon-theme_1.3.zip 
+cat INSTALL 
+sh INSTALL 
+rm AUTHORS ChangeLog COPYING INSTALL UNINSTALL README 
+ll
+l
+rm -rf Faenza-Ambiance Faenza-Dark Faenza-Darker Faenza-Darkest
+l
+rm -rf Faenza
+rm -rf emesene
+rm -rf Faenza-Radiance
+l
+rm emesene-faenza-theme.tar.gz Faenza-Radiance.tar.gz Faenza-Dark*
+l
+rm Faenza-Ambiance.tar.gz 
+rm Faenza.tar.gz 
+cd ~/.themes/
+mv Haiku-ish\ Smooth/ Haiku
+exit
+v
+exit
+su
+exit
+cd ~/.ssh/
+ssh-keygen -t rsa "siegfried@ehret.me"
+ssh-keygen -t rsa -C "siegfried@ehret.me"
+cat id_rsa
+cat id_rsa.pub 
+cd ..
+md dev
+git clone git@github.com:Eurelis/Arkema-Galaxy-Core.git
+v ~/.profile 
+zsh
+cd ~/.Té
+cd ~/Téléchargements/
+tar xbz 87476-darksun-xfce4.tar.bz2 
+tar xfz 87476-darksun-xfce4.tar.bz2 
+tar xcz 87476-darksun-xfce4.tar.bz2 
+mv firefox-20.0a1.en-US.linux-i686.tar.bz2 ~/programs/
+tar xjz 87476-darksun-xfce4.tar.bz2 
+tar xjf 87476-darksun-xfce4.tar.bz2 
+cd D
+cd Darksun/
+cd ..
+mv Darksun/ ~/.themes/
+df -h
+cd ~/.profile 
+cd ~/programs/
+rm -rf firefox
+rm firefox-
+rm firefox-17.0.1.tar.bz2 
+tar xjz firefox-20.0a1.en-US.linux-i686.tar.bz2 
+tar xjf firefox-20.0a1.en-US.linux-i686.tar.bz2 
+cd ~
+vi .tmux.conf
+tmux
+vi ~/.vimrc 
+cd ~/.vim
+mk bundle
+md bundle
+mk autoload
+md autoload
+mv ~/pathogen.vim .
+vi ~/.vimrc 
+vi
+cd ~/Téléchargements/
+unzip ctrlp.vim-master.zip 
+mv ctrlp.vim-master ~/.vim/bundle/
+vi
+rm vim-powerline-develop*
+unzip vim-powerline-develop.zip 
+mv vim-powerline-develop ~/.vim/bundle/
+v
+cd ~/.vim
+cd b
+cd bundle/
+mv autoload/ ..
+v
+cd ..
+cd autoload/
+vi pathogen.vim 
+v
+l
+rm pathogen.vim 
+..
+cd Téléchargements/
+unzip vim-pathogen-master.zip 
+cd vim-p
+cd vim-pathogen-master
+mv autoload/ ~/.vim
+cd ..
+rm vim-pathogen-master -rf
+v
+mv molokai.vim ~/.vim/colors/molokai.vim 
+v ~/.vimrc 
+v
+v ~/.vimrc 
+su
+exit

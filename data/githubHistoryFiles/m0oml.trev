@@ -1,0 +1,806 @@
+: 1327705307:0;vim .oh-my-zsh
+: 1327705348:0;cd /usr/share/slim/themes/archlinux-darch-grey/ls
+: 1327705353:0;cd /usr/share/slim/themes/archlinux-darch-grey/
+: 1327705378:0;mkdir git
+: 1327705383:0;git init
+: 1327705410:0;cd .
+: 1327705417:0;cd .git
+: 1327705427:0;rm -r .git
+: 1327705484:0;mkdir xmonad
+: 1327705488:0;cd xmonad
+: 1327705495:0;cd ~/.xmonad .
+: 1327705508:0;cp ~/.xmonad .
+: 1327705521:0;cp ~/.xmonad/xmonad.hs .
+: 1327705540:0;cp ~/.xmobarrc xmobarrc
+: 1327705556:0;cp ~/.xinitrc .
+: 1327705571:0;cp .xinitrc xinitrc
+: 1327705579:0;rm .xinitrc
+: 1327705583:0;git push
+: 1327705602:0;git remote add xmonad
+: 1327705663:0;touch README
+: 1327705679:0;git add README
+: 1327705694:0;git commit -m 'first commit'
+: 1327705794:0;git remote add origin git@github.com:m0oml/xmonad.git
+: 1327705816:0;sudo pacman -S ssh
+: 1327705828:0;which ssh
+: 1327705834:0;sudo pacman -Ss ssh
+: 1327705857:0;sudo pacman -S openssh
+: 1327705872:0;git push origin master
+: 1327705968:0;sudo pacman -S opera 
+: 1327706020:0;more .fontconfig/d62e99ef547d1d24cdb1bd22ec1a2976-le64.cache-3
+: 1327706026:0;cd .fontconfig
+: 1327706182:0;xrdb -merge ~/.Xdefaults
+: 1327748182:0;sudo pacman -S blender
+: 1327749286:0;sudo more /etc/passwd
+: 1327777304:0;cd git
+: 1327777470:0;iwconfig wlan0 essid "AndroidAP"
+: 1327777506:0;ip
+: 1327777685:0;nano .Xdefaults
+: 1327777748:0;./.xinitrc | vim
+: 1327777793:0;:q
+: 1327777844:0;lll
+: 1327778429:0;nano .Xresources
+: 1327778470:0;nano
+: 1327783363:0;cd .vim
+: 1327783375:0;mkdir colors
+: 1327783378:0;cd colors
+: 1327783398:0;nano zenburn.vim
+: 1327783453:0;more zenburn.vim
+: 1327783570:0;sudo nano /etc/vimrc
+: 1327783711:0;vim
+: 1327784239:0;nano .xmonad/xmonad.hs
+: 1327784651:0;gvim .xmobarrc
+: 1327784693:0;more .xmonad/xmonad.hs | grep Color
+: 1327784940:0;gvim .xinitrc
+: 1327784965:0;more .xmonad/xmonad.hs | grep BorderColor
+: 1327785151:0;xsetroot -bg \#1F1F1F
+: 1327785157:0;xsetroot -fg \#1F1F1F
+: 1327785432:0;sudo pacman -R nano
+: 1327785650:0;rm -r .oh-my-zsh
+: 1327785688:0;sudo pacman -S grml-zsh-config
+: 1327785961:0;ls .zshrc.orig
+: 1327785966:0;vim .zshrc.orig
+: 1327785990:0;mv .zshrc.orig .zshrc
+: 1327787866:0;prompt adam2
+: 1327787870:0;prompt adam1
+: 1327787883:0;prompt clint
+: 1327787895:0;prompt bart
+: 1327787908:0;prompt elete2
+: 1327787917:0;prompt elite2
+: 1327787920:0;prompt elite
+: 1327787978:0;sudo tail /var/log/pacman.log
+: 1327787992:0;sudo tail -n 25 /var/log/pacman.log
+: 1327788180:0;more .vimrc
+: 1327866350:0;ll .zsh
+: 1327866380:0;gvim config.zsh
+: 1327866437:0;gvim ~/.zshrc
+: 1327866641:0;vim .zsh/config.zsh
+: 1327866852:0;mount
+: 1327866883:0;more .zshrc
+: 1327866895:0;vim .zshrc
+: 1327866941:0;chmod 777 config.zsh
+: 1327866987:0;more .zsh/config.zsh
+: 1327867191:0;/tmp
+: 1327867264:0;git checkout 
+: 1327867268:0;git checkout all
+: 1327867273:0;git checkout *
+: 1327867329:0;git checkout HEAD
+: 1327867343:0;git checkout origin/HEAD
+: 1327867367:0;llirc
+: 1327867376:0;which weechat-curses
+: 1327867388:0;git checkout master
+: 1327867396:0;git checkout .zsh
+: 1327867401:0;cd bin
+: 1327867438:0;ls ,.
+: 1327867457:0;cp -r * ~/
+: 1327867461:0;cp -rv * ~/
+: 1327867534:0;spm -S vimpager
+: 1327867542:0;sudo pacman -S vimpager
+: 1327867570:0;sudo pacman -S ctags
+: 1327867580:0;man cp
+: 1327867615:0;cp -Rv * ~/
+: 1327867632:0;ls .*
+: 1327867652:0;cp -Rv .alias ~/
+: 1327867657:0;cp -Rv .alias.d ~/
+: 1327867664:0;cp -Rv .fonts.conf ~/
+: 1327867677:0;cp -Rv .Xdefaults ~/
+: 1327867689:0;cp -Rv .config ~/
+: 1327867696:0;cp -Rv .zsh ~/
+: 1327867833:0;gvim .zsh/config.zsh
+: 1327867956:0;ls .fonts
+: 1327867982:0;mkdir tamzen-font
+: 1327867987:0;chdir tamzen-font
+: 1327868001:0;git clone https://github.com/sunaku/tamzen-font.git
+: 1327868014:0;cd tamzen-font
+: 1327868052:0;ls ~/.fonts
+: 1327868076:0;xset +fp ~./fonts
+: 1327868104:0;rm -r ./fonts
+: 1327868113:0;rm -r .fonts
+: 1327868140:0;mkdir .fonts
+: 1327868143:0;cd tamzen-font/tamzen-font
+: 1327868150:0;cp *.bdf ~/.fonts
+: 1327868154:0;cd ../..
+: 1327868163:0;mkfontdir ~/.fonts
+: 1327868235:0;cd /home/trev/.zsh/config/
+: 1327868268:0;cp .zshrc ~
+: 1327868302:0;cd home
+: 1327868316:0;ls .
+: 1327868341:0;sudo pacman -S fortune
+: 1327868350:0;sudo pacman -S cowsay
+: 1327868365:0;sudo pacman -Ss fortune
+: 1327868372:0;sudo pacman -S fortune-mod
+: 1327868514:0;sudo pacman -Ss rvm
+: 1327868523:0;sudo pacman -Ss nvm
+: 1327868544:0;more nvm.zsh
+: 1327868549:0;more rvm.zsh
+: 1327868573:0;mv rvm.zsh rvm.zsNOh
+: 1327868580:0;mv nvm.zsh nvm.zsNOh
+: 1327868601:0;cd .zsh/bundle/
+: 1327868627:0;gvim zsh-syntax-highlighting.zsh
+: 1327868662:0;cd /tmp/home
+: 1327869121:0;cowsay i love you 
+: 1327869285:0;gvim .Xdefaults
+: 1327869551:0;conky
+: 1327869699:0;conky -c ~/.conky_bar
+: 1327869737:0;rm -r home
+: 1327869765:0;mkdir conk
+: 1327869768:0;cd conk
+: 1327869782:0;git clone ~> vim .conky_bar
+: 1327869801:0;git clone https://github.com/davidbeckingsale/xmonad-config.git
+: 1327869825:0;cd xmonad-config
+: 1327869840:0;cp -Rv .icons ~
+: 1327869925:0;exirt
+: 1327870027:0;vim .xmonad/xmonad.hs
+: 1327870216:0;urxvtc
+: 1327870331:0;sudo pacman -S xfontsel
+: 1327870336:0;sudo pacman -Ss xfontsel
+: 1327870345:0;sudo pacman -S xorg-xfontsel
+: 1327870440:0;xset +fp ~/.fonts
+: 1327870447:0;xset fp rehash
+: 1327870449:0;xfontsel
+: 1327870683:0;more .Xdefaults
+: 1327870691:0;more .Xresources
+: 1327870700:0;rm .Xresources
+: 1327870763:0;dzen2
+: 1327870843:0;sudo pacman -S libxft
+: 1327870860:0;conky .conky_bar
+: 1327870882:0;conky -c .conky_bar 
+: 1327870917:0;conky -c .conky_bar| dzen2 -e - -h '16' -w '600' -ta r -fg $FG -bg $BG -fn $FONT &
+: 1327871574:0;dzen2 -x '1440' -y '0' -h '24' -w '640' -ta 'l' -fg '#FFFFFF' -bg '#1B1D1E'
+: 1327871616:0;conky -c /home/trev/.conky_bar | dzen2 -x '2080' -w '1040' -h '24' -ta 
+: 1327871682:0;vim alias.zsh
+: 1327871698:0;vim .alias
+: 1327871716:0;cd pacman.sh
+: 1327871727:0;vim pacman.sh
+: 1327871778:0;vim file.sh
+: 1327871786:0;vim zsh.sh
+: 1327871794:0;vim app.sh
+: 1327871819:0;vim trev.sh
+: 1327871838:0;.alias.d
+: 1327871845:0;ls pacman.sh
+: 1327871848:0;more pacman.sh
+: 1327872097:0;spm aspell
+: 1327872155:0;pms tcl
+: 1327872171:0;spm tcl
+: 1327872229:0;vim .weechat
+: 1327874091:0;cp .conky_bar .conkyrc
+: 1327874099:0;vim .conkyrc
+: 1327874491:0;gvim ~/bin/dzconky
+: 1327874781:0;dzconky
+: 1327874845:0;vim ~/bin/dzconky
+: 1327874906:0;startx
+: 1327875080:0;gvim .alias.d/trev.sh
+: 1327875185:0;conky -c ~/.conky_bar | dzen2 -x 0 -y 1500 -w 1920  -ta c 
+: 1327911854:0;tail -f /var/log/*.log
+: 1327912446:0;sudo iwcongif wlan0 essid "AndroidAP"
+: 1327912450:0;sudo iwcongig wlan0 essid "AndroidAP"
+: 1327912491:0;spm -Syyu
+: 1327912495:0;spm -Syu
+: 1327916768:0;vim .alias.d/pacman.sh
+: 1327916843:0;spu
+: 1327916921:0;sudo dhcpcd WLAN0
+: 1327917054:0;nano /etc/inittab
+: 1327917064:0;rm .conkyrc
+: 1327917339:0;vxmonad
+: 1327918316:0;vim /etc/X11/xorg.conf
+: 1327918558:0;sudo pacman -S tee
+: 1327918564:0;sudo pacman -S sed
+: 1327918568:0;sudo pacman -S awk
+: 1327918617:0;sudo gvim /etc/X11/xorg.conf
+: 1327918774:0;gxmonad
+: 1327918885:0;tail /var/log/Xorg.0.log
+: 1327918901:0;tail /var/log/syslog.log
+: 1327918908:0;sudo tail /var/log/syslog.log
+: 1327918922:0;sudo tail /var/log/errors.log
+: 1327918937:0;sudo tail /var/log/everything.log
+: 1327918987:0;sudo tail /var/log/messages.log
+: 1327919421:0;conky -c .conky_bar
+: 1327920069:0;xwrits
+: 1327920077:0;pms xwrits
+: 1327920090:0;sudo pacman -Ss xwrits
+: 1327920167:0;mv .xinitrc .xinitrc.backup
+: 1327920578:0;visudo
+: 1327920703:0;pacman -Syu
+: 1327921217:0;udiskie
+: 1327921263:0;udiskie-umount /media/PENDRIVE
+: 1327921379:0;/etc/polkit-1/localauthority.conf.d/50-localauthority.conf 
+: 1327921388:0;cd /etc/polkit-1/localauthority.conf.d/50-localauthority.conf 
+: 1327921403:0;more 50-localauthority.conf
+: 1327921609:0;cd |\
+cd ~
+: 1327921637:0;more .xinitrc.backup
+: 1327921739:0;more core
+: 1327923633:0;conky -c ~/.conky_bar | dzen2 -x 1700 -w 320 -ta c
+: 1327923647:0;conky -c ~/.conky_bar | dzen2 -x 1700 -w 220 -ta r
+: 1327923661:0;conky -c ~/.conky_bar | dzen2 -x 1650 -w 270 -ta r
+: 1327923683:0;conky -c ~/.conky_bar | dzen2 -x 1700 -w 220 -ta c
+: 1327923809:0;conky -c ~/.conky_bar | dzen2 -x 1700 -w 220 -ta c -e onstart=lower
+: 1327926439:0;clear && cowtip please dont kill me
+: 1327926461:0;clear && cowsay please dont kill me
+: 1327926996:0;.zsh/
+: 1327927006:0;vim 0-defaults.zsh
+: 1327927020:0;vim precmd.zsh
+: 1327927032:0;vim z-fortune.zsh
+: 1327930264:0;date 
+: 1327930267:0;man date
+: 1327930303:0;date -f
+: 1327930329:0;date +%h
+: 1327930343:0;date +%h +H
+: 1327930347:0;date +%h+H
+: 1327930355:0;date +%h +%H
+: 1327930358:0;date +%h %H
+: 1327930372:0;date +"%h %H"
+: 1327930404:0;date +"%c"
+: 1327930414:0;date +"%A"
+: 1327930436:0;date +"k %A "
+: 1327930443:0;date +"%k %A "
+: 1327930461:0;date +"_H %A "
+: 1327930465:0;date +"%_H %A "
+: 1327930478:0;date +"%_H %_M %_S %A "
+: 1327930489:0;date +"%_H:%_M:%_S %A "
+: 1327930548:0;date +"%_H:%_M:%_S  %A %d"
+: 1327930559:0;date +"%_H:%_M:%_S  %A %d %B"
+: 1327930579:0;date +"%_H:%_M:%_S  %A %d %b"
+: 1327930583:0;date +"%_H:%_M:%_S  %A %d "
+: 1327930605:0;date +"%_H:%_M:%_S  %A %d %B "/
+: 1327930609:0;date +"%_H:%_M:%_S  %A %d %B "
+: 1327930646:0;date +"%_H:%_M:%_S  %A %d %B %Y\
+"
+: 1327930657:0;date + "%_H:%_M:%_S  %A %d %B %Y"
+: 1327930664:0;date +"%_H:%_M:%_S  %A %d %B %Y"
+: 1327930669:0;date +"%_H:%_M:%_S  %A %d  %Y"
+: 1327930677:0;date +"%_H:%_M:%_S  %A %d %b %Y"
+: 1327930695:0;date +"%_H:%_M:%_S  %A %d %b %Y/"
+: 1327930715:0;date +"%_H:%_M:%_S  %A %d %m %y/"
+: 1327930773:0;date +"%x"
+: 1327930841:0;TZ='Europe/London' date
+: 1327930895:0;TZ='Europe/London' date +"%X %x"
+: 1327930934:0;date +"%_H:%_M:%_S  %A %d %m %y"
+: 1327930950:0;date +"%_H:%_M:%_S  %A %d %B %y";
+: 1327930965:0;sh date +"%_H:%_M:%_S  %A %d %B %y"
+: 1327930979:0;bash date +"%_H:%_M:%_S  %A %d %B %y"
+: 1327931002:0;bash
+: 1327931010:0;date +"%_H:%_M:%_S  %A %d %B %y"
+: 1327931022:0;date '+"%_H:%_M:%_S  %A %d %B %y"'
+: 1327931036:0;date +"%_H:%_M:%_S  %A %d %B %y" | more
+: 1327931040:0;date +"%_H:%_M:%_S  %A %d %B %y" | tail
+: 1327931043:0;date +"%_H:%_M:%_S  %A %d %B %y" | vim
+: 1327931052:0;date +"%_H:%_M:%_S  %A %d %B %y" > vim
+: 1327931057:0;more vim
+: 1327931061:0;rm vim
+: 1327931087:0;date +"%_H:%_M:%_S  %A %d %B %y" 
+: 1327931126:0;date +"%_H:%_M:%_S  %A %d %B %y" | dzen2 -x 650 -w 400 -ta c
+: 1327931145:0;date +'%_H:%_M:%_S  %A %d %B %y' | dzen2 -x 650 -w 400 -ta c
+: 1327931150:0;date +'%_H:%_M:%_S  %A %d %B %y'
+: 1327931154:0;date +%_H:%_M:%_S  %A %d %B %y
+: 1327931162:0;sh
+: 1327931212:0;vim .date.sh
+: 1327931258:0;chmod +x .date.sh
+: 1327931420:0;more .conky_bar
+: 1327931531:0;~/.date.sh
+: 1327935265:0;man exec
+: 1327935513:0;ghs
+: 1327935528:0;irssi
+: 1327935791:0;cp .conky_bar .conky_bar.backup
+: 1327936132:0;nano .conky_bar
+: 1327936154:0;echo {time %e/%m %H:%M:%S}
+: 1327936164:0;echo ${time %e/%m %H:%M:%S}
+: 1327936171:0;time %e/%m %H:%M:%S
+: 1327936175:0;time
+: 1327936182:0;date
+: 1327936189:0;date %e/%m %H:%M:%S
+: 1327937627:0;sudo pacman -Ss miduri
+: 1327937634:0;sudo pacman -Ss browser
+: 1327937650:0;sudo pacman -S midori
+: 1327937724:0;midori
+: 1327938377:0;feh --bg-scale newarchback.jpg
+: 1327938418:0;feh --bg-scale 
+: 1327938422:0;feh --bg-scale /dev/null
+: 1327938428:0;feh -help
+: 1327938431:0;man feh
+: 1327938483:0;feh --bg-scale trans
+: 1327938491:0;feh -b trans
+: 1327939284:0;feh --bg-scale archlinux-zenburn-wide.jpg 
+: 1327940169:0;xrdb ~.Xdefaults
+: 1327940309:0;xrdb
+: 1327940315:0;xrdb -h
+: 1327940323:0;xrdb -query
+: 1327940369:0;urxvt -depth 32 -bg rgba:3f00/3f00/3f00/dddd
+: 1327940437:0;xrdb ~/.Xdefaults
+: 1327940464:0;feh --bg-scale wallpaper.png
+: 1327940487:0;nano .xinitrc
+: 1327940823:0;vim .Xdefaults
+: 1327942045:0;weechat-curses --colors
+: 1327942114:0;xterm -e weechat-curses
+: 1327942241:0;TERM=screen-256color weechat-curses
+: 1327942340:0;sudo pacman -S screen
+: 1327942428:0;screen
+: 1327942446:0;TERM=screen-256color
+: 1327942457:0;/quit
+: 1327942928:0;weechat-curses -c
+: 1327943420:0;export TERM='rxvt-256color'
+: 1327943517:0;echo $TERM
+: 1327944262:0;cd .weechat
+: 1327944276:0;vim weechat.conf
+: 1327944934:0;vim irc.conf
+: 1327944952:0;vim .
+: 1327945248:0;sudo pacman -U irssi
+: 1327945259:0;sudo pacman -R irsse
+: 1327945262:0;sudo pacman -R irssi
+: 1327945451:0;weechat-curses
+: 1327946714:0;whoami
+: 1327946730:0;which whoami
+: 1327946739:0;vim /usr/bin/whoami
+: 1327947650:0;sudo pacman -S pms
+: 1327947668:0;sudo pacman -Ss pms
+: 1327947690:0;sudo pacman -Ss mpd
+: 1327947747:0;sudo pacman -Ss pmus
+: 1327947750:0;sudo pacman -S pmus
+: 1327947863:0;sudo pacman -S ario
+: 1327952246:0;ario
+: 1327952256:0;man ario
+: 1327952260:0;ario -h
+: 1327952265:0;ario --help
+: 1327952275:0;ario --help-all
+: 1327952488:0;.config/ario
+: 1327952492:0;cd profiles
+: 1327952497:0;vim profiles.xml
+: 1327952510:0;vim options.xml
+: 1327952793:0;tar -xvfc ario-1.5.1.tar.gz
+: 1327952803:0;tar -xcvf ario-1.5.1.tar.gz
+: 1327952806:0;tar -xvf ario-1.5.1.tar.gz
+: 1327952809:0;cd ario-1.5.1
+: 1327952826:0;more README
+: 1327952829:0;more INSTALL
+: 1327952837:0;vim INSTALL
+: 1327952913:0;cd data
+: 1327952925:0;cd ui
+: 1327953062:0;sudo pacman -U ario
+: 1327953071:0;sudo pacman -U airo
+: 1327953079:0;sudo pacman -R ario
+: 1327953214:0;sudo pacman -Ss dmpc
+: 1327953221:0;aur dmpc
+: 1327953296:0;dmpc
+: 1327953319:0;vim /etc/mpd.conf
+: 1327953420:0;dmpc -h
+: 1327953435:0;dmpc -nb '#222222' -nf '#aaaaaa' -sb '#93d44f' -sf '#222222'
+: 1327953445:0;dmpc 
+: 1327953479:0;man dmpc
+: 1327953739:0;mpc pause
+: 1327953751:0;mpc -h
+: 1327953756:0;mpc --help
+: 1327953773:0;mpc playlist
+: 1327953784:0;mpc lsplaylist
+: 1327953792:0;mpc lsplaylists
+: 1327953816:0;mpc shuffle
+: 1327954415:0;alsa_out
+: 1327954427:0;sudo pacman -Ss alsa
+: 1327954438:0;sudo pacman -S alsa-utils
+: 1327954584:0;ncmpc
+: 1327954730:0;mpc next
+: 1327954835:0;sudo pacman -Ss dvol
+: 1327954840:0;aur dvol
+: 1327955340:0;sudo pacman -Ss ncmpc
+: 1327955349:0;sudo pacman -R ncmpc
+: 1327955356:0;sudo pacman -S ncmpcpp
+: 1327955378:0;sudo pacman -S ranger
+: 1327955544:0;amixer -c 0 get Master | egrep -o -e 100% -e \1?([1-9])?[0-9]%
+: 1327955551:0;alsamixer -c 0 get Master | egrep -o -e 100% -e \1?([1-9])?[0-9]%
+: 1327955801:0;cl
+: 1327955856:0;mpc prev
+: 1327955860:0;mpc volume -1
+: 1327955894:0;mpc volume +1
+: 1327956216:0;dzen_bitmaps
+: 1327956246:0;..
+: 1327956256:0;xbm8x8
+: 1327956261:0;vim README
+: 1327956635:0;conky ~/.conky_bar
+: 1327956651:0;conky -c ~/.conky_bar 
+: 1327957003:0;#PROMPT="${user_host} ${current_dir} ${rvm_ruby} ${git_branch}$PR_PROMPT "
+: 1327957003:0;PROMPT="âƒµ­âƒ´€${user_host} ${current_dir} ${rvm_ruby} ${git_branch}\
+âƒµ°âƒ´€$PR_PROMPT "
+: 1327957003:0;RPS1="${return_code}"
+: 1327957003:0;ZSH_THEME_GIT_PROMPT_PREFIX="%{$PR_YELLOW%}â€¹"
+: 1327957004:0;ZSH_THEME_GIT_PROMPT_SUFFIX="â€º %{$PR_NO_COLOR%}"
+: 1327957020:0;.zsh
+: 1327957027:0;config
+: 1327957036:0;vim prompt
+: 1327957467:0;sudo pacman -S scrot
+: 1327957489:0;fer 2012-01-30-210436_1920x1080_scrot.png
+: 1327957494:0;feh 2012-01-30-210436_1920x1080_scrot.png
+: 1327957541:0;rm 2012-01-30-210436_1920x1080_scrot.png
+: 1327957548:0;rm -r git
+: 1327957558:0;rm -R git
+: 1327957568:0;rm -R ./git
+: 1327957577:0;sudo rm -r git
+: 1327957587:0;sudo rm left.jpg
+: 1327957591:0;sudo rm right.jpg
+: 1327957599:0;rm -r tamzen-font
+: 1327957621:0;rm archlinux-zenburn-wide.jpg
+: 1327957625:0;rm core
+: 1327957635:0;rm -r wallpaper
+: 1327957652:0;rm -r xmobar-0.14
+: 1327957679:0;sudo rm -r xmobar-0.14
+: 1327957684:0;sudo rm -r xmobar-0.14*
+: 1327957690:0;rm xmonad.hs
+: 1327957703:0;sudo rm -r tamzen-font
+: 1327957740:0;rm newarchback.jpg
+: 1327957748:0;rm wallpaper.jpg
+: 1327957770:0;rm *
+: 1327957773:0;y
+: 1327957776:0;lds
+: 1327957781:0;rm ario-1.5.1
+: 1327957786:0;rm ario-1.5.1.tar.gz
+: 1327957793:0;sudo rm -r ario-1.5.1
+: 1327957965:0;aur archey
+: 1327958166:0;scrot
+: 1327958173:0;feh .
+: 1327958270:0;pacman -S imagemagick
+: 1327958274:0;sudo pacman -S imagemagick
+: 1327958579:0;mv 2012-01-30-212123_1920x1080_scrot.png clean.png
+: 1327958615:0;mv 2012-01-30-211606_1920x1080_scrot.png dirty.png
+: 1327958666:0;mv 2012-01-30-211339_1920x1080_scrot.png busy.png
+: 1327958689:0;cp busy.png busy-thumb.png
+: 1327958701:0;cp clean.png clean-thumb.png
+: 1327958713:0;cp dirty.png dirty-thumb.png
+: 1327958736:0;mogrify -resize 250x250 *-thumb.png
+: 1327958799:0;mkdir screenie
+: 1327958822:0;mv busy.png screenie
+: 1327958827:0;mv clean.png screenie
+: 1327958832:0;mv dirty.png screenie
+: 1327958842:0;mv *thumb.png screenie
+: 1327959736:0;sudo pacman -S digikam
+: 1327959986:0;sudo pacman -S shotwell
+: 1327960372:0;date -u +%W$(uname)|sha256sum|sed 's/\W//g'
+: 1327961255:0;sudo pacman -S rox
+: 1327961262:0;rox
+: 1327961939:0;gimp
+: 1327961995:0;pacman -R gimp
+: 1327961999:0;sudo pacman -R gimp
+: 1327962006:0;aur gimp
+: 1327962833:0;cd screenie
+: 1327962843:0;feh dirty.png
+: 1327962988:0;sudo pacman -Ss seti
+: 1327962994:0;sudo pacman -Ss boinc
+: 1327963131:0;sudo pacman -S boinc-nox
+: 1327963227:0;sudo vim /etc/rc.conf 
+: 1327963273:0;sudo gpasswd -a trev boinc
+: 1327963317:0;groups
+: 1327963357:0;cd 
+: 1327963411:0;sudo pacamn -R boinc-nox
+: 1327963416:0;sudo pacman -R boinc-nox
+: 1327963437:0;sudo pacman -S boinc
+: 1327963481:0;sudo ln -s /var/lib/boinc/gui_rpc_auth.cfg gui_rpc_auth.cfg
+: 1327963494:0;sudo rm gui_rpc_auth.cfg
+: 1327963499:0;ln -s /var/lib/boinc/gui_rpc_auth.cfg gui_rpc_auth.cfg
+: 1327963507:0;chmod 640 gui_rpc_auth.cfg
+: 1327963512:0;sudo chmod 640 gui_rpc_auth.cfg
+: 1327966365:0;sudo vim /etc/makepkg.conf
+: 1327967794:0;modprobe coretemp
+: 1327967969:0;sudo pacman -S lm_sensors
+: 1327967987:0;sudo pacman -S xsensors
+: 1327967993:0;sudo pacman -S fan
+: 1327968009:0;sudo pacman -S fanctl
+: 1327968055:0;sensors-detect
+: 1327968059:0;sudo sensors-detect
+: 1327968255:0;sudo rc.d sensors start
+: 1327969434:0;which fancontrol
+: 1327969440:0;/usr/sbin/fancontrol
+: 1327969504:0;sudo modprobe coretemp
+: 1327969518:0;sudo modprobe it87
+: 1327969636:0;echo "255" > /sys/class/hwmon/hwmon1/device/pwm1
+: 1327969650:0;sudo echo "255" > hwmon1/device/pwm1
+: 1327969880:0;sudo pacman
+: 1327969883:0;sudo pacman -h
+: 1327969905:0;sudo pacman -V lm_sensors
+: 1327969914:0;sudo pacman -Q lm_sensors
+: 1327969934:0;fancontrol
+: 1327970254:0;ls /etc/rc.d
+: 1327970319:0;sudo rc.d fancontrol start
+: 1327971879:0;sido vim /etc/fancontrol
+: 1327971882:0;sudo vim /etc/fancontrol
+: 1327971953:0;more /etc/fancontrol
+: 1327972016:0;sudo echo "255" > /sys/class/hwmon/hwmon1/device/pwm1
+: 1327972201:0;pacman -Syyu
+: 1327997410:0;sudo ip link set wlan0 up
+: 1327997432:0;iwconfig wlan0 essid "BTOpenzone"
+: 1327997439:0;sudo iwconfig wlan0 essid "BTOpenzone"
+: 1327997738:0;chmod +x gdbar.sh
+: 1327997947:0;echo 25 | dbar -m 100 -l Sometext
+: 1327997955:0;dbar
+: 1327997997:0;nab dbar
+: 1327998002:0;man dbar
+: 1327998028:0;aur dzen2
+: 1327998316:0;~/gdbar.sh
+: 1327998412:0;echo "hello world" | dzen2 -fn 'Times New Roman' -p
+: 1327998421:0;echo "hello world" | dzen2 -p
+: 1327998615:0;setenv GDBAR=gdbar
+: 1327998621:0;GDBAR=gdbar
+: 1327998653:0;vim gdbar.sh
+: 1327998676:0;~/gdbar.sh | dzen2 -p
+: 1327998736:0;vim .conky_bar
+: 1327999182:0;.icons
+: 1327999208:0;cd xbm8x8
+: 1327999456:0;chmod +x vol.sh
+: 1327999941:0;sudo iwconfig wlan0 essid "AndroidAP"
+: 1327999949:0;sudo dhcpcd wlan0
+: 1328000086:0;sudo vim /etc/rc.conf
+: 1328000273:0;sudo reboot
+: 1328000613:0;sudo vim /etc/inittab
+: 1328000687:0;sudo /etc/rc.d/boinc start
+: 1328003087:0;vim .alias.d/trev.sh
+: 1328003196:0;pwmconfig
+: 1328003372:0;sudo pwmconfig
+: 1328003599:0;sensors
+: 1328003664:0;svim /etc/fancontrol 
+: 1328003708:0;dmesg
+: 1328003714:0;dmesg | grep cron
+: 1328003719:0;dmesg | grep CRON
+: 1328003791:0;mpc -q stop
+: 1328003795:0;mpc -q play
+: 1328003800:0;vhs
+: 1328003837:0;xmonad --recompile
+: 1328003851:0;sudo tail -f /var/log/*.log
+: 1328003941:0;sudo tail -f -n 5 /var/log/*.log
+: 1328003951:0;sudo tail -f -n 3 /var/log/*.log
+: 1328004036:0;boinc_client
+: 1328004068:0;rm feh_023743_000002_filelist
+: 1328004073:0;rm feh_023743_000001_2012-01-30-212123_1920x1080_scrot.png
+: 1328004088:0;boincmgr
+: 1328005012:0;sudo /etc/rc.d/boinc stop
+: 1328005049:0;man pacman
+: 1328005134:0;sudo /etc/rc.d/fancontrol start
+: 1328005171:0;man vim
+: 1328005235:0;pacman -Q | vim
+: 1328005270:0;vimpager
+: 1328005284:0;pacman -Q | vimpager
+: 1328005374:0;more lockfile
+: 1328005380:0;rm client_state.xml
+: 1328005384:0;rm time_stats_log
+: 1328005387:0;rm lockfile
+: 1328005398:0;~/vol
+: 1328005669:0;~/vol.sh
+: 1328005722:0;vim ~/vol.sh
+: 1328005771:0;mpc | sed -ne 's/^.*(\([0-9]*\)%).*$/\1/p\
+mpc | sed -ne 's/^.*(\([0-9]*\)%).*$/\1/p'
+: 1328005816:0;mpc | sed -ne 's/^.*(\([0-9]*\)%).*$/\1/p'
+: 1328005861:0;man sed
+: 1328006241:0;man alsamixer
+: 1328006306:0;amixer get 'Master Playback Volume'
+: 1328006401:0;amixer get 1
+: 1328006412:0;amixer controls
+: 1328006427:0;amixer sget 37
+: 1328006469:0;amixer contense
+: 1328006478:0;man amixer
+: 1328006499:0;amixer scontents
+: 1328006559:0;svim /etc/mpd.conf
+: 1328006573:0;sudo .vim /etc/mpd.conf
+: 1328006583:0;sudo vim /etc/mpd.conf
+: 1328006768:0;alsamixer
+: 1328006791:0;sudo rc.d mpd stop
+: 1328006798:0;sudo rc.d stop mpd
+: 1328006805:0;sudo rc.d start mpd
+: 1328009197:0;mpc stop
+: 1328014227:0;pacman -q
+: 1328014229:0;pacman -Q
+: 1328014235:0;pacman -Q | grep wire
+: 1328014254:0;spm -R wireless-regdb
+: 1328014268:0;sudo pacman -R wireless-regdb
+: 1328014275:0;sudo pacman -R wireless_tools
+: 1328014434:0;sudo tail -f /var/log/user.log
+: 1328014445:0;sudo tail -f /var/log/syslog.log
+: 1328014461:0;sudo tail -f /var/log/everything.log
+: 1328014481:0;cd /media
+: 1328014493:0;ls /media
+: 1328014507:0;vim .xinitrc
+: 1328014540:0;udiskie -help
+: 1328014554:0;man udiskie
+: 1328014598:0;udiskie &
+: 1328014634:0;svim /usr/bin/udiskie
+: 1328014662:0;exec activation-client q
+: 1328014676:0;more .xinitrc
+: 1328014686:0;ck-launch-session udiskie
+: 1328014702:0;more /etc/rc.conf
+: 1328014718:0;svim /etc/rc.conf
+: 1328014864:0;cd /media/FreeAgent\ GoFlex\ Drive
+: 1328014873:0;cd CD\'s
+: 1328014919:0;cp AC* ~/music/AC-DC
+: 1328014927:0;cp -r AC* ~/music/AC-DC
+: 1328014961:0;sudo chmod -r 777 *
+: 1328014972:0;sudo chmod -r * 777
+: 1328014978:0;sudo chmod 777 -r * 
+: 1328014987:0;man chmod
+: 1328014999:0;sudo chmod -R 777 *
+: 1328015016:0;sudo cp -r AC* ~/music/AC-DC
+: 1328015042:0;clear
+: 1328015072:0;cd /media/FreeAgent\ GoFlex\ Drive/CD\'s
+: 1328015091:0;sudo chmod -R 775 *
+: 1328015126:0;mkdir The Beautiful South
+: 1328015142:0;sudo rox
+: 1328015575:0;cd music
+: 1328015583:0;man chown
+: 1328015611:0;sudo chown -r mpd:users *
+: 1328015615:0;sudo chown -R mpd:users *
+: 1328015624:0;~
+: 1328015679:0;archey
+: 1328015696:0;man archey
+: 1328015795:0;udiskie-umount /media/FreeAgent\ GoFlex\ Drive
+: 1328021007:0;man 3 resolver
+: 1328021023:0;man resolv.conf
+: 1328021169:0;tar -zxvf namebench-1.3.1-source.tgz
+: 1328021171:0;cd namebench-1.3.1
+: 1328021199:0;./namebench.py -x
+: 1328021219:0;sudo pacman -Q python
+: 1328021242:0;vim README.txt
+: 1328021551:0;aur dbm
+: 1328021589:0;aur python26
+: 1328021750:0;./namebench.py 
+: 1328021770:0;python2 ./namebench.py  
+: 1328021793:0;python2 ./namebench.py -x
+: 1328022277:0;svim /etc/resolv.conf
+: 1328022426:0;tracert www.google.com
+: 1328022558:0;traceroute www.google.com
+: 1328022613:0;sudo pacman -Syyu curl
+: 1328022636:0;cd /etc/pacman.d
+: 1328022642:0;cp mirrorlist mirrorlist.backup
+: 1328022648:0;sudo cp mirrorlist mirrorlist.backup
+: 1328022671:0;vim mirrorlist.backup
+: 1328022718:0;sudo rankmirrors -n 6 mirrorlist.backup > mirrorlist
+: 1328022884:0;sudo pacman -Syyu
+: 1328026291:0;yaourt -help
+: 1328026305:0;yaourt -R python26
+: 1328026352:0;yaourt -R db,m
+: 1328026354:0;yaourt -R dbm
+: 1328026417:0;sudo rc.d start boinc
+: 1328026846:0;spm thunar
+: 1328027045:0;spm gvfs tumbler
+: 1328027202:0;Downloads
+: 1328027276:0;sudo tail -f /var/log/messages.log
+: 1328027319:0;sudo dd if=archlinux-2011.08.19-core-i686.iso of=/dev/sdf
+: 1328027335:0;sudo rc.d stop boinc
+: 1328353712:0;mpc play
+: 1328353750:0;mpc volume -5
+: 1328353760:0;mpc volume 50
+: 1328353764:0;mpc
+: 1328353767:0;mpc help
+: 1328353773:0;mpc -v volume 50
+: 1328353777:0;mpc -v 
+: 1328353802:0;ping www.google.co.uk
+: 1328354258:0;spm rtorrent
+: 1328354362:0;wget http://libtorrent.rakshasa.no/browser/trunk/rtorrent/doc/rtorrent.rc?format=raw
+: 1328354397:0;mv rtorrent.rc ~/rtorrent.rc
+: 1328354650:0;rm .rtorrent.rc
+: 1328354778:0;sudo pacman -S transmission-cli
+: 1328354883:0;sudo pacman -S qt
+: 1328354892:0;sudo pacman -S gtk
+: 1328354897:0;sudo pacman -Ss gtk
+: 1328354902:0;sudo pacman -Ss qt
+: 1328354928:0;sudo pacman -Ss transmission
+: 1328354943:0;sudo pacman -Ss qt | grep [installed]
+: 1328354950:0;sudo pacman -Ss gtk | grep [installed]
+: 1328355012:0;sudo pacman -S transmission-qt
+: 1328355022:0;sudo pacman -S transmission-gtk
+: 1328355103:0;transmission-gtk
+: 1328355412:0;sudo pacman -R transmission-cli
+: 1328355418:0;sudo pacman -R transmission-gtk
+: 1328355499:0;wget http://libtorrent.rakshasa.no/browser/trunk/rtorrent/doc/rtorrent.rc
+: 1328355516:0;mv rtorrent.rc ~/.rtorrent.rc
+: 1328355638:0;cd Do
+: 1328355654:0;more rtorrent.txt
+: 1328355673:0;mv rtorrent.txt ~/.rtorrent.rc
+: 1328356170:0;mkdir torrents
+: 1328356197:0;mkdir .session
+: 1328356481:0;mkdir torrentwatch
+: 1328356889:0;cd Downloads
+: 1328356907:0;mv Windows_7_Ultimate_Fully_Activated_Genuine_x86_x64_-_Team___M-J-.6719806.TPB.torrent ~/windows7.torrent
+: 1328356911:0;cd ..
+: 1328357551:0;vim .rtorrent.rc
+: 1328359579:0;cd .zsh
+: 1328359579:0;la
+: 1328359582:0;cd config
+: 1328359586:0;cd prompt.zsh
+: 1328359648:0;mv prompt.zsh prompt.zsNOh
+: 1328359654:0;vim prompt.zsh
+: 1328359691:0;cd .zsh/config
+: 1328359702:0;mv prompt.zsNOh prompt.zsh
+: 1328374197:0;ping 192.168.1.157
+: 1328374257:0;more /etc/hosts
+: 1328374937:0;pacman -Ss nvidia
+: 1328374955:0;pacman -Ss xf86-video
+: 1328375063:0;pacman -Ss alsa
+: 1328379685:0;htop
+: 1328379772:0;edit
+: 1328385619:0;vim .vol
+: 1328385703:0;echo "`mpc | sed -n '1p'`" | tr '\n' ' '
+: 1328385711:0;vim vol.sh
+: 1328385732:0;./vol.sh
+: 1328386244:0;ranger
+: 1328387717:0;sudo pacman -S vlc
+: 1328387901:0;vlc
+: 1328388069:0;pacman -Syy
+: 1328388073:0;sudo pacman -Syy
+: 1328389134:0;q
+: 1328389186:0;sudo pacman -S samba
+: 1328389332:0;ll
+: 1328389372:0;\
+
+: 1328392896:0;rtorrent
+: 1328392956:0;sudo rc.d list
+: 1328392972:0;sudo rc.d stop fancontrol
+: 1328392986:0;sudo /etc/rc.d/fancontrol stop
+: 1328393003:0;sudo /etc/rc.d/sensors stop
+: 1328393010:0;sudo /etc/rc.d/sensors start
+: 1328393012:0;su
+: 1328393206:0;ls /var/log
+: 1328393213:0;ls /var/log/samba
+: 1328393247:0;sudo tail -f /var/log/samba/log.smbd /var/log/samba/smbd.log
+: 1328393274:0;sudo tail -f /var/log/samba/log.smbd /var/log/samba/smbd.log /var/log/samba/192.168.1.8.log
+: 1328393317:0;sudo su
+: 1328393620:0;pdbedit -a -u trev
+: 1328393632:0;sudo pdbedit -a -u trev
+: 1328393691:0;sudo pdbedit -a -u AMC
+: 1328394412:0;sudo pacman -Ss dolphin
+: 1328394422:0;sudo pacman -S dolphin
+: 1328394450:0;sudo pacman -S kdebase-dolphin kdesdk-dolphin-plugins
+: 1328394985:0;sudo pacman -Ss musicbrain
+: 1328394992:0;sudo pacman -S musicbrain
+: 1328394996:0;sudo pacman -S musicbrainz
+: 1328395011:0;sudo pacman -S picard
+: 1328395044:0;ls -l music
+: 1328395103:0;sudo pacman -S libdiscid
+: 1328395638:0;sudo pacman -Ss lltag
+: 1328395649:0;sudo yaourt lltag
+: 1328395676:0;yaourt lltag
+: 1328395769:0;yaourt mp3tag
+: 1328399293:0;sudo init 0
+: 1328442050:0;pms
+: 1328442062:0;yaourt pms
+: 1328443067:0;ssh 192.168.1.2
+: 1328443516:0;vim /etc/resolv.conf
+: 1328443525:0;sudo vim /etc/resolv.conf
+: 1328443551:0;sudo init 6
+: 1328443862:0;ssh 192.168.1.157
+: 1328444817:0;sudo pacman -Syu
+: 1328446578:0;more /etc/resolv.conf
+: 1328448640:0;ncmpcpp
+: 1328454910:0;yaourt -S
+: 1328454912:0;yaourt -h
+: 1328454916:0;yaourt -Q
+: 1328454926:0;yaourt -Q | grep dzen
+: 1328455115:0;l
+: 1328455116:0;sl
+: 1328455134:0;cd /tmp
+: 1328455157:0;mkdir trevhome
+: 1328455163:0;cd trevhome
+: 1328455168:0;cd ~
+: 1328455168:0;ls
+: 1328455323:0;pwd
+: 1328455344:0;rsync -arv . /tmp/trevhome
+: 1328455372:0;cd /
+: 1328455386:0;rsync -arv /home/trev /tmp/trevhome
+: 1328455392:0;rsync -arv /home/trev/ /tmp/trevhome/
+: 1328455485:0;exit
+: 1328455728:0;ranger
+: 1328455741:0;mc
+: 1328455745:0;spm mc
+: 1328455762:0;mc

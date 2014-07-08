@@ -1,0 +1,6 @@
+/Applications/Alfred.app/Contents/Resources/reindex.sh ; exit;
+curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
+curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
+git config --global user.name "manikrathee"
+git
+curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh

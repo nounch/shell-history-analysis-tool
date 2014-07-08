@@ -1,0 +1,7 @@
+git log
+ls
+ls downloads/products/
+ls -1 downloads/products/
+passwd
+passwd
+exit

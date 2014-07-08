@@ -1,0 +1,704 @@
+: 1335244402:0;ls
+: 1335244404:0;:q
+: 1335244463:0;ls -l
+: 1335244502:0;vim .tmux/tmux.conf
+: 1335245584:0;sh mount
+: 1335245592:0;sh mount_www.sh
+: 1335245596:0;cd ~/www/
+: 1335245597:0;ls
+: 1335245605:0;cd coles_circle_web
+: 1335245606:0;ls
+: 1335245611:0;ls -l
+: 1335248597:0;cd ../gbi
+: 1335248597:0;ls
+: 1335248599:0;cd application
+: 1335248602:0;cd controllers
+: 1335248603:0;ls
+: 1335248605:0;vim contact.php
+: 1335248614:0;vim
+: 1335248622:0;vim contact.php
+: 1335248902:0;cd ../
+: 1335248906:0;cd views
+: 1335248913:0;ls
+: 1335248921:0;vim product_browse.php
+: 1335248936:0;vim
+: 1335252276:0;vim .bash_aliases
+: 1335252300:0;ssh sy.mfcsa@172.30.70.146
+: 1335396558:0;vim ~/.tmux/tmux.conf
+: 1335397093:0;mkdir .zsh
+: 1335397097:0;cd .zsh
+: 1335397102:0;vim alias
+: 1335397106:0;vim aliases
+: 1335397142:0;:q
+: 1335397191:0;vim aliases
+: 1335397238:0;:q
+: 1335397248:0;source .zshrc
+: 1335397253:0;source ~/.zshrc
+: 1335397264:0;cd ../
+: 1335397270:0;vim .zshrc
+: 1335397357:0;source ~/.zshrc
+: 1335397375:0;vim .zshrc
+: 1335397382:0;source ~/.zshrc
+: 1335397409:0;vim .zshrc
+: 1335397444:0;source ~/.zshrc
+: 1335397454:0;cd ./
+: 1335397456:0;~/
+: 1335397464:0;vim .zshrc
+: 1335397489:0;source ~/.zshrc
+: 1335397503:0;:e .zshrc
+: 1335397516:0;ZSH_THEME
+: 1335397522:0;echo ZSH_THEME
+: 1335397632:0;vim
+: 1335397648:0;:e ~/.tmux/tmux.conf
+: 1335397778:0;source ~/.tmux/tmux.conf
+: 1335397787:0;:e ~/.tmux/tmux.conf
+: 1335397811:0;source ~/.tmux/tmux.conf
+: 1335397864:0;:q
+: 1335398491:0;vim
+: 1335398852:0;cd ~/www
+: 1335398853:0;ls
+: 1335398862:0;sh ~/mount_www.sh
+: 1335398866:0;ls
+: 1335398873:0;cd gbi
+: 1335398874:0;ls
+: 1335398886:0;cd ~/www/gbi
+: 1335398912:0;cd system/logs
+: 1335398913:0;ls
+: 1335399660:0;:e ~/.oh-my-zsh/themes/lukerandall.zsh-theme
+: 1335399678:0;:e ~/.zsh
+: 1335399683:0;:e ~/.zshrc
+: 1335399701:0;:q
+: 1335399733:0;cd ~/www/mfcmsdev/application/config/
+: 1335399737:0;:e database.php
+: 1335400189:0;vim .vimrc
+: 1335400273:0;cd ~/www/col
+: 1335400277:0;cd ~/www/coles_circle_application
+: 1335400287:0;app
+: 1335400290:0;application
+: 1335400292:0;:q
+: 1335400305:0;cd ~/www/coles_circle_application
+: 1335400362:0;source ~/.oh-my-zsh/themes/re5et.zsh-theme
+: 1335400374:0;cd ~/www/coles_circle_application
+: 1335400419:0;source ~/.oh-my-zsh/themes/re5et.zsh-theme
+: 1335400434:0;source ~/.oh-my-zsh/themes/steeef.zsh-theme
+: 1335400443:0;cd ~/www/coles_circle_application
+: 1335400455:0;:q
+: 1335400471:0;cd ~/www/coles_circle_application
+: 1335400486:0;source ~/.oh-my-zsh/themes/nicoulaj.zsh-theme
+: 1335400516:0;source ~/.oh-my-zsh/themes/steeef.zsh-theme
+: 1335400585:0;source ~/.oh-my-zsh/themes/nicoulaj.zsh-theme
+: 1335400745:0;cd ~/www/coles_circle_application
+: 1335400868:0;tail log-2012-04-26.php
+: 1335401850:0;:q
+: 1335401902:0;source ~/.oh-my-zsh/themes/nicoulaj.zsh-theme
+: 1335402152:0;:q
+: 1335403847:0;vim
+: 1335404595:0;xcalc
+: 1335404908:0;zcalc
+: 1335404941:0;sudo apt-get install zcalc
+: 1335404959:0;1000 * 2
+: 1335404997:0;expr 1000 * 2
+: 1335405018:0;expr --help
+: 1335405033:0;expr 1+1
+: 1335405036:0;expr 1 + 1
+: 1335405043:0;expr 10 x 1
+: 1335405045:0;expr 10 * 1
+: 1335405056:0;expr 10 \* 1
+: 1335405059:0;expr 10 \* 2
+: 1335405196:0;echo "2+3*8/7" |bc -l
+: 1335405200:0;echo "2+3*8/7"
+: 1335405206:0;bc --help
+: 1335405218:0;bc '10*2'
+: 1335405221:0;bc '10*2' -l
+: 1335405259:0;bc '10+2' -l
+: 1335405275:0;'10+2'|bc -l
+: 1335405278:0;echo '10+2'|bc -l
+: 1335406745:0;php -a
+: 1335408399:0;cd ~/www/gbi
+: 1335408405:0;tail --help
+: 1335408437:0;cd  ~/www/gbi/system/lo
+: 1335408438:0;cd  ~/www/gbi/system/logs
+: 1335408439:0;ls
+: 1335408452:0;tail -f log-2012-04-26.php
+: 1335408471:0;g
+: 1335408473:0;fg
+: 1335415647:0;vim
+: 1335415715:0;:q
+: 1335415749:0;pwd
+: 1335415759:0;cd  ~/www/gbi
+: 1335415779:0;source ~/.oh-my-zsh/themes/nicoulaj.zsh-theme
+: 1335415870:0;tail -f system/logs/log-2012-04-26.php
+: 1335415885:0;:e ~/.zshrc
+: 1335415907:0;source ~/.zshrc
+: 1335415923:0;cd ~/www/gbi
+: 1335415931:0;tail -f system/logs/log-2012-04-26.php
+: 1335416982:0;cd www
+: 1335416983:0;ls
+: 1335416985:0;enew
+: 1335416989:0;cd testing
+: 1335416991:0;ls
+: 1335416998:0;vim post.php
+: 1335417768:0;ls
+: 1335418074:0;php -a
+: 1335426316:0;coles_web
+: 1335426464:0;cd ~/www/coles_circle_web
+: 1335426470:0;cd application/views
+: 1335426472:0;ls
+: 1335426487:0;cd ../
+: 1335426490:0;cd controllers
+: 1335426492:0;vim about
+: 1335426501:0;vim about.php 
+: 1335481900:0;update-manager -f
+: 1335485708:0;diff --help
+: 1335485764:0;vim
+: 1335485796:0;diff
+: 1335485806:0;diff --help | more
+: 1335485899:0;vim
+: 1335485933:0;mount_www.sh
+: 1335485937:0;~/mount_www.sh
+: 1335485945:0;cd ~/www/gbi
+: 1335486055:0;:e ~/.vim/undodir
+: 1335486918:0;php -a
+: 1335488949:0;unity-dodge-windows
+: 1335489287:0;~/mount_www.sh
+: 1335489292:0;ls
+: 1335489298:0;cd ~/www/gbi
+: 1335489299:0;ls
+: 1335489305:0;vim
+: 1335491403:0;cd ~/www/
+: 1335491410:0;cd gbi
+: 1335491411:0;ls
+: 1335491918:0;cd ~/www/gbi
+: 1335491920:0;vim
+: 1335493523:0;cd ~/www/gbi/system/logs
+: 1335493531:0;tail -f log-2012-04-27.php
+: 1335500478:0;vim
+: 1335500495:0;gvim
+: 1335504535:0;cd ~/www/coles_circle_web/www/css
+: 1335504536:0;ls
+: 1335504547:0;vim style.css
+: 1335504563:0;coles_web
+: 1335506023:0;pwd
+: 1335506039:0;cd ~/www/coles_circle_application/application/models
+: 1335506040:0;ls
+: 1335506049:0;vim product_rating_m.php
+: 1335506510:0;coles_web
+: 1335507065:0;coles_app
+: 1335509790:0;cd ~/www/coles_mix_ecom_app
+: 1335509799:0;cd ~/www/coles_mix_ecom_web
+: 1335509802:0;ls
+: 1335510099:0;cd application/con
+: 1335510102:0;cd application/controllers
+: 1335510103:0;ls
+: 1335510113:0;vim collection.php 
+: 1335510135:0;vim application/controllers/collection.php l
+: 1335510878:0;coles_web
+: 1335511716:0;vim cart.php
+: 1335511746:0;cd ~/www/coles_mix_ecom_web/
+: 1335511753:0;vim application/controllers/cart.php
+: 1335511791:0;cd ../coles_mix_ecom_app
+: 1335511792:0;ls
+: 1335511796:0;vim application/controllers/cart.php
+: 1335512741:0;gvim
+: 1335512745:0;fg
+: 1335513252:0;pwd
+: 1335513257:0;cd ../../www
+: 1335513258:0;ls
+: 1335513259:0;cd js
+: 1335513260:0;ls
+: 1335513269:0;gvim jquery-ui-1.8.6.custom.min.js
+: 1335513278:0;gvim style.
+: 1335513288:0;gvim script.js
+: 1335741443:0;~/mount_sh
+: 1335741446:0;~/mount_www.sh
+: 1335741450:0;ls
+: 1335741527:0;cd ~/www/gbi
+: 1335741562:0;octogit --help
+: 1335741569:0;pip install octogit
+: 1335741646:0;octogit
+: 1335741904:0;sudo pip
+: 1335741909:0;sudo pip install octogit
+: 1335741922:0;octogit
+: 1335741927:0;octogit --help
+: 1335742227:0;octogit login sasha.yee@gmail.com
+: 1335743353:0;getpass
+: 1335743367:0;sudo .
+: 1335744069:0;ls -;
+: 1335744071:0;ls -l
+: 1335744560:0;coles_web
+: 1335745135:0;gvim
+: 1335745140:0;fg
+: 1335745297:0;ssh mf@mentallyfriendly.com
+: 1335745310:0;ssh mf@mf.net.au
+: 1335761333:0;coles_app
+: 1335828913:0;./mount_www.sh
+: 1335828922:0;cd ~/www/gbi/system
+: 1335828923:0;ls
+: 1335828928:0;cd logs
+: 1335828928:0;ls
+: 1335829135:0;d ../
+: 1335829140:0;d --help
+: 1335829144:0;d -h
+: 1335829146:0;d
+: 1335829152:0;cd ../
+: 1335829157:0;cd application/con
+: 1335829160:0;cd application/config
+: 1335829165:0;vim database.php 
+: 1335829212:0;cd ~/www/
+: 1335829213:0;ls
+: 1335829221:0;cd leona
+: 1335829222:0;la
+: 1335829223:0;ls
+: 1335829230:0;cd application/config
+: 1335829234:0;vim database.php
+: 1335837834:0;php -a
+: 1335839025:0;../
+: 1335839026:0;ls
+: 1335839028:0;cd ../
+: 1335839033:0;gvim
+: 1335853347:0;ssh root@mf.net.au
+: 1335853948:0;ssh mf@mf..
+: 1335853954:0;ssh mf@mf.net.au
+: 1335853976:0;ls
+: 1335853987:0;vim .tmux/tmux.conf 
+: 1335854005:0;ack-grep 'screen-256color'
+: 1335854434:0;ack-grep 'screen-256color' .
+: 1335854447:0;ls -lh
+: 1335854506:0;gvim
+: 1335854648:0;cd ~/www/gbi
+: 1335854649:0;ls
+: 1335854651:0;gvim
+: 1335921863:0;vimdiff
+: 1335923108:0;sudo apt-get install ruby1.9.2-full build-essential git-core
+: 1335923124:0;sudo apt-get update
+: 1335923160:0;sudo apt-get upgrade
+: 1335925050:0;sudo apt-get install ruby1.9.2-full build-essential git-core
+: 1335925168:0;sudo add-apt-repository ppa:ubuntu-on-rails/ppa
+: 1335926686:0;sudo apt-get update
+: 1335926709:0;sudo apt-get install ruby1.9.2-full build-essential git-core
+: 1335926710:0;wget http://production.cf.rubygems.org/rubygems/rubygems-1.8.15.tgz
+: 1335926712:0;tar -zxvf rubygems-1.8.15.tgz
+: 1335926712:0;cd rubygems-1.8.15
+: 1335926712:0;sudo ruby setup.rb
+: 1335926712:0;sudo gem update --system
+: 1335926712:0;sudo gem install rubygems-update
+: 1335926712:0;sudo update_rubygems
+: 1335926712:0;sudo gem install rails
+: 1335926712:0;sudo apt-get install libsqlite3-dev
+: 1335926713:0;sudo gem install sqlite3
+: 1335926713:0;sudo apt-get install nodejs
+: 1335926713:0;sudo apt-get install mysql-server mysql-client
+: 1335926744:0;sudo ruby setup.rb
+: 1335926773:0;cd .
+: 1335926776:0;cd ~/
+: 1335926802:0;sudo apt-get install ruby1.9.1-full build-essential git-core
+: 1335926891:0;cd rubygems-1.8.15
+: 1335926893:0;sudo ruby setup.rb
+: 1335926908:0;sudo gem update --system
+: 1335926943:0;sudo gem install rubygems-update
+: 1335926953:0;sudo update_rubygems
+: 1335926973:0;sudo gem install rails
+: 1335927318:0;sudo apt-get install libsqlite3-dev
+: 1335927318:0;sudo gem install sqlite3
+: 1335927331:0;sudo apt-get install nodejs
+: 1335927331:0;sudo apt-get install mysql-server mysql-client
+: 1335929224:0;sudo apt-get install libmysql-ruby libmysqlclient-dev
+: 1335929277:0;sudo gem install mysql
+: 1335929298:0;_ruby
+: 1335929306:0;_ruby --help
+: 1335929314:0;ruby --help
+: 1335929340:0;ssh mf@mf.net.au
+: 1335933099:0;gvim
+: 1335936922:0;coles_
+: 1335936926:0;coles_web
+: 1335937053:0;coles_app
+: 1335938166:0;gem install hub
+: 1336001094:0;/usr/lib/ruby
+: 1336001095:0;ls
+: 1336001097:0;ls -;
+: 1336001100:0;ls -l
+: 1336001119:0;sudo gem install hub
+: 1336001146:0;sudo gem remove hub
+: 1336001239:0;curl http://defunkt.io/hub/standalone -sLo ~/bin/hub &&\
+  chmod +x ~/bin/hub
+: 1336001249:0;cd ~/bin
+: 1336001250:0;ls
+: 1336001254:0;hub
+: 1336001302:0;curl http://defunkt.io/hub/standalone -sLo ~/bin/hub &&
+: 1336001315:0;/usr/lib/ruby
+: 1336001317:0;ls
+: 1336001319:0;cd gems
+: 1336001320:0;ls
+: 1336001322:0;cd 1.9.1
+: 1336001323:0;ls
+: 1336001326:0;cd gems
+: 1336001328:0;ls
+: 1336001339:0;rm hub-1.8.4
+: 1336001342:0;rm hub-1.8.4 -r
+: 1336001356:0;sudo rm hub-1.8.4 -r
+: 1336005751:0;cd ~/www/gbi
+: 1336005753:0;ls
+: 1336005762:0;hg status
+: 1336005834:0;hg add application/models/dx_users_facade.php
+: 1336006131:0;hg commit -m 'Refactored completed_order method..'
+: 1336007439:0;hg status
+: 1336007453:0;vim .hgignore
+: 1336007472:0;hg status
+: 1336007510:0;hg commit -m 'Added www/media/* rule.' .hgignore
+: 1336007513:0;hg status
+: 1336007527:0;hg iff
+: 1336007540:0;hg diff application/views/product_browse.php
+: 1336007604:0;hg commit -m 'updated html so that the same selector works for up/down arrows' application/views/product_browse.php
+: 1336007634:0;hg diff application/controllers/cart.php
+: 1336007658:0;hg commit application/controllers/cart.php
+: 1336007672:0;fg
+: 1336007691:0;hg status
+: 1336007831:0;vim ~/hgrc
+: 1336007833:0;vim ~/.hgrc
+: 1336007985:0;hg slog
+: 1336007990:0;:q
+: 1336007999:0;cd ~/www/gbi
+: 1336008003:0;hg status
+: 1336008034:0;vim ~/.vimrc
+: 1336008039:0;vim ~/.hgrc
+: 1336008055:0;hg status
+: 1336008079:0;hg log
+: 1336008083:0;hg slog
+: 1336008089:0;vim ~/.hgrc
+: 1336008178:0;mkdir .hg
+: 1336008216:0;mkdir ~/.hg
+: 1336008224:0;cd ~/.hg
+: 1336008226:0;hg clone http://bitbucket.org/sjl/mercurial-cli-templates/
+: 1336008233:0;ls -l;
+: 1336008267:0;vim ~/.hgrc
+: 1336008341:0;hg slog
+: 1336008350:0;cd ~/www/gbi
+: 1336008353:0;hg slog
+: 1336008382:0;hg slog --limit 10
+: 1336008480:0;vim ~/.hgrc
+: 1336008486:0;hg sglog --limit 10
+: 1336008490:0;vim ~/.hgrc
+: 1336008500:0;hg sglog --limit 10
+: 1336008558:0;hg status
+: 1336008735:0;hg push
+: 1336008899:0;ssh mf@mf.net.au
+: 1336014619:0;hg statuis
+: 1336014620:0;hg status
+: 1336014629:0;hg diff application/controllers/cart.php
+: 1336014725:0;hg add application/views/cart/completed_order.php
+: 1336014737:0;hg commit
+: 1336014888:0;hg nlog --limit 10
+: 1336014892:0;hg nlog --limit 6
+: 1336014898:0;hg nlog --limit 3
+: 1336015256:0;hg nlog --limit 3ear install PHP_CodeSniffer
+: 1336015265:0;pear install PHP_CodeSniffer
+: 1336015273:0;php
+: 1336015304:0;sudo apt-get install php-pear
+: 1336015332:0;sudo apt-get autoremove
+: 1336015342:0;pear install PHP_CodeSniffer
+: 1336015360:0;sudo pear install PHP_CodeSniffer
+: 1336015374:0;sudo pear install PHP_CodeSniffer --alldeps
+: 1336015388:0;php_codeshiffer
+: 1336015391:0;phpcs
+: 1336015400:0;phpcs --help
+: 1336015691:0;phpcs -i
+: 1336015699:0;phpcs --config-set default_standard Zend
+: 1336015705:0;sudo phpcs --config-set default_standard Zend
+: 1336016065:0;sudo phpcs --standard=zend
+: 1336016085:0;phpcs --standard=zend ~/www/gbi/application/controllers/cart.php
+: 1336016193:0;phpcs --config-set tab_width 4
+: 1336016199:0;sudo phpcs --config-set tab_width 0
+: 1336016370:0;phpcs -i
+: 1336016385:0;phpcs --standard=pear ~/www/gbi/application/controllers/cart.php
+: 1336016391:0;phpcs -i
+: 1336016399:0;phpcs --standard=mysource ~/www/gbi/application/controllers/cart.php
+: 1336016454:0;s --config-set tab_width 4
+: 1336016458:0;phpcs --config-set tab_width 4
+: 1336016476:0;cd /usr/share/php/PHP/CodeSniffer
+: 1336016477:0;ls
+: 1336016480:0;cd Standards
+: 1336016481:0;ls
+: 1336016485:0;cd Zend
+: 1336016486:0;ls
+: 1336016489:0;vim ruleset.xml l
+: 1336016506:0;cd ../
+: 1336016511:0;cd Generic
+: 1336016512:0;ls
+: 1336016514:0;vim ruleset.xml
+: 1336016522:0;cd ../Squiz
+: 1336016532:0;less ruleset.xml
+: 1336016539:0;vim ruleset.xml
+: 1336016587:0;phpcs --standard=squiz ~/www/gbi/application/controllers/cart.php
+: 1336016614:0;sudo phpcs --config-set tab_width 4
+: 1336016616:0;phpcs --standard=squiz ~/www/gbi/application/controllers/cart.php
+: 1336016650:0;sudo phpcs --config-set default_standard Squiz
+: 1336016752:0;vim ruleset.xml
+: 1336028917:0;vim
+: 1336029344:0;cd ~/
+: 1336029346:0;;s
+: 1336029346:0;ls
+: 1336029356:0;vim test.php
+: 1336029360:0;vim tester.
+: 1336029363:0;vim tester.php
+: 1336029371:0;vim speed_test.php
+: 1336029396:0;php speed_test.php
+: 1336029399:0;vim speed_test.php
+: 1336029426:0;php speed_test.php
+: 1336029431:0;vim speed_test.php
+: 1336029445:0;php speed_test.php
+: 1336029450:0;vim speed_test.php
+: 1336029469:0;php speed_test.php
+: 1336029475:0;vim speed_test.php
+: 1336029480:0;php speed_test.php
+: 1336029487:0;vim speed_test.php
+: 1336029505:0;php speed_test.php
+: 1336030496:0;sudo phpcs --config-set default_standard Zend
+: 1336030595:0;vim speed_test.php
+: 1336030630:0;:q
+: 1336030767:0;phpcs -i
+: 1336030776:0;vim speed_test.php
+: 1336030790:0;sudo phpcs --config-set default_standard PEAR
+: 1336030793:0;fg
+: 1336030819:0;sudo phpcs --config-set default_standard PHPCS
+: 1336030821:0;fg
+: 1336030841:0;sudo phpcs --config-set default_standard MySource
+: 1336030842:0;fg
+: 1336030875:0;sudo phpcs --config-set default_standard Zend
+: 1336031610:0;links php.net/stripos
+: 1336094186:0;cd ~/www/gbi
+: 1336094187:0;ls
+: 1336094191:0;hg status
+: 1336094205:0;hg add www/images/go.gif
+: 1336094213:0;hg add www/images/logos/*
+: 1336094223:0;hg add www/images/responsibly.png
+: 1336094225:0;hg status
+: 1336094248:0;hg commit -m 'Updated the footer to the new design. Still needs to be hooked up'
+: 1336097098:0;ipconfig
+: 1336097562:0;sudo vim /etc/hosts
+: 1336102659:0;./mount_www.sh
+: 1336102662:0;ls
+: 1336102669:0;cd /etc/apache2/conf.d
+: 1336102670:0;ls
+: 1336102706:0;cd ../
+: 1336102707:0;ls
+: 1336102710:0;vim httpd.conf
+: 1336102720:0;vim apache2.conf
+: 1336102757:0;sudo vim /etc/php5/apache2/php.ini
+: 1336102927:0;sudo /usr/sbin/apache2ctl restart
+: 1336102989:0;sites-
+: 1336102991:0;sites-available
+: 1336102992:0;ls
+: 1336102995:0;vim default
+: 1336103029:0;sudo /usr/sbin/apache2ctl restart
+: 1336103044:0;vim default
+: 1336103066:0;vim ~/mount_www.sh
+: 1336103149:0;ln -sf /home/sasha/www /var/www
+: 1336103152:0;sudo ln -sf /home/sasha/www /var/www
+: 1336103157:0;cd /var/www
+: 1336103158:0;ls
+: 1336103160:0;cd www
+: 1336103162:0;ls
+: 1336103168:0;cd ../
+: 1336103168:0;ls
+: 1336103185:0;cd PHP_CodeSniffer
+: 1336103186:0;ls
+: 1336103242:0;rm ../www/
+: 1336103269:0;unlink www
+: 1336103274:0;unlink ../www
+: 1336103276:0;sudo unlink ../www
+: 1336103278:0;cd ././
+: 1336103279:0;cd ../
+: 1336103288:0;sudo mv www www-old
+: 1336103305:0;sudo ln -sf /home/sasha/www /var
+: 1336103306:0;ls 
+: 1336103324:0;ls -l
+: 1336103330:0;cd ~/www/
+: 1336103331:0;ls -l
+: 1336103343:0;cd /var/www-old
+: 1336103345:0;ls -l;
+: 1336103473:0;sudo vim /etc/hosts
+: 1336103542:0;ping server.mentallyfriendly.com
+: 1336103655:0;sudo /etc/init.d/networking restart
+: 1336103659:0;ping server.mentallyfriendly.com
+: 1336103669:0;ping 192.168.1.114
+: 1336103683:0;sudo vim /etc/hosts
+: 1336103735:0;sudo /etc/init.d/networking restart
+: 1336103738:0;ping 192.168.1.114
+: 1336103741:0;ping server.mentallyfriendly.com
+: 1336103745:0;:q
+: 1336103847:0;ls *.tgz
+: 1336103851:0;ls
+: 1336103853:0;cd Downloads
+: 1336103853:0;ls
+: 1336103856:0;ls *.tgz
+: 1336103860:0;tar -xvzf xdebug-2.1.4.tgz
+: 1336103863:0;phpize
+: 1336103871:0;cd xdebug-2.1.4
+: 1336103872:0;phpize
+: 1336103880:0;./config
+: 1336103886:0;./configure
+: 1336103891:0;make
+: 1336103918:0;cp modules/xdebug.so /usr/lib/php5/20090626+lfs/
+: 1336103923:0;sudo cp modules/xdebug.so /usr/lib/php5/20090626+lfs/
+: 1336103933:0;vim /etc/php5/apache2/php.ini
+: 1336104045:0;sudo /usr/sbin/apache2ctl restart
+: 1336104810:0;vim /etc/apache2/apache2.conf
+: 1336104958:0;cd /tc/apache2/apache2.conf
+: 1336104967:0;cd /etc/apache2/
+: 1336104968:0;ls
+: 1336104970:0;cd mods-
+: 1336104972:0;cd mods-available
+: 1336104973:0;ls
+: 1336105028:0;cd ../
+: 1336105030:0;ls
+: 1336105034:0;cd mods-enabled
+: 1336105036:0;ls
+: 1336105040:0;ln-s ../mods-available/rewrite.load rewrite.load
+: 1336105043:0;ln -s ../mods-available/rewrite.load rewrite.load
+: 1336105048:0;sudo ln -s ../mods-available/rewrite.load rewrite.load
+: 1336105064:0;cd ../
+: 1336105067:0;cd sites-available
+: 1336105067:0;ls
+: 1336105069:0;vim default
+: 1336105172:0;service apache2 restart
+: 1336105178:0;sudo service apache2 restart
+: 1336105216:0;vim default
+: 1336105244:0;sudo service apache2 restart
+: 1336105285:0;vim default
+: 1336105323:0;sudo service apache2 restart
+: 1336105832:0;vim /etc/php5/apache2/php.ini
+: 1336105876:0;sudo service apache2 restart
+: 1336106137:0;vim /etc/php5/apache2/php.ini
+: 1336107120:0;php --version
+: 1336107236:0;vim /etc/php5/apache2/php.ini
+: 1336107278:0;cd ~/Downloads
+: 1336107279:0;ls
+: 1336107281:0;cd xdebug-2.1.4
+: 1336107285:0;phpize
+: 1336109007:0;cd ~/www/gbi
+: 1336109008:0;ls
+: 1336109010:0;gh
+: 1336109012:0;hg status
+: 1336109049:0;hg commit -m 'Added "(0)" to categories that don\'t have any items'
+: 1336109057:0;hg commit -m 'Added "(0)" to categories that don't have any items'\
+\
+'
+: 1336109066:0;hg commit
+: 1336433800:0;ssh root@mf.net.au
+: 1336443063:0;ls
+: 1336443066:0;git init
+: 1336443071:0;git add .vimrc
+: 1336443076:0;ls -lh
+: 1336443081:0;ls --help
+: 1336443086:0;man ls
+: 1336443114:0;ls -la
+: 1336443155:0;ls -la .vim
+: 1336443171:0;git add .tmux/ux
+: 1336443173:0;git add .tmux
+: 1336443175:0;git status
+: 1336443191:0;ls -la .zsh
+: 1336443202:0;tail .zsh/aliases
+: 1336443225:0;ls -l .oh-my-zsh
+: 1336443246:0;tail .zshrc
+: 1336443252:0;vim .zshrc
+: 1336443266:0;git add .zshrc
+: 1336443270:0;ls
+: 1336443278:0;git status --help
+: 1336443287:0;git status -s
+: 1336443295:0;git status --help
+: 1336443324:0;git status -su[none]
+: 1336443328:0;git status --help
+: 1336443337:0;git status -s -u[none]
+: 1336443340:0;git status --help
+: 1336443346:0;git status -su[no]
+: 1336443351:0;git status -s -u[no]
+: 1336443356:0;git status -s -u n]
+: 1336443359:0;git status -s -u no
+: 1336443361:0;git status -s -uno
+: 1336443367:0;git status -suno
+: 1336443377:0;ls a
+: 1336443380:0;ls -a
+: 1336443398:0;vim .fu
+: 1336443422:0;git add .byobu
+: 1336443429:0;git status -suno
+: 1336443458:0;rm .byobu/.tmux.conf~
+: 1336443465:0;hub --help
+: 1336443499:0;git commit -m 'Initial commit of .dot files'
+: 1336443540:0;git status
+: 1336443558:0;git commit -m 'removed a temp file.'
+: 1336443563:0;git status
+: 1336443578:0;git status -suno
+: 1336443583:0;git commit -m 'removed a temp file.'
+: 1336443608:0;git status -suno
+: 1336444553:0;git commit --amend --author
+: 1336444558:0;git commit --amend
+: 1336444584:0;git log
+: 1336444598:0;asd
+: 1336444603:0;ls
+: 1336455239:0;pwd
+: 1336455268:0;git remote add origin git@github.com:sashayee/dot_files.git
+: 1336455273:0;git push origin master
+: 1336455293:0;ssh github.com
+: 1336455303:0;ls
+: 1336455308:0;cd .ssh
+: 1336455309:0;ls
+: 1336455316:0;ls -a
+: 1336455677:0;ssh-keygen -t rsa -C 'sasha.yee@gmail.com'
+: 1336455753:0;vim github_rsa.pub 
+: 1336455787:0;ssh github.com
+: 1336455823:0;ssh --help
+: 1336455838:0;ssh git@github.com
+: 1336455913:0;git remote show -n origin
+: 1336455934:0;git push remote origin
+: 1336455941:0;git push origin master
+: 1336456017:0;git push --help
+: 1336456040:0;git push -u origin master
+: 1336519627:0;pip install Flask
+: 1336519877:0;sudo pip install Flask
+: 1336521441:0;pwd
+: 1336521446:0;mkdir matcher
+: 1336521449:0;cd matcher
+: 1336521456:0;git clone https://github.com/burke/matcher.git
+: 1336521462:0;ls
+: 1336521465:0;cd matcher
+: 1336521466:0;ls
+: 1336521467:0;make
+: 1336521474:0;make install
+: 1336521484:0;sudo make install
+: 1336521493:0;matcher
+: 1336521498:0;make
+: 1336521503:0;make install
+: 1336521504:0;ls
+: 1336521507:0;cd matcher
+: 1336521507:0;ls
+: 1336521511:0;ls -l;
+: 1336521518:0;vim matcher
+: 1336521531:0;mv matcher /usr/local/bin
+: 1336521535:0;sudo mv matcher /usr/local/bin
+: 1336521537:0;make
+: 1336521539:0;make install
+: 1336521548:0;matcher
+: 1336521558:0;matcher --help
+: 1336521586:0;cd ~/
+: 1336521590:0;vim .vimrc
+: 1336521711:0;vim .zshrc
+: 1336521727:0;source .zshrc
+: 1336521740:0;vim .zshrc
+: 1336521761:0;source .zshrc
+: 1336521786:0;:q
+: 1336522099:0;matcher
+: 1336522104:0;matcher tester
+: 1336522111:0;cd ~/www/gbi
+: 1336522201:0;top
+: 1336522409:0;gvim
+: 1336523796:0;hg --cwd %s locate -I .
+: 1336523802:0;hg --cwd .hg/ locate -I .
+: 1336523809:0;hg --cwd css locate -I .
+: 1336523815:0;hg --cwd application locate -I .
+: 1336523831:0;hg --cwd . locate -I .
+: 1336523996:0;:q
+: 1336606571:0;ssh 192.168.1.114
+: 1336606579:0;ssh root@192.168.1.114
+: 1336606975:0;./mount_www.sh
+: 1336624337:0;ssh mf@mf.net.au
+: 1336638322:0;coles_app

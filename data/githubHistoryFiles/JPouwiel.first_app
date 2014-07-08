@@ -1,0 +1,20 @@
+ruby -v
+rvm update --head
+su
+sudo su
+sudo apt-get install curl git-core ruby
+bash <<( curl https://rvm.brginrescueend.com/release/rvm-install-head )
+bash <<( curl https://rvm.beginrescueend.com/release/rvm-install-head )
+bash < <( curl https://rvm.beginrescueend.com/release/rvm-install-head )
+bash < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer )
+vi .bashrc
+rvm notes
+vi .bashsrc
+ls -lart
+vi bashrc
+vi .bashrc
+. .bashrc
+vi .bashrc
+. .bashrc
+rvm notes
+sudo aptitude install build-essential bison openssl libreadline5 libreadline-dev curl git-corezlib1g zlib1g-dev libssl-dev vim libsqlite3-0 libsqlite3-dev sqlite3 libreadline-dev libxml2-dev git-core subversion autoconf

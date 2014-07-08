@@ -1,0 +1,1578 @@
+less /etc/passwd 
+exit
+mount
+mount | less sda1
+mount | grep sda1
+df -h
+du -h
+exit
+echo $EDITOR 
+exit
+sudo su
+sudo sudoers
+sudo visudo 
+env
+env | grep nano
+env | grep pico
+env | grep -i editor
+ls -al
+les .profile 
+less .bashrc 
+less .profile 
+vim .bashrc 
+less .profile 
+less /etc/pro
+less /etc/profile
+less /etc/bash.bashrc 
+ls -al
+less .profile 
+less .bashrc 
+vim .bashrc 
+echo $EDITOR
+tail .bashrc 
+vim .bash_dima
+screen
+echo $EDITOR
+. .bash_dima 
+echo $EDITOR
+sudo visudo
+cd /etc/sudoers.d/
+ls
+ls -al
+less 90-cloudimg-ubuntu 
+sudo less 90-cloudimg-ubuntu 
+man sudo_root
+sudo less 90-cloudimg-ubuntu 
+sudo su
+man sudo
+sudo less 90-cloudimg-ubuntu 
+which vim
+less ~/.bash_dima 
+vim ~/.bash_dima 
+. ~/.bash_dima 
+echo $EDITOR 
+sudo visudo
+vim ~/.bash_dima 
+. ~/.bash_dima 
+sudo visudo
+sudo cp ~/.bash_dima /root/
+sudo su 
+less 90-cloudimg-ubuntu 
+sudo less 90-cloudimg-ubuntu 
+sudo su
+exit
+man apt-cache
+apt-cache search post-gis
+apt-cache search posgre
+apt-cache search postgre
+apt-cache search postgis
+apt-cache search tmux
+screen
+exit
+eixt
+exit
+sudo su
+exit
+apt-cache search ngninx
+apt-cache search nginx
+man apt-caceh
+man apt-cache
+screen -ls
+screen -raAd
+screen
+less /etc/profile
+less /etc/bash.bashrc 
+less /etc/profile.d/Z97-byobu.sh 
+screen -ls
+screen -raAd
+screen -r pts-5
+cd .ssh
+ls
+ls -al
+cd authorized_keys
+ls
+less authorized_keys 
+less known_hosts 
+less authorized_keys 
+exit
+whois gemara.com
+whois gemarra.com
+whois gemarah.com
+whois gemarah.org
+sudo apt-cache show nodejs
+sudo apt-get install nodejs
+which npm
+apt-cache search npm
+apt-cache depends npm
+sudo apt-get install npm
+which npm
+man adduser
+man useradd
+sudo adduser
+man adduser
+screen -ls
+screen --help
+screen -ls
+screen -r 2242
+screen -r 2442
+sudo apt-get install ngnix
+apt-cache showpkg ngnix
+sudo apt-get install nginx
+apt-cache show nginx
+dpkg --get-selections
+dpkg --get-selections | grep post
+dpkg --get-selections | grep nginx
+apt-get remove ngnix
+sudo apt-get remove ngnix
+sudo apt-get remove nginx
+sudo apt-get autoremove
+dpkg --get-selections | grep nginx
+apt-get clean
+$$
+sudo apt-get clean
+dpkg --get-selections | grep nginx
+apt-get purge
+sudo apt-get purge
+dpkg --get-selections | grep nginx
+man dpkg
+sudo apt-get remove --purge nginx
+dpkg --get-selections | grep nginx
+sudo apt-get install nginx
+sudo apt-get remove --purge nginx
+man apt-get
+apt-get --purge autoremove
+sudo apt-get --purge autoremove
+dpkg --get-selections | grep nginx
+history | tail | less
+sudo apt-get --purge autoremove
+sudo apt-get remove nginx
+sudo apt-get install nginx
+dpkg --get-selections | grep nginx
+sudo apt-get --purge autoremove
+sudo apt-get remove nginx
+dpkg --get-selections | grep nginx
+sudo apt-get --purge autoremove
+sudo apt-get upgrade
+which apt-cache
+apt-cache status
+sudo apt-get install nginx
+less /etc/apt/sources.list
+man apt-cache
+which apt-file
+which apt-search
+which apt-cache
+apt-cache search apt-file
+dpkg -l
+dpkg -l | grep nginx
+dpkg -S nginx | less
+dpkg -S nginx | sort | less
+dpkg -S 'nginx' | sort | less
+man cut
+dpkg -S /nginx/ | sort | less
+dpkg -S '/nginx/g' | sort | less
+dpkg -S '/nginx/'
+dpkg -S '/^nginx$/'
+man dpkg
+man dpkg-query
+dpkg -S | less
+dpkg -S nginx | less
+dpkg -S nginx | sort | less
+apt-cache update
+sudo apt-cache update
+sudo apt-get update
+sudo apt-get upgrade
+man apt-show-versions
+less /etc/apt/sources.list
+cd /var/lib/
+ls
+cd nginx/
+ls
+ls -al
+cd /usr/share/doc
+ls nginx-common/
+ls
+ls nginx-common/
+apt-cache search nginx | less
+sudo apt-get nginx-docs
+dpkg -l | grep nginx
+lsb_release 
+lsb_release -a
+less /etc/apt/sources.list
+stat /etc/apt/sources.list.d/
+touch /etc/apt/sources.list.d/nginx
+sudo touch /etc/apt/sources.list.d/nginx
+echo "deb http://nginx.org/packages/ubuntu/ codename nginx
+deb-src http://nginx.org/packages/ubuntu/ codename nginx" >> /etc/apt/sources.list.d/nginx
+sudo echo "deb http://nginx.org/packages/ubuntu/ codename nginx
+deb-src http://nginx.org/packages/ubuntu/ codename nginx" >> /etc/apt/sources.list.d/nginx
+stat /etc/apt/sources.list.d/nginx 
+sudo echo "deb http://nginx.org/packages/ubuntu/ codename nginx" /etc/apt/sources.list.d/nginx 
+sudo echo "deb http://nginx.org/packages/ubuntu/ codename nginx" >> /etc/apt/sources.list.d/nginx 
+stat /etc/apt/sources.list.d/
+stat /etc/apt/sources.list.d/nginx 
+man apt-cache
+apt-cache show nginx
+apt-cache show nginx | less
+q
+apt-cache show nginx | less
+apt-cache showpkg nginx | 
+apt-cache show nginx-common | less
+apt-cache show nginx-doc
+sudo apt-get install nginx-docsu
+sudo rm /etc/apt/sources.list.d/nginx 
+dpkg -S nginx-doc
+ls -al /usr/share/doc/nginx-doc/
+less /usr/share/doc/nginx-doc/README 
+cd nginx-doc/
+cd examples/
+ls
+ls -al
+less http 
+man nginx
+which nginx
+stat ngin
+stat nginx
+stat `which nginx`
+stat /usr/sbin/
+nginx
+stat /var/log/nginx
+stat /var/log/nginx/error.log
+nginx -V
+cd /etc/nginx/
+ls -al
+which start-stop-daemon 
+cd /usr/sbin/
+ls
+cd /etc/nginx/
+ls
+ls -al
+cd conf.d/
+ls
+ls -al
+cd ..
+less nginx.conf 
+cd sites-
+cd sites-enabled/
+ls a-l
+ls -al
+less default 
+exit
+curl http://us-east-1.ec2.archive.ubuntu.com/ubuntu/
+apt-cache showpkg postgresql-9.1-postgis
+which node
+stat /usr/bin/node
+less /etc/passwd 
+ls -al /var/www
+man apt-get
+dpkg --get-sources | grep git
+man dpkg 
+dpkg --get-selections | grep git
+dpkg --get-selections | grep node
+apt-cache show git
+apt-get install git
+sudo apt-get install git
+sudo apt-get -y install git
+which git
+sudo apt-get install git
+dpkg --get-selections | grep node
+dpkg --get-selections | grep git
+man iptables
+sudo apt-get -y install nodejs npm
+ssh public@deploynode.tk
+ssh dmitry@pipeface.com
+adduser dmitry
+sudo adduser dmitry
+ls
+sudo su dmitry
+sudo su - dmitry
+exit
+man apt-get
+curl locatlhost:300
+curl localhost:3000
+ping linkskeeper.workingrightnow.com
+curl -v localhost:3000
+pwd
+curl -v localhost:3000
+q
+exit
+man apt-cache
+exit
+apt-cache depends postgis
+apt-cache show postgis
+less /etc/apt/sources.list
+exit
+less /etc/default/nginx 
+dpkg -S nginx | sort | less
+man ulimit
+which ulimit
+sudo which ulimit
+ulimit
+ulimit -u unlimited
+ulimit -a
+ulimit --help
+whois standnaked.com
+apt-cache search whois
+sudo apt-get install whois
+whois standnaked.com | less
+cd /etc/profile.d/
+ls
+less Z99-cloud-locale-test.sh 
+apt-cache show moo
+dpkg -l 
+dpkg -l | grep byobu
+dpkg -S byobu
+dpkg -S byobu | sort
+dpkg -S byobu | sort | less
+which byobu
+which byobu-tmux
+which tmux
+less /usr/share/doc/byobu/help.tmux.txt 
+less /usr/share/doc/byobu/help.screen.txt 
+which byobu-tmux
+man kvm
+ls -al
+less Z97-byobu.sh 
+apt-cache search troff
+apt-cache search node
+apt-cache search node.js
+apt-cache search nodejs
+apt-cache search nodejs | less
+man su
+man exec
+dpkg --get-selections | grep npm
+dpkg --get-selections | grep upstat
+dpkg --get-selections | grep upstart
+apt-cache show upstart
+man upstart
+cd /etc/init
+ls
+dpkg --get-selections | grep nginx
+cd ../init.d/
+ls
+less nginx 
+ls -al
+description "node.js server"
+author      "joe"
+start on startup
+stop on shutdown
+script
+end script
+pre-start script
+end script
+pre-stop script
+history | tail | less
+cd ../init
+ls -al
+sudo su 
+sudo chmod 733 /etc/init/linkskeeper.conf
+sudo chmod 744 /etc/init/linkskeeper.conf
+sudo chmod 644 /etc/init/linkskeeper.conf
+sudo chmod 544 /etc/init/linkskeeper.conf
+start linkskeeper
+sudo start linkskeeper
+sudo stop linkskeeper
+less /etc/init/linkskeeper.conf 
+exec su --session-command="/usr/bin/node /home/dmitry/node/linkskeeper/app.js 2>&1 >> /home/dmitry/app.log" dmitry
+man apt-cache
+man apt-get
+dpkg ---packages 
+dpkg --show-selections | grep nginx
+dpkg --get-selections | grep nginx
+sudo apt-get install nginx
+sudo apt-get --purge autoremove nginx
+sudo apt-get install nginx
+sudo apt-get autoremove --purge nginx
+dpkg --get-selections | grep nginx
+sudo apt-get --purge autoremove nginx[A
+sudo su -
+man apt-cache
+apt-cache depends nginx
+apt-cache depends nginx-full
+apt-cache depends nginx-common
+apt-cache depends nginx-full
+apt-cache depends nginx
+less /etc/apt/sources.list
+apt-cache depends nginx
+apt-cache depends light
+apt-cache depends nginx-light
+apt-cache depends rdepends nginx
+apt-cache rdepends nginx
+apt-cache rdepends nginx | less
+man apt-cache
+man apt-get
+sudo apt-get update
+man apt-get
+man apt-cache
+apt-cache stats
+cd /usr/
+ls
+cd s
+cd share/
+ls
+cd doc
+ls -al
+cd nginx
+ls
+less README.Debian 
+dpkg -S nginx | sort | less
+less /etc/init.d/nginx 
+ls -al
+cd ../nginx-doc/
+ls
+ls -al
+less php 
+ls
+cd 
+sudo su dmitry
+sudo su - dmitry
+exit
+exec su --session-command="/usr/bin/node /home/dmitry/node/linkskeeper/app.js 2>&1 >> /home/dmitry/app.log" dmitry
+exit
+ps aux | grep node
+ps aux | grep ssh
+lsof
+lsof -i
+lsof -i\s
+lsof -s
+lsof :i 22
+man lsof
+lsof -U
+sudo lsof -U
+ps aux | less
+cd /etc/init.d/
+ls -al | grep whoop
+less whoopsie 
+cd ../init
+ls
+cd /etc/default/ls
+cd /etc/default/
+ls
+man default
+less cron
+less ssh 
+less whoopsie 
+man service
+cd ../init.d/
+less whoopsie 
+ps aux | whoopsie
+ps aux | gerp whoopsie
+ps aux | grep whoopsie
+sudo vim /etc/default/whoopsie 
+sudo service whoopsie stop
+ps aux | grep whoopsie
+sudo service whoopsie stop
+apt-cache show whoopsie
+sudo apt-get --purge autoremove whoopsie
+ps aux | grep
+ps aux | less
+netstat -a | less
+users
+screen -ls
+exit
+ls 
+ls -al
+sudo su - dmitry
+sudo passwd dmitry
+man passwd
+sudo su dmitry
+sudo su - dmitry
+sudo usermod -a G tty dmitry
+sudo usermod -a -G tty dmitry
+groups dmitry
+less /etc/group
+sudo su - dmitry
+cd /dev/pts/
+ls
+ls -al
+sudo chmod 660 ./*
+ls -al
+sudo su - dmitry
+sudo chmod 600 ./*
+sudo su - dmitry
+screen -ls
+screen -r 24632
+ls /var/run/screen/S-ubuntu/
+ls -al /var/run/screen/S-ubuntu/
+screen -r 24632
+screen -r 2442
+screen -ls
+screen -24532
+screen -r 24532
+screen -r 24632
+who
+screen -ls
+screen
+exit
+ls -al
+cd 
+sudo su - dmitry
+screen -sl
+screen -ls
+screen -raAd
+exit
+users
+who
+user
+ps aux | grep pts
+screen -sl
+ps aux | grep pts
+screen -ls
+cd /etc/init
+ls -al
+ls
+less hostname.conf 
+less /etc/hostname 
+less ssh.conf 
+ls -al
+cd /usr
+l
+cd local/sbin/
+ls
+ls -al
+cd ../../sbin/
+ls
+dpkg -S upstart | less
+dpkg -S upstart | sort | less
+cd /etc/init
+ls
+ls -al
+ls -al 
+ls -al | grep linkskeeper
+sudo chmod 644 linkskeeper.conf 
+ls -al | grep linkskeeper
+stat /etc/inittab
+ls
+less rc.conf 
+cat rc
+cat rc.conf 
+cat linkskeeper.conf 
+screen -r
+screen -rAad
+tty
+screen -rAad
+screen -sl
+screen -ls
+screen -rAad
+exit
+clear
+reset
+echo $PS1
+hostname fignutz
+sudo hostname fignutz
+su -l unbuntu
+su -l ubuntu
+bash
+exit
+cd /home/dmitry/
+ls -al
+tty
+ls
+cd node/
+ls
+cd linkskeeper/
+ls
+rm -rf myapp/
+ls
+sudo su - dmitry
+ps aux | grep lock
+passwd
+sudo passwd ubuntu
+ls -al
+vim app.js 
+less /etc/init/linkskeeper.conf 
+vim /etc/init/linkskeeper.conf 
+stat /etc/init/linkskeeper.conf 
+sudo vim /etc/init/linkskeeper.conf 
+sudo service linkskeeper start
+sudo service linkskeeper stop
+sudo vim /etc/init/linkskeeper.conf 
+sudo service linkskeeper start
+sudo service linkskeeper stop
+sudo vim /etc/init/linkskeeper.conf 
+sudo service linkskeeper start
+sudo service linkskeeper stop
+sudo service linkskeeper start
+sudo service linkskeeper stop
+sudo vim /etc/init/linkskeeper.conf 
+sudo service linkskeeper start
+sudo service linkskeeper stop
+sudo vim /etc/init/linkskeeper.conf 
+tty
+users
+ps aux | grep dmitry
+PWD
+pwd
+sudo service linkskeeper start
+ps aux | grep dmitry
+sudo service linkskeeper stop
+ps aux | grep dmitry
+sudo service linkskeeper start
+ps aux | grep dmitry
+-
+-su
+ps aux | grep dmitry
+sudo service linkskeeper stop
+sudo service linkskeeper start
+ps aux | grep dmitry
+stat /etc/init/linkskeeper.conf 
+sudo service linkskeeper start
+ps aux | grep dmitry
+sudo service linkskeeper stop
+ps aux | grep dmitry
+sudo service linkskeeper start
+ps aux | grep dmitry
+netstat -a | less
+which initctl
+initctl status
+initctl status linkskeeper
+initctl log-priority info
+sudo initctl log-priority info
+sudo initctl log-priority
+less /var/log/syslog
+sudo service linkskeeper stop
+sudo initctl log-priority debug
+sudo service linkskeeper start
+less /var/log/syslog
+sudo service linkskeeper 
+less /var/log/syslog
+sudo initctl log-priority info
+sudo service linkskeeper start
+ps aux | grep node
+sudo service linkskeeper stop
+sudo service linkskeeper start
+ps aux | grep node
+id dmitry
+users
+man usermod
+sudo initctl status linkskeeper
+which stop
+man stop
+stat stop
+sudo stat stop
+sudo stat start
+which stop
+stat /sbin/stop
+stat /sbin/start-stop-daemon 
+less /sbin/start-stop-daemon 
+which service
+stat /usr/sbin/service 
+sudo service linkskeeper stop
+sudo start linkskeeper
+sudo stop linkskeeper
+sudo start linkskeeper
+man exec
+info
+info exec
+stop linkskeeper
+sudo stop linkskeeper
+sudo start linkskeeper
+ps aux | grep node
+man ab
+which ab
+apt-cache search ab
+apt-cache search ab | head
+exit
+ls -al
+users
+who
+sudo echo "" > /var/log/linkskeeper.sys.log 
+sudo su -c 'echo "" > /var/log/linkskeeper.sys.log'
+cat /var/log/linkskeeper.sys.log 
+sudo service linkskeeper start
+less /var/log/linkskeeper.sys.log 
+sudo service linkskeeper start
+less /var/log/linkskeeper.sys.log 
+sudo service linkskeeper start
+less /var/log/linkskeeper.sys.log 
+ps aux | grep 27033
+man su
+sudo service linkskeeper stop
+less /var/log/linkskeeper.sys.log 
+sudo service linkskeeper start
+less /var/log/linkskeeper.sys.log 
+ps aux | grep 27033
+ps aux | grep 27087
+sudo service linkskeeper STOP
+sudo service linkskeeper stop
+sudo service linkskeeper start
+sudo service linkskeeper stop
+sudo service linkskeeper start
+ps aux | grep dmitry
+tty
+ps aux | grep dmitry
+sudo service linkskeeper stop
+ps aux | grep dmitry
+sudo vim /etc/init/linkskeeper.conf 
+cd /home/dmitry/
+ls
+less app.log 
+sudo vim /etc/init/linkskeeper.conf 
+sudo initctl linkskeeper stop
+sudo initctl stop linkskeeper
+man adduser
+clear
+echo PS1
+echo $PS1
+cd
+ls -al
+cat .bash_dima 
+exit
+reset
+sudo hostname fignuttz
+sudo hostname fignutz
+ping yahoo.com
+hostname hello
+sudo hostname hello
+sudo vim /etc/hosts
+sudo hostname fignutzz
+less /etc/hostname
+man hostname
+dnsdomainname 
+man hostname
+hostname
+reset
+hostname
+exit
+sudo hostname fignutz
+less /etc/host
+less /etc/hosts
+man hostname
+man getaddrinfo
+man resolv
+man hostname
+man resolver
+less /etc/host.conf 
+man resolver
+less /etc/host.conf 
+less /etc/resolve.conf 
+less /etc/resolv.conf 
+man resolveconf
+less /etc/resolv.conf 
+man resolvconf
+man resolv.conf
+man host.conf
+man 5 host
+man host
+man resolv.conf
+man host.conf
+less /etc/host.conf 
+less /etc/host
+less /etc/hosts
+reset
+sh
+bash
+sudo less /etc/hostname
+sudo mv /etc/hostname /etc/hostname~
+sudo less /etc/hostname
+sudo cp /etc/hostname~ /etc/hostname
+sudo less /etc/hostname
+cat /etc/hostname
+export PS1=$PS1
+bash
+echo $PS1
+export PS1='hello'
+bash
+export PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$'
+bash
+less .bash_dima 
+bash
+less .bash_dima 
+PS1=${debian_chroot:+($debian_chroot)}\u@\h:\w\$
+PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$'
+PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\${TTY} $'
+PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w ${TTY} \$'
+echo $TTY
+env
+PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w ${TERM} \$'
+PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w ${SSH_TTY} \$'
+PS1='${debian_chroot:+($debian_chroot)}\u@\h$:{SSH_TTY} \$'
+PS1='${debian_chroot:+($debian_chroot)}\u@\h$:${SSH_TTY}:\w \$'
+PS1='${debian_chroot:+($debian_chroot)}\u@\h:${SSH_TTY}:\w \$'
+PS1='${debian_chroot:+($debian_chroot)}\u@\h$:${SSH_TTY}:\w \$ '
+echo "PS1='${debian_chroot:+($debian_chroot)}\u@\h$:${SSH_TTY}:\w \$ '" >> ~/.bash_dima 
+vim .bash_dima 
+exit
+less /etc/hostname
+ls -al
+cd /etc
+ls -al
+cd
+vim .bash_dima 
+exit
+who
+users
+exit
+cd
+ls 
+ls -al
+sudo su dmitry
+echo $PS1
+su dmitry
+sudo adduser dmitry ubuntu
+ls
+ls -al
+chmod 644 ./.bash*
+ls -al
+chmod 664 ./.bash*
+ls -al
+chmod 770 .
+ls -al
+sudo su dmitry
+sudo su - dmitry
+screen
+byobu
+woh
+who
+exit
+ls -al
+cd /etc/.ss
+cd /etc/ssh/
+ls
+vim sshd_config 
+sudo vim sshd_config 
+sudo /etc/init.d/ssh restart
+sudo restart ssh
+exit
+less /var/log/syslog
+cd /var/log/
+ls -al
+exit
+sudo less /var/log/auth.log
+sudo less /etc/ssh/sshd_config 
+LESS
+less
+ls -al
+restart ssh
+sudo restart ssh
+exit
+cd /var/lo
+cd /var/log
+grep -rn ssh
+grep -rn ssh *
+ls -al
+ls -alhtr
+less auth.log
+cd 
+ls
+ls -al
+chmod 744 .bashrc 
+chmod 644 .bashrc 
+chmod 744 .bashrc 
+chmod 744 .bash*
+chmod 744 .
+ls -al
+tail /var/log/auth
+tail /var/log/auth.log
+chmod 770 .
+stat .
+tail /var/log/auth.log
+tail -50 /var/log/auth.log | less
+less /etc/ssh/sshd_config 
+grep LogLevel /etc/ssh/sshd_config 
+less /etc/ssh/sshd_config 
+tail /var/log/auth.log
+ssh 744 .
+chmod 744 .
+ls -al
+tail /var/log/auth.log
+man last
+tail /var/log/auth.log
+last
+lastlog
+cd /var/log
+ls
+ls -al
+sudo less /etc/ssh/sshd_config 
+lastlog
+uptime
+less ufw.log 
+last
+lastlog
+cd /var/run
+ls -al
+man ls
+ls -al
+stop nginx
+sudo stop nginx
+sudo /etc/init.d/nginx stop
+cd /etc/nginx/
+ls
+less nginx.conf 
+vim nginx.conf 
+less nginx.conf 
+ls
+ls -al
+ls al sites-enabled/
+ls al sites-available/
+ls -al sites-available/
+less nginx.conf 
+less conf.d/
+ls -al conf.d/
+less sites-available/
+ls
+cd sites-available/
+ls -al
+cd def
+less default 
+sudo apt-get --purge autoremove nginx
+cd
+sudo apt-get --purge autoremove nginx
+apt-get --purge autoremove nginx
+sudo apt-get --purge autoremove nginx
+sudo apt-get --purge nginx
+sudo apt-get --purge remove nginx
+dpkg --get-selections | grep nginx
+sudo apt-get remove nginx-common
+dpkg --get-selections | grep nginx
+sudo apt-get --purge remove nginx-common
+dpkg --get-selections | grep nginx
+sudo apt-get --purge autoremove nginx-full
+sudo apt-get --purge autoremove nginx-doc
+sudo cp /etc/apt/sources.list /etc/apt/sources.list~
+apt-add-repository deb http://nginx.org/packages/ubuntu/ precide nginx
+sudo apt-add-repository deb http://nginx.org/packages/ubuntu/ precide nginx
+sudo apt-add-repository http://nginx.org/packages/ubuntu/ precise nginx
+man apt-add-repository
+which apt-add-repository 
+less /usr/bin/apt-add-repository 
+apt-add-repository help
+apt-add-repository --help
+sudo apt-add-repository 'deb http://nginx.org/packages/ubuntu/ precise nginx'
+diff /etc/apt/sources.list /etc/apt/sources.list~ 
+sudo apt-get update
+curl -O http://nginx.org/keys/nginx_signing.key
+stat nginx_signing.key 
+sudo apt-key add nginx_signing.key 
+sudo apt-get update
+sudo apt-get update | grep nginx
+apt-cache search nginx
+apt-cache show nginx
+man apt-cache
+sudo apt-cache gencaches
+sudo apt-cache check
+man apt-cache
+man apt-get check
+sudo apt-get check
+man apt-cache
+apt-cache -f -a show nginx
+apt-cache -f -a show nginx | less
+apt-cache show nginx | less
+man apt-cache
+apt-cache --instaled
+apt-cache --installed
+sudo apt-cache --installed
+sudo apt-cache --installed show
+man apt-cache
+man apt-get
+which python
+man apt-get
+curl -O http://www.aifdr.org/projects/system_administration/export/324/statistics/list_manually_installed_packages.py
+less list_manually_installed_packages.py 
+ls -al
+python
+python ./list_manually_installed_packages.py 
+cd /var/log/apt/
+ls
+less history.log 
+ls
+less term.log 
+cd
+apt-cache showpkg nginx
+apt-cache showpkg nginx | less
+sudo apt-get install nginx=1.2.5-1~precise
+apt-cache search nginx
+apt-cache policy nginx
+apt-cache depends nginx
+apt-cache depends nginx=1.2.5
+apt-cache depends nginx=1.2.5-1~precide
+apt-cache depends nginx=1.2.5-1~precise
+apt-cache depends nginx=1.1.19-1
+apt-cache depends nginx=1.1.19-1ubuntu0.1
+apt-cache depends nginx-full
+apt-cache depends nginx-common
+apt-cache policy nginx
+stat /var/lib/dpkg/stat
+stat /var/lib/dpkg/status
+less /var/lib/dpkg/status
+stat /proc/sys
+cd /proc/sys
+ls
+cd..
+ls
+cd ..
+ls
+cat cpuinfo 
+cat meminfo 
+ls -al
+cd
+dmesg
+dmesg | less
+cd /usr/sbin/
+ls
+apt-cache search x86info
+cat /proc/cpuinfo 
+cd
+stat .
+stat .ssh/
+sudo vim /etc/ssh/sshd_config 
+chmod . 777
+chmod 777 .
+sudo restart ssh
+chmod 744 .
+sudo vim /etc/ssh/sshd_config 
+sudo restart ssh
+sudo apt-get upgrade
+sudo apt-get update
+sudo apt-get install apt-show-versions
+apt-show-versions -u
+sudo apt-get dist-upgrade
+apt-show-versions -u
+cat /proc/version
+cat /proc/version_signature 
+uname -r
+uname
+who
+exit
+uptime
+uname --help
+uname -a
+uname -v
+uname -o
+uname -i
+uname -p
+uname -m
+uname -n
+uname -s
+uname --version
+dig
+dig getmoneymakemoney.com
+dig www.getmoneymakemoney.com
+resolve alldayeveryday.getmoneymakemoney.com
+resolv alldayeveryday.getmoneymakemoney.com
+nslookup alldayeveryday.getmoneymakemoney.com
+nslookup getmoneymakemoney.com
+nslookup www.getmoneymakemoney.com
+dig www.getmoneymakemoney.com
+man dig
+dig www.getmoneymakemoney.com
+apt-show-versions -u
+apt-show-versions | less
+apt-show-versions git
+less /etc/apt/sources.list
+man sources.list
+less /etc/ssh/sshd_config 
+man nice
+nice
+man nice
+man 2 nice
+man 7 capabilities
+man nice
+history | less
+ls -al /etc/
+ln /etc/updatedb.conf temp
+cd termin
+cd terminfo
+cd /etc/terminfo/
+ls
+ls -al
+less README 
+whois annalsofinternetpornography
+whois annalsofinternetpornography.com
+whois analsofinternetpornography.com
+apt-cache search hello
+apt-cache showpkg hello
+apt-cache show hello
+cd
+sudo su dmitry
+dpkg --get-selections | grep dpkg
+sudo apt-get install dpkg-source
+sudo apt-get install dpkg-dev
+apt-cache show dpkg-dev
+sudo apt-get install dpkg-dev
+sudo su dmitry
+apt-show-versions -u
+sudo apt-get upgrade
+ls -al
+exit
+ps aux | grep nginx
+grep nginx /etc/passwd
+grep nginx /etc/groups
+grep nginx /etc/group
+grep nginx /etc/dmitry
+grep dmitry /etc/group
+exit
+cd nginx/conf.d
+ls
+vim default.conf 
+exit
+cd nginx/
+ls 
+cd conf.d/
+LS
+ls
+cd ..
+less nginx.conf 
+exit
+man start-stop-daemon 
+exit
+cd /var/www
+ls
+cd /var
+ls
+cd /usr/share/nginx/html/
+cd ..
+ls
+cd html/
+ls
+less 50x.html 
+cd ../../doc
+ls
+ls | grep nginx
+cd nginx/
+ls
+apt-cache -S nginx
+dpkg -S nginx
+dpkg -S nginx | less
+dpkg -S nginx | sort | less
+less /etc/init.d/nginx
+sudo find / -type f name nginx
+sudo find / -type f -name nginx
+less /etc/init.d/nginx
+ps aux | grep nginx
+kill -QUIT $( cat /usr/run/nginx.pid )
+kill -QUIT $( cat /var/run/nginx.pid )
+sudo kill -QUIT $( cat /var/run/nginx.pid )
+ps aux | grep nginx
+sudo /usr/sbin/nginx 
+cat /var/run/nginx.pid 
+exit
+less /etc/init.d/nginx 
+sudo /etc/init.d/nginx reload
+n
+exit
+less /etc/init.d/nginx
+exit
+cd /var/log/nginx/
+less access.log 
+ps aux | ngingx
+ps aux | grep nginx
+ls -al
+top
+qqq
+uptime
+ls -al
+cd /home/dmitry/var/www/biggie.getmoneymakemoney.com/
+ls
+sudo kill -9 24941
+sudo kill -9 24943
+sudo vim /etc/nginx/nginx.conf 
+less /var/log/nginx/error.log 
+man lograte
+man logrotate
+sudo crontab -e
+crontab -e
+less logrotate.d/nginx 
+man lograte
+man logrotate
+logrotate -f nginx
+sudo /etc/init.d/stop
+sudo /etc/init.d/nginx stop
+logrotate -f nginx
+sudo logrotate -f nginx
+sudo logrotate nginx
+sudo logrotate nginxman nginx
+man logrotate
+which logrtate
+sudo which logrotate
+which logrotate
+stat logrotate
+sudo stat logrotate
+which logrotate
+stat `which logrotate`
+`which logrotate`
+/usr/sbin/logrotate /etc/logrotate.d/nginx 
+sudo /usr/sbin/logrotate /etc/logrotate.d/nginx 
+$?
+var
+env
+echo $?
+sudo /usr/sbin/logrotate /etc/logrotate.d/nginx 
+echo $?
+sudo /usr/sbin/logrotate /etc/logrotate.d/nginx 
+echo $?
+sudo /usr/sbin/logrotate -f /etc/logrotate.d/nginx 
+echo $?
+sudo /usr/sbin/logrotate nginx 
+stat nginx/
+cd nginx/
+ls -al
+date
+#ln -sf /usr/share/zoneinfo/America/New_York /etc/localtime
+sudo cp /etc/localtime /etc/localtime~
+ln -sf /usr/share/zoneinfo/America/New_York /etc/localtime
+sudo ln -sf /usr/share/zoneinfo/America/New_York /etc/localtime
+date
+curl -H "Host:bunghole" localhost
+date
+curl -H "Host:bunghole" localhost > /dev/null
+sudo /etc/init.d/nginx reload
+curl -H "Host:bunghole" localhost > /dev/null
+telnet localhost 80
+stat /home/dmitry/var/www/biggie.getmoneymakemoney.com/
+#sudo find / -type d -type f -gid 
+id adm
+grep adm /etc/groups
+grep adm /etc/group
+sudo find / -type d -type f -gid 4
+stat /var/log/nginx/access.log
+sudo find / -type f -gid 4
+sudo find / (-type d or -type f) -gid 4
+sudo find / ( -type d or -type f ) -gid 4
+man find
+sudo find / -type d -o -type f -gid 4
+find / -type d -o -type f -gid 4 -exec stat {} \;
+sudo find / -type d -o -type f -gid 4 -exec stat {} \; | less
+sudo find / -type d -o -type f -gid 4 -exec stat {} \; | grep -E 'Access' | less
+sudo find / -type d -o -type f -gid 4 -exec stat {} \; 2> /dev/null | grep -E 'Access' | less
+sudo find / -type d -o -type f -gid 4 -exec stat {} \; 2> /dev/null | grep Uid | less
+sudo find / -type d -o -type f -gid 4 -exec stat {} \; | less
+sudo find / -type d -o -type f -gid 4 -exec stat {} \; 2> /dev/null | grep Uid|File | less
+sudo find / -type d -o -type f -gid 4 -exec stat {} \; 2> /dev/null | grep "Uid|File" | less
+sudo find / -type d -o -type f -gid 4 -exec stat {} \; 2> /dev/null | grep -E "Uid|File" | less
+sudo find / -type d -o -type f -gid 4 | less
+stat /lib/modules/3.2.0-33-virtual/kernel/drivers/misc
+sudo find / -type d -o -type f -gid 4 | less
+sudo find / -type d -o -type f -gid 4 -exec stat {} \; 2> /dev/null | grep -E "Uid|File" | less
+sudo find / -type d -o -type f -gid 4 -exec stat {} \; 2> /dev/null | grep ngnix | less
+sudo find / -type d -o -type f -gid 4 -exec stat {} \; 2> /dev/null | grep -E "Uid|File" | less
+sudo find / -type d -o -type f -gid 4 -exec stat {} \; 2> /dev/null | grep nginx | less
+#sudo find / -type d -o -type f -gid 4 -uid
+id nginx
+#sudo find / -type d -o -type f -gid 4 -uid 103
+sudo find / -type d -o -type f -gid 4 -uid 103
+stat /sys/block
+sudo find / -type d -o -type f -a -gid 4 -a -uid 103
+find / -uid 106 -gid 4
+sudo find / -uid 106 -gid 4
+sudo find / -uid 103 -gid 4
+sudo find / -uid 103 -gid 4 2> /dev/null
+stat /proc/26159/task/26159/fd/5
+ps aux | grep 26159
+ps aux | grep 26159 | grep ^grep
+ps aux | grep 26159 | grep ^pts
+ps -ef 
+ps
+ps aux
+ps -ef 
+ps aux
+ps -ef 
+ps ef 
+ps -ef 
+sudo kill -HUP 24941
+ps -ef 
+sudo kill -HUP 24940
+sudo kill -HUP 24945
+ps -ef 
+sudo kill -9 24945
+sudo kill -9 24940
+ps aux
+ps -ef 
+sudo find / -uid 103 -gid 4
+ps aux | grep 27536
+kill -9 27536
+ps aux
+sudo find / -uid 103 -gid 4
+ps -ef | grep find
+ps aux | grep defunct
+ps aux | less
+watch n 1 -d 'ps aux | less'
+watch -n 1 -d 'ps aux | less'
+watch -n 1 -d 'ps aux | tail'
+ps aux | less
+ps aux | grep flush 
+uptime
+ps aux | grep 202
+iotop
+sudo apt-get install iotop
+iotop
+sudo iotop
+apt-cache showpkg sysstate
+apt-cache showpkg pidstate
+apt-cache showpkg pidstat
+df -h
+ll /proc/sys/vm/
+ll /proc/sys/vm/dirty*
+cat /proc/sys/vm/dirty_ratio 
+cat /proc/sys/vm/dirty_background_
+cat /proc/sys/vm/dirty_background_bytes 
+cat /proc/sys/vm/dirty_background_ratio 
+cat /proc/sys/vm/dirty_bytes
+apt-cache show sysbench
+apt-cache show sysbench | less
+
+sudo apt-cache show sysbench | less
+find / -name hello
+sudo find / -name hello
+sudo find / -gid 4
+stat /var/log/kern.log
+sudo find / -gid 4 -uid 103
+sudo find / -gid 4
+shutdown -r now
+sudo shutdown -r now
+sudo su - dmitry
+telnet localhost 80
+echo $TZ
+man curl
+curl -H "Host:bunghole" localhost
+curl localhost
+curl -v localhost| less
+telnet localhost 80
+curl -H "Host:bunghole" -H "user-agenet:" localhost
+curl -H "Host:bunghole" -H "user-agent:" localhost
+curl -H "Host:bunghole" -H "user-agent:" localhost/hello
+curl -H "user-agent:" localhost/hello
+curl -v -H "user-agent:" localhost/hello
+sudo /etc/init.d/nginx reload
+curl -v -H "user-agent:" localhost/hello
+ps aux | grep nginx
+kill -HUP 7888
+sudo kill -HUP 7888
+ps aux | grep nginx
+sudo kill -HUP 7888
+ps aux | grep nginx
+sudo su - dmitry -c 'mkdir -p /home/dmitry/var/www/biggie.getmoneymakemoney.com'
+stat /home/dmitry/var/www/biggie.getmoneymakemoney.com
+cd /var/log/nginx/
+ls
+stat error.log 
+less error.log 
+less access.log
+stat .
+stat access.log
+grep adm /etc/passwd /etc/groups
+grep adm /etc/passwd /etc/group
+grep nginx /etc/passwd /etc/group
+logrotate /etc/logrotate.d/nginx 
+stat logrotatewh
+which logrotate
+stat `which logrotate`
+stat /var/lib/logrotate/
+ll
+less access.log
+watch -d "tail access.log"
+man watch
+watch -n 1 -d tail access.log
+man find
+#sudo find / -type f -type d -uid a
+id nginx
+#sudo find / -type f -type d -uid 103 -gid 106
+sudo find / -type f -type d -uid 103 -gid 106
+ssudo find / -type f -uid 103 -gid 106
+sudo find / -type f -uid 103 -gid 106
+sudo find / -type f -uid 1001
+sudo find / -type f -uid 1001 | less
+sudo find / -type f -uid 1001 | sort | less 
+sudo find / -type f -uid 103 | sort | less 
+stat /proc/7245/fdinfo/2
+sudo stat /proc/7245/fdinfo/2
+sudo find / -type f -gid 1001| sort | less 
+stat /home/dmitry/
+sudo find / -type f -gid 1001 -uid 1001 | sort | less 
+sudo find / -type f -gid 103 -uid 106 | sort | less 
+stat /usr/share/nginx/html/
+ll /usr/share/nginx/html/
+stat /usr/share/nginx/html/
+stat /usr/share/nginx/
+stat /usr/share/
+less /etc/init.d/nginx 
+less logrotate.d/nginx 
+dpkg -S nginx
+dpkg -S nginx | sort | less
+dpkg -S nginx | grep bin
+[ -f /var/run/nginx.pid ] cat /var/run/nginx.pid 
+[ -f /var/run/nginx.pid ] && cat /var/run/nginx.pid 
+[ -f /var/run/nginxx.pid ] && cat /var/run/nginx.pid 
+[ -f /var/run/nginx.pid ] && cat /var/run/nginx.pid 
+[ -f /var/run/nginx.pid ] && [ cat /var/run/nginx.pid 
+[ -f /var/run/nginx.pid ] && [ cat /var/run/nginx.pid ]
+[ -f /var/run/nginx.pid ] && [ -f cat /var/run/nginx.pid ]
+[ -f /var/run/nginx.pid ] && cat /var/run/nginx.pid 
+kill -HUP 682
+sudo kill -HUP 682
+ps aux | grep 682
+sudo kill -HUP 682
+sudo /etc/init.d/nginx reload
+less /etc/init.d/nginx
+cd init.d/
+sudo cp nginx nginx~
+sudo vim nginx
+sudo ./nginx reload
+sudo ./nginx~ reload
+less nginx
+sudo vim nginx
+cleqr
+clear
+ps aux | grep worker
+ps aux | grep worker\ process
+sudo ./nginx reload
+ps aux | grep worker\ process
+sudo ./nginx reload
+ps aux | grep worker\ process
+ps aux | grep nginx
+sudo nginx stop
+less nginx
+sudo nginx stop
+sudo ./nginx stop
+ps aux | grep nginx
+ls
+ps aux | grep nginx
+sudo /usr/sbin/nginx 
+cd ../nginx/conf.d/
+stat default.conf 
+sudo vim default.conf 
+cat /var/run/nginx.pid 
+ps aux | grep worker\ process
+sudo vim default.conf 
+cd /var/log/nginx/
+less access.log
+sudo /etc/init.d/nginx start
+ls a-l
+ll
+sudo vim /etc/nginx/nginx.conf 
+which motd
+cds /etc/init/
+cd /etc/init/
+grep ~/.* alias
+grep alias ~/.* 
+ll 
+ll | grep nginx
+cd ..
+find . -type f -name nginx
+sudo find . -type f -name nginx
+less logrotate.d/nginx 
+cat logrotate.d/nginx 
+[ -f /var/run/nginx.pid ]
+$$
+[ -f /var/run/nginx.pid ]
+less /var/run/nginx.pid 
+ps aux | grep nginx
+curl localhost:80
+nslookup biggie.getmoneymakemoney.com
+screen
+sudo find / -fid 4 > /dev/null
+sudo find / -gid 4 > /dev/null
+ps aux | less
+cd /etc/init
+ls
+ps aux | grep nginx
+sudo /etc/init.d/nginx stop
+ps aux | grep nginx
+ps aux | grep screen
+sudo shutdown -r now
+cd /var/log
+ls
+cd nginx/
+ls -al
+sudo `which logrotate` -f /etc/logrotate.d/nginx 
+ls -al
+sudo /etc/init.d/nginx stop
+ls -al
+sudo /etc/init.d/nginx start
+watch -n 1 -d 'access.log | tail -25
+'
+watch -n 1 -d tail -25 access.log
+ps aux
+ps aux | grep nginx
+cd /etc/init.d/
+ls -al
+cd ..
+ls -al
+man init
+find / -type d
+find . type -d
+find . -type d
+find . -type d | sort
+find . -type d | sort | grep rc
+find . -type d | sort | grep rc?\.
+find . -type d | sort | grep "rc?\."
+find . -type d | sort | grep "rc\d\."
+find . -type d | sort | grep -E "rc\d\."
+find . -type d | sort | grep rc
+ll rc0.d/
+ll rc.local 
+ls -al rc.local 
+less rc.local 
+less init.d/sendsigs 
+ll rc1.d/
+less init.d/dns-clean 
+dpkg -S nginx | sort | less
+ll rc2.d
+ll rc3.d
+sudo /etc/init.d/nginx start
+ps aux | grep nginx
+ll rc4d
+ll rc4.d
+ll rc5.d
+ll rc6.d
+ll rc7.d
+ll rc0.d
+less rc0.d/README 
+cd default/
+ls
+less nginx 
+less /etc/init.d/nginx
+less dmesg
+dmesg
+dmesg | less
+sudo find / type -f -name linkskeeper
+sudo find / -type f -name linkskeeper
+cd 
+cd /
+sudo grep -rn linkskeeper *
+dmesg | grep linkskeeper
+man dmesg
+grep linkskeeper /var/log/syslog
+cd /etc/init
+ls
+grep -rn linkskeeper *
+stat linkskeeper.conf 
+stat /home/dmitry/node/linkskeeper/app.js 
+netstat -a | grep LISTEN
+sudo vim linkskeeper.conf 
+ls
+cd ../nginx/conf.d/def
+cd ../nginx/conf.d/
+ls
+sudo vim default.conf 
+uptime
+sudo find / -name linkskeeper
+cd /etc/init
+ls -al
+ls -al l*
+man plymouth
+less plymouth.conf 
+man plymouthd
+grep linkskeeper /var/log/syslog
+ps aux | grep linkskeeper
+cd /var/log
+ls -al
+stat /home/dmitry/app.log 
+less /home/dmitry/app.log 
+sudo mv /etc/init/linkskeeper.conf /home/dmitry/node/linkskeeper/
+ls -al
+sudo cp /home/dmitry/node/linkskeeper/linkskeeper.conf /etc/init/
+sudo start linkskeeper
+netstat -a | grep LISTENING
+netstat -a | grep LISTEN
+sudo stop linkskeeper
+netstat -a | grep LISTEN
+ls -al
+less linkskeeper.sys.log 
+sudo rm -rf linkskeeper.sys.log 
+sudo rm /etc/init/linkskeeper.conf 
+cd /home/dmitry/
+ls
+sudo su dmitry 
+clear
+stat /var/log/nginx/access.log
+watch -n 1 -d tail /var/log/nginx/access.log

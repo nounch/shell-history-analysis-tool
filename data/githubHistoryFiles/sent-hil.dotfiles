@@ -1,0 +1,18 @@
+ruby -e "$(curl -fsSkL raw.github.com/mxcl/homebrew/go)"
+brew doctor
+brew install git
+brew install git
+brew install git
+brew doctor
+brew doctor
+cd
+zsh
+chsh -s /bin/zsh
+ls
+curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
+vim .zshrc 
+vim /Users/senthil/Downloads/solarized/README.md 
+vim .zshrc 
+vim .zshrc 
+ls
+exit

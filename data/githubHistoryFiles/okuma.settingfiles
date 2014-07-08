@@ -1,0 +1,1000 @@
+rails s -p 3001
+rails s -p 3001
+rails s -p 3001
+rails s -p 3001
+rails s -p 3001
+rails s -p 3001 -u
+rails s -p 3001 -u
+rails s -p 3001 
+cd project/trecokuma/
+vim app/controllers/comments_controller.rb 
+vim log/development.log 
+curl -c cookie.txt http://172.16.1.16:3000/authenticity_token
+curl -b cookie.txt -d "body=hoge" -H "X-CSRF-Token: tfyVuinvisHIuYtHUsAlmtuSF4OFavND6FA+jIp8x3I="  http://localhost:3000/comments
+curl -b cookie.txt -d "body=hoge" -H "X-CSRF-Token: tfyVuinvisHIuYtHUsAlmtuSF4OFavND6FA+jIp8x3I="  http://localhost:3000/comments.json
+curl -b cookie.txt -d "body=hoge" -H "X-CSRF-Token: tfyVuinvisHIuYtHUsAlmtuSF4OFavND6FA+jIp8x3I="  http://172.16.1.16:3000/comments.json
+curl -b cookie.txt -d "body=hoge" -H "X-CSRF-Token: tfyVuinvisHIuYtHUsAlmtuSF4OFavND6FA+jIp8x3I="  http://172.16.1.16:3001/comments.json
+curl -b cookie.txt -d "body=hoge" -H "X-CSRF-Token: tfyVuinvisHIuYtHUsAlmtuSF4OFavND6FA+jIp8x3I="  http://172.16.1.16:3001/comments.json
+curl -b cookie.txt -d "body=hoge" -H "X-CSRF-Token: tfyVuinvisHIuYtHUsAlmtuSF4OFavND6FA+jIp8x3I="  http://172.16.1.16:3001/comments.json
+curl -c cookie.txt http://172.16.1.16:3001/authenticity_token
+curl -b cookie.txt -d "body=hoge" -H "X-CSRF-Token: hNg2yBM+AMoRIZFOkSKN6jHGXiS55NgB/K9Jpm0XKPE="  http://172.16.1.16:3001/comments.json
+curl -c cookie.txt http://172.16.1.16:3001/authenticity_token
+curl -b cookie.txt -d "body=hoge" -H "X-CSRF-Token: qF9eRFwXVe/yrXgcLSG9EPk/zpULc+g+tjV0dzPxJkE="  http://172.16.1.16:3001/comments.json
+curl -b cookie.txt -d "body=hoge" -H "X-CSRF-Token: qF9eRFwXVe/yrXgcLSG9EPk/zpULc+g+tjV0dzPx"  http://172.16.1.16:3001/comments.json
+curl -b cookie.txt -d "body=hoge" -H "X-CSRF-Token: qF9eRFwXVe/yrXgcLSG9EP"  http://172.16.1.16:3001/comments.json
+curl -b cookie.txt -d "body=hoge"   http://172.16.1.16:3001/comments.json
+curl -b cookie.txt -d "body=hoge"   http://172.16.1.16:3001/comments.json
+curl -b cookie.txt -d "body=hoge"   http://172.16.1.16:3001/comments.json
+cd project/trecokuma/
+ls
+vi app/controllers/
+vi app/controllers/comments_controller.rb 
+vim app/assets/javascripts/
+vim app/assets/javascripts/application.js 
+rails g jtest index
+rails g controller jtest index
+vim app/views/jtest/index.html.erb 
+rake routes
+vim app/views/jtest/index.html.erb 
+rake routes
+rake routes |grep jtest
+vim app/views/jtest/index.html.erb 
+vim app/views/jtest/index.html.erb 
+vim app/assets/javascripts/jtest.js.coffee 
+vim app/assets/javascripts/jtest.js
+vim app/views/jtest/index.html.erb 
+
+rm app/assets//javascripts/jtest.js.coffee 
+vim app/assets/javascripts/jtest.js
+vim app/assets/javascripts/jtest.js
+vim app/assets/javascripts/jtest.js
+vim app/controllers/comments_controller.rb 
+vim app/controllers/comments_controller.rb 
+vim app/controllers/comments_controller.rb 
+vim app/controllers/comments_controller.rb 
+cd project/trecokuma/
+rails s
+rails s
+vim app/controllers/comments_controller.rb 
+rspec spec/controllers/items_controller_spec.rb 
+ spec/controllers/items_controller_spec.rb 
+cd project/trecokuma/
+rspec spec/controllers/items_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+curl -d "user[name]=hoge" http://localhost:3000/users.json
+vim log/development.log 
+curl -c cookie.txt http://localhost:3000/authenticity_token
+curl -b cookie.txt -d "user[name]=hoge" http://localhost:3000/users.json
+vim log/test.log 
+vim log/development.log 
+
+vim log/development.log 
+which curl
+curl -c cookie.txt http://localhost:3000/authenticity_token
+curl -b cookie.txt -d "user[name]=hoge" http://localhost:3000/users.json
+curl -c cookie.txt http://localhost:3000/authenticity_token
+ curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: kB4d3xz2PGUMDqQrFeljBAKz9++zjODup8Ti20waX54=" http://localhost:3000/users.json
+{"created_at":"2012-07-30T17:20:18Z","id":34,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: kB4d3xz2PGUMDqQrFeljBAKz9++zjODup8Ti20waX54=" http://localhost:3000/users.json
+curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: kB4d3xz2PGUMDqQrFeljBAKz9++zjODup8Ti20waX54=" http://localhost:3000/users.json{"created_at":"2012-07-30T17:20:18Z","id":34,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+curl -c cookie.txt http://localhost:3000/authenticity_token
+vim app/controllers/application_controller.rb 
+curl -d "user[name]=hoge" http://localhost:3000/users.json
+curl -c cookie.txt http://localhost:3000/authenticity_token
+vim app/controllers/authenticity_token_controller.rb
+vim config/routes.rb 
+rake routes
+curl -c cookie.txt http://localhost:3000/authenticity_token
+vim app/controllers/authenticity_token_controller.rb
+curl -b cookie.txt -d "user[name]=hoge" http://localhost:3000/users.json
+curl -c cookie.txt http://localhost:3000/authenticity_token
+curl -c cookie.txt http://localhost:3000/authenticity_token
+ls
+vim cookie.txt 
+vim log/development.log 
+NK5VTzwRFVsI8OGcVXqog0HV5AR03crsQTozEh8b+cY=" http://localhost:3000/users.json{"created_at":"2012-07-30T17:20:18Z","id":34,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+
+ curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token:NK5VTzwRFVsI8OGcVXqog0HV5AR03crsQTozEh8b+cY=" http://localhost:3000/users.json{"created_at":"2012-07-30T17:20:18Z","id":34,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+curl -b cookie.txt -d "user[name]=hoge" http://localhost:3000/users.json
+ curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token:NK5VTzwRFVsI8OGcVXqog0HV5AR03crsQTozEh8b+cY=" http://localhost:3000/users.json{"created_at":"2012-07-30T17:20:18Z","id":34,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+curl -b cookie.txt -d "user[name]=hoge" http://localhost:3000/users.json
+ curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token:NK5VTzwRFVsI8OGcVXqog0HV5AR03crsQTozEh8b+cY=" http://localhost:3000/users.json{"created_at":"2012-07-30T17:20:18Z","id":34,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+vim log/development.log 
+ curl -b cookie.txt -d "user[name]=hoge" -d "X-CSRF-Token:NK5VTzwRFVsI8OGcVXqog0HV5AR03crsQTozEh8b+cY=" http://localhost:3000/users.json{"created_at":"2012-07-30T17:20:18Z","id":34,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+curl -b cookie.txt -d "user[name]=hoge" http://localhost:3000/users.json
+vim log/development.log 
+ curl -b cookie.txt -d "user[name]=hoge" -d "X-CSRF-Token:NK5VTzwRFVsI8OGcVXqog0HV5AR03crsQTozEh8b+cY=" http://localhost:3000/users.json{"created_at":"2012-07-30T17:20:18Z","id":34,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}wq
+ curl -b cookie.txt -d "user[name]=hoge" -d "X-CSRF-Token:NK5VTzwRFVsI8OGcVXqog0HV5AR03crsQTozEh8b+cY=" http://localhost:3000/users.json{"created_at":"2012-07-30T17:20:18Z","id":34,"email":"aaa@bb.ccc""name":"hoge","updated_at":"2012-07-30T17:20:18Z"}wq
+vim log/development.log 
+vim app/controllers/authenticity_token_controller.rb
+vim Gemfile
+curl -b cookie.txt -d "user[name]=hoge" http://172.16.1.16:3000/users.json
+vim log/development.log 
+curl -c cookie.txt http://172.16.1.16:3000/authenticity_token
+curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: EV0wk6K3pG4KmwKdnejr+wJOhb13I6kPW45vh/y8Uks=" http://172.16.1.16:3000/users.json{"created_at":"2012-07-30T17:20:18Z","id":35,"email":"aaa@bb.cc","name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+rake routes
+cd app/controllers/comments_controller.rb 
+vim  app/controllers/comments_controller.rb 
+curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: EV0wk6K3pG4KmwKdnejr+wJOhb13I6kPW45vh/y8Uks=" http://172.16.1.16:3000/users/sign_in.json{"created_at":"2012-07-30T17:20:18Z","id":35,"email":"aaa@bb.cc","name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: EV0wk6K3pG4KmwKdnejr+wJOhb13I6kPW45vh/y8Uks=" http://172.16.1.16:3000/users/sign_in.json{"created_at":"2012-07-30T17:20:18Z","id":35,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+rake routes
+curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: EV0wk6K3pG4KmwKdnejr+wJOhb13I6kPW45vh/y8Uks=" http://172.16.1.16:3000/users/sign_in.json{"created_at":"2012-07-30T17:20:18Z","id":35,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: EV0wk6K3pG4KmwKdnejr+wJOhb13I6kPW45vh/y8Uks=" http://172.16.1.16:3000/users/sign_up.json{"created_at":"2012-07-30T17:20:18Z","id":35,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: EV0wk6K3pG4KmwKdnejr+wJOhb13I6kPW45vh/y8Uks=" http://172.16.1.16:3000/users/sign_up.json{"created_at":"2012-07-30T17:20:18Z","id":35,"name":"hoge"}
+curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: EV0wk6K3pG4KmwKdnejr+wJOhb13I6kPW45vh/y8Uks=" http://172.16.1.16:3000/users/sign_in.json{"created_at":"2012-07-30T17:20:18Z","id":35,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+vim log/development.log 
+rake routes
+curl -b cookie.txt -d "user[name]=hoge" http://172.16.1.16:3000/sign_in.json
+curl -b cookie.txt -d "user[name]=hoge" http://172.16.1.16:3000/sign_in
+rake routes
+curl -b cookie.txt -d "user[name]=hoge" http://172.16.1.16:3000/users/sign_in
+curl -c cookie.txt http://172.16.1.16:3000/authenticity_token
+curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: Plo3aRlllxNksEIFOeDKZvDHLudqHfIwYIzeJJAHD6Q=" http://172.16.1.16:3000/users/sign_in.json{"created_at":"2012-07-30T17:20:18Z","id":35,"name":"hoge","updated_at":"2012-07-30T17:20:18Z"}
+rake routes
+curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: Plo3aRlllxNksEIFOeDKZvDHLudqHfIwYIzeJJAHD6Q=" http://172.16.1.16:3000/users/comments.json{"created_at":"2012-07-30T17:20:18Z","word_t_id":1182283,"body":"hoge"}
+curl -b cookie.txt -d "user[name]=hoge" -H "X-CSRF-Token: Plo3aRlllxNksEIFOeDKZvDHLudqHfIwYIzeJJAHD6Q=" http://172.16.1.16:3000/users/comments.json{"created_at":"2012-07-30T17:20:18Z","word_t_id":1182283,"body":"hoge"}
+curl -b cookie.txt -d  -H "X-CSRF-Token: Plo3aRlllxNksEIFOeDKZvDHLudqHfIwYIzeJJAHD6Q=" http://172.16.1.16:3000/users/comments.json{"created_at":"2012-07-30T17:20:18Z","word_t_id":1182283,"body":"hoge"}
+curl -b cookie.txt -d "comment[body]=hoge" -H "X-CSRF-Token: Plo3aRlllxNksEIFOeDKZvDHLudqHfIwYIzeJJAHD6Q=" http://172.16.1.16:3000/users/comments.json{"created_at":"2012-07-30T17:20:18Z","word_t_id":1182283}
+curl -b cookie.txt -d "comment[body]=hoge" "comment[word_t_id]=1182283"-H "X-CSRF-Token: Plo3aRlllxNksEIFOeDKZvDHLudqHfIwYIzeJJAHD6Q=" http://172.16.1.16:3000/users/comments.json{"created_at":"2012-07-30T17:20:18Z"}
+rake routes
+vim config/routes.rb 
+vim app/controllers/comments_controller.rb 
+curl -b cookie.txt -d "comment[body]=hoge" "comment[word_t_id]=1182283"-H "X-CSRF-Token: Plo3aRlllxNksEIFOeDKZvDHLudqHfIwYIzeJJAHD6Q=" http://172.16.1.16:3000/users/comments
+curl -c cookie.txt http://172.16.1.16:3000/authenticity_token
+curl -b cookie.txt -d "comment[body]=hoge" "comment[word_t_id]=1182283"-H "X-CSRF-Token: aSNWGeSxKcQmLxWkcYgp+5mxgHkx7fsjLK54yuvEBRY=" http://172.16.1.16:3000/users/comments
+curl -b cookie.txt -d "comment[body]=hoge" "word_t_id=1182283"-H "X-CSRF-Token: aSNWGeSxKcQmLxWkcYgp+5mxgHkx7fsjLK54yuvEBRY=" http://172.16.1.16:3000/users/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "word_t_id=1182283" -H "X-CSRF-Token: aSNWGeSxKcQmLxWkcYgp+5mxgHkx7fsjLK54yuvEBRY=" http://172.16.1.16:3000/users/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "word_t_id=1182283" -H "X-CSRF-Token: aSNWGeSxKcQmLxWkcYgp+5mxgHkx7fsjLK54yuvEBRY=" http://172.16.1.16:3000comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "word_t_id=1182283" -H "X-CSRF-Token: aSNWGeSxKcQmLxWkcYgp+5mxgHkx7fsjLK54yuvEBRY=" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "body=hoge" -d "word_t_id=1182283" -H "X-CSRF-Token: aSNWGeSxKcQmLxWkcYgp+5mxgHkx7fsjLK54yuvEBRY=" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: aSNWGeSxKcQmLxWkcYgp+5mxgHkx7fsjLK54yuvEBRY=" http://172.16.1.16:3000/comments
+rake routes
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: aSNWGeSxKcQmLxWkcYgp+5mxgHkx7fsjLK54yuvEBRY=" http://172.16.1.16:3000/comments/1
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: aSNWGeSxKcQmLxWkcYgp+5mxgHkx7fsjLK54yuvEBRY=" http://172.16.1.16:3000/comments/2
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: aSNWGeSxKcQmLxWkcYgp+5mxgHkx7fsjLK54yuvEBRY=" http://172.16.1.16:3000/comments
+vim log/development.log 
+curl -b cookie.txt -d "user[name]=hoge" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "user[name]=hoge" http://172.16.1.16:3000/comments.json
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: aSNWGeSxKcQmLxWkcYgp+5mxgHkx7fsjLK54yuvEBRY=" http://172.16.1.16:3000/comments.json
+curl -b cookie.txt -d "user[name]=hoge" -d "user[email]=aaa@bb.cc" -H "X-CSRF-Token: aSNWGeSxKcQmLxWkcYgp+5mxgHkx7fsjLK54yuvEBRY=" http://172.16.1.16:3000/users/sign_in
+curl -b cookie.txt -d "user[name]=hoge" -d "user[email]=aaa@bb.cc"  http://172.16.1.16:3000/users/sign_in
+curl -b cookie.txt -d "user[name]=hoge" -d "user[email]=aaa@bb.cc"  http://172.16.1.16:3000/users/sign_in
+curl -c cookie.txt http://172.16.1.16:3000/authenticity_token
+vim app/controllers/comments_controller.rb 
+curl -b cookie.txt -d "user[name]=hoge" http://172.16.1.16:3000/users/sign_in
+curl -c cookie.txt http://172.16.1.16:3000/authenticity_token
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL4=" http://172.16.1.16:3000/comments.json
+vim app/controllers/comments_controller.rb 
+vim app/views/comments/
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL4=" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H  http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJ" http://172.16
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJ" http://172.16.1.16:3000/commentws
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJ" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJ" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL4=" http://172.16.1.16:3000/comments
+vim app/controllers/comments_controller.rb 
+mv app/views/comments/ app/views/comments_bk
+vim app/views/comments_bk/
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL4=" http://172.16.1.16:3000/comments
+su -
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL4=" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL" http://172.16.1.16:3000/comments
+vim app/controllers/comments_controller.rb 
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL4=" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL4=" http://172.16.1.16:3000/comments
+vim app/controllers/comments_controller.rb 
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL4=" http://172.16.1.16:3000/comments
+ls
+curl -b cookie.txt -d "user[id]=2" -d "user[ency_password]="$2a$10$HEhct.ZhICtKMTjbNihcuuYw/X6CxJwkjxoiBdbcsnI9MJU7uoX.a" -H "X-CSRF-Token:  V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL4=" http://172.16.1.16:3000/users/sign_in
+
+curl -b cookie.txt -d "user[id]=2" -d "user[ency_password]="$2a$10$HEhct.ZhICtKMTjbNihcuuYw/X6CxJwkjxoiBdbcsnI9MJU7uoX.a" -H "X-CSRF-Token:  V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL4=" http://172.16.1.16:3000/users/sign_in
+
+curl -b cookie.txt -d "user[id]=2" -d "user[encypted_password]=$2a$10$HEhct.ZhICtKMTjbNihcuuYw/X6CxJwkjxoiBdbcsnI9MJU7uoX.a" -H "X-CSRF-Token:  V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL4=" http://172.16.1.16:3000/users/sign_in
+vim app/controllers/comments_controller.rb 
+curl -b cookie.txt -d "user[id]=2" -d "user[encypted_password]=$2a$10$HEhct.ZhICtKMTjbNihcuuYw/X6CxJwkjxoiBdbcsnI9MJU7uoX.a" -H "X-CSRF-Token:  V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL" http://172.16.1.16:3000/users/sign_in
+curl -b cookie.txt -d "user[id]=2" -d "user[encypted_password]=$2a$10$HEhct.ZhICtKMTjbNihcuuYw/X6CxJwkjxoiBdbcsnI9MJU7uoX.a" -H "X-CSRF-Token: 6aiRPtT/Ff3FfB2taYOF5NdMJbkAtypMoxyFCNXNL88=" http://172.16.1.16:3000/users/sign_in
+curl -c cookie.txt http://172.16.1.16:3000/authenticity_token
+curl -b cookie.txt -d "user[id]=2" -d "user[encypted_password]=$2a$10$HEhct.ZhICtKMTjbNihcuuYw/X6CxJwkjxoiBdbcsnI9MJU7uoX.a" -d "authenticity_token=%0d%0aSM6%2bHgNORVD%2fEq0iB7ScSfiF8qqysPtzBTpx1LgRZ2k%3d" http://172.16.1.16:3000/users/sign_in
+curl -b cookie.txt -d "user[id]=2" -d "user[email]=aaa@bb.cc" -d "user[password]=aaaaa" -d "authenticity_token=%0d%0aSM6%2bHgNORVD%2fEq0iB7ScSfiF8qqysPtzBTpx1LgRZ2k%3d" http://172.16.1.16:3000/users/sign_in
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token: V+y+TOmBOcIRuVAXczpguVG2OsFY6dctJItXPWNjBL4=" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "user[email]=aaa@bb.cc" -d "user[password]= aaaaa " -d "authenticity_token=%0d%0aSM6%2bHgNORVD%2fEq0iB7ScSfiF8qqysPtzBTpx1LgRZ2k%3d" http://172.16.1.16:3000/users/sign_in
+curl -c cookie.txt http://172.16.1.16:3000/authenticity_token
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token:  NR0hu1RSVDxsETBkgTD1u4sOTdbu3jXWMxNgbJEZdVA=[" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token:  NR0hu1RSVDxsETBkgTD1u4sOTdbu3jXWMxNgbJEZdVA=" http://172.16.1.16:3000/comments
+history
+mv app/views/comments_bk/ app/views/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token:  NR0hu1RSVDxsETBkgTD1u4sOTdbu3jXWMxNgbJEZdVA=" http://172.16.1.16:3000/comments
+vim app/controllers/authenticity_token_controller.rb 
+vim app/controllers/comments_controller.rb 
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token:  NR0hu1RSVDxsETBkgTD1u4sOTdbu3jXWMxNgbJEZdVA=" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "user[name]=smallbear65" -d "user[password]=pat13rit" -H "X-CSRF-Token:  NR0hu1RSVDxsETBkgTD1u4sOTdbu3jXWMxNgbJEZdVA=" http://172.16.1.16:3000/users/sign_in
+rake routes
+curl -b cookie.txt -d "user[name]=smallbear65" -d "user[password]=pat13rit"-d "user[email]=aaa@bb.cc" -H "X-CSRF-Token:  NR0hu1RSVDxsETBkgTD1u4sOTdbu3jXWMxNgbJEZdVA=" http://172.16.1.16:3000/users
+rake routes
+curl -b cookie.txt -d "user[name]=smallbear65" -d "user[password]=pat13rit"-d "user[email]=aaa@bb.cc" -H "X-CSRF-Token:  NR0hu1RSVDxsETBkgTD1u4sOTdbu3jXWMxNgbJEZdVA=" http://172.16.1.16:3000/users/auth/twitter
+curl -c cookie.txt http://172.16.1.16:3000/authenticity_token
+curl -b cookie.txt -d "user[name]=smallbear65" -d "user[password]=pat13rit"-d "user[email]=aaa@bb.cc" -H "X-CSRF-Token: 8QAsBW+HKXAVj47gHVyTRlmTL0ypsL0Mifif/G1/opU=" http://172.16.1.16:3000/users/auth/twitter
+vim app/controllers/application_controller.rb 
+vim app/controllers/users/omniauth_callbacks_controller.rb 
+vim app/controllers/comments_controller.rb 
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token:  8QAsBW+HKXAVj47gHVyTRlmTL0ypsL0Mifif/G1/opU=" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token:  8QAsBW+HKXAVj47gHVyTRlmTL0ypsL0Mifif/G1/opU=" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token:  8QAsBW+HKXAVj47gHVyTRlmTL0ypsL0Mifif/G1/opU=" http://172.16.1.16:3000/comments
+vim app/controllers/comments_controller.rb 
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token:  8QAsBW+HKXAVj47gHVyTRlmTL0ypsL0Mifif/G1/opU=" http://172.16.1.16:3000/comments
+vim app/controllers/comments_controller.rb 
+rails c
+vim app/controllers/users/omniauth_callbacks_controller.rb 
+rails c
+curl -b cookie.txt -d "comment[body]=hoge" -d "comment[word_t_id]=1182283" -H "X-CSRF-Token:  8QAsBW+HKXAVj47gHVyTRlmTL0ypsL0Mifif/G1/opU=" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "comment[body]=hoge" -d "word_t_id=1182283" -H "X-CSRF-Token:  8QAsBW+HKXAVj47gHVyTRlmTL0ypsL0Mifif/G1/opU=" http://172.16.1.16:3000/comments
+rails 
+curl -b cookie.txt -d "body=hoge" -d "word_t_id=1182283" -H "X-CSRF-Token:  8QAsBW+HKXAVj47gHVyTRlmTL0ypsL0Mifif/G1/opU=" http://172.16.1.16:3000/comments
+curl -b cookie.txt -d "name=small" -d "password=password"-d "user[email]=aaa@bb.cc" -H "X-CSRF-Token:  NR0hu1RSVDxsETBkgTD1u4sOTdbu3jXWMxNgbJEZdVA=" http://172.16.1.16:3000/users
+rake routes
+rails g model point word_t_id:bigint statusid:character varying(255) comment_id:integer user_id:integer kind:integer
+rails g model point word_t_id:bigint statusid:character comment_id:integer user_id:integer kind:integer
+rake db:migrate
+vim db/migrate/20120910091053_create_points.rb 
+rake db:migrate
+vim app/models/comment.rb 
+vim app/models/item.rb 
+vim app/models/user.rb 
+vim app/models/comment.rb 
+vim app/models/point.rb 
+su -
+rails g controller point index show create 
+vim app/controllers/point_controller.rb 
+vim app/controllers/items_controller.rb 
+vim app/controllers/items_controller.rb 
+rake routes
+rails s
+vim app/controllers/items_controller.rb 
+rake db:migrate
+vim app/models/item.rb 
+vim app/controllers/items_controller.rb
+rails s
+vim app/controllers/items_controller.rb
+rails s
+vim app/controllers/items_controller.rb
+rails s
+vim app/controllers/items_controller.rb
+vim app/controllers/point_controller.rb 
+cd project/trecokuma/
+vim app/controllers/point_controller.rb 
+vim app/controllers/point_controller.rb 
+ssh 180.8.3.82
+exit
+cd project/trecokuma/
+vim app/views/comments/show.html.erb 
+vim app/views/comments/edit.html.erb 
+vim app/controllers/items_controller.rb 
+vim app/controllers/point_controller.rb 
+vim app/controllers/comments_controller.rb 
+vim app/controllers/items_controller.rb 
+rake db:migrate
+vim app/controllers/items_controller.rb 
+vim app/controllers/items_controller.rb 
+vim app/controllers/point_controller.rb 
+vim app/controllers/items_controller.rb 
+vim app/controllers/point_controller.rb 
+vim app/controllers/comments_controller.rb 
+vim config/routes.rb 
+vim app/controllers/point_controller.rb 
+ls
+cd project/trecokuma/
+vim app/controllers/point_controller.rb 
+vim config/routes.rb 
+rake routes
+rake routes |grep point
+rails s
+vim app/controllers/point_controller.rb 
+rails s
+vim app/controllers/point_controller.rb 
+rails s
+cd project/trecokuma/
+gti add .
+git add .
+git status
+git commit -m "point作成"
+ls
+cd ~
+ls
+ls -la
+cd .ssh
+ls
+cd ../
+ls -la
+cd .ssh
+ls
+ls -la
+ls
+vim config
+
+ls -l
+chmod 777 config 
+cd .ssh
+ssh db-1
+ssh dev-1
+chmod 600 config 
+ssh dev-1
+cd ../project/trecokuma/
+git push ssh://dev1/hom
+git push ssh://dev-1/home/shunkanshi/trecokuma.git master
+git push ssh://dev-1/home/oguma/trecokuma.git master
+history
+cd project/trecokuma/
+ls
+vim Gemfile
+vim app/controllers/comments_controller.rb 
+ssh dev-1
+ls
+ls
+exit
+vim db・sch
+cd project/trecokuma/
+vim db/schema.rb 
+clear
+vim app/controllers/comments_controller.rb 
+rails s
+rails s -p 3001
+rails c
+vim app/controllers/comments_controller.rb 
+rails s -p 3001
+vim app/controllers/comments_controller.rb 
+cd project/trecokuma/
+vim Gemfile
+vim app/controllers/comments_controller.rb 
+rails s
+vim app/controllers/comments_controller.rb 
+rails s
+vim app/controllers/comments_controller.rb 
+rails s
+vim app/controllers/comments_controller.rb 
+vim spec/controllers/
+cd ../
+ls
+git clone ssh://dev-1/home/shunkanshi/treco.git
+ls
+cd treco
+ls
+git brunch
+git branch
+git branch -a
+git checkout miywork
+ls
+git checkout -b "maketest"
+ls
+git log
+git branch
+sudo bundle install
+history
+sudo cp /home/miyata/projects/treco/config/database.yml /home/oguma/project/treco/config/database.yml
+ls
+vim config/database.yml
+sudo chown oguma:oguma  config/database.yml
+vim config/database.yml
+vim config/database.yml
+vim app/models/item.rb
+vim config/database.yml
+clear
+rake db:create
+bundle exec rake db:create
+bundle exec rake db:migrate
+ls
+rails s
+la
+ls
+rails g rspec:controller comments
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim db/schema.rb 
+vim app/models/comment.rb 
+vim app/models/user.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim app/models/comment.rb 
+vim app/models/user.rb 
+rake db:migrate
+bundle execrake db:migrate
+bundle exec rake db:migrate
+bundle exec rspec spec/controllers/comments_controller_spec.rb 
+vim spec/spec_helper.rb 
+vim spec/factories/users.rb 
+vim spec/support/devise.rb 
+vim spec/fixtures/
+vim spec/helpers/authentications_helper_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/factories/users.rb 
+vim app/models/user.rb 
+vim app/models/comment.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim config/database.yml
+psql -U postgres
+psql -U postgres -d shunkanshi_maketest_test
+psql -U postgres -d shunkanshi_maketest_development
+vim config/database.yml
+vim db/migrate/20120907012307_create_authentications.rb 
+bundle exec rake db:migrate RAILS_ENV=test
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/factories/users.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/factories/users.rb 
+cp  spec/factories/users.rb spec/factories/comments.rb
+vim  spec/factories/users.rb spec/factories/comments.rb
+vim  spec/factories/users.rb spec/factories/comments.rb
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rm spec/factories/comments.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rm spec/factories/comments.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/factories/users.rb 
+vim spec/factories/users.rb 
+vim spec/factories/comments.rb
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/factories/users.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim config/database.yml
+vim config/database.yml
+history | grep  psql
+psql -U postgres -d shunkanshi_maketest_test
+cd project/treco
+vim app/controllers/comments_controller.rb 
+vim spec/models/authentication_spec.rb 
+cd ../trecokuma/
+vim spec/models/point_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+cd ../treco
+vim app/controllers/comments_controller.rb 
+vim app/controllers/comments_controller.rb 
+cd ../trecokuma/
+vim spec/spec_helper.rb 
+vim spec/factories/
+vim spec/factories/comments.rb 
+vim spec/factories/users.rb 
+vim spec/models/comment_spec.rb 
+vim spec/routing/
+vim spec/routing/comments_routing_spec.rb 
+vim spec/support/devise.rb 
+vim app/models/user.rb 
+vim app/models/comment.rb 
+cd ../treco
+vim app/controllers/comments_controller.rb 
+vim ../trecokuma/spec/factories/users.rb 
+vim ../trecokuma/spec/factories/comments.rb 
+vim app/controllers/comments_controller.rb 
+exit
+exit
+exit
+ping 172.16.0.30
+ping 172.16.0.190
+ping 172.16.0.191
+cd project/treco
+vim spec/controllers/comments_controller_spec.rb 
+cd project/treco
+vim app/controllers/comments_controller.rb 
+cd project/treco
+ls
+vim config/database.yml
+rake db:migrate db/migrate/_20120711000000_create_items.rb  RAIS_ENV = test
+bundle exec rake db:migrate db/migrate/_20120711000000_create_items.rb  RAIS_ENV = test
+bundle exec rake db:migrate db/migrate/_20120711000000_create_items.rb  RAILS_ENV = test
+bundle exec rake db:migrate db/migrate/_20120711000000_create_items.rb  test
+rails dbconsole
+rails dbconsole test
+rails dbconsole
+vim db/migrate/_20120711000000_create_items.rb 
+bundle exec rake db:migrate db/migrate/_20120711000000_create_items.rb  RAILS_ENV=test
+mv db/migrate/_20120711000000_create_items.rb db/migrate/20120711000000_create_items.rb 
+bundle exec rake db:migrate db/migrate/20120711000000_create_items.rb  RAILS_ENV=test
+mv db/migrate/20120711000000_create_items.rb db/migrate/_20120711000000_create_items.rb 
+rails dbconsole
+rails dbconsole test
+git log
+git add .
+git status
+git commit -m "test making 1"
+git push origin maketest
+su shunkanshi
+git push origin maketest
+git pull origin maketest
+git branch
+git branch -a
+git status
+ls
+ls -la
+git pull origin miywork
+git checkout miywork
+git branch
+git status
+git add .
+git branch
+vi spec/controllers/comments_controller_spec.rb 
+git log
+git branch
+git checkout miywork
+git log
+git log
+ls
+git branch
+git show remote
+git remote show
+git remote
+git branch
+git remote show origin
+git log
+ls
+git branch maketest
+git checkout maketest
+cp spec/controllers/comments_controller_spec.rb ./
+cd ..
+ls
+cp spec/controllers/comments_controller_spec.rb ../
+cp treco/spec/controllers/comments_controller_spec.rb ../
+cd ..
+ls
+cd project/
+ls
+git clone ssh://dev-1/home/shunkanshi/treco.git treco2
+ls
+cd treco2
+ls
+git branch
+git branch -a
+git checkout -b miywork
+ls
+git branch
+ls
+ls -la
+git log
+ls
+git branch
+git checkout
+git log
+w
+git checkout miywork
+git branch
+cd ~
+vim .ssh/config 
+ls
+scp comments_controller_spec.rb ssh://dev-1/home/shunkanshi/
+scp comments_controller_spec.rb dev-1:/home/shunkanshi
+ls
+cd project/
+scp comments_controller_spec.rb ssh://dev-1/home/shunkanshi
+touch tetete
+scp tetete ssh://dev-1/home/shunkanshi
+scp tetete dev-1:/home/shunkanshi
+ls
+git clone ssh://dev-1/home/shunkanshi/treco.git treco3
+ls
+cd treco3
+ls
+git beranch
+git branch
+git log
+git branch -a
+git checkout -b miywork origin/miywork
+git log
+git checkout -b maketest
+git branch
+git log
+cp ../../comments_controller_spec.rb spec/controllers/
+git status
+git add .
+git commit -m "maketest1"
+git push origin maketest
+ls
+vi lib/tasks/extract_fixtures.rake 
+rails dbconsole test
+history |grep rails
+rails dbconsole test
+
+cp ../treco/config/database.yml config/database.ymlA
+mv config/database.ymlA config/database.yml
+vim config/database.yml
+rails dbconsole test
+bundle exec rake db:fixtures:extract FIXTURES
+bundle exec rake db:fixtures:extract FIXTURES=items
+vim config/database.yml
+bundle exec rake db:fixtures:extract FIXTURES=items
+bundle exec rake db:fixtures:load FIXTURES=items RAILS_ENV=test
+rails dbconsole test
+history
+ls
+history | grep fixture
+vim spec/fixtures/
+vim app/models/item.rb 
+rake routes
+bundle exec rake routes
+vim app/controllers/comments_controller.rb 
+vim app/controllers/items_controller.rb_cont
+vim app/controllers/items_controller.rb
+vim app/controllers/api_controller.rb
+ls
+rspwc spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+rails dbconsole
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/factories/users.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim ../treco/spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+mv db/migrate/_20120711000002_create_tweets.rb db/migrate/20120711000002_create_tweets.rb
+history | grep migrate
+bundle exec rake db:migrate db/migrate/20120711000002_create_tweets.rb  RAILS_ENV=test
+mv db/migrate/20120711000002_create_tweets.rb db/migrate/_20120711000002_create_tweets.rb
+ bundle exec rake db:fixtures:extract FIXTURES=tweets
+bundle exec rake db:fixtures:load FIXTURES=items RAILS_ENV=test
+rake dbconsole
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim app/controllers/comments_controller.rb 
+cd project/treco3
+vim app/controllers/comments_controller.rb 
+vim app/controllers/comments_controller.rb 
+cd project/treco3
+git add .
+git commit
+git log
+git status
+git commit -m "comment index"
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+wq
+vim spec/controllers/comments_controller_spec.rb 
+ssh dev-01
+sudo vim /etc/httpd/conf/httpd.conf      
+ssh dev-1
+exit
+ssh dev-01
+ls -la
+vim .ssh/config 
+ssh dev-1
+exit
+cd project/
+ls
+cd trecokuma/
+ls
+cd spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+cd ../treco3
+ls
+vim app/controllers/comments_controller.rb 
+bundle exec rake routes
+wq
+vim app/models/comment.rb 
+vim config/routes.rb 
+vim app/controllers/comments_controller.rb
+vim app/models/comment.rb 
+vim app/controllers/comments_controller.rb 
+cd project/trecokuma/
+ls
+vim spec/controllers/comments_controller_spec.rb 
+ls
+cd project/
+ls
+cd treco3
+ls
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_cont
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+rspec spec/controllers/comments_controller_spec.rb 
+vim spec/controllers/comments_controller_spec.rb 
+ls
+cp .zshrc .zshrc_past
+ls
+ls -la
+git clone https://github.com/miyatti/dotfiles.git
+ls
+cd dotfiles/
+ls
+cd src
+ls
+chsh -s /usr/local/bin/zsh
+exit
+cd project/treco3
+ls
+rspec spec/controllers/comments_controller_spec.rb 
+git add .
+git sutatus
+git status
+git commit -m "commentまわりテスト"
+ls
+cd .ssh
+ls
+vim config
+sh git@github.com
+ssh git@github.com
+cd ../
+ls
+mkdir github
+ls
+cd github
+mkdir settingfiles
+mv settingfiles/ setting_files/
+ls
+cd setting_files/
+git init
+touch README.md
+git add README.md 
+cat README.md 
+vim ~/.ssh/config 

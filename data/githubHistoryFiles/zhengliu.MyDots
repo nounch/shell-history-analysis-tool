@@ -1,0 +1,500 @@
+ps aux | grep dia
+ssh huozhe
+clear
+ssh huozhe
+telnet mitbbs.com
+exit
+clear
+ssh huozhe
+telnet mitbbs.com
+ssh huozhe
+ssh desk
+ssh huozhe
+clear
+ssh huozhe
+clear
+ssh huozhe
+ssh hozhe
+ssh huozhe
+clear
+ssh huozhe
+cd Dest
+cd Desktop/
+ll
+vi YouTube_internal_M_20090401_20090430.zip 
+scp YouTube_internal_M_20090401_20090430.zip desk:/home/zhliu
+rm YouTube_internal_M_20090401_20090430.zip 
+ssh desek
+ssh desk
+hostname
+ssh desk
+telnet mitbbs.com
+clear
+vi ~/.vimperatorrc 
+telnet mitbbs.com
+clear
+telnet mitbbs.com
+clear
+telnet mitbbs.com
+clear
+ssh huozhe
+telnet mitbbs.com
+exit
+ssh huozhe
+ssh desk
+exit
+ssh desk
+ssh huozhe
+clear
+ssh huozhe
+clear
+ssh huozhe
+clear
+ssh huozhe
+clear
+ssh huozhe
+clear
+ssh huozhe
+clear
+ssh huozhe
+ping www.google.com
+ping www.yahoo.com
+vi .ssh/config
+ssh bubbletea
+vi .ssh/config
+ssh dexter
+cd /var/log/
+ll
+ls -lrt
+cd Desktop/DFP/
+ll
+rm internal_20090501_20090531_per_owner.csv
+vi internal_20090501_20090531_per_owner.csv.gz 
+gunzip internal_20090501_20090531_per_owner.csv.gz 
+ll
+vi internal_20090501_20090531_per_owner.csv 
+grep "0.525" internal_20090501_20090531_per_owner.csv | wc -l
+grep "0.525" internal_20090501_20090531_per_owner.csv | head | cut -f 3
+grep "0.525" internal_20090501_20090531_per_owner.csv | head | cut -d , -f 3
+grep "0.525" internal_20090501_20090531_per_owner.csv | head | cut -d , -f 3 | sort
+grep "0.525" internal_20090501_20090531_per_owner.csv | cut -d , -f 3 | sort
+`
+
+grep "0.525" internal_20090501_20090531_per_owner.csv | cut -d , -f 3 | wc -l
+grep "0.525" internal_20090501_20090531_per_owner.csv | cut -d , -f 3 | sort | uniq | wc -l
+grep ",0.525," internal_20090501_20090531_per_owner.csv | cut -d , -f 3 | sort | uniq | wc -l
+grep ",0.525" internal_20090501_20090531_per_owner.csv | cut -d , -f 3 | sort | uniq | wc -l
+ll
+scp desk:/home/zhliu/*tables.zip ./
+scp serv4:/home/zliu/*tables.zip ./
+scp sjl-serv4:/home/zliu/*tables.zip ./
+dd
+scp desk:/home/zhliu/*tables.zip ./
+ll
+vi YouTube_HockeyUsDotCom+user_W_20090601_20090607.tables.zip 
+ll
+scp desk:/home/zhliu/src-zhliu-pipeline/google3/video/youtube/logs/financial/proto/mr_user*.proto ./
+ll
+vi mr_userinfo.proto 
+gvim mr_userinfo.proto 
+telnet mitbbs.com
+exit
+ssh huozhe
+clear
+ssh godzilla
+ifconfig |grep 192
+ping 192.168.1.1
+ping 192.168.1.255
+ping 192.168.1.254
+ping 192.168.1.150
+ping 192.168.1.151
+vi ~/.ssh/config
+ssh godzilla
+hostname
+cd Pictures/iPhoto\ Library/
+ll
+cd Originals/
+ll
+cd 2009/
+ll
+scp June2009/ godzilla:/home/zheng
+scp -r June2009/ godzilla:/home/zheng
+ll
+cd ../2008
+ll
+cd
+clear
+ping v.ext.google.com
+host v.ext.google.com
+host alps.ext.google.com
+host threerock.ext.google.com
+traceroute -p 500 -P UDP v.ext.google.com
+traceroute -p 4500 -P UDP v.ext.google.com
+clear
+cd /var/log/
+ls -lrt
+vi system.log
+vi lastlog 
+vi secure.log
+vi ppp.log
+vi asl.log 
+ll
+cd Temp/
+ll
+scp godzilla:/home/zheng/data/Ph*/Disn*/*2131* ./
+file MVI_2131.AVI 
+file mvi_2131.flv 
+scp MVI_2131.AVI godzilla:/home/zheng/data/Ph*/Disn*/
+ll *2131*
+scp godzilla:/home/zheng/data/Ph*/Disn*/*2131*.flv ./
+exit
+screen -DDR
+telnet mitbbs.com
+exit
+vi ~/.vimperator
+vi ~/.vimperatorrc 
+ssh godzilla
+clear
+ssh huozhe
+clear
+ssh huozhe
+clear
+ssh huozhe
+telnet mitbbs.com
+exit
+telnet mitbbs.com
+exit
+telnet mitbbs.com
+exit
+ssh huozhe
+clear
+ssh huozhe
+telnet mitbbs.com
+clear
+ssh huozhe
+telnet smth.net
+telnet smth.net.cn
+telnet bbs.smth.net
+telnet newsmth.net
+ssh huozhe
+clear
+ssh huozhe
+clear
+telnet mitbbs.com
+clear
+ssh huozhe
+clear
+ssh huozhe
+clear
+cd Desktop/
+cd tt
+ll
+rm Archive.zip 
+man zip
+zip convert.zip A\ Random\ Walk\ Down\ Wall\ Street.pdf Technical\ Analysis\ of\ Stock\ Trends\,\ 9th\ Ed.pdf 
+ls -l
+rm convert.zip 
+ll
+gzip Technical\ Analysis\ of\ Stock\ Trends\,\ 9th\ Ed.pdf 
+ll
+gunzip Technical\ Analysis\ of\ Stock\ Trends\,\ 9th\ Ed.pdf.gz 
+vi Technical\ Analysis\ of\ Stock\ Trends\,\ 9th\ Ed.pdf 
+ssh huozhe
+exit
+telnet newsmth.com
+exit
+ssh huozhe
+clear
+uptime
+top
+sudo restart 
+sudo shutdown -r now
+telnet mitbbs.com
+vi x.txt
+;
+vi x.txt
+rm x.txt
+vi x.txt
+ll
+head x.txt
+clear
+ll
+rm x.txt
+cd Documents/CS_Notes/python/kindle/
+ll
+vi xu_san_guan.txt
+ll
+vi xu_san_guan.txt\ .rtf 
+ll
+l
+ll
+rm xu_san_guan.txt\ .rtf 
+vi xu_san_guan.txt
+cd Documents/CS_Notes/python/kindle/
+ll
+l.l
+rm .xu_san_guan.txt.swp 
+vi xu_san_guan.txt
+cd Documents/CS_Notes/python/kindle/
+rm .xu_san_guan.txt.swp 
+vi xu_san_guan.txt
+ll
+ssh huozhe
+man mount
+vi ~/.ssh/config 
+man mount
+vi /etc/fstab.hd 
+ssh godzilla
+clear
+ifconfig
+exit
+vi mount_*
+./mount_godzilla
+vi mount_*
+./mount_godzilla
+which mount_nfs
+man mount_nfs
+./mount_godzilla
+cat ./mount_godzilla
+ls -ld /god*
+sudo mkdir /godzilla_mount
+./mount_godzilla
+ls -ld /god*
+sudo rmdir /godzilla_mount
+ls -ld /god*
+ls -ld godzi*
+cd godzilla_mount
+ll
+cd ..
+ipconfig 
+ifconfig |grep 192
+./godzilla_mount
+./mount_godzilla
+cd godzilla_mount
+ll
+cd
+vi umount_godzilla
+./umount_godzilla
+./mount_godzilla
+./umount_godzilla
+exit
+ll
+cat mount_godzilla
+cat mount_godzilla2 
+vi mount_godzilla*
+./mount_godzilla
+grep godz *
+screen -DDR
+clear
+exit
+cd Documents/CS_Notes/python/kindle/
+ll
+scp h500* huozhe:/home/zhliu/Temp/ebook
+ssh huozhe
+clear
+ssh huozhe
+exit
+telnet mitbbs.com
+clear
+ssh zhliu
+ssh zhliu.sbo
+ssh desk
+ping huozhe.corp.google.com
+ssh huzohe
+ssh huozhe
+vi .ssh/
+ssh huozhe
+ssh desk
+clear
+ssh huozhe
+hostname
+ssh desk
+ssh huozhe
+vi .ssh
+vi .ssh/known_hosts 
+ssh huozhe
+clear
+telnet mitbbs.com
+ssh huozhe
+ll
+cd Temp/
+ll
+scp huozhe:/home/zhliu/pprof/*.gif ./
+./mount_godzilla
+cd mount_godzilla
+cd godzilla_mount
+ll
+cd Taken\[2008\]DvDrip-aXXo/
+ll
+cd ..
+l
+cd Gran.Torino.2008.DvDRip-FxM/
+ll
+cd ..
+ll
+cd Slumdog\ Millionaire\[2008\]DvDrip\[Eng\]-FXG/
+ll
+cd ..
+ll
+cp -r Gran.Torino.2008.DvDRip-FxM ~/Temp/
+cd ..
+./umount_godzilla
+./mount_godzilla
+cd godzilla_mount
+ll
+man cp
+cp -r Gran.Torino.2008.DvDRip-FxM ~/Temp/
+cd ..
+./umount_godzilla
+ssh godzilla
+cd Temp
+ll
+cd Gran.Torino.2008.DvDRip-FxM/
+ll
+vi Gran.Torino.
+vi Gran.Torino.nfo 
+cd
+ll
+ssh huozhe
+ssh desk
+clear
+ssh huozhe
+vi Desktop/xxxx
+cd Desktop/
+grep "Corpus bigtable" xxxx > yyyy
+vi yyyy
+sort yyyy > xxxx
+vi xxxx
+rm yyyy
+scp xxxx huozhe:/home/zhliu/
+rm xxxx
+exit
+ssh desk
+exit
+telnet mitbbs.com
+ssh desk
+ssh huozhe
+clear
+telnet mitbbs.com
+cd Documents/
+find . -iname kindle
+cd CS_Notes/python/kindle/
+ll
+scp The\ Shining.pdf huozhe:/home/zhliu/Temp/ebook
+exit
+ssh huozhe
+ssh desk
+ssh huozhe
+clear
+ssh huozhe
+clear
+ssh huozhe
+clear
+ssh huozhe
+clear
+ssh huozhe
+scp huozhe:/home/zhliu/run_local/results/UMG_2009* ./
+clear
+exit
+telnet mitbbs.com
+ssh godzilla
+cd Pictures/iPhoto\ Library/Originals/2009/
+ll
+man scp
+ssh huozhe
+ssh godzilla
+scp -r Roll\ 29/ /home/zheng/data/Photos/Temp/
+scp -r Roll\ 29/ godzilla:/home/zheng/data/Photos/Temp/
+exit
+telnet mitbbs.com
+ssh godzilla
+clear
+ssh godzilla
+clear
+ssh huozhe
+scp huozhe:/home/zhliu/.pystart* ./
+vi .bashrc
+vi .pystartup 
+scp ./.pystartup godzilla:/home/zheng/
+vi .bashrc
+ssh huozhe
+clear
+cd ipass/
+ll
+vi ipass.py 
+clear
+ssh huozhe
+ssh zhliu.sbo
+ssh desk
+cd
+telnet mitbbs.com
+ssh -p 7007 zheng@huozhe.myvnc.com
+clear
+ssh zhliu.sbo
+ssh desk
+clear
+ssh desk
+clear
+telnet mitbbs.com
+clear
+p s
+ps -ef|grep -i player
+ps -aux|grep -i player
+pkill MPlayer
+kill 2825
+ps -aux|grep -i player
+ls -l
+l.l
+ls -l Desktop/
+df -hs Documents/
+df -s Documents/
+df Documents/
+du -hs Documents/
+ls -l
+ssh desktop
+ifconfig
+ssh desk
+scp -r Documents/ desk:/home/zhliu/Personal/Laptop/
+ll
+scp -r ipass/ desk:/home/zhliu/Personal/Laptop/
+du -hs Pictures/
+mkdir bin
+mv *godzi* bin/
+ll
+mv ping_tserv bin
+ll
+scp -r mutual_funds.txt desk:/home/zhliu/Personal/Laptop/
+du -hs Music
+du -hs Movies/
+cd Movies/
+ll
+cd ..
+ll
+cd Movies/
+ll
+scp -r FromCamera/ desk:/usr/local/google/home/zhliu/Personal/
+cd ..
+ll
+cd Pictures/
+ll
+cd Tong/
+ll
+cd ..
+cd Pictures/
+ll
+scp -r Tong/ desk:/usr/local/google/home/zhliu/Personal/Pictures
+ll
+scp -r Phone/ desk:/usr/local/google/home/zhliu/Personal/Pictures
+cd iPhoto\ Library/
+ll
+cd Originals/
+ll
+cd 2009/
+ll
+cd ../..
+scp -r Originals/ desk:/usr/local/google/home/zhliu/Personal/Pictures/
+exit
+l.l
+cat .inputrc
+pico
+exit

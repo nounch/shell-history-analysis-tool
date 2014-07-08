@@ -1,0 +1,865 @@
+sudo pacman -Syy
+sudo pacman -R broadcom-wl
+sudo pacman -Syu --ignore glibc,curl
+diff /etc/pacman.conf /etc/pacman.conf.pacnew
+sdiff -s /etc/pacman.conf /etc/pacman.conf.pacnew
+mv /etc/pacman.conf.pacnew /etc/pacman.conf
+sudo mv /etc/pacman.conf.pacnew /etc/pacman.conf
+pacman-key --init; pacman-key --populate archlinux
+sudo -s
+top
+ps faux
+ps faux
+ls -R /
+sudo -s
+sudo -s
+man 7 archlinux
+vi .config/locale.conf
+locale
+ls -ltra
+less /var/log/messages.log 
+ps faux
+/etc/rc.d/slim restart
+ps faux
+startx
+/etc/rc.d/slim stop
+ps faux
+killall slim
+sudo killall slim
+ps faux
+sudo killall slim
+ps faux
+man 7 archlinux
+sudo vi /etc/rc.conf 
+cd /etc/rc.d/
+ll
+ls -la
+vi /etc/inittab 
+sudo vi /etc/inittab 
+reboot
+sudo reboot
+cd .config/
+ls -la
+cd
+ls -la
+cat .xinitrc 
+dmesg |tail
+mount
+mount -o exec
+sudo mount -o exec
+dmesg |tail
+sudo mount -o exec
+mount /dev/sr0 /mnt/
+sudo mount /dev/sr0 /mnt/
+sudo -s
+startx
+cd /mnt/
+ll
+ls -la
+sudo ./install
+pacman -S make gcc kernel-header
+sudo pacman -S make gcc kernel-header
+pacman Ss header
+pacman -Ss header
+sudo pacman -S make gcc linux-header
+sudo pacman -S make gcc linux-headers
+ll /usr/src/
+ls -la /usr/src/
+sudo ./install
+less /var/log/parallels-tools-install.log 
+vi /etc/X11/xorg.conf.d/01-keyboard-layout.conf 
+touch /etc/X11/xorg.conf
+sudo touch /etc/X11/xorg.conf
+startx
+cd /tmp/prl/mnt/
+ls -la
+./install
+sudo ./install
+xdpyinfo 
+dmesg 
+less /var/log/Xorg.0.log
+grep EE /var/log/Xorg.0.log
+sudo -s
+mount
+lsmod | grep prl
+ps faux
+startx 
+sudo -s
+sudo pacman -Syu
+sudo -s
+sudo -s
+startx
+startx
+reboot
+sudo reboot
+sudo -s
+dmesg | tail
+mount /dev/sr0 /mnt/
+sudo mount /dev/sr0 /mnt/
+ll /tmp/
+ls -ltra /
+ls -ltra /tmp/
+ls -la /mnt/
+mkdir /tmp/prl
+cp -a /mnt/* /tmp/prl/
+cd /tmp/prl/
+cd install
+cd installer/
+ll
+ls -la
+vi install-tools.sh 
+sudo vi install-tools.sh 
+sudo vim install-tools.sh 
+cd ..
+ls -ltra
+./install
+sudo ./install
+less /var/log/parallels
+less /var/log/parallels-tools-install.log 
+cd
+startx
+cd /tmp/prl/
+sudo ./install
+lsmod 
+lsmod  | grep prl
+ps -ef | grep xcmo
+xcompmgr 
+ll
+ls -la
+pcmanfm 
+cd
+cat .bashrc 
+cp -a .bashrc .bashrc_arch
+cp -a Dokumente/config-files/.bashrc .
+cp -a Dokumente/config-files/.bash_profile .
+cp -a Dokumente/config-files/.bash_aliases .
+cp -a Dokumente/config-files/.bash_logout .
+#1349551507
+ll
+#1349551508
+cd
+#1349551509
+ll
+#1349551511
+mc
+#1349551519
+sudo pacman -S mc
+#1349551525
+mc
+#1349551654
+vi Dokumente/update_parallel_tools.txt
+#1349551658
+vim Dokumente/update_parallel_tools.txt
+git
+sudo -s
+cd Dokumente/config-files/
+ls- la
+ls -la
+cp -a .inputrc /home/gutied/
+cp -a .zshrc /home/gutied/
+cp -a .vimrc .screenrc .screenrc .htoprc .Xdefaults /home/gutied/
+cp -a .vimrc .screenrc .htoprc .Xdefaults /home/gutied/
+sudo pacman -Ss rcvt
+sudo pacman -Ss rxvt
+sudo pacman -S rxvt-unicode
+sudo pacman -S urxvt-perls
+urxvt
+ll
+ll
+urxvt
+vim .bashrc 
+vim .xsession 
+help
+pacman Ss manpages
+pacman -Ss manpages
+pacman -Ss man-pages
+pacman -S man-pages-de
+sudo pacman -S man-pages-de
+vim /etc/pacman.conf 
+man dd
+locales
+locale
+export LANG=de_DE
+locale
+man dd
+export LANG=de_DE.UTF-8
+man dd
+cat .config/locale.conf 
+export Lc_ALL=de_DE.UTF-8
+firefox 
+startx
+systemd --help
+systemd --test
+/etc/rc.d/slim start
+ps faux
+/etc/rc.d/slim status
+/etc/rc.d/slim stop
+vi .xinitrc 
+pacman -Ql fvwm
+pacman -Ql fvwm |more
+vim .xinitrc 
+startx
+ps faux
+sudo reboot
+#1349551794
+ll
+#1349551827
+firefox 
+#1349551895
+bg
+#1349551897
+sudo -s
+#1349551925
+cat .bashrc_arch >> .bashrc
+#1349551928
+vu .bashrc
+#1349551933
+vim .bashrc
+#1349552000
+. .bashrc
+#1349552006
+sudo -s
+#1349552017
+sudo -i
+#1349552095
+sudo -s
+#1349551802
+urxvt
+#1349551732
+start
+#1349551734
+startx
+#1349552233
+sudo reboot
+#1349555155
+ssh 10.10.10.1
+#1349555169
+fc-cache -fv
+#1349555185
+mc
+#1349555242
+fc-cache -fv
+#1349555271
+pacman -Ss xfontsel
+#1349555282
+pacman -S xorg-xfontsel
+#1349555285
+sudo pacman -S xorg-xfontsel
+#1349555292
+xfontsel 
+#1349555753
+cd .fluxbox/
+#1349555753
+ll
+#1349555762
+cat lastwallpaper 
+#1349555796
+cat fbrun_history
+#1349555805
+cat fbrun_history 
+#1349555821
+cd
+#1349555832
+pacman -Ss thunar
+#1349555838
+pacman -S thunar
+#1349555840
+sudo pacman -S thunar
+#1349555876
+sudo pacman -S gvfs tumbler thunar-volman thunar-archive-plugin thunar-media-tags-plugin
+#1349555968
+sudo pacman -S gvfs-afc gvfs-smb gvfs-gphoto2 gvfs-obexftp gvfs-afp ffmpegthumbnailer gstreamer0.10 poppler-glib libgsf libopenraw freetype2
+#1349556000
+sudo pacman -S gvfs-
+#1349556001
+sudo pacman -S gvfs
+#1349556020
+thunar
+#1349556057
+pacman -Ss switch
+#1349556095
+pacman -S gtk-chtheme gtk-theme-switch2 gtk2_prefs lxappearance 
+#1349556098
+sudo pacman -S gtk-chtheme gtk-theme-switch2 gtk2_prefs lxappearance 
+#1349556108
+gtk-chtheme 
+#1349556187
+lxappearance
+#1349556211
+pacman -Ss murrine
+#1349556424
+cd .fluxbox/
+#1349556425
+ll
+#1349556437
+cat init 
+#1349556462
+cat startup 
+#1349556478
+feh --bg-center Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1349556478
+xcompmgr -l -5 -t -5 -r 5 -o 0.60 -c &
+#1349556481
+xset +fp $HOME/.fonts &
+#1349556233
+thunar
+#1349555331
+mc
+#1349555012
+ssh 10.10.10.1
+#1349555020
+pacman -Ss ssh
+#1349555033
+pacman -S openssh
+#1349555035
+sudo pacman -S openssh
+#1349555042
+ssh 10.10.10.1
+#1349555070
+scp 10.10.10.1:fonts.tgz .
+#1349555080
+scp 10.10.10.1:configs.tgz .
+#1349555093
+sudo pacman -S fluxbox
+#1349555101
+pacman -Ql fluxbox
+#1349555114
+vi .xinitrc 
+#1349555130
+startx
+#1349556593
+ps faux
+#1349556619
+grep xcomp .fluxbox/startup 
+#1349556624
+xcompmgr -l -5 -t -5 -r 5 -o 0.60 -c &
+#1349556674
+lxappearance 
+#1349556810
+cd /etc/fonts/
+#1349556811
+ll
+#1349556817
+cd conf.avail/
+#1349556818
+ll
+#1349556834
+cd ../conf.d/
+#1349556835
+ll
+#1349556881
+cd
+#1349556887
+cat .fluxbox/startup 
+#1349556896
+feh --bg-center Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1349556904
+pacman -Ss feh
+#1349556916
+sudo pacman -S feh
+#1349556925
+feh --bg-center Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1349556945
+feh --help
+#1349556961
+feh --bg-max Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1349557007
+feh --bg-fill Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1349557023
+feh --help
+#1349557048
+feh --bg-tile Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1349557056
+feh --bg-fill Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1349557072
+feh --bg-fill Bilder/Wallpaper/inklove_by_jocosity.jpg 
+#1349557083
+jobs
+#1349557111
+feh --bg-fill Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1349557147
+cat .fluxbox/menu 
+#1349557162
+pacman -Ss nautilus
+#1349557174
+pacman -S nautilus
+#1349557177
+sudo pacman -S nautilus
+#1349557217
+gtk-chtheme 
+#1349557484
+cd .gtkrc-2.0 
+#1349557488
+vi .gtkrc-2.0 
+#1349557510
+cd .fluxbox/styles/Color\ Me\ Bad/
+#1349557511
+ll
+#1349557514
+vi theme.cfg 
+#1349557537
+grep \.font theme.cfg
+#1349557568
+grep \.font /home/gutied/.gtkrc-2.0 
+#1349557590
+vi theme.cfg 
+#1349557730
+cd
+#1349557731
+mc
+#1349557851
+vi .fluxbox/startup 
+#1349557895
+cat .fluxbox/startup 
+#1349557902
+feh --bg-fill Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1349557904
+xcompmgr -l -5 -t -5 -r 5 -o 0.60 -c &
+#1349557910
+xset +fp $HOME/.fonts &
+#1349557935
+gtk-chtheme 
+#1349558023
+conky
+#1349558046
+killall conky
+#1349558049
+mc
+#1349558121
+conky
+#1349558139
+fg
+#1349558148
+killall conky
+#1349558152
+mc
+#1349558661
+sudo halt
+#1349614340
+feh --bg-fill Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1349614350
+xcompmgr -l -5 -t -5 -r 5 -o 0.60 -c &
+#1349614525
+cat .xinitrc 
+#1349614532
+cd .fluxbox/
+#1349614532
+ll
+#1349614540
+cat startup
+#1349614566
+vi startup 
+#1349614583
+vi
+#1349614597
+chmod +x startup 
+#1349618196
+cd
+#1349618202
+ping 10.10.10.1
+#1349618205
+ssh 10.10.10.1
+#1349618708
+java -version
+#1349618718
+sudo pacman -Ss java
+#1349618773
+sudo pacman -S icedtea-web-java7
+#1349618864
+locale
+#1349619064
+ssh adminsrv -lroot
+#1349619074
+ssh adminsrv.ez.edeka.net -lroot
+#1350062082
+lsmod | grep prl
+#1350062093
+lsmod | grep prl > treiber
+#1350062032
+sudo -s
+#1350062010
+startx
+#1350062573
+head -n20 /etc/fonts/conf.d/50-user.conf 
+#1350062723
+vi .fonts.conf 
+#1350062785
+tail .xsession 
+#1350062867
+startx
+#1350062887
+vi .fonts.conf 
+#1350062948
+sudo reboot
+#1350063880
+feh --bg-fill Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1350063888
+xcompmgr -l -5 -t -5 -r 5 -o 0.60 -c &
+#1350063978
+cp -a /mnt/* /tmp/prl/
+#1350063984
+mkdir /tmp/prl
+#1350063986
+cp -a /mnt/* /tmp/prl/
+#1350063989
+cd /tmp/prl/
+#1350063991
+ls -la
+#1350063994
+sudo -s
+#1350063792
+mount
+#1350063807
+sudo mount /dev/sr0 /mnt/
+#1350063829
+ps faux
+#1350063834
+sudo mount /dev/sr0 /mnt/
+#1350063840
+cd /tmp/
+#1350063840
+la
+#1350063844
+cd /var/tmp/
+#1350063846
+la
+#1350063859
+cd
+#1350063861
+startx
+#1350064120
+cd /tmp/prl/
+#1350064121
+ll
+#1350064124
+./install
+#1350064130
+sudo ./install
+#1350064198
+feh --bg-fill Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1350064201
+xcompmgr -l -5 -t -5 -r 5 -o 0.60 -c &
+#1350064206
+conky
+#1350064234
+killall conky
+#1350064266
+ls -tra
+#1350064268
+ls -tral
+#1350064275
+vi .gtkrc-2.0 
+#1350064305
+gtk3-demo
+#1350064368
+sudo vi /etc/fonts/conf.d/50-user.conf 
+#1350064395
+sudo vim /etc/fonts/conf.d/50-user.conf 
+#1350064408
+gtk3-demo
+#1350064717
+echo $XDG_CONFIG_HOME
+#1350064771
+mv .fonts.conf /home/gutied/.config/fontconfig.
+#1350064783
+cd /home/gutied/.config/
+#1350064784
+ll
+#1350064790
+mkdir fontconfig
+#1350064809
+mv fontconfig. fontconfig/fonts.conf
+#1350064810
+l
+#1350064811
+la
+#1350064817
+cat locale.conf 
+#1350064430
+sudo -s
+#1350064863
+gtk3-demo
+#1350065397
+pacman -Ss yaourt
+#1350065421
+pacman -Ss base-devel
+#1350065429
+sudo -s
+#1350065804
+pacman -Ss samba
+#1350065843
+sudo pacman -S g2sc
+#1350065850
+g2sc
+#1350065885
+sudo pacman -S samba
+#1350065900
+g2sc
+#1350065996
+findsmb 
+#1350066014
+testparm 
+#1350066040
+vim /etc/samba/smb.conf
+#1350066051
+yaourt -Ql samba
+#1350066066
+yaourt -Ql samba | grep samba.conf
+#1350066072
+cat /usr/lib/tmpfiles.d/samba.conf
+#1350066076
+cat /usr/lib/tmpfiles.d/samba.conf 
+#1350066103
+sudo cp /etc/samba/smb.conf.default /etc/samba/smb.conf
+#1350066109
+sudo vim /etc/samba/smb.conf
+#1350066141
+findsmb 
+#1350066168
+g2sc 
+#1350066192
+vim /home/gutied/.config/fontconfig/fonts.conf
+#1350065169
+vim /home/gutied/.config/fontconfig/fonts.conf
+#1350066249
+gtk3-demo
+#1350066291
+findsmb 
+#1350066301
+smbclient -L DISKSTATION
+#1350066380
+yaourt -Ss netbios
+#1350066439
+yaourt -Ss gvfs-smb
+#1350066487
+sudo vim /etc/samba/smb.conf
+#1350066604
+smbclient --help
+#1350066611
+smbclient -L
+#1350066617
+smbclient -L DISKSTATION
+#1350066663
+vi /etc/hosts
+#1350066671
+ip a
+#1350066683
+sudo vim /etc/hosts
+#1350064176
+startx
+#1350066966
+feh --bg-fill Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1350066968
+xcompmgr -l -5 -t -5 -r 5 -o 0.60 -c &
+#1350066978
+yaourt -Ss unrar
+#1350067308
+yaourt -Ss links
+#1350067319
+yaourt -S links
+#1350067347
+yaourt -S libx11 libtiff libpng
+#1350067426
+ZZ
+#1350067119
+mc -b
+#1350067353
+links
+#1350068579
+feh --bg-fill Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1350068581
+xcompmgr -l -5 -t -5 -r 5 -o 0.60 -c &
+#1350068746
+yaourt -Ss theme
+#1350068798
+yaourt -Ss theme | grep change
+#1350068817
+yaourt -Ss theme | grep gtk
+#1350068841
+yaourt -Ss change
+#1350069265
+mc -b
+#1350069506
+fc-cache -fv
+#1350068858
+gtk-chtheme 
+#1350069518
+gtk3-demo
+#1350069526
+gtk-chtheme 
+#1350070073
+vim .Xdefaults 
+#1350070114
+la
+#1350070110
+urxvt
+#1350070117
+vim .Xdefaults 
+#1350070190
+man dd
+#1350070170
+urxvt
+#1350070194
+vim .Xdefaults 
+#1350070212
+man dd
+#1350070207
+urxvt
+#1350070252
+la
+#1350070253
+lt
+#1350070260
+vi .gtkrc-2.0 
+#1350070305
+vim .Xdefaults 
+#1350070268
+gtk-chtheme 
+#1350070476
+yaourt -Ss rox
+#1350067647
+vi .xinitrc 
+#1350067676
+startx
+#1350067713
+mc
+#1350067758
+ln -s .fvwm_arch .fvwm
+#1350067761
+startx
+#1350067921
+vi /etc/X11/xorg.conf
+#1350067960
+ls -latr
+#1350067965
+mc
+#1350068028
+rm .fvwm
+#1350068037
+mkdir .fvwm_configs
+#1350068039
+mc
+#1350068086
+ln -s .fvwm_configs/.fvwm .fvwm
+#1350068089
+start
+#1350068090
+startx
+#1350068188
+yaourt -Ss perl
+#1350068211
+yaourt -Ss fvwm
+#1350068241
+yaourt -Ss fvwm-patched
+#1350068246
+yaourt -S fvwm-patched
+#1350068282
+yaourt --help
+#1350068292
+yaourt help -R
+#1350068301
+yaourt -h -R
+#1350068327
+yaourt -R fvwm
+#1350068335
+yaourt -S fvwm-patched
+#1350068490
+aurvote --configure
+#1350068510
+yaourt -S namcap
+#1350068530
+yaourt -Ql fvwm-patched | less
+#1350068543
+startx
+#1350068565
+vi .xinitrc 
+#1350068574
+startx
+#1350070515
+sudo init 0
+#1350205581
+feh --bg-fill Bilder/Wallpaper/BlacKWidow_1680X1050_DeltaNine_Plain.jpg &
+#1350205585
+xcompmgr -l -5 -t -5 -r 5 -o 0.60 -c &
+#1350205679
+cd .ssh/
+#1350205680
+la
+#1350205682
+cd
+#1350205686
+ssh rs4y
+#1350205911
+cat .ssh/config 
+#1350205929
+ssh 10.10.10.10
+#1350205945
+scp 10.10.10.10:.ssh/config .ssh/
+#1350205948
+ssh rs4y
+#1350205961
+ssh e8
+#1350206181
+ssh rs4y
+#1350206378
+ssh e8
+#1350236290
+cd Dokumente/
+#1350236302
+mkdir wrk
+#1350236306
+cd wrk/
+#1350236353
+git clone https://www.github.com/gunman808
+#1350236381
+git clone https://www.github.com/gunman808/config-files
+#1350236388
+ll
+#1350236391
+cd config-files/
+#1350236393
+ll
+#1350236394
+la
+#1350236404
+la .git/
+#1350236408
+cd ..
+#1350236434
+cd config-files/
+#1350236448
+mkdir archlinux
+#1350236450
+ll
+#1350236459
+rm archlinux
+#1350236466
+rmdir archlinux
+#1350236469
+cd ,,
+#1350236471
+cd ..
+#1350236482
+mkdir archlinux
+#1350236489
+cd archlinux/
+#1350236552
+du -sh /home/gutied/
+#1350236562
+du -sh /home/gutied/*
+#1350237137
+cp -a /home/gutied/.[A-z]* .
+#1350237165
+tty-clock 
+#1350237174
+tty-clock -h
+#1350237214
+tty-clock -csr
+#1350237254
+cd
+#1350237269
+vim .config/fontconfig/fonts.conf 
+#1350237362
+cp -a /home/gutied/.[A-z]* .
+#1350237375
+cd -

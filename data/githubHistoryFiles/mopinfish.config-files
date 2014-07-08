@@ -1,0 +1,882 @@
+vim /etc/yum.repos.d/CentOS-Base.repo
+yum --enablerepo=dag -y install git
+mkdir hoge
+vim index.html
+l
+git init --bare
+mkdir pjt
+mv ../hoge/index.html index.html
+git remote add origin root@www37364u.sakura.ne.jp:hoge/
+cd pjt
+git remote add origin root@www37364u.sakura.ne.jp:hoge
+cd hoge
+rm -rf hoge
+rm -rf pjt
+yum list installed | grep sudo
+usermod -G wheel mopinfish
+id locolight
+cd /etc/ssh
+vim sshd_config
+service sshd restart
+yum list installed | grep iptables
+iptables -+
+yum -y install httpd
+rpm -qa httpd
+cat /etc/passwd | grep apache
+cp /etc/httpd/conf/httpd.conf $HOME
+mkdir conf_bk
+mv httpd.conf conf_bk
+servie httpd start
+service httpd start
+chkconfig httpd on
+chkconfig --list httpd
+chkconfig vsftpd on
+chkconfig --list vsftpd
+ranlevel
+runlevel
+vim l18n
+ho
+ssh root@www37364u.sakura.ne.jp
+vim i18n
+hoge
+man
+man cd
+yum list | grep mysql
+cp my.cnf $HOME/conf_bk
+cd conf_bk
+cd /etc/
+vi my.cnf
+rpm -qa mysql-server
+
+yum remove mysql*
+yum remove mysql-server
+yum remove mysql.x86_64
+yum -y install mysql.x86_64
+yum -y install mysql-server
+/etc
+/etc/
+chown -R mysql:mysql /var/lib/mysql
+msql_install_db
+cd ibdata1
+mysql_install_db
+vim my.cnf
+chkconfig mysqld off
+chkconfig mysqld on
+cd /var/lib/mysql
+cd mysql
+vi /etc/my.cnf
+vim mysqld.log
+chmod -R 775 mysql
+cd /var/log/
+tail -f mysqld.log
+vim /etc/my.cnf
+chkconfig --list mysqld
+mysqladmin -u root password '1896lain'
+1896lain
+rpm -qa gcc
+yum -y install zlib-devel
+bash < <(curl -s https://rvm.beginrescueend.com/install/rvm)
+wget http://ftp.ruby-lang.org/pub/ruby/1.9/ruby-1.9.2-p290.tar.gz
+tar zxvf ruby-1.9.2-p290.tar.gz
+rm -rf ruby-1.9.2-p290.tar.gz
+mv /tmp/ruby-1.9.2-p290 ruby-1.9.2-p290
+make test
+cd ext/zlib
+ruby extconf.rb --with-zlib-include=/usr/include --with-zlib-lib=/usr/lib
+gem 0v
+yum -y install httpd-devel apr-devel openssl openssl-devel
+yum list | grep openssl
+yum list installed | grep openssl
+yum list | grep curl
+yum -y install curl-devel
+yum list installed | grep curl
+cd ext/openssl
+ruby extconf.rb
+gem install rvm
+rvm 1.8.7
+rvm instal 1.8.7
+cd /etc/pki/tls/certs
+cp ca-bundle.crt ca-bundle.crt.bak
+curl http://curl.haxx.se/ca/cacert.pem -o ca-bundle.crt
+rvm notes
+wget https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer
+vim rvm-installer
+bash ./rvm-installer
+cd /usr/local/
+bash < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer )
+rvm pkg install autoconf
+bash < <( curl http://rvm.beginrescueend.com/releases/rvm-install-head )
+bash < <( curl https://rvm.beginrescueend.com/releases/rvm-install-head )
+mkdir .rvm
+bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer)
+cd .rvm
+rm .rvm
+rm -rf .rvm
+find ./* -type d -name '.rvm'
+rm rvm-installer
+cd /usr/local/rvm
+cd scripts
+cexit
+cd /usr/local/rvm/scripts/
+vim rvm
+source "$HOME/.rvm/scripts/rvm"
+source "/usr/local/rvm/scripts/rvm"
+rvm
+mv conf_bk conf_bak
+cd /usr/local/src
+cd /usr/local/src/
+la
+cat .installed.list
+cat .installed.list | xargs rm
+wget http://rubyforge.org/frs/download.php/71096/ruby-enterprise-1.8.7-2010.02.tar.gz
+tar xzvf ruby-enterprise-1.8.7-2010.02.tar.gz
+rm -rf ruby-enterprise-1.8.7-2010.02.tar.gz
+yum -y install readline-devel
+ls | grep mysql
+vi mysql_config
+cd ruby-
+cd ruby-1.9.2-p290
+ruby --v
+yum install mysql-devel
+cd ruby-enterprise-1.8.7-2010.02
+./installer --no-dev-docs
+vim ruby
+./ruby
+./ruby -v
+vim .bash_profile
+vi .zshrc
+bash
+rvm -v
+rvm install 1.9.2
+rvm install 1.8.7
+gem install rails -y -v 2.3.14
+gem install rails -v 3.0.10
+wget http://rubyforge.org/frs/download.php/75814/redmine-1.3.1.tar.gz
+tar xzvf redmine-1.3.1.tar.gz
+mv redmine-1.3.1 /var/lib/redmine
+rm -rf redmine-1.3.1.tar.gz
+gem install mysql
+gem remove mysql
+gem uninstall mysql
+gem install mysql --with-mysql-lib=/usr/lib/mysql
+gem install mysql -- --with-mysql-lib=/usr/lib/mysql
+gem install rdoc -v 2.4.2
+ln -s /var/lib/redmine/public /var/www/html/redmine
+vi /etc/httpd/conf/httpd.conf
+c
+chmod -R 775 public
+find ./* -type f -name 'pasenger.conf'
+find ./* -type f -name 'session.yml'
+chmod -R 777 public
+chmod -R 755 public
+;s
+chmod -R 666 tmp
+cd tmp/
+chmod -R 777 tmp
+cd sessions
+cd test
+ruby
+chmod -R 766 log
+chmod -R 766 tmp
+locate git
+git
+/usr
+find ./* -type d -name 'git'
+cd /usr/local/bin/bin
+find ./* -type d -name 'redmine'
+cd /usr/local/bin
+/var/lib
+cd redmine/
+\:wq
+cd /var/lib/redmine/lib/redmine/
+cd scm/adapters
+cd /home/locolight/
+chown -R apache loco.git
+cd /var/lib/redmine/vendor/plugins
+wget http://projects.andriylesyuk.com/attachments/download/246/redmine_scm-0.3.0.tar.bz2
+tar -jcvf redmine_scm-0.3.0.tar.bz2
+tar jcvf redmine_scm-0.3.0.tar.bz2
+tar xzvf redmine_scm-0.3.0.tar.bz2
+tar -xjvf redmine_scm-0.3.0.tar.bz2
+rm -rf redmine_scm-0.3.0.tar.bz2
+gem install rack --version 1.1.0
+gem uninstall rack --version 1.4.1
+rake db:migrate:plugins RAILS_ENV=production
+cp $REDMINE_ROOT/vendor/plugins/redmine_scm/config/scm.yml $REDMINE_ROOT/config/scm.yml
+cp /var/lib/redmine/vendor/plugins/redmine_scm/config/scm.yml /var/lib/redmine/config/scm.yml
+service httpd graceful
+cd /usr/bin
+vim scm.yml
+fj
+chmod -R 777 log tmp
+cd /var/lib/redmine/lib/redmine/scm/adapters
+vim HEAD
+cd refs/heads/
+vim master
+rm -rf git
+mkdir gitrepo
+cd gitrepo
+cd test.git
+git --bare init
+rails
+gem list | grep rails
+gem install rails
+gen uninstall rails
+gem install rails -v=2.3.14
+gem rack -v
+rm -rf redmine-1.0.1.tar.gz
+cd /var/lib/redmine/config
+gem uninstall rake
+gem install rake -v=0.8.7
+gem install rack -v 1.1.1
+gem install passenger -v 2.2.15
+gem list | grep 'passenger'
+gem uninstall passenger
+cd /var/lib/
+rm -rf redmine
+gem install
+gem install passenger -v=2.2.15
+wget http://rubyforge.org/frs/download.php/72201/redmine-1.0.1.tar.gz
+tar zxvf redmine-1.0.1.tar.gz
+mv redmine-1.0.1 /var/lib/redmine
+gem list | grep mysql
+cp database.yml.example database.yml
+gem uninstall rails
+gem uninstall rack
+gem install rack -v 1.0.1
+rack -v
+gem list | grep 'rack'
+gem list | grep 'rails'
+gem install rails -v=2.3.5
+rake generate_session_store
+rake db:migrate RAILS_ENV=production
+rake redmine:load_default_data RAILS_ENV=production
+vim /etc/httpd/conf
+apachectl configtest
+cd lib/redmine/scm/adapters/
+cd /var/
+mkdir git
+mkdir redmine.git
+git init --bare redmine.git
+cd redmine.git
+cd /home/locolight/loco.git
+which git
+git -v
+cd git
+ls | grep 'git'
+yum list installed | grep 'git'
+rpm -qa git
+cd /usr/bin/
+/usr/bin/git -v
+/usr/bin/git --version
+cd /var/lib/redmine/lib/redmine/scm/adapters/
+vim git_adapter.rb
+chmod o+rx redmine.git
+git --version
+git init .
+git commit -m 'first commit of redmine'
+git push /var/git/redmine.git master
+cd /var/git/redmine.git
+cd loco.git
+mkdir test.git
+git init --bare test.git
+chmod -R 777 test.git
+su locolight
+cd /home/locolight
+rm -rf test.git
+cd /var/git
+mkdir loco.git
+git init --bare loco.git
+chmod -R 777 loco.git
+gem list installed | grep 'sqlite'
+yum install sqlite-devel
+gem list | grep 'sqlite'
+gem install sqlite3
+gem search sqlite3-ruby -ra
+wget http://www.sqlite.org/sqlite-amalgamation-3.7.3.tar.gz
+tar xvzf sqlite-amalgamation-3.7.3.tar.gz
+cd sqlite-3.7.3
+rpm -q sqlite
+su mopinfish'\
+;'
+su mopinfish\
+
+cd /var/www/
+chmod -R 775 html
+chmod -R 777 html
+cd /var/log/httpd
+iptables -L
+su mopinfish
+useradd otsukano
+passwd otsukano
+usermod -G wheel otsukano
+id otsukano
+id mopinfish
+visudo
+rm -rf .zshrc
+cp -pr .zshrc /home/otsukano/.zshrc
+gem install rack -v=1.4.1
+gem list | grep rack
+gem install devise
+git clone git://github.com/mopinfish/myConfigFiles
+mv myConfigFiles/.zshrc .
+ls -a
+lz
+mv .vim ../
+cd plugin
+cd myConfigFiles
+git push
+git pull
+cp -pr /home/otsukano/.zshrc .zshrc
+cd /var/www/html/
+mkdir bookmark
+ln -s /home/otsukano/rails/bookmarker/public bookmark
+cd /var/lib/redmine/public
+cd /var/lib/redmine/
+cd /home/otsukano/rails/bookmarker
+cd tmp
+which apache
+which httpd
+cd local
+which error_log
+lls
+find ./ -type d -name '*apache*'
+rm -rf bookmark
+cd /home/otsukano/rails/bookmarker/
+chown -R apache:apache log tmp
+chown -R apache:apache config/environment.rb
+cd conf.d
+cd httpd/conf
+rpm -Uvh http://download.fedora.redhat.com/pub/epel/5/i386/epel-release-5-4.noarch.rpm
+vi /etc/sysconfig/i18n
+yum update
+free
+wget http://download.fedora.redhat.com/pub/epel/5/i386/epel-release-5-4.noarch.rpm
+yum -y install php
+yum remove php
+wget http://rpms.famillecollet.com/enterprise/remi-release-5.rpm
+rpm -Uvh remi-release-5.rpm
+wget http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.2-2.el5.rf.x86_64.rpm
+wget http://download.fedora.redhat.com/pub/epel/5/x86_64/epel-release-5-4.noarch.rpm
+wget http://rpms.famillecollet.com/el5.x86_64/remi-release-5-8.el5.remi.noarch.rpm
+wget http://dl.fedoraproject.org/pub/epel/5/x86_64/epel-release-5-4.noarch.rpm
+rpm -Uvh epel-release-5-4.noarch.rpm remi-release-5-8.el5.remi.noarch.rpm rpmforge-release-0.5.2-2.el5.rf.x86_64.rpm
+cd /etc/yum.repos.d
+nano /etc/yum.repos.d/epel.repo /etc/yum.repos.d/rpmforge.repo /etc/yum.repos.d/remi.repo
+vim remi.repo
+vim epel.repo
+vim rpmforge.repo
+yum repolist all
+yum -y remove php
+yum --enablerepo=remi,epel,rpmforge install php
+php -v
+ln -s /home/otsukano/Symfony symfony
+cd /var/www/html/symfony
+chown apache:apache symfony
+cd symfony
+cd /var/www
+cd html
+mkdir php
+yum -y enablerepo=remi,epel,rpmforge install php-xml
+yum enablerepo=remi,epel,rpmforge install php-xml
+yum -y --enablerepo=remi,epel,rpmforge install php-xml
+rm -rf Symfony
+yum -y --enablerepo=remi,epel,rpmforge install php-mysql php-xml php-pdo php-pear php-posix php-intl php-devel httpd-devel pcre-devel
+wget http://symfony.com/download?v=Symfony_Standard_Vendors_2.0.0.tgz
+wget http://www.homes.co.jp/search/
+rm index.html
+wget http://symfony.com/download?v=Symfony_Standard_Vendors_2.0.12.tgz
+yum list installed | grep sqlite3
+yum list installed | grep 'sqlite'
+sqlite -version
+sqlite3 -v
+vim web/config.php
+yum -y install --enablerepo=remi,epel,rpbforge php-intl
+chown apache:apache logs
+chown apache:apache cache
+yum -y install --enablerepo=remi,epel,rpmforge php-process
+yum -y install --enablerepo=remi,epel,rpmforge php-mbstring
+ln -s /var/www/html www
+pecl
+yum -y install --enablerepo=remi,epel,rpmforge php-pear
+pear config-show
+yum -y install --enablerepo=remi,epel,rpmforge php-devel
+yum -y install --enablerepo=remi,epel,rpmforge make
+pecl install pdo
+cd $PATH
+yum install php-mysql
+yum -y install --enablerepo=remi,epel,rpmforge pcre-devel
+pecl install APC
+yum -y install --enablerepo=remi,epel,rpmforge php-sqlite
+yum -y install --enablerepo=remi,epel,rpmforge php-sqlite3
+yum -y install php-mysql
+cd bin
+cd /usr/local/bin/
+find ./* -type d -name '*apache*'
+yum -y update --enablerepo=remi,epel,rpmforge mysql
+service mysqld start
+service mysqld stop
+yum -y remove mysql*
+yum -y remove mysql mysql-server mysql-devel
+yum -y install --enablerepo=remi,epel,rpmforge mysql mysql-server mysql-devel
+yum list installed | grep mysql
+cd ../../
+cd /var/log
+vim httpd/error_log
+yum -y remove php-pdo
+yum -y install --enablerepo=remi,epel,rpmforge php-pdo
+cd /var/www/html/php
+service mysqld restart
+cd /var/www/html/Symfony/web
+vim config.php
+yum list installed | grep icu
+yum -y install --enablerepo=remi,epel,rpmforge icu libicu
+yum -y install --enablerepo=remi,epel,rpmforge libicu-devel
+pecl install intl
+pecl install php53intl
+pecl install php53-intl
+chmod -R 755 app_dev.php
+chown apache:apache app_dev.php
+chmod -R 777 app_dev.php
+cd dev
+rm dev
+cd ../
+chown otsukano:otsukano app_dev.php
+vi app_dev.php
+vim web/config.php ls
+cd www/Symfony/web
+cd /var/www/html/Symfony/app/config
+cd .
+chmod -R 755 Symfony
+cd Symfony
+cd /var/www/html/Symfony
+cd src/
+app/console generate:bundle \ --namespace=Wdpress/MemoBundle --format=yml
+app/console generate:bundle\ --namespace=Wdpress/MemoBundle --format=yml
+app/console generate:bundle --namespace=Wdpress/MemoBundle --format=yml
+cd src/Wdpress
+vim hoge.html
+screen -r
+]ls
+cd www/Symfony/src/Wdpress/MemoBundle
+vim DefaultController.php ]
+app/console doctrine:generate:entity --entity=WdpressMemoBundle:Memo --fields="body:string" --format=yml
+cd lib64
+cd /usr
+find ./* -type f -name 'pdo.so'
+cd lib64/php/modules
+app/console doctrine:scheme:create
+pecl list installe
+pecl list installed
+yum list installed | grep pdo
+yum -y install --enablerepo=remi,epel,rpmforge php-mysql
+pecl list
+vim cd
+vi /etc/sysconfig/iptables
+cd /
+cd app/config
+vim parameters.ini
+app/console doctrine:schema:create
+vim app.php
+cd src
+cd Wdpress
+cd MemoBundle
+vim WdpressMemoBundle.php
+vim README.md
+cd src/Wdpress/MemoBundle/
+cd Controller
+vim DefaultController.php
+cd vendor/doctrine-dbal/lib/Doctrine/DBAL/
+cd Driver/
+vim PDOConnection.php
+cd www/php
+vim test.php
+yum list linstalled | grep php
+vim php.ini
+cd /usr/lib64/php/
+cd modules
+ls '*pdo*'
+ls *pdo*
+yum -y install --enablerepo=remi,epel,rpmforge php-pgsql
+cd /usr/lib64/php/modules
+sl
+vim /etc/php.ini
+yum -y install --enablerepo=remi,epel,rpmforge php-apc
+app/console
+cat /usr/lib64/php/modules/sqlite.so
+cat /usr/lib64/php/modules/pdo.so
+app/console doctrine:generate:form WdpressMemoBundle:Memo
+cd /opt/
+cd www/Symfony/src/Wdpress/MemoBundle/
+cd Form
+vim MemoType.php
+cd Resources/config
+cd doctrine
+vim validation.yml
+cd app/cache
+cd ../..
+app/console cache:clear
+cd cache
+rm -rf dev
+vim AppCache.php
+vim app
+cd www/Symfony
+cd web
+vim app_dev.php
+cd ls
+cd blog
+cd ruby
+rm -rf ruby
+cd httpd
+cd conf
+cd /etc/sysconfig
+vim iptables
+service iptables restart
+cd /etc/httpd/conf/
+chown apache:apache rails
+chown -R apache:apache rails
+cp -pr redmine rails
+rm redmine
+ln -s /var/www/html/rails/bookmarker/public bookmarker
+ln -s /var/www/html/rails/bookmarker/public bookmark
+rm bookmarker
+cd redmine
+cd /var/www/html/rails/bookmarker
+cd /etc/httpd
+cd logs
+vim error_log
+gem list sqlite
+tail -f /etc/httpd/conf/httpd.conf
+zsh
+rails new testapp
+rm -rf new
+rails testapp
+rails s --port=1896
+cd script/
+rails script/server --port=1896
+rails script/server
+ruby script/server
+ruby script/server -p 1896
+ln -s /var/www/html/rails/testapp/public test
+rails new testapp2
+cd testapp2
+cd public
+ln -s /var/www/html/rails/testapp2/public test2
+rm test
+rm -rf testapp
+rails new bookmarkers
+cd bookmarkers
+rails g scaffold page title:string url:string
+rails g scaffold bookmark page:references comment:text
+vim app/controllers/bookmarks_controller.rb
+ln -s /var/www/html/rails/bookmarkers/public books
+cd www/books
+vim routes.rb
+rails -f /etc/httpd/logs/error_log
+cd /usr/local/bin/lib/ruby/gems/1.8/gems/passenger-2.2.15/bin
+cd /etc
+vim profile
+cd /etc/init.d/
+tailf -f /etc/httpd/logs/error_log
+cd rails/bookmarkers/public
+cp -pr favicon.ico /var/www/html
+cd /etc/init.d
+vim httpd
+vim Gemfile.lock
+BundleInstall
+bundleInstall
+vim /etc/init.d/httpd
+vim .bashrc
+su -
+source .zshrc
+cd $LD_LIBRARY_PATH
+cd www/rails/bookmarkers
+cd test2
+gem uninstall ruby-sqlite3
+y
+cd www/
+cd rails/bookmarkers
+gem uninstall sqlite3-ruby --version 1.3.3
+gem install passenger
+passenger --version
+cd /etc/httpd/conf
+vim httpd.conf
+gem search orm
+gem uninstall orm_adapter -v 0.0.6
+bundler --version
+gem update bundler
+vim setup_load_paths.rb
+gem uninstall rake 0.9.2
+bundle install --path vendor/cache
+bundle list
+pwdc
+cd /var/www/html/bookmark
+yum -y update --enablerepo=remi,epel,rpmforge sqlite
+wget http://www.sqlite.org/sqlite-amalgamation-3.7.2.tar.gz
+tar xzf sqlite-amalgamation-3.7.2.tar.gz
+cd sqlite-3.7.2
+sqlite --version
+yum list installed | grep sqlite
+sqlite -v
+cd book
+lcd bookmark
+cd bookmark
+s
+cd www/bookmark
+cd rails/bookmarker
+cd www/rails/bookmarker
+cd www/rails
+rails new testapp3
+cd testapp
+cd testapp3
+ln -s /var/www/html/rails/testapp3/public testapp3
+ln -s /var/www/html/rails/testapp3/public test3
+rm testapp3
+which redmine
+gem --version
+rvm use 1.9.2 --default
+ruby ^v
+chmod -R 666 log tmp
+cp -pr /var/www/html/rails/bookmarker /var/lib/bookmarker
+rm bookmark
+ln -s /var/lib/bookmarker/public bookmark
+tail -f server.log
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+gem remove sqlite3
+gem list | grep sqlite
+gem install sqlite3 --version 1.2.5 -- --with-sqlite3-include=/usr/local/include --with-sqlite3-lib=/usr/local/lib
+gem uninstall sqlite3
+gem install sqlite3 --version 1.2.5
+gem install sqlite3 -- --with-sqlite3-include=/usr/local/include --with-sqlite3-lib=/usr/local/lib
+bundle config build.sqlite3 --with-sqlite3-include=/usr/local/include --with-sqlite3-lib=/usr/local/lib
+echo LD_LIBRARY_PATH
+echo $LD_LIBRARY_PATH
+gem install sqlite3-ruby
+gem uninstall sqlite3-ruby
+gem install sqlite3-ruby --version 1.2.5
+rvm use 1.8.u7
+vim environment
+vim environment.rb
+sqlite3 -version
+cd /usr/local/lib
+./run-tests
+passenger-install-apache2-module
+cd /var/www/html/bookmark/
+pwd
+cd /usr/local/bin/lib/ruby/gems/
+cd 1.8/gems/passenger-2.2.15/bin
+vim passenger-spawn-server
+tail -f /var/lib/bookmarker/log/production.log
+tail -f /var/lib/bookmarker/log/development.log
+tail -f /var/lib/bookmarker/log/server.log
+tail -f /var/lib/bookmarker/log/test.log
+echo $RAILS_ROOT
+cd /var/lib
+cd lib
+vim database.yml
+cd app/db
+gem update --system
+gem list | grep ruby
+gem install -v 1.7.1
+gem update --system -v 1.7.1
+gem update --system 1.7.1
+vim /etc/sysconfig/httpd
+cd bookmarker
+gem update -system 1.3.7
+gem update --system 1.3.7
+cd rails/testapp2
+cd /var/www/html/rails/testapp2/log
+vim server.log
+tail -f production.log
+rm Gemfile.lock
+rails ls
+rvm use 1.9.2
+rails s -p 8000
+cd db
+vim development.sqlite3
+vim production.sqlite3
+fg
+vim config/database.yml
+yum list installed | grep php
+rm test2 test3
+rm books
+rm -rf bookmarkers
+rm -rf testapp2
+rm -rf testapp3
+cd /var/lib/bookmarker
+vim app/
+screen
+cd app
+vim controllers/application_controller.rb
+cd views/bookmarks
+rm .index.html.erb.swp
+vim index.html.erb
+cd /var/lib/redmine
+vim config/environment.rb
+find ./* -type f | xargs grep 'development'
+vim /etc/httpd/conf/httpd.conf
+service httpd restart
+vim production.log
+vim development.log
+cd /var/lib/redmine/log
+vim scm.stderr.log
+chown 1000:1000 development.log scm.stderr.log
+chmod -R 775 log
+mkdir scm.stderr.log
+chmod -R 777 log
+cd log
+tail -f /etc/httpd/logs/error_log
+yum -y install --enablerepo=remi,epel,rpmforge php-gd php-mcrypt
+wget http://sourceforge.net/projects/phpmyadmin/files/phpMyAdmin/3.5.0/phpMyAdmin-3.5.0-all-languages.tar.bz2/download#84159d0bca857d57faf3a11c1b30af6
+wget http://sourceforge.net/projects/phpmyadmin/files/phpMyAdmin/3.5.0/phpMyAdmin-3.5.0-all-languages.tar.bz2
+tar zxvf phpMyAdmin-3.5.0-all-languages.tar.bz2
+wget http://sourceforge.net/projects/phpmyadmin/files/phpMyAdmin/3.5.0/phpMyAdmin-3.5.0-all-languages.tar.gz
+tar zxvf phpMyAdmin-3.5.0-all-languages.tar.gz
+rm -rf phpMyAdmin-3.5.0-all-languages.tar.gz phpMyAdmin-3.5.0-all-languages.tar.bz2
+mv phpMyAdmin-3.5.0-all-languages /var/lib/phpmyadmin
+cd /var/lib/phpmyadmin
+cp config.sample.inc.php config.inc.php
+vim config.inc.php
+cd /var/www/html
+ln -s /var/lib/phpmyadmin /var/www/html/phpmyadmin
+cd /var/lib/php
+cd session
+cd php
+cd .vim
+git clone http://github.com/gmarik/vundle.git ~/.vim/vundle.git
+vim .vimrc
+cp -pr .vimrc /home/otsukano/.vimrc
+cp -pr .vim /home/otsukano/.vim
+mysql -u root -p
+cd /etc/httpd/logs
+tail -f error_log
+tar xzvf tmux-1.6.tar.gz
+cd tmux-1.6
+make && make install
+yum -y install --enablerep=remi,epel,rpmforge libevent-devel
+./configure
+exit
+vim .tmux.conf
+tmux
+wget http://hackage.haskell.org/platform/2010.2.0.0/haskell-platform-2010.2.0.0.tar.gz
+wget http://darcs.haskell.org/download/dist/6.12.3/ghc-6.12.3-x86_64-unknown-linux-n.tar.bz2
+tar xvfj ghc-6.12.3-x86_64-unknown-linux-n.tar.bz2
+cd ghc-6.12.3
+./configure --prefix=/usr/local/haskell/ghc/6.12.3
+export PATH=/usr/local/haskell/ghc/6.12.3/bin:$PATH
+vim .zshrc
+cd /tmp
+tar xvfz haskell-platform-2010.2.0.0.tar.gz
+cd haskell-platform-2010.2.0.0
+yum -y install --enablerepo=remi,epel,rpmforge freeglut-devel freeglut
+yum -y install --enablerepo=remi,epel,rpmforge libgmp3-dev
+yum -y install --enablerepo=remi,epel,rpmforge gmp*
+yum -y install gmp*
+wget ftp://ftp.gmplib.org/pub/gmp-5.0.4/gmp-5.0.4.tar.bz2
+tar lxvf gmp-5.0.4.tar.bz2
+cd gmp-5.0.4
+./configure --enable-cxx
+make check
+ghc --version
+cd haskell-platform-2010.2.0.0/
+./configure --prefix=/usr/local/haskell/haskell-platform/2010.2.0.0
+make
+make install
+ghci
+which
+which ghci
+cd /home/otsukano
+chown otsukano:otsukano .zshrc
+chmod -R 777 chrome
+ls -la
+chown otsukano:otsukano chrome
+su otsukano
+gem -v
+ruby -v
+gem install heroku
+heroku list
+rails new catalog
+cd catalog
+rails s -p 2924
+git init
+git commit -m "Init"
+tig
+git status
+heroku create
+heroku open
+rails g scaffold Product name:string price:float url:string
+rm public/index.html
+vim config/routes.rb
+git add .
+git rm public/index.html
+git commit -m "Scaffold products"
+git log
+git push heroku master
+heroku rake db:migrate
+cd config/initializers
+ll
+vim oa-oauth.rb
+cd
+cd www
+cd rails
+mkdir mangadojo
+cd mangadojo
+rm -rf manga-dojo
+rm mangadojo
+rm -rf mangadojo
+git clone git://github.com/mataki/manga-dojo.git
+cd manga-dojo
+gem list installed
+gem list
+yum -y install --enablerepo=remi,epel,rpmforge libxml2 libxml2-dev libxslt1-dev
+yum -y install --enablerepo=remi,epel,rpmforge libxml2-ruby
+gem install nokogiri -- --with-xml2-include=/usr/include/libxml2 --with-xml2-lib=/usr/lib --with-xslt-dir=/usr/
+which libxml2
+yum -y install --enablerepo=remi,epel,rpmforge libxml2-dev
+yum search rubygem-nokogiri
+yum search --enablerepo=remi,epel,rpmforge rubygem-nokogiri
+yum instal --enablerepo=epel,remi,rpmforge rubygem-nokogiri.x86_64
+yum install --enablerepo=epel,remi,rpmforge rubygem-nokogiri.x86_64
+yum list installed | grep libxml
+yum -y install --enablerepo=remi,epel,rpmforge libxml2-devel
+yum -y install --enablerepo=remi,epel,rpmforge libxslt-devel
+gem install nokogiri -v '1.4.4'
+gem install linecache -v '0.43'
+rvm use 1.8.7
+rails -v
+rails s
+gem list | grep rake
+cd config
+vim database.yml.sample
+cp -pr database.yml.sample database.yml
+cd ..
+vim Gemfile
+bundle install
+bundle update rake
+rake db:migrate
+bundle update
+rails s -p 1896
+ls
+find ./* -type f | xargs grep "Please login"
+cd app/views/layouts
+vim application.html.haml
+: 1336744605:0;vim .tmux.conf
+: 1336744644:0;ls
+: 1336744646:0;git log
+: 1336744649:0;ls
+: 1336744653:0;ls -la
+: 1336744930:0;git init
+: 1336744940:0;ls -la
+: 1336744945:0;git log
+: 1336744955:0;ls
+: 1336744957:0;ls -la
+: 1336744977:0;rm -rf .git/
+: 1336744983:0;git -v
+: 1336744988:0;git init
+: 1336745004:0;ls -la
+: 1336745012:0;git add .tmux.conf
+: 1336745018:0;git add .vimrc
+: 1336745028:0;git add .zshrc
+: 1336745038:0;git add .viminfo
+: 1336745043:0;git add .vim
+: 1336745053:0;git add .zsh_history

@@ -1,0 +1,5 @@
+cd ~/.ssh
+ssh-keygen -t rsa -C "jchaloupka@scires.com"
+git config --global user.name "Justin Chaloupka"
+git config --global user.email "jchaloupka@scires.com"
+exit

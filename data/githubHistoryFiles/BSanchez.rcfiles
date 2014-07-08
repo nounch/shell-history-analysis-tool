@@ -1,0 +1,344 @@
+su root
+pacman -Syu
+su root
+yaourt vim
+su root
+jumanji
+midori
+sudo nano /etc/pacman.conf
+su root
+yaourt vim
+yaourt openssh
+vim
+exit
+rvm -v
+exit
+ssh-keygen -t rsa
+yaourt -S git subversion
+yaourt curl
+bash -s stable < <(curl -s https://raw.github.com/wayneeseguin/rvm/master/binscripts/rvm-installer )
+echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function' >> ~/.bash_profile
+rvm -v
+bash
+exit
+rvm -v
+rvm install 1.9.3
+rvm --default 1.9.3
+rvm uninstall 1.9.3
+rvm notes
+rvm requirements
+pacman -Sy --noconfirm gcc patch curl zlib readline libxml2 libxslt autoconf diffutils make libtool bison subversion
+rvm -v
+ls -la
+ls -la .bash*
+vim .bash_profile 
+sudo reboot
+yaourt -S tmux sudo
+sudo vim
+su root
+su root
+sudo poweroff
+ssh clients.dezup.net
+ssh agence.dezup.net
+ssh blog.dezup.net
+exit
+exit
+yaourt ranger
+ranger
+tmux
+exit
+yaourt spotify
+yaourt earcandy
+yaourt suckless
+yaourt skvm
+yaourt install pavucontrol
+yaourt pavucontrol
+exit
+:q!
+ls .ssh/
+alsamixer
+exit
+yaourt chromium
+exit
+ssh blog.dezup.net
+visudo
+sudo visudo
+ssh blog.dezup.net
+ssh blog.dezup.net
+ssh clients.dezup.net
+ssh blog.dezup.net
+ssh blog.dezup.net
+yaourt zsh
+zsh
+zsh
+zsh
+sudo poweroff
+yaourt font
+yaourt helvetica
+yaourt verdana
+yaourt -Ss font
+sudo pacman -Ss font
+yaourt -Ss ttf
+yaourt ttf
+yaourt flash
+chsh
+exit
+chsh
+exit
+ranger
+yaourt ttf-ms-fonts
+yaourt ttf-ms-fonts
+yaourt ttf-vista-fonts
+yaourt libreoffice
+yaourt -S libreoffice
+yaourt -S libreoffice
+yaourt -S libreoffice
+yaourt -Syu
+yaourt -Syu
+yaourt ttf-ms-fonts
+exit
+vim
+exit
+jumanji
+exit
+ssh blog.dezup.net
+exit
+yaourt minecraft
+yaourt wessnoth
+yaourt wesnoth
+exit
+zsh
+exit
+ssh clients.dezup.net
+exit
+rvm implode
+rvm -v
+.rvm/
+exit
+./Zombie\ Grinder\ SDK.sh 
+sh Zombie\ Grinder -compile
+ekit
+exit
+ssh blog.dezup.net
+exit
+exit
+sass -v
+gem install sass
+exit
+exit
+vim
+exit
+vim
+exit
+exit
+exit
+dezup-fork foundation melipone
+ls
+cd ..
+ls
+cd Wallpapers/
+dezup-fork foundation melipone
+ls
+git push origin
+exit
+ssh blog.dezup.net 
+exit
+ssh agence.dezup.
+ssh agence.dezup.net
+ssh agence.dezup.net
+ssh agence.dezup.net
+Q
+ssh agence.dezup.net
+ssh agence.dezup.net 
+ssh agence.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh agence.dezup.
+ssh agence.dezup.net 
+ssh agence.dezup.net 
+ssh agence.dezup.net 
+exit
+ssh agence.dezup.net 
+exit
+ssh agence.dezup.net 
+exit
+ssh agence.dezup.net 
+exit
+ssh agence.dezup.net 
+exit
+ssh agence.dezup.net 
+exit
+ssh agence.dezup.net
+ssh agence.dezup.net
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh agence.dezup.net 
+ssh agence.dezup.net 
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh agence.dezup.net 
+ssh agence.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+ssh agence.dezup.net
+ssh agence.dezup.net
+exit
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh agence.dezup.net 
+ssh agence.dezup.net 
+exit
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+exit
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh agence.dezup.net 
+cd /
+ls
+exit
+ssh blog.dezup.net 
+ssh blog.dezup.net
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+exit
+ssh agence.dezup.net
+exit
+ssh blog.dezup.net 
+ssh agence.dezup.
+ssh agence.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh clients.dezup.net 
+exit
+ssh agence.dezup.
+ssh agence.dezup.net
+ssh agence.dezup.net
+exit
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+scp Downloads/gall-alpha_0.5.zip  blog.dezup.net:~
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+ssh clients.dezup.net 
+ssh blog.dezup.net 
+exi
+exit
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ls
+s
+ls
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh agence.dezup.
+ssh agence.dezup.net
+ssh agence.dezup.net
+ssh blog.dezup.net 
+ssh clients.dezup.net 
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+ssh clients.dezup.net 
+ssh blog.dezup.net 
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+ssh blog.dezup.net 
+z
+ssh blog.dezup.net 
+exit
+vim
+exit
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+exit
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+exit
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh clients.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh clients.dezup.net 
+ssh blog.dezup.net 
+ssh clients.dezup.net 
+ssh blog.dezup.net 
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+ssh root@bsanchez.dezup.net
+ssh agence.dezup.
+ssh agence.dezup.net
+ssh agence.dezup.net
+ssh root@bsanchez.dezup.net
+ssh agence.dezup.net 
+ssh blog.dezup.net 
+ssh agence.dezup.net 
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh root@bsanchez.dezup.net 
+ssh blog.dezup.net 
+ssh clients.dezup.net 
+ssh blog.dezup.net 
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+ssh root@bsanchez.dezup.net
+ssh root@bsanchez.dezup.net
+ssh blog.dezup.net 
+ssh blog.dezup.net 
+ssh clients.dezup.net 
+ssh root@bsanchez.dezup.net 
+ssh root@bsanchez.dezup.net 
+ssh clients.dezup.net 
+ssh clients.dezup.net 
+ssh blog.dezup.net 
+ssh clients.dezup.net 

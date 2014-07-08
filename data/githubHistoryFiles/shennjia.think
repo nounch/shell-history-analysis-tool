@@ -1,0 +1,768 @@
+ls
+ls
+cp ATT56188.bashrc .bashrc
+cp ATT68937.bash_profile .bash_profile
+cd /etc/
+ls
+gvim profile 
+exit
+#1357391876
+ls
+#1357392029
+lk
+#1357392033
+ls -a
+#1357392038
+cd ~
+#1357392041
+ls
+#1357392043
+ls -a
+#1357392055
+rm ATT*
+#1357392463
+ls
+#1357392633
+cd ~
+#1357392634
+ls
+#1357392636
+cd ctags-5.8/
+#1357392643
+./configure 
+#1357392809
+make && make install
+#1357392872
+cd ..
+#1357392874
+cd cscope-15.8a/
+#1357392875
+ls
+#1357394187
+cd ..
+#1357394190
+cd ncurses-5.9/
+#1357394195
+./configure 
+#1357394346
+make && make install
+#1357394512
+cd ..
+#1357394515
+..
+#1357394518
+cd -
+#1357394523
+cd cscope-15.8a/
+#1357394530
+./configure 
+#1357394642
+make 
+#1357394770
+make
+#1357477740
+ls
+#1357477743
+cd cscope-15.8a/
+#1357477748
+ls
+#1357477777
+gvim config.log &
+#1357477814
+make
+#1357477828
+cd /
+#1357477829
+ls
+#1357478231
+which cscope.exe
+#1357478250
+cd /e/jiagui/projects/Eclipse/
+#1357478251
+ls
+#1357478252
+cd workspace/
+#1357478253
+ls
+#1357478256
+cd hello
+#1357478257
+ls
+#1357478260
+cd src/
+#1357478260
+ls
+#1357478263
+cd ..
+#1357478272
+cd hello
+#1357478391
+find . -name "*.cpp" -o -name "*.h" > file.list
+#1357478393
+ls
+#1357478399
+cat file.list 
+#1357478408
+cscope.exe --help
+#1357478510
+ls
+#1357478521
+cp file.list cscope.files
+#1357478537
+cscope.exe -bkq
+#1357478538
+ls
+#1357478546
+cat cscope.out 
+#1357478554
+ls
+#1357478557
+gvim
+#1357479119
+cd ~
+#1357479120
+ls
+#1357479123
+ls -a
+#1357479168
+cp .bash_profile.bash_profile .bash_profile
+#1357479194
+gvim .bashrc &
+#1357479214
+source .bashrc 
+#1357479321
+gvim .bashrc &
+#1357479344
+source .bashrc
+#1357479359
+gvim .bash_profile &
+#1357479430
+source .bashrc
+#1357479442
+gvim .bashrc &
+#1357479480
+source .bashrc 
+#1357479484
+path
+#1357479560
+gvim .bashrc &
+#1357479630
+source .bashrc
+#1357479702
+ln -s /e/jiagui/projects/Eclipse/workspace/  ./workspace
+#1357479753
+ln -h
+#1357479756
+ln --help
+#1357479897
+ls
+#1357479899
+cd workspace/
+#1357479899
+ls
+#1357479903
+cd hello/
+#1357479904
+ls
+#1357479917
+myfile
+#1357479918
+ls
+#1357479922
+cat cscope.files 
+#1357479927
+myout
+#1357479928
+ls
+#1357479935
+mytag
+#1357479936
+ls
+#1357480109
+rm -f cscope.*
+#1357480110
+ls
+#1357480115
+rm gmon.out 
+#1357480119
+rm tags 
+#1357480122
+ls
+#1357480123
+clear
+#1357480126
+ls
+#1357480132
+myfile
+#1357480134
+ls
+#1357480143
+copy cscope.files my.out
+#1357480150
+cp cscope.files my.out
+#1357480159
+rm -f cscope.files 
+#1357480177
+setupSession.pl myout
+#1357480188
+setupSession.pl my.out
+#1357480220
+mysetupSession.pl my.out
+#1357480370
+cat my.out 
+#1357480582
+cleanSession.pl 
+#1357480595
+mysetupSession.pl my.out 
+#1357480678
+cleanSession.pl 
+#1357480727
+mysetupSession.pl my.out 
+#1357480890
+cscope --help
+#1357481037
+cd ~/gvim_sessions/
+#1357481038
+ls
+#1357481042
+cd Win_my_2013-01-06_21-58-47/
+#1357481043
+ls
+#1357481052
+cscope -bq
+#1357481060
+cscope -bkq
+#1357481073
+cd -
+#1357481079
+cd ..
+#1357481086
+cd workspace/hello/
+#1357481086
+ls
+#1357481100
+myfile
+#1357481101
+ls
+#1357481105
+cat cscope.files 
+#1357481211
+cleanSession.pl 
+#1357481227
+gvim ./.bashrc
+#1357481238
+gvim ~/.bashrc
+#1357481285
+source ~/.bashrc 
+#1357481297
+cd ~
+#1357481301
+mydcfile 
+#1357481304
+ls
+#1357481313
+gvim ~/.bashrc 
+#1357481341
+source ~/.bashrc 
+#1357481344
+mydcfile 
+#1357481358
+rm -f rm
+#1357481361
+rm -f dc.out 
+#1357481370
+mydcfile 
+#1357481375
+cat dc.out 
+#1357481385
+mysetupSession.pl dc.out 
+#1357481422
+cd /home/
+#1357481424
+ls
+#1357481459
+cscope.exe -bkq /home/think/workspace/hello/src/NameCard.cpp 
+#1357481461
+ls
+#1357481486
+rm -f cscope.*
+#1357481496
+cscope -bkq /home/think/workspace/hello/src/NameCard.cpp 
+#1357481498
+ls
+#1357481519
+cleanSession.pl 
+#1357481526
+ls
+#1357481542
+rm -f cscope.*
+#1357481546
+mydcfile 
+#1357481549
+ls
+#1357481555
+cd ~
+#1357481557
+ls
+#1357481561
+cat dc.out 
+#1357481575
+mysetupSession.pl dc.out 
+#1357562770
+myview.pl 
+#1357562928
+myview
+#1357562962
+ls
+#1357562975
+rm -f *.out
+#1357563001
+myproject /e/jiagui/projects/Eclipse/workspace/hello hello
+#1357563431
+gvim .script/mysession.pl &
+#1357563492
+myclean.pl 
+#1357563498
+myproject /e/jiagui/projects/Eclipse/workspace/hello hello
+#1357563509
+ls
+#1357563531
+myview.pl 
+#1357735821
+cd /e/jiagui/00_02__Programming/cppunit-1.12.1/
+#1357735822
+ls
+#1357735827
+cd src/
+#1357735828
+ls
+#1357735847
+cd ..
+#1357735848
+ls
+#1357735860
+cd ..
+#1357735861
+ls
+#1357735868
+cd CppUTest-v2.2d/
+#1357735869
+ls
+#1357735887
+make -f Makefile_CppUTestExt
+#1357905169
+ls
+#1357905173
+cd workspace/
+#1357905174
+ls
+#1357905183
+lk
+#1357905187
+cd itppStudy/
+#1357905188
+ls
+#1357905189
+cd src/
+#1357905190
+ls
+#1357905198
+cd ..
+#1357905199
+ls
+#1357905223
+which myproject 
+#1357906616
+cd ~
+#1357906617
+ls
+#1357906627
+cd /local/lib/
+#1357906628
+ls
+#1357906632
+lk
+#1357906643
+ll 
+#1357906645
+ls -a
+#1357906648
+ls -l
+#1357906660
+ll >sjg.txt
+#1357906666
+lk > sjg.txt
+#1357906676
+cat sjg.txt 
+#1357906680
+rm sjg.txt 
+#1357906689
+lk > sjg.txt
+#1357906697
+gvim sjg.txt &
+#1357906713
+cat sjg.txt 
+#1357913239
+ls
+#1357913245
+cd workspace/
+#1357913245
+ls
+#1357913247
+cd hello/
+#1357913248
+ls
+#1357913353
+cd src/
+#1357913357
+ls
+#1357913363
+gvim hello.cpp &
+#1357913542
+gvim &
+#1357913679
+cd ..
+#1357913679
+ls
+#1357913686
+pwd
+#1357913688
+cd ..
+#1357913689
+ls
+#1357913695
+mkdir test
+#1357913697
+cd test/
+#1357913706
+gvim test.cpp &
+#1358041729
+gvim
+#1358045594
+git --help
+#1358045597
+git
+#1358045600
+git help
+#1358045604
+git -help
+#1358045610
+git.exe -?
+#1358045612
+git
+#1358049106
+ls
+#1358049113
+cd workspace/
+#1358049114
+ls
+#1358049116
+cd ..
+#1358054574
+which git
+#1358055272
+ls .ssh
+#1358055282
+which git
+#1358055368
+ssh-keygen -t rsa -C "shen.jiagui@gmail.com"
+#1358055468
+clip < ~/.ssh/id_rsa.pub 
+#1358055597
+ssh -T git@github.com
+#1358055749
+git config --global user.name "shennjia"
+#1358055777
+git config --global user.email shen.jiagui@gmail.com
+#1358055887
+cd /e/jiagui/projects/Eclipse/
+#1358055888
+ls
+#1358055890
+cd workspace/
+#1358055890
+ls
+#1358055912
+cd /c/Users/think/
+#1358055912
+ls
+#1358055924
+cd ~
+#1358055924
+ls
+#1358055929
+cd workspace/
+#1358055930
+ls
+#1358055947
+cd ../jiayuan/
+#1358055948
+ls
+#1358055949
+cd git/
+#1358055950
+ls
+#1358055955
+cd itpp/
+#1358055956
+ls
+#1358055961
+cd helloCppUTest/
+#1358056713
+git remote add upstream https:/github.com/shennjia/jiayuan.git
+#1358056746
+git pull upstream master
+#1358056907
+git remote add upstream https://github.com/shennjia/jiayuan.git
+#1358056920
+git pull upstream master
+#1358056943
+ssh https://github.com/shennjia/jiayuan.git
+#1358056976
+ls
+#1358056982
+cd ..
+#1358056983
+ls
+#1358056985
+cd ..
+#1358056985
+ls
+#1358056988
+cd ..
+#1358056988
+ls
+#1358056991
+cd git/
+#1358056998
+git push upstream
+#1358057096
+cd ~
+#1358058183
+ls
+#1358058507
+rm -rf jiayuan/
+#1358058508
+ls
+#1358058558
+tree -L jiayuan/
+#1358058566
+cd jiayuan/
+#1358058566
+ls
+#1358063409
+cd ~
+#1358063410
+ls
+#1358063413
+rm -rf jiayuan/
+#1358063474
+ls
+#1358063479
+rm -rf jiayuan/
+#1358063484
+cd jiayuan/
+#1358063484
+ls
+#1358063494
+lk
+#1358063498
+cd ..
+#1358063500
+ls
+#1358063502
+cd jia
+#1358063503
+ls
+#1358063506
+cd jiayuan/
+#1358063507
+ls
+#1358063530
+pwd
+#1358063534
+cd ..
+#1358063549
+pwd
+#1358063556
+cd jiayuan/
+#1358063558
+ls -a
+#1358063567
+rm -rf .git/
+#1358064337
+which ctags
+#1358064364
+which cscope
+#1358064483
+cp /c/Program Files/Vim/vim73/cscope.exe ~/usr/local/bin
+#1358064516
+cp /c/Program Files/Vim/vim73/cscope.exe /usr/local/bin
+#1358064644
+cd ...
+#1358064646
+cd ..
+#1358064649
+pwd
+#1358064921
+ls
+#1358064924
+cd think/
+#1358064940
+git help
+#1358068878
+pwd
+#1358068893
+cd .ssh/
+#1358068894
+ls
+#1358068900
+cd ..
+#1358068901
+ls -a
+#1358068985
+git init
+#1358069024
+git add .
+#1358069056
+git remote add origin git@github.com:shennjia/jiayuan.git
+#1358069074
+git push origin master
+#1358069265
+git remote add git@github.com:shennjia/think.git
+#1358069338
+git remote add origin git@github.com:shennjia/think.git
+#1358069352
+git remote add think git@github.com:shennjia/think.git
+#1358069374
+git push think master
+#1358069453
+git remote add think git@github.com:shennjia/think.git
+#1358069459
+git push think master
+#1358069575
+cd .ssh
+#1358069577
+ls
+#1358069580
+cat known_hosts 
+#1358069587
+cat id_rsa
+#1358069589
+cd ..
+#1358069590
+ls
+#1358069594
+ls -a
+#1358069602
+cat .gitconfig 
+#1358070081
+pwd
+#1358070088
+git add .
+#1358070298
+git push -help
+#1358070339
+git push git@github.com:shennjia/think.git
+#1358075918
+ls
+#1358075922
+ls -a
+#1358075950
+git commit -a -m 'Initial commit'
+#1358076033
+git remote add origin ssh://shennjia@github.com/jiayuan.git
+#1358076052
+git push origin master
+#1358076112
+git branch --set-upstream master origin/master
+#1358076661
+git add -help
+#1358076701
+git rm -help
+#1358076769
+git push -help
+#1358076791
+git remote add -help
+#1358076840
+git commit -help
+#1358078384
+gvim README.md &
+#1358078429
+cd ..
+#1358078446
+cd think
+#1358078447
+ls
+#1358078455
+cd workspace/
+#1358078455
+ls
+#1358078458
+cd itppstudy/
+#1358078459
+ls
+#1358078463
+cd ..
+#1358078465
+rm -rf itppstudy/
+#1358078499
+git clone ssh://shennjia@github.com/shennjia/jiayuan.git
+#1358078596
+cd ..
+#1358078597
+ls
+#1358078600
+ls -a
+#1358078625
+git clone ssh://shennjia@github.com/shennjia/jiayuan.git
+#1358079230
+ls
+#1358079257
+git clone git://shennjia@github.com/shennjia/jiayuan.git
+#1358079639
+ls
+#1358079644
+ls -a
+#1358079650
+rm -rf Files/
+#1358079770
+git clone ssh://shennjia@github.com/shennjia/jiayuan.git
+#1358079803
+git clone ssh://github.com/shennjia/jiayuan.git
+#1358080138
+git config user.name "shennjia"
+#1358080151
+git config user.email "shen.jiagui@gmail.com"
+#1358080181
+git config --global user.email "shen.jiagui@gmail.com"
+#1358080200
+git config --global user.name "shennjia"
+#1358080232
+git config --global color.branch "auto"
+#1358080254
+git config --global color status "auto"
+#1358080268
+git config --global color.status "auto"
+#1358080281
+git config --global color.diff "auto"
+#1358080305
+git config --global color.ui "auto"
+#1358080343
+git pull
+#1358080353
+git status
+#1358080457
+git add .gitconfig 
+#1358080475
+cat README.md 
+#1358080489
+git add README.md 
+#1358080538
+git commit README.md .gitconfig 
+#1358080568
+git commit -help
+#1358080632
+git commit -i README.md  .gitconfig 
+#1358080648
+git commit README.md 

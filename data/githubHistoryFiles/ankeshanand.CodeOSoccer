@@ -1,0 +1,26 @@
+sudo apt-get update
+ls
+cd Code0Soccer_32bit
+cd CodeOSoccer_32bit
+sudo bash setup.sh
+sudo apt-get install vim-gnome
+g++
+cd ../
+ls
+cd NewArena
+ls
+sudo bash setup.sh
+sudo apt-get update
+sudo apt-get install vim-gnome
+git init
+cd ..
+ls
+cd ..
+pwd
+git init
+git add Wanderer
+cd Wanderer
+ls
+git init
+git add Wanderer
+sudo apt-get update

@@ -1,0 +1,202 @@
+sudo halt
+ls
+cd 下载/
+ls
+cd
+exit
+ls
+exit
+ssh zj@10.131.200.101
+ls
+cd Ubuntu\ One/
+ls
+cd ..
+ls
+cd 下载
+ls
+tar -xvf vim.tar 
+ls
+ls -la
+rm vim.tar 
+sudo apt-get install vim
+sudo apt-get update
+sudo apt-get install vim
+vim
+cp -r .vimrc .vim ../
+vim
+cd
+ls
+cd .vim/
+ls
+cd doc/
+ls
+cd ..
+ls
+vi .vimrc 
+sudo apt-get install ctags
+vim
+vim test.c
+ls
+mkdir workspace
+ls
+cd workspace/
+ls
+vim hw6-11.c
+gcc -o hw6-11 hw6-11.c 
+vim hw6-11.c
+gcc -o hw6-11 hw6-11.c 
+./hw6-11 
+vim hw6-11.c
+gcc -o hw6-11 hw6-11.c 
+./hw6-11 
+vim hw6-11.c
+gcc -o hw6-11 hw6-11.c 
+vim hw6-11.c
+./hw6-11 
+vim hw6-11.c
+gcc -o hw6-11 hw6-11.c 
+vim hw6-11.c
+gcc -o hw6-11 hw6-11.c 
+./hw6-11 
+gcc -o hw6-11 hw6-11.c 
+vim hw6-11.c
+gcc -o hw6-11 hw6-11.c 
+./hw6-11 
+vim hw6-11.c
+gcc -o hw6-11 hw6-11.c 
+./hw6-11 
+vim hw6-11.c
+gcc -o hw6-11 hw6-11.c 
+./hw6-11 
+vim hw6-11.c
+vim hw6-15.c
+gcc -o hw6-15 hw6-15.c 
+./hw6-15
+vim hw6-15.c
+gcc -o hw6-15 hw6-15.c 
+./hw6-15
+vim hw6-15.c
+gcc -o hw6-15 hw6-15.c 
+./hw6-15
+vim hw6-15.c
+gcc -o hw6-15 hw6-15.c 
+./hw6-15
+vim hw6-15.c
+gcc -o hw6-15 hw6-15.c 
+./hw6-15
+vim hw6-15.c
+gcc -o hw6-15 hw6-15.c 
+./hw6-15
+ls
+vim ex7-1.c
+gcc -o ex7-1 ex7-1.c 
+./ex7-1 
+exit
+sudo apt-get install ssh
+sudo apt-get update
+exit
+cd 下载
+ls
+cd ..
+ls
+ssh zj@10.131.200.101
+ls
+tar -xvf backup.tar.gz 
+ls
+rm backup.tar.gz 
+cd backup/
+ls
+rm -r .vimrc .vim
+ls
+mv cprogramming/ ../workspace/
+ls
+mv *.gz ../下载/
+ls
+mv *.pdf ../文档/
+ls
+mv *.tgz ../下载/
+ls
+mv hadoop-eclipse-plugin-0.20.3-SNAPSHOT.jar ../下载/
+ls
+mv bootstrap/ ../
+ls
+cd ..
+ls
+cd backup/
+ls
+mv 121261.user.js ../下载/
+cd ..
+ls
+rmdir backup/
+ls
+cd workspace/
+ls
+cd cprogramming/
+ls
+mkdir chapter7
+cd chapter
+cd chapter6/
+ls
+rm hw6-15*
+ls
+cd ../../
+ls
+mv *.c cprogramming/chapter6/
+ls
+rm ex7-1 hw6-1*
+ls
+cd cprogramming/
+cd chapter6/
+ls
+mv ex7-1.c ../chapter7/
+ls
+cp Makefile ../chapter7/
+ls
+cd ../chapter7/
+ls
+cd ..
+ls
+cd
+cd 下载/
+ls
+tar -xvf code.tar.gz 
+ls
+cd ZG_code/
+ls
+mv *.c ~/workspace/cprogramming/chapter6/
+ls
+cd ..
+rm -r ZG_code/
+ls
+rm code.tar.gz 
+ls
+cd ../workspace/cprogramming/
+ls
+cd chapter6/
+ls
+mv del_dup.c ex6-12.c
+mv exercise_16.c ex6-16.c
+mv exercise_17.c ex6-17.c
+ls
+cd
+sudo apt-get install git
+git clone https://github.com/Blacker-King/oh-my-zsh.git
+ls
+cd oh-my-zsh/
+ls
+cd ..
+rm -r oh-my-zsh/
+sudo rm -r oh-my-zsh/
+ls
+sudo apt-get install curl
+git clone https://github.com/Blacker-King/oh-my-zsh.git
+ls
+git clone https://github.com/Blacker-King/oh-my-zsh.git ~/.oh-my-zsh
+cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+chsh -s /bin/zsh
+sudo apt-get install zsh
+chsh -s /bin/zsh
+vi .zshrc 
+exit
+ls
+exit

@@ -1,0 +1,706 @@
+#1204213831
+cd /home/sprocket
+#1204213832
+ls
+#1204213841
+cp index.php blah.php
+#1204213843
+clear
+#1204213844
+exit
+#1213626852
+cd public_html
+#1213626894
+grep -R bike_rents *
+#1213626992
+exit
+#1217360257
+ls
+#1217360271
+cd www
+#1217360272
+ls
+#1217362696
+ls
+#1217362704
+cd images/
+#1217362705
+ls
+#1217362713
+ls lo*
+#1217362725
+cp logos.jpg logos.jpg.bak
+#1217362816
+ls -la logos*
+#1217362831
+rm logos.jpg
+#1217362845
+ls
+#1217362847
+ls lo*
+#1217362860
+ls lo* -la
+#1217362871
+chmod 744 logos.jpg
+#1217362872
+ls lo* -la
+#1217365848
+exit
+#1234470507
+ls -al
+#1234470513
+cd public_html/
+#1234470515
+ls -al
+#1234470541
+cd admin2
+#1234470543
+ls -al
+#1234470599
+cd ..
+#1234470602
+ls -al
+#1234470841
+exit
+#1263830666
+ls
+#1263830687
+cd www/
+#1263830688
+ls
+#1263830710
+vi index.php 
+#1263831243
+cd media/
+#1263831244
+ls
+#1263831246
+cd ..
+#1263831249
+cd images/
+#1263831249
+ls
+#1263831254
+cd ..
+#1263831268
+grep "rentals" * -r
+#1263831308
+ls
+#1263831371
+vi botads_xml.php 
+#1263831805
+ls -la
+#1263832305
+cd media/
+#1263832306
+ls
+#1263832308
+cd ..
+#1263832314
+cd images/
+#1263832315
+ls
+#1263832334
+cd ..
+#1263832347
+find -name "*.xml" *
+#1263832357
+find * -name "*.xml"
+#1263832375
+ls
+#1263832398
+vi botads_xml.php 
+#1263832522
+cwd
+#1263832547
+cd ..
+#1263832548
+ls
+#1263832561
+cd www/
+#1263832562
+ls
+#1263833548
+exit
+#1264008039
+ls
+#1264008124
+ls
+#1264008131
+cd www
+#1264008132
+ls
+#1264008213
+mv ~/topflash.swf ./topflash.swf2
+#1264008324
+mv ./topflash.swf ./topflash.swfBAK & mv ./topflash.swf2 ./topflash.swf
+#1264008353
+mv ./topflash.swf ~/topflash.swf
+#1264008365
+mv ./topflash.swfBAK ./topflash.swf
+#1264008407
+mv ~/topflash.swf ./topflashnew.swf
+#1264008411
+ls
+#1264013574
+ls
+#1264013581
+cd etc/
+#1264013582
+ls
+#1264013586
+cd thebicycleshoppecharleston.com/
+#1264013587
+ls
+#1264013591
+cd ..
+#1264013593
+ls
+#1264013594
+cd ..
+#1264013596
+ls
+#1264013600
+cd tmp
+#1264013603
+ls
+#1264013612
+find fla
+#1264013617
+locate fla
+#1264013625
+ls
+#1264013628
+cd ..
+#1264013628
+ls
+#1264013635
+find --more
+#1264013638
+more finde
+#1264013641
+more find
+#1264013644
+find --help
+#1264013684
+find ~/ fla
+#1264013703
+ls
+#1264013708
+cd public_ftp/
+#1264013709
+ls
+#1264013712
+cd incoming/
+#1264013713
+ls
+#1264013716
+cd ..
+#1264013718
+cd ..
+#1264013722
+cd public_html/
+#1264013723
+ls
+#1264013893
+exit
+#1264015046
+ls
+#1264015057
+cd public_html/
+#1264015057
+ls
+#1264015064
+cd libraries/
+#1264015065
+ls
+#1264015073
+ls ../../www 
+#1264015079
+ls ../www 
+#1264015084
+cd xml/
+#1264015084
+ls
+#1264015091
+vi flash_nav.php 
+#1264015134
+vi xml_prehead.inc.php 
+#1264015155
+vi xml_prehead.inc.php 
+#1264015179
+vi xml_prehead.inc.php 
+#1264015188
+locate config.inc.php
+#1264015194
+cd ../../
+#1264015198
+cd ..
+#1264015204
+cd public_html/
+#1264015204
+ls
+#1264015212
+vi config.inc.php 
+#1264015315
+mysql -u thebicyc_db thebicyc_sql
+#1264015323
+mysql -u thebicyc_db thebicyc_sql -p
+#1264015359
+mysql -u thebicyc_sql thebicyc_db -p
+#1264011665
+ls
+#1264011666
+cd www
+#1264011667
+ls
+#1264011707
+ls
+#1264011735
+grep -r "topflash.swf" *
+#1264011774
+vi template.html 
+#1264012001
+vi template.html 
+#1264012176
+grep -r "topflash.swf" *
+#1264012182
+ls
+#1264012206
+echo "delete this" > deleteme.html
+#1264012239
+rm deleteme.html 
+#1264012240
+ls
+#1264012285
+ls -lah
+#1264012332
+chmod 644 topflashnew.swf 
+#1264012504
+ls -lah
+#1264012515
+chmod 644 topflashmovie.swf 
+#1264013080
+chmod 644 topflashmovie.swf 
+#1264013082
+ls
+#1264013086
+rm topflashmovie.swf 
+#1264013090
+ls
+#1264013123
+chmod 644 topflashmovie.swf 
+#1264013983
+ls
+#1264014036
+chmod 644 craig.swf 
+#1264014160
+ls
+#1264014162
+
+#1264014166
+ls -lah --color
+#1264014171
+cd images/
+#1264014171
+ls
+#1264014181
+cd ..
+#1264014196
+ls -lah --color
+#1264014354
+cd images/
+#1264014356
+ls
+#1264014371
+mv workride.jpg workride.jpgBAK 
+#1264014391
+mv workrideBAK.jpg workride.jpg
+#1264014401
+mv workride.jpgBAK workride.jpg
+#1264014444
+cd ..
+#1264014444
+ls
+#1264014449
+ls -lah --color
+#1264014600
+cd ..
+#1264014600
+ls
+#1264014618
+man find
+#1264014645
+find -name flash_nav.php
+#1264014672
+find -name *.php
+#1264014680
+cd ...
+#1264014682
+cd ..
+#1264014683
+cd ..
+#1264014687
+find -name *.php
+#1264014720
+find -name flash_nav.php | grep "flash_nav"
+#1264014750
+find -name flash_nav.php | grep "flash"
+#1264014772
+ls
+#1264014784
+ipconfig
+#1264015380
+ls
+#1264015381
+cd ..
+#1264015385
+cd ~
+#1264015388
+cd public_html/
+#1264015389
+ls
+#1264015392
+vi config.inc.php 
+#1264015402
+ls
+#1264015404
+cd libraries/
+#1264015405
+ls
+#1264015410
+cd xml/
+#1264015410
+ls
+#1264015418
+vi xml_prehead.inc.php 
+#1264015432
+vi flash_nav.php 
+#1264100527
+ls
+#1264100529
+cd www/
+#1264100531
+ls
+#1264188087
+ls
+#1264188106
+cd ..
+#1264188148
+tar cvzf bicycle.tgz www/
+#1264188154
+ls -la
+#1264188171
+ls -lathr
+#1264188187
+tar cvzf bicycle.tgz public_html/
+#1264188195
+ls -lathr
+#1264188409
+cd www/
+#1264188411
+vi index.php 
+#1264188469
+ls -la
+#1264188474
+vi index.php 
+#1264201300
+exit
+#1264381013
+exec env ENV='' PROMPT_COMMAND='' PS1='$ ' PS2='' PS3='' /bin/sh
+#1264378736
+mysql
+#1264378750
+mysql -p
+#1264379808
+ls
+#1264379915
+tar xvzf shop.tgz 
+#1264379918
+ls
+#1264380100
+mysql -p thebicyc_shop < zendump-2.sql 
+#1264381109
+cwd
+#1264381318
+ls
+#1264381467
+cd shop
+#1264381468
+ls
+#1264381495
+ls -la
+#1264381507
+cd ..
+#1264381510
+ls -la
+#1264381555
+mv shop/ public_html/ -r
+#1264381559
+mv shop/ public_html/
+#1264381561
+ls -la
+#1264381566
+cd public_html/
+#1264381568
+ls -la
+#1264381584
+cd shop/
+#1264381585
+;s
+#1264381586
+ls
+#1264382078
+exit
+#1264430422
+ls
+#1264430430
+mv common_funcs.inc.php public_html/
+#1264430435
+mv navget.php public_html/
+#1264432887
+ls
+#1264432892
+cd public_html/
+#1264432892
+ls
+#1264432925
+vi botads_xml.php 
+#1264432945
+cp botads_xml.php shop/
+#1264432962
+cd shop/
+#1264432962
+ls
+#1264432965
+rm botads_xml.php 
+#1264432966
+cd ..
+#1264432967
+;s
+#1264432968
+ls
+#1264433026
+ls -lathr
+#1264433088
+cd media/
+#1264433089
+ls
+#1264433093
+cd ../images/
+#1264433093
+ls
+#1264433107
+cd ..
+#1264433130
+ls
+#1264433157
+cd admin2/
+#1264433158
+ls
+#1264433174
+cd ..
+#1264433175
+;s
+#1264433176
+ls
+#1264433411
+vi botads_xml.php 
+#1264433838
+cp botads_xml.php shop/
+#1264433854
+cp botads.swf shop/
+#1264434129
+cd shop/
+#1264434130
+ls
+#1264434135
+rm botads*
+#1264434136
+ls
+#1264434139
+cd ..
+#1264434757
+cd shop/images/
+#1264434759
+ls -lathr
+#1264434826
+cd ..
+#1264434829
+cd ..
+#1264434834
+ls -lathr
+#1264451606
+cd shop/
+#1264451607
+ls
+#1264451627
+cd admin
+#1264451627
+ls
+#1264451632
+cd includes/
+#1264451633
+ls
+#1264451646
+cd modules/
+#1264451647
+ls
+#1264451683
+cd ..
+#1264451684
+ls
+#1264451694
+cd ..
+#1264451694
+ls
+#1264451713
+cd includes/
+#1264451713
+ls
+#1264451733
+cd ..
+#1264451736
+ls
+#1264451743
+cd ..
+#1264451744
+ls
+#1264451748
+cd includes
+#1264451748
+ls
+#1264451756
+cd templates/
+#1264451757
+ls
+#1264451764
+cd template_default
+#1264451765
+ls
+#1264451773
+cd common/
+#1264451773
+ls
+#1264451781
+cd ..
+#1264451782
+cd ..
+#1264451784
+cd ..
+#1264451785
+cd ..
+#1264451786
+ls
+#1264451800
+cd admin
+#1264451801
+ls
+#1264451810
+cd includes/
+#1264451810
+ls
+#1264451827
+cd local/
+#1264451828
+ls
+#1264451834
+cd ../modules/
+#1264451835
+ls
+#1264451866
+cd document_general/
+#1264451868
+ls
+#1264451874
+cd ..
+#1264451875
+cd ..
+#1264451875
+;s
+#1264451876
+ls
+#1264451890
+vi header.php 
+#1264451915
+vi header_navigation.php 
+#1264451950
+vi header_navigation.php 
+#1264451961
+cd ..
+#1264451963
+cd ..
+#1264451966
+cd admin
+#1264451979
+find . -name "toole_dhtml.php"
+#1264451986
+find . -name "tools_dhtml.php"
+#1264451995
+cd includes/boxes/
+#1264451996
+ls
+#1264452009
+cp tools_dhtml.php tools_dhtml.php.bak
+#1264452011
+vi tools_dhtml.php
+#1264452069
+vi tools_dhtml.php
+#1264452112
+cd ..
+#1264452113
+ls
+#1264452118
+vi header_navigation.php 
+#1264454265
+exit
+#1265643917
+cd public_html/shop/
+#1265643918
+ls -la
+#1265643924
+chmod 777 images/
+#1265644670
+exit
+#1268921602
+exec env ENV='' PROMPT_COMMAND='' PS1='$ ' PS2='' PS3='' /bin/sh
+#1268920752
+ls
+#1268920754
+cd www/
+#1268920755
+ls
+#1268920770
+ls -la
+#1268921527
+cd admin2
+#1268921528
+ls
+#1268922187
+cd ..
+#1268922197
+grep "rentals" * -r
+#1268922469
+ls -la
+#1268924886
+vi .htaccess 
+#1268928084
+php --version
+#1268933562
+ls
+#1268933569
+vi .htaccess 
+#1268933613
+ls -la
+#1268939508
+exit
+#1269442382
+ls
+#1269442385
+cd www/
+#1269442385
+ls
+#1269442423
+ls -la
+#1269447159
+exit

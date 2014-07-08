@@ -1,0 +1,500 @@
+vim fprintf.c 
+vim fprintf1.c 
+ls
+cd 
+cd homework/
+ls
+vim likuan.c 
+gcc likuan.c 
+vim likuan.c +32
+gcc likuan.c 
+./a.out 
+vim stu.txt 
+ls
+cd ..
+ls
+cp -a homework/ homework1
+cd homework1/
+ls
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+vim stu.txt 
+gcc likuan.c 
+./a.out 
+
+./a.out 
+ls
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ls
+cd homework/
+ls
+vim likuan.c 
+vim stu.txt 
+cp stu1.txt stu.txt 
+gcc likuan.c 
+./a.out 
+vim stu.txt 
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+vim likuan.c 
+ls
+cd ..
+ls
+cd noteC
+ls
+cd file/
+ls
+cd fprintf/
+ls
+vim fprintf.c 
+vim fprintf1.c 
+ls
+cd 
+cd homework/
+ls
+vim likuan.c 
+gcc likuan.c 
+vim likuan.c +32
+gcc likuan.c 
+./a.out 
+vim stu.txt 
+ls
+cd ..
+ls
+cp -a homework/ homework1
+cd homework1/
+ls
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+vim stu.txt 
+gcc likuan.c 
+./a.out 
+
+./a.out 
+ls
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ls
+cd homework1/
+ls
+gcc likuan.c 
+./a.out 
+vim stu.txt 
+./a.out 
+ls
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+ls
+cp stu1.txt stu.txt 
+ls
+./a.out 
+vim stu.txt 
+ls
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+vim stu.txt 
+ls
+vim likuan.c 
+ls
+cd ..
+ls
+sudo apt-get install samba
+sudo apt-get install smbfs
+sudo apt-get install system-config-samba 
+sudo /etc/init.d/samba restart
+sudo vim /etc/samba/smb.conf 
+sudo /etc/init.d/samba restart
+ls
+cd /
+ls
+mkdir samba
+sudo mkdir samba
+ls
+chmod 777 samba/
+sudo chmod 777 samba/
+ls
+ifconfig 
+ls
+sudo passwd samba
+sudo passwd -a smb
+ls
+sudo useradd smb
+sudo passwd -a smb
+sudo passwd  smb
+ls
+sudo /etc/init.d/samba restart
+ls
+cd ..
+ls
+passwd -a smb 
+ls
+cd 
+ls
+smbpasswd -a smb 
+ls
+smbpasswd smb 
+ls
+adduser smb
+sudo adduser smb
+sudo smbpasswd smb
+sudo smbpasswd -a smb
+ls
+sudo /etc/init.d/samba restart
+sudo vim /etc/samba/smb.conf 
+ls
+sudo /etc/init.d/samba restart
+sudo vim /etc/samba/smb.conf 
+sudo /etc/init.d/samba restart
+sudo  apt-get install samba-client 
+sudo  apt-get install sambals
+ls
+cd /
+ls
+sudo /etc/init.d/samba restart
+ls
+cd homework1/
+ls
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+vim likuan.c ls
+ls
+cd ..
+ls
+cd homework
+ls
+./a.out 
+vim stu.txt 
+ls
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+vim stu.txt 
+gcc likuan.c 
+./a.out 
+vim stu.txt 
+ls
+cd ..
+ls
+cd homework
+ls
+./a.out 
+ls
+vim likuan.c 
+gcc likuan.c 
+./a.out 
+ls
+vim likuan.c 
+ls
+cd ..
+ls
+cp -a homework noteC
+cd noteC
+git add .
+git ci 
+git push
+ls
+rm homework1/
+rm homework1/ -rf
+ls
+vim node.c
+gcc node.c 
+gcc node.c +11
+vim node.c +11
+gcc node.c +11
+gcc node.c 
+vim node.c +11
+gcc node.c 
+vim node.c +28
+gcc node.c 
+./a.out 
+vim node.c +28
+gcc node.c 
+./a.out 
+vim node.c +28
+gcc node.c 
+./a.out 
+vim node.c +28
+gcc node.c 
+vim node.c +13
+gcc node.c 
+./a.out 
+vim node.c +13
+gcc node.c 
+./a.out 
+ls
+vim node.c +13
+gcc node.c 
+./a.out 
+vim node.c +13
+gcc node.c 
+./a.out 
+ls
+vim node.c +13
+gcc node.c 
+vim node.c +21
+gcc node.c 
+vim node.c +24
+gcc node.c 
+vim node.c +56
+gcc node.c 
+./a.out 
+ls
+vim node.c +56
+gcc node.c 
+./a.out 
+ls
+vim node.c 
+ls
+cp node.c node2.c
+ls
+mkdir node2
+ls
+cp node.c node2.c  node
+cp node.c  node
+cp node2.c  node2
+ls
+rm node
+ls
+cp node.c node2.c node2
+ls
+rm node.c node2.c 
+ls
+cd node2/
+ls
+vim node2.c 
+ls
+vim node.c 
+vim node2.c 
+vim test.c
+gcc test.c 
+vim test.c
+gcc test.c 
+vim test.c
+gcc test.c 
+vim test.c
+gcc test.c 
+vim test.c
+gcc test.c 
+vim test.c
+gcc test.c 
+ls
+vim node2.c 
+gcc node2.c 
+vim node2.c +18
+gcc node2.c 
+vim node2.c +57
+gcc node2.c 
+./a.out 
+vim node2.c +57
+gcc node2.c 
+./a.out 
+ls
+cd 
+ls
+sudo vim /boot/grub/grub.cfg 
+sudo reboot
+vd /dev
+
+ls
+sudo vim /boot/grub/grub.cfg 
+sudo reboot
+ls
+cd /dev/
+ls
+cd fb0
+ls
+vim fb0 
+ls
+man open
+man 2 open
+man  read
+man  write
+man 2  write
+ls
+./a.out 
+ls
+rm a.out 
+ls
+cd ..
+ls
+cd lk/
+ls
+mkdir check
+cd check/
+ls
+vim print.h
+:wq
+ls
+mv print.h main.h
+vim main.c
+ls
+vim main.h 
+gcc main.c -o main
+vim main.c +18
+gcc main.c 
+vim main.c +33
+gcc main.c
+vim main.c +18
+gcc main.c -o main
+./main main
+./main 
+chmod +x main
+./main main
+./main 
+chmod +x main
+ls -al
+./main
+gcc main.c 
+./a.out 
+ls
+vim main.h 
+:wq
+./a.out 
+sudo chmod 777 /dev/fb0
+./a.out 
+ls
+rm a.out 
+ls
+./main main
+ls
+ls -l /dev/fb0 main
+vim main.c
+vim main.h 
+vim main.c
+vim main.h 
+ls
+./main 
+ls
+vim main.c
+gcc main.c -o main
+vim main.c +37
+gcc main.c
+vim main.c +37
+gcc mai.c -o main
+gcc main.c -o main
+./main 
+ls
+./main 
+ls
+vim main.c
+gcc main.c -o main
+./main 
+vim main.c
+gcc main.c -o main
+./main 
+vim main.c
+gcc main.c -o main
+./main 
+vim main.c
+gcc main.c -o main
+./main 
+vim main.c
+gcc main.c -o main
+./main 
+vim main.c
+gcc main.c -o main
+./main 
+vim main.c
+gcc main.c -o main
+./main 
+vim main.c
+gcc main.c -o main
+./main 
+ls
+vim main.c 
+gcc main.c -o main
+./main 
+vim main.c 
+gcc main.c -o main
+./main 
+vim main.c 
+gcc main.c -o main
+./main 
+vim main.c 
+gcc main.c -o main
+./main 
+vim main.c 
+gcc main.c -o main
+./main 
+vim main.c 
+gcc main.c -o main
+./main 
+vim main.c 
+gcc main.c -o main
+./main 
+vim main.c 
+gcc main.c -o main
+vim main.c +44
+gcc main.c -o main
+./main 
+vim main.c +44
+gcc main.c -o main
+./main 
+vim main.c +44
+gcc main.c -o main
+./main 
+vim main.c +44
+gcc main.c -o main
+./main 
+vim main.c +44
+gcc main.c -o main
+./main 
+vim main.c +44
+gcc main.c -o main
+./main 
+vim main.c +44
+gcc main.c -o main
+./main 
+vim main.c +44
+gcc main.c -o main
+./main 
+vim main.c +44
+gcc main.c -o main
+./main 
+vim main.c +44
+gcc main.c -o main
+./main 
+vim main.c +44
+gcc main.c -o main
+./main 
+vim main.c +44
+gcc main.c -o main
+./main 
+vim main.c +44
+ls
+cd /
+ls
+cd /etc/
+ls
+cd init
+ls
+cd five_chess/
+ls
+make clean
+ls
+vim chessboard.c 
+make
+./main 

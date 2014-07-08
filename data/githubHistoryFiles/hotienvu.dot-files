@@ -1,0 +1,273 @@
+ls
+ls
+ls
+cd Pictures/
+ls
+exit
+ls
+python
+u
+pwd
+cd admin/
+vi
+cd /
+ls
+su
+sudo cat /etc/sudoers
+sudo cat /etc/sudoers
+sudo cat /etc/sudoers
+sudo tcsh
+sudo visudo
+su
+su
+service 
+service httpd start
+launchctl httpd start
+mysql
+mysql
+mysql
+tcsh
+ls
+ls .bashrc
+ls -a 
+cd ~
+pwd
+ls
+ls -a
+vi .bashrc
+bash
+vi .bashrc
+vi .bashrc
+bash
+vi .bashrc
+bash
+exit
+ls
+cd Downloads/
+ls
+port install mysql
+cd /Applications/
+ls
+cat Chess.app/
+cd Chess.app/
+ls
+cd Contents/
+ls
+u
+u
+pwd
+u
+cd ..
+port install mysql
+bash
+port install mysql
+sudo port install mysql
+mysql -u root -p
+mysql
+service httpd start
+servicese httpd start
+services httpd start
+service httpd start
+cd /usr/local/
+ls
+cd mysql
+ls
+u
+cd ..
+ls
+cd /Library/StartupItems/
+ls
+cd MySQLCOM/
+ls
+mysql
+exit
+/usr/local/mysql/bin/mysqladmin -u htvu password reptile
+sudo /usr/local/mysql/bin/mysqladmin -u htvu password reptile
+su
+mysql -u root
+/usr/local/mysql/bin/mysqladmin -u root
+/usr/local/mysql/bin/mysql -u root 
+/usr/local/mysql/bin/mysql -u root  -p
+whoami
+whatis 
+cd Downloads/
+tar -xvzf MySQL-python-1.2.3.tar.gz 
+cd MySQL-python-1.2.3
+ls
+vi site.cfg 
+vi site.cfg 
+vi site.cfg 
+pwd
+sudo python setup.py build
+ls
+vim site.cfg 
+sudo python setup.py build
+p
+python
+llvm-gcc
+bash
+pwd
+whoami
+ls
+sudo python setup.py build
+sudo python setup.py install
+vi ~/.bash_profile
+bash
+python
+mysql
+mysqladmin
+/usr/local/mysql
+/usr/local/mysql/bin/mysql
+/usr/local/mysql/bin/mysqladmin
+mysql
+mysql
+/usr/local/mysql/bin/mysql
+mysql
+/usr/local/mysql/bin/mysql
+mysql -u root -p
+/usr/local/mysql/bin/mysql u root -p
+/usr/local/mysql/bin/mysql -uu root -p
+/usr/local/mysql/bin/mysql -u root -p
+/usr/local/mysql/bin/mysql -u root -p
+ls
+cd /usr/local/bin/
+cd /usr/local/mysql/
+cd bin
+ls mysql_config 
+vi mysql_config 
+pwd
+python
+python
+vi ~/.bashrc
+vi ~/.bash_profile 
+export DYLD_LIBRARY_PATH=/usr/local/mysql/lib/
+p
+python
+sudo rm /usr/local/mysql
+visudo
+sudo visudo
+sudo sudo rm -rf /usr/local/mysql*
+sudo rm -rf /Library/StartupItems/MySQLCOM /Library/PreferencePanes/My*
+sudo rm -rf /Library/Receipts/mysql*
+sudo rm -rf /Library/Receipts/MySQL*
+sudo rm -rf /var/db/receipts/com.mysql.*
+vim /etc/hostconfig
+/usr/local/mysql/bin/mysql
+/usr/local/mysql/bin/mysql
+ls
+python
+pwd
+cd Downloads/MySQL-python-1.2.3
+ls
+python setup.py build
+sudo python setup.py build
+sudo python setup.py install
+python
+rm -rf /Library/Python/2.7/site-packages/MySQL_python-1.2.3-py2.7-macosx-10.7-intel.egg -rf
+sudo rm -rf /Library/Python/2.7/site-packages/MySQL_python-1.2.3-py2.7-macosx-10.7-intel.egg 
+ls
+ls /usr/local/
+ll /usr/local/mysql/bin/mysql
+ls -l  /usr/local/mysql/bin/mysql
+ls
+vi site.cfg 
+python setup.py build
+sudo python setup.py build
+sudo python setup.py install
+export DYLD_LIBRARY_PATH=/usr/local/mysql/lib/
+python
+sudo rm -rf /Library/Python/2.7/site-packages/MySQL_python-1.2.3-py2.7-macosx-10.7-intel.egg 
+sudo ARCHFLAGS='-arch x86_64' python setup.py build
+sudo ARCHFLAGS='-arch x86_64' python setup.py install
+export DYLD_LIBRARY_PATH=/usr/local/mysql/lib/
+python
+bash
+python
+vi .bashrc
+exit
+python
+python
+python
+echo $DYLD_LIBRARY_PATH
+echo DYLD_LIBRARY_PATH
+vi ~/.bashrc
+vi ~/.bash_profile
+cd Downloads/
+tar xzvf Django-1.4.tar.gz 
+cd Django-1.4
+ls
+sudo python setup.py install
+ls
+mkdir workspace
+git
+mv ~/Downloads/rc.tar.gz ~/
+cd ~
+ls
+tar -vxz rc.tar.gz 
+tar --help
+tar -xf rc.tar.gz 
+ls
+mv bash_profile .bash_profile 
+mv vimrc .vimrc
+mv bashrc .bashrc
+mv tcshrc .tcshrc
+ls
+which python
+p
+python
+ls /Applications/djangostack-1.4-1/python/lib/python2.7/site-packages
+echo $PYTHONPATH
+pwd
+cd ~/Downloads/
+ls
+cd google-api-python-client-1.0beta8
+ls
+p setup.py install
+python setup.py install
+sudo python setup.py install
+python
+easy_install ssl
+mysql -u root -p
+which mysql
+ls /opt/bitnami/mysql/tmp/mysql.sock 
+ln -s /Applications/djangostack-1.4-1/mysql/tmp/mysql.sock /tmp
+mysql -u root -p 
+cd ~/workspace/projects/evertrack
+ls
+python manage.py syncdb
+ls
+pwd
+cd /Applications/djangostack-1.4-1/
+ls
+ls calendar
+ln -h
+pwd
+sudo ln -s /Applications/djangostack-1.4-1/mysql/tmp/mysql.sock /tmp
+cd ~/workspace/projects/evertrack
+ls
+p manage.py syncdb
+python manage.py syncdb
+ls
+sudo su
+sudo ./ctlscript.sh restart all
+sudo ./ctlscript.sh restart
+exit
+ls
+cd workspace/
+ls
+cd projects/
+ls
+tmux
+cl
+clear
+exit
+ls
+which python
+python
+ls /Users/admin/workspace/projects/sobu/lib/python2.7/site-packages/
+python
+ls
+exit
+tcsh 
+exit
+exi

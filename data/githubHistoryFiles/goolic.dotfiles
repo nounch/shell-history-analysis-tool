@@ -1,0 +1,48 @@
+: 1279569815:0;ls -la
+: 1279569832:0;ls
+: 1279569834:0;ls -la
+: 1279569953:0;ls -la -G
+: 1279570315:0;ssh piada.local
+: 1279570801:0;ssh anvilserv.local
+: 1279570823:0;ssh solidarp@anvilserv.local
+: 1279571028:0;ssh solidarp@anvil.local
+: 1279571359:0;
+: 1279571042:0;ssh solidarp@anvilserv.local
+: 1279571572:0;~/.zshrc
+: 1279571576:0;sudo ~/.zshrc
+: 1279571606:0;ls -la | zsh
+: 1279571617:0;ls -la | grep pzsh
+: 1279571623:0;ls -la | grep zsh
+: 1279571645:0;chmod +x .zshrc
+: 1279571650:0;~/.zshrc
+: 1279571657:0;ls -la | grep zsh
+: 1279571680:0;nano .zshrc
+: 1279571720:0;wget http://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
+: 1279571728:0;login
+: 1279571782:0;~/.zshrc
+: 1279571801:0;nano .oh-my-zsh/oh-my-zsh.sh
+: 1279571823:0;.zshrc
+: 1279571839:0;ls
+: 1279571864:0;~/.zshrc
+: 1279572085:0;nano ~/.zshrc
+: 1279572134:0;la $ZSH/plugins
+: 1279572175:0;ls -la $ZSH/plugins
+: 1279572200:0;cat $ZSH/plugins/osx.plugin.zsh
+: 1279572218:0;cat $ZSH/plugins/textmate.plugin.zsh
+: 1279572293:0;cat $ZSH/plugins/lighthouse.plugin.zsh
+: 1279572315:0;cat $ZSH/plugins/mysql-macports.plugin.zsh
+: 1279572337:0;cat $ZSH/plugins/brew.plugin.zsh
+: 1279572503:0;nano $ZSH/themes/maran.zsh-theme
+: 1279572583:0;nano ~/.zsh
+: 1279572592:0;nano ~/.zshrc
+: 1279581730:0;ssh piada.local
+: 1279586897:0;ls
+: 1279586907:0;mkdir .dotfiles
+: 1279586911:0;cd .dotfiles
+: 1279586916:0;git init
+: 1279586928:0;nano README
+: 1279586983:0;git add README
+: 1279587010:0;git commit -m 'Começo'
+: 1279587068:0;cd ..
+: 1279587070:0;ls
+: 1279587113:0;cp .* .dotfiles

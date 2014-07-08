@@ -1,0 +1,20 @@
+cd $HOME
+git add .
+git commit -a 'modified code'
+git commit 'modified code'
+git commit . 'modified code'
+git commit -m 'modified code'
+gitk
+git push origin master
+gitk
+git commit -a 'ie compatibilty code'
+git add .
+git commit -m 'ie compatibilty code'
+push origin head
+git push origin head
+git status
+git add/rm
+git checkout .
+git add .
+git commit -m 'title selection'
+exit

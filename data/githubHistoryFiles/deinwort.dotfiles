@@ -1,0 +1,185 @@
+mkuser
+adduser
+adduser kato
+passwd kato
+exit
+addusr
+adduser
+adduser goto
+addpwd goto 
+pwd goto 
+passwrd goto
+password goto
+passwd goto saboten28tanuki
+passwd goto
+usermod -G wheel goto
+su - goto
+visudo
+su -goto 
+su - goto 
+visudo
+vigr
+passwd koyama
+cd /var/www
+lll
+ll
+ll html/
+su - apache
+cd sta
+ll html/stage/
+ll
+cd html/stage/
+ll
+ll
+php -v
+netstat -ant
+netstat -lpt
+cd /etc/ssh/
+ll
+cp -a sshd_config{,.20120816*
+cp -a sshd_config{,.20120816}
+ll
+vi sshd_config
+vim sshd_config
+ll /home/
+useradd koyama
+ll /home/
+ll /home/goto/
+ll /home/goto/public_html/
+ll /home/goto/public_html/test.gi
+ll /home/goto/public_html/test.git/
+ll /home/goto/
+ll /home/goto/test/
+ll /home/goto/mydir/
+ll /home/goto/mydir/test
+cat /home/goto/mydir/test/test.txt 
+ll -a /home/goto/
+ll -a /home/goto/.pki/
+ll -a /home/goto/.pki/nssdb/
+cat /home/goto/.bashrc 
+cat /home/goto/.bash_profile 
+cat /home/goto/.viminfo 
+su - koyama
+service sshd reload
+cd /var/www/html/
+lll
+ll
+chgrp -R g+sw ./*
+ll
+chmod -R g+sw ./*
+ll
+chgrp wheel -R ./
+ll
+cd /etc/httpd/conf
+ll
+vim httpd.conf 
+cp -a httpd.conf{,.20120816}
+ll
+vim httpd.conf
+service httpd configtest
+service httpd reload
+yum list git*
+yum install gitosis
+yum install screen
+sudo -i -u gitosis
+sudo cat /var/lib/gitosis/.ssh/id_rsa.pub |sudo -H -u gitosis gitosis-init
+sudo -i -u gitosis
+diff /var/lib/gitosis/admin/gitosis-admin/keydir/koyama\@fixer.co.jp /home/koyama/.ssh/authorized_keys 
+sudo -i -u gitosis
+passwd gitosis
+ssh gitosis@localhost
+su - gitosis
+passwd --help
+passwd -d gitosis
+vipw
+vi /etc/shadow
+tail -f /var/log/-----BEGIN RSA PRIVATE KEY-----
+Proc-Type: 4,ENCRYPTED
+DEK-Info: AES-128-CBC,612860B8426D7A8476D16F0671A7FAF3
+IdPA0rxLw8aQUWKAE0irE7pNHmAJfNUItq2uHqqFEaGF9h+xYZogeeyc5DlHQvam
+QYUJJjRYuEiRqq2n41i7EtxIabEvy2u0gXuLrnWG061UOw/dJmmnkapUwxUGM/D/
+Eh4SkmaJkJCjUJmWSHgHU78ASfwmP7d0tT7o8ezDa6oZDmUyQ19TZ867cv3O29jj
+rEDi+RKVe7IXbNDJR+SKeviG0z9LvRoYguaRWhez6TehDoDDWcSyF33dWO6HldJb
+WxX5NjkzrTs/NCZupiDqC2lQvflDSRoUxsRH4xMJv+rS0vPbEFnWIeUxjiIVXMVS
+DSoUB7C4BdB0bhpsbiFeTWemzFbskmA61H1UewGkUHXxzZWoSQxE2/69ywKPDn2M
+7HUNGTSx5zcjjlN6KvKVu3cqyuoejwkp/VB4Eu9MKuZTlsdOnLEk+aSRAL/iLYR2
+CmHOC6CNM2MXd6bcWXDIMdXWi7tkO6XAGWtVJJAlxHRHNOI5AFtRZPNjVSzF99OB
+93R6xDCm9pb2/ogSlU3gQeSs1yKYKcsuaNgUMwWt9Y1AKxXCaz7JDuGYz5nTLq3Y
+9oOtu57JI7YotNR8C1q77ti6KdS1ne3HfsTkqpxiM1C92OpyUzgLGrHzlFUE4Jyy
+umh0x02HxDaVlWSal/YXQDebqP0q8KzTGFPk/Tr1nbfcRHeQ7DCsw8vZ0jFrugBo
+HMiQb1PPKWSKE45glzfY0XiCeP2YJVU8Azfz6lD4jBuonxYpj2rhWlKxVtiT8UyF
+CtpTwF4ae7/seGo2l97JD+URSl2GJSxBEnu+jyEU/ZN0NnkT5RWk6otHolWgi6EA
+LkDj/Ogo7BlBnzZxxhVSacLJWjk28/03XPlC6azTGio2yW/40zHJV/gQh3FAmB3b
+9XSzNE+G/kFw1IXTOFkTRW3lduzZV5+27I5HXdkSsNh22Xl1zBJq0r8tQVj9pynU
+rs3MsB9tb5V80cNI6mNrA7/6EL4EW7VbIRp37HLgV9YjwkuINAgQ3WkklLTjm4Xy
+EUAZNS1HAk0X0L1ERq8fKvsQqHc0ivBVT28KIuGWgTvxIsaNN3rS5GZrR6bkRSE4
+XrSP+8fUP07irmoLKYvT+740AEFWRdQgSzs+/9AtH/P5LLGvZcgUFiWEdykzMXxg
+Oax9pz2T0q7764UFhmAETnMGocQ7XpMm2Jk79Aydt9eDvLk3WOEg6grxmVqUXcwo
+TyFFvv0qjzfZz8fc4icLqZgreFGj07GZLOGdDy/otyOzVxT61ryhthfyKXgVOBIr
+hY7/LRzx+QPB46B8IoCn+H8ESnIsr6/ZjPBoGuJKvy8FXFV4DRliZhGuNzlARnhb
+Dt0OyxyB8tNwT+wD6Bid95F5WrgjmVY43Xz+FiitIe6c9A565wzJzFrA/xBl6INT
+lUCAxoWFQcVdgczmkrrMAbd7IliaPFSNGxo1d46BGCTz+h+ox5vmnDIZe4bSyx1f
+QbEyPyigCnbHXBq3py9Vrzr3g1Ic+VNyjH6FcHbT/Kc4hlUTc1mbU+7Q+Cb2Y41K
+RItzXVYYS4RNiI3dcoS8jmTdhI2N5AAdq0jrs3C+uTkpB8sV3Oi3t7w9PubT2fN8
+-----END RSA PRIVATE KEY-----
+cd /var/log
+ll
+tail -f messages 
+tail -f secure 
+su - gitosis
+ll /var/lib/gitosis/
+ll /var/lib/gitosis/admin/gitosis-admin/
+ll /var/lib/gitosis/admin/gitosis-admin/keydir/
+su - gitosis
+cd /etc/httpd/conf
+ll
+vi httpd.conf
+vim httpd.conf
+service httpd configtest
+service httpd reload
+yum list php*
+yum list php* |grep pdo
+yum install php-pdo
+service httpd reload
+yum list php* |grep mysql
+yum install php-mysql
+service httpd reload
+cd /var/www/html
+ll
+mv stage{,.20120827*
+mv stage{,.20120827}
+ll
+mkdir stage
+ll
+chown apache.wheel stage
+ll
+chmod g+sw stage
+ll
+cd /var/lib/gitosis/
+ll
+ls -la
+ls
+chown -R kato:wheel public
+ls -la
+ls
+cd
+ls
+cd ..
+ls
+cd var/www
+ls
+cd html
+ls
+cd /
+ls
+cd /etc/httpd/conf/
+ls
+vi httpd.conf
+vim /etc/ssh/sshd_config
+yum install zsh
+yum install tmux
+yum install vim
+mv .vimrc /root/
+mv .zshrc /root/
+mv .vim /root/
+zsh

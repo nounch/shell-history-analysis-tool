@@ -1,0 +1,500 @@
+startx
+startx
+sudo lcpci
+sudo lspci
+su -
+sudo vim /etc/init.d/firewall 
+sudo /etc/init.d/firewall init
+sudo iptables -n -L
+sudo iptables -h
+sudo iptables -n -S
+sudo iptables -S
+sudo /etc/init.d/firewall init
+sudo iptables -S
+sudo iptables -n -L
+ping 192.168.0.2
+ossxmix --help
+pkill ossxmix
+ossxmix -b
+vim .fluxbox/startup 
+su -
+mc
+mc
+mc
+mc
+pdf2ps tmp/print.pdf 
+mc
+su -
+ps2book -Pdisplay file.ps  # show result in gv
+pseix ghost
+eix ghost
+eix pstools
+eix pstool
+eix psutils
+ps2book -Pdisplay file.ps  # show result in gv
+myps2book -Pdisplay file.ps  # show result in gv
+eix ^gv
+myps2book -Pdisplay file.ps  # show result in gv
+myps2book -Pdisplay print.ps 
+pdf2ps print.pdf 
+myps2book -Pdisplay print.ps 
+myps2book -f1.0 print.ps 
+myps2book -Pdisplay print.ps 
+myps2book -F0.87 print.ps 
+myps2book -Pdisplay print.ps 
+pdf2ps print.pdf 
+myps2book -Pdisplay print.ps 
+okular print.pdf 
+myps2book -Pdisplay print.ps 
+myps2book -Pdisplay -p a4 print.ps 
+myps2book -m a4 print.ps 
+myps2book -f 0.1 print.ps 
+myps2book -Pdisplay print.ps 
+myps2book -Pdisplay -p a4 print.ps 
+myps2book -F0.87 print.ps 
+myps2book -Pdisplay print.ps 
+myps2book -Pdisplay -p a4 print.ps 
+myps2book -m A4 print.ps 
+myps2book -p a4 -m A4 print.ps 
+myps2book -Pdisplay print.ps 
+myps2book -Pdisplay -p a4 print.ps 
+myps2book -Pdisplay -p a4 print.ps 
+mkdir bin
+vim bin/myps2book
+ls
+gv print_book.ps 
+gv print.pdf 
+okular print.pdf 
+gv print.ps 
+psbook print.ps print1.ps
+gv print1.ps 
+psnup -l -pa4 -2 -s.7 print1.ps > print2.ps
+gv print2.ps 
+pstops "2:0(1in,0in)" print2.ps > print3.ps
+pstops "2:-1(1in,0in)" print2.ps > print4.ps
+lpr print4.ps
+rm print*
+cd
+
+vim bin/mypsbook
+vim bin/mypsbook 
+vim info.txt
+df -sh
+df -s -h
+du -sh
+du -sh
+r
+r
+vim info.txt
+vlc ./
+vim info.txt
+vim info.txt
+~ cd "`printf "%b" '\0057home\0057serg\0057data\0057torrent\0057tmp\0057Антонов\0040Юрий'`"
+vim info.txt
+mc
+mc
+mc
+mc
+o.txt
+mc
+mc
+mc
+mc
+su -
+vim info.txt
+ossplay 1172.flac 
+q
+df
+fg
+q
+pgrep mpg123
+pkill mpg123
+mc
+O
+mc
+mc
+vlc Антонов\ Юрий\ -\ Запись\ 1975-1985.wv 
+mc
+mc
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+ps aux
+pgrep mpg123
+pkill mpg123
+libreoffice
+cat /var/log/messages 
+sudo cat /var/log/messages 
+sudo cat /var/log/messages 
+sudo tail /var/log/messages 
+sudo pgrep telnet
+sudo pgre telnet
+sudo pkill telnet
+startx
+aria2c --help=#bittorrent |grep rpc
+aria2c --help |grep rpc
+aria2c --help |grep -i rpc
+aria2c --help=#bittorrent |grep -i rpc
+aria2c --help=#rpc
+aria2c --help=#bittorrent |grep 6
+eix rpc -c
+aria2c --help=#bittorrent
+aria2c --enable-dht6=false \[rutracker.org\].t280833.torrent 
+aria2c --enable-rpc \[rutracker.org\].t280833.torrent 
+aria2c  \[rutracker.org\].t280833.torrent 
+mc
+su -
+sudo iptables -L -n
+startx
+man smb.conf
+man smb.conf
+man smb.conf
+mc
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt 
+vim info.txt 
+vim info.txt 
+vim info.txt 
+vim info.txt 
+vim info.txt 
+vim info.txt 
+ps axl
+sudo vim /etc/sysctl.conf 
+mc
+sudo vim /etc/sysctl.conf 
+sudo vim /etc/sysctl.conf 
+sudo vim /etc/default/grub 
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+ls
+vim info.txt
+mc
+mc
+mc
+eix samba
+euses -i aio
+euse -i aio
+eix samba
+echo "net-fs/samba -aio -winbind swat" >> /etc/portage/package.use 
+echo "net-fs/samba -aio -winbind swat" >> /etc/portage/package.use su -
+su -
+mc
+su -
+mc
+mc
+envconv info.txt 
+enconv info.txt 
+mc
+mc
+ьс
+mc
+mc
+df
+cd ..
+cd -
+ls
+rm mc-root/
+rm -R mc-root/
+vimdiff myps2book mypsbook 
+mc
+f
+pkill mpg123
+vim 
+vim 
+vim
+vim viewtopic.php.htm 
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+vim info.txt
+su -
+enconv info.txt 
+vim viewtopic.php.htm 
+vim viewtopic.php.htm 
+enconv viewtopic.php.htm 
+viewtopic.php.htm 
+help read
+mc
+pdftops --help
+pdf2ps --help
+pdf2ps print.pdf 
+pdftops print.pdf 
+./mypsbook ../tmp/print.ps 
+./mypsbook ../tmp/print.ps 
+./mypsbook ../tmp/print.ps 
+./psbook ../tmp/print.ps 
+psbook print.ps > 1.ps
+okular 1.ps 
+psnup -l -pa4 -2 1.ps >2.ps
+pstops "2:0(1in,0in)" 2.ps > 3.ps
+pstops "2:-1(1in,0in)" 2.ps > 4.ps
+psselect -o 2.ps 3.ps
+psselect -e 2.ps 4.ps
+./mypsbook ../tmp/print.ps 
+psresize -pa4 ../tmp/print.ps | psbook | psnup -l -pa4 -2 | psselect -o | lpr
+cat /etc/papersize
+| psbook ../tmp/print.ps | psnup -l -2 | psselect -o > 1.ps
+psbook ../tmp/print.ps | psnup -l -2 | psselect -o > 1.ps
+okular 1.ps 
+lpr 1.pssu -
+Gbpltw127
+su -
+lpr 1.ps
+psbook ../tmp/print.ps | psnup -l -2 | psselect -e |lpr
+grep PATH ./*
+sudo vim 00basic 
+echo $PATH
+sudo vim 00basic 
+echo $PATH
+grep PATH /etc/*
+sudo vim /etc/profile
+sudo vim /etc/profile
+sudo vim /etc/profile.env 
+sudo vim /etc/profile
+sudo env-update
+sudo source /etc/profile
+sudo . /etc/profile
+sudo source /etc/profile
+su -
+echo $PATH
+su -
+mc
+sudo lspci
+mc
+mc
+mc
+mc
+echo $PATH
+source /etc/profile
+echo $PATH
+sudo lsmod |grep oss
+mc
+sudo lsusb
+mc
+cat /proc/bus/usb/devices
+cat /proc/bus/usb/devices |grep -i audio
+cat /proc/bus/usb/devices |grep -in audio
+cat /proc/bus/usb/devices |grep -in 
+cat /proc/bus/usb/devices |grep -in -b10 audio
+cat /proc/bus/usb/devices |grep -in -b20 audio
+cat /proc/bus/usb/devices |grep -in -b2 audio
+cat /proc/bus/usb/devices |grep -in -b7 audio
+cat /proc/bus/usb/devices |grep -in -b8 audio
+lsusb |grep -in -b8 audio
+lsusb |grep -i audio
+sudo lsusb |grep -i audio
+sudo lsusb -v |grep -i audio
+sudo lsusb -v |grep -in audio
+sudo lsusb -v |grep -inb10 audio
+sudo lsusb -v |grep -inb15 audio
+sudo lsusb -v > ~/tmp/lsusb
+vim ~/tmp/lsusb
+rm ~/tmp/lsusb
+cd
+ossinfo -v3
+sudo cat /var/log/rc.log 
+pgrep skype
+pkill skype
+pkill skype
+pkill skype
+pkill skype
+pgrep skype
+pkill -9 skype
+pgrep skype
+ossinfo 
+mc
+pkill -9 skype
+pkill -9 skype
+pgrep skype
+ossrecord -d /dev/oss/usb04f2a133-1/pcmin0 |aplay
+ossrecord -d /dev/oss/usb04f2a133-1/pcmin0 |ossplay 
+ossrecord -d /dev/oss/usb04f2a133-1/pcmin0 -|ossplay 
+ossrecord -d /dev/oss/usb04f2a133-1/pcmin0 -|ossplay -
+ossrecord -d /dev/oss/usb04f2a133-0/mix0 -|ossplay -
+ossrecord -d /dev/oss/usb04f2a133-1/pcmin0 -|ossplay -
+ossrecord -d /dev/oss/usb04f2a133-1/pcmin0 -|ossplay -
+ossrecord -|ossplay -
+ossrecord -d /dev/oss/usb04f2a133-1/pcmin0 -|ossplay -
+ossrecord -d /dev/oss/usb04f2a133-1/pcmin0 -|ossplay -
+ossinfo 
+ossrecord -d3 -|ossplay -
+ossrecord -d4 -|ossplay -
+ossrecord -d2 -|ossplay -
+ossrecord -d1 -|ossplay -
+ossrecord -d0 -|ossplay -
+ossrecord -d4 -|ossplay -
+sudo vim /etc/oss/oss_usb.conf 
+sudo rm /etc/oss/oss_usb.conf 
+su -
+fbpanel >/dev/null 2>&1
+fbpanel >/dev/null 2>&1 &
+ossinfo -v3
+ossmix jack.fp-pink.mode input
+ossmix jack.pink.mode input
+ossmix
+ossmix --help
+ossmix --v2
+ossmix -v2
+ossmix -D2
+ossmix -d2
+ossmix -d5
+ossmix -d1
+ossmix -d1 rec.vol 25
+ossmix -d1 rec.vol 25.0
+ossmix -d1 rec.vol 25.0
+eix vmix
+eix -S vmix
+eix -S oss
+eix -S oss -I
+eix oss -I
+su -
+ьс
+mc
+vim info.txt
+ами
+видения
+жн 02 часть
+в армянском образе
+сии Приходько "Мамо" в исполнении ребят
+вание преступника
+адцев!
+Имиджмейкер Ленина
+ть
+ле
+ли праздновать на 2 месяца раньше
+лень президента не обидит
+Европу
+ро
+он Кинг предложил контракт братьям Кличко
+зидента 5 ноября
+ократа
+медведей
+ния Сергея Светлакова
+оссией
+ону сломали ножку от рояля
+нный курорт депутата
+вал на Олимпиаде
+енят шерифы
+сные страны
+я 22 марта
+танцы ребят под волынку
+ко нет?
+иков ГЛОНАСС
+о синичку
+ая сценка
+Мартиросяна и Грановской (Louis Armstrong - Dream a Little Dream of Me)
+ь налоги для миллионеров
+уске:
+Три богатыря
+ка
+кризиса
+du -sh
+df
+df -Th
+tar xpf GeoIP.tar 
+mc
+su -
+ды -1
+ls -1
+ls -l
+ls -l
+pkill mpg123
+sudo vim /usr/local/sbin/myupdate-world
+su -
+mc
+mc
+mc
+mc
+mc
+ыг -
+Пиздец127
+su -
+libreoffice download/askomed-zay.odt 
+sudo rc-update -u
+vim .fluxbox/startup 
+eix unclutter
+sudo emerge -av x11-misc/unclutter
+echo $SHELL
+eix zsh
+su -
+mc
+help if
+help for
+for i in *.flv ; do x264 -o ${i.%.*}.mp4 ${i} ; done
+help :
+curl localhost:8000
+curl localhost:8000
+help !
+pinfo !
+pinfo \!
+man !
+help read
+ssh @serg
+ssh @serg2
+ssh serg2
+eix xsel\
+eix xsel
+eix "^x" -cI
+eix "^x(set)"
+eix "^x(set|clip)"
+eix "^x(set|clip)" -cI
+eix "^x(sel|clip)" -cI
+eix "^x(sel|clip)" -c
+dir
+dir > xclip
+xclip -o
+dir | xclip
+xclip -o
+eix xsel
+eix xclip
+sudo emerge -v xsel
+mc
+ssh serg2
+help for

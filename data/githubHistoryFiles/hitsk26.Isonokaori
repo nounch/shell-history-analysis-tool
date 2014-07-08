@@ -1,0 +1,500 @@
+make clean all
+make all
+make all
+make all
+make all
+make all
+make all
+make clean all
+make clean
+git add --all
+git status
+git commit -m 'modified'
+git push -u origin master
+make all
+./rxeflash.sh 
+cd /cygdrive/c/
+cd cygwin/
+cd nxtOSEK/
+cd samples_c
+ls
+cd Runner/
+ls
+cd Sample/
+ls
+cd Sample09_5
+ls
+make all
+./rxeflash.sh 
+make all
+make all
+cd
+cd Sprint#2
+s
+ls
+cd logtrace
+ls
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+cd ../logtrace_normal/
+ls
+make all
+make all
+make clean
+make all
+make all
+./rxeflash.sh 
+make all
+make clean
+make all
+cd ../../Sprint
+ls
+cd ../../Sprint #1
+cd ../../Sprint\#1
+cd 
+ls
+git add --all
+git status
+git commit -m 'name modified'
+git push -u origin master
+cd Sprint#1
+ls
+cd dansakenchi/
+ls
+cd shockcheck/
+ls
+cd logtrace\ from\ Niimura/
+ls
+make all
+make all
+make all
+make all
+make clean
+make all
+make all
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make clean
+git add --all
+git commit -m 'modified'
+git push -u origin master
+cd ../../../
+ls
+cd ../Sprint#2
+ls
+cd logtrace
+ls
+./rxeflash.sh
+make al
+make all
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make clean all
+./rxeflash.sh 
+make clean all
+make clean all
+make clean all
+./rxeflash.sh 
+make clean all
+make all
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+make all
+./rxeflash.sh 
+./rxeflash.sh 
+./rxeflash.sh 
+cd ../../
+git add --all
+git commit -m 'add'
+git push -u origin master
+cd Sprint#2
+ls
+cd logtrace
+ls
+make all
+./rxe
+./rxeflash.sh 
+make clean
+cd ../
+ls
+git add --all
+git commit -m 'add'
+git push -u origin master
+git pull
+git pull
+git add --all
+git commit -m 'add'
+git push -u origin master
+ls
+git pull
+cd Sprint#3
+ls
+cd tyreal/
+ls
+cd ../
+ls
+cd ..
+cd ../
+ls
+cd Isonokaori/
+ls
+cd Sprint#2
+ls
+cd logtrace
+ls
+make all
+make all
+make clean
+make all
+cd Sprint#2
+ls
+cd logtrace
+ls
+make clean
+make all
+cd Sprint#2
+ls
+cd logtrace
+ls
+make clean
+make all
+make all
+cd ...
+cd ../
+ls
+cd ../
+ls
+cd ../
+ls
+cd ../
+ls
+cd cygwin/
+ls
+cd nxtOSEK/
+ls
+cd MyProject/
+ls
+cd test
+ls
+make clean
+cd ..
+ls
+cd e-konbu
+ls
+make all
+make clean
+ls
+cd ..
+ls
+git pull
+cd logtrace/
+ls
+make clean
+make all
+cd /cygdrive/c/cygwin/nxtOSEK/ecrobot/../toppers_osek/sg
+ls
+cd /cygdrive
+ls
+cd c
+ls
+cd cygwin/
+ls
+cd nxtOSEK/
+ls
+cd MyProject/
+ls
+cd e-konbu/
+ls
+make all
+make clean
+ls
+cd /cygdrive/c/Users/N_MURA/git/e-konbu/logtrace/
+make all
+make clean
+cd ../
+ls
+cd Sprint#2
+ls
+cd logtrace6
+ls
+make clean
+cd ../
+ls
+cd ../
+l
+ls
+cd ../
+ls
+cd Isonokaori/
+ls
+cd logtrace/
+ls
+make clean
+make all
+make clean
+ls
+cd /cygdrive/c/cygwin/
+ls
+cd nxtOSEK/
+ls
+cd MyProject/
+ls
+cd e-konbu/
+ls
+cd ../../
+cd MyProject/
+ls
+cd e-konbu/
+ls
+cd ../../cygwin/nxtOSEK/
+cd ../../../../cygwin/nxtOSEK/
+cd ../
+ls
+cd ../
+ls
+cd Users/N_MURA/git
+ls
+cd Isonokaori/
+ls
+cd logtrace/
+ls
+make all
+make all
+cd /cygdrive/c/cygwin/nxtOSEK/MyProject/e-konbu/
+cd ../..
+ls
+cd ../e-konbu/
+ls
+git pull
+ls
+cd Sprint
+cd Sprint3
+ls
+ls
+cd maimaiTest/
+ls
+cd ...
+cd ../
+ls
+cd ../
+ls
+git pull
+l
+ls
+cd Sprint
+ls
+cd Sprint3
+ls
+cd Maimai/
+ls
+cd Maimai/
+ls
+ls
+cd logtrace/
+l
+ls
+cd 
+cd ../
+ls
+cd e-konbu
+ls
+cd logtrace/
+ls
+touch README
+git add --all
+git commit -m 'Nmura add'
+git push -u origin master
+git pull
+git push -u origin master
+cd ../
+ls
+ls
+cd logtrace
+ls
+make all
+ls
+cd ../
+git pull
+cd e-konbu/
+ls
+git pull
+ls
+cd ../
+ls
+cd Isonokaori/
+ls
+git pull
+cd ../e-konbu/
+ls
+cd C:/cygwin/nexttool
+./NeXTTool.exe /COM=usb -firmware=lms_arm_nbcnxc_107.rfw
+./NeXTTool.exe /COM=usb -firmware=lms_arm_nbcnxc_107.rfw
+./NeXTTool.exe /COM=usb -firmware=lms_arm_nbcnxc_107.rfw
+cd ../e-konbu
+ls
+git add --all
+git pull
+git commit -m 'logtrace add'
+git push -u origin master
+ls
+cd ../
+ls
+cd e-konbu/
+ls
+git pull
+rmdir tomoyuki/
+rm -a tomoyuki/
+cd tomoyuki/
+ls
+rm README 
+cd ../
+rmdir tomoyuki/
+ls
+git add --all
+git commit -m 'delete'
+git status
+git push -u origin master
+ls
+mv Sprint #1
+cd Sprint #1
+ls
+ls -l
+git add --all
+git commit -m 'space deleted'
+git push -u origin master
+git status
+ls]ls
+ls
+cd Sprint3
+ls
+cd Maimai/
+ls
+cd Maimai/
+ls
+cd ../
+ls
+cd ../
+ls
+cd ../
+ls
+cd ../
+ls
+cd workplace/
+ls
+cd Maimai/
+ls
+make all
+./rxeflash.sh 
+cd ../
+ls
+cd ../
+ls
+cd e-konbu/
+ls
+cd logtrace/
+ls
+make all
+make all
+make clean
+make all
+./rxeflash.sh 
+make clean all
+./rxeflash.sh 
+cd ../e-konbu/
+ls
+git pull
+git add --all
+git commit -m 'add'
+git pull
+git push -u origin master
+git pull
+git add --all
+git pull
+git commit -m 'merge'
+git status
+git push -u origin master
+git pull

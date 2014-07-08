@@ -1,0 +1,3019 @@
+vi .zshrc 
+vi .zshrc 
+source .zshrc
+ls
+vi .zshrc 
+source .zshrc
+ls
+cd Do
+cd Documents
+ls
+vi .zshrc
+ls
+cd ..
+ls
+vi .zshrc
+source .zshrc
+ls
+source .zshrc
+ls
+vi .zsh_history
+vi .zshrc
+sudo apt-get install vim 
+sudo apt-get install git-core
+source .zshrc
+vi .zshrc
+source .zshrc
+\
+source
+ls
+vi .zshrc
+source .zshrc
+vi .zshrc
+autoload -U compinit
+compint
+compinit
+ls
+vi .zshrc
+source .zshrc
+vi .zshrc
+git init
+vi .zshrc
+/media
+ls
+source .zshrc
+/media
+ls
+ls /dev
+sudo apt-get install ubuntu-restricted-addons ubuntu-restricted-extras
+vi .zshrc
+cd -0
+source .zshrc
+/media
+ls
+cd -1
+ls
+vi .zshrc
+source .zshrc
+ls
+vi .zshrc
+autoload predict-on
+predict-on
+ls
+du -h
+predict-on 
+always_to_end
+setopt always_toend 
+setopt always_to_end 
+source .zshrc
+vi .zshrc
+source .zshrc
+export LSCOLORS=exfxcxdxbxegedabagacad
+alias ls=ls\ -G
+ls
+ls -la
+ls -G
+vi .zsh_history
+vi .zshrc
+exit
+ls
+ls -G
+ls
+zstyle ':completion:*' list-colors ''
+/media/HD-PNTU3/PRESET\ FILES/APP/Link\ Files
+cd -0
+vi .zshrc
+source .zshrc
+ls
+ls -la
+vi .zshrc
+source .zshrc
+ls
+ls -G
+/media
+ls
+vi .zshrc
+vi ~/.zshrc
+/media/HD-PNTU3
+vi ~/.zshrc
+source ~/.zshrc
+ls
+cd ..
+cd
+tar zxvf /media/HD-PNTU3/backup.tgz
+ls
+vi doc/ubuntu/install.tex
+vi doc/ubuntu/tool-install.tex
+ls
+git pull
+ls
+rm .bashrc
+git pull
+ls
+ls -la
+git pull
+ls -la
+ls 
+ls
+vi .git/config 
+ls
+ls -a
+vi .git/config
+git pull
+git pull origin -master
+git pull origin master
+ls
+git pull gitosis@repos.hazime.org:kurari-env a
+git pull gitosis@repos.hazime.org:kurari-env
+ls
+git clone gitosis@repos.hazime.org:kurari-env
+ls
+cd kurari-env
+ls
+ls -la
+cd ..
+ls
+rm -rf .git
+git init
+git remote add origin gitosis@repos.hazime.org:kurari-env
+ls
+git pull
+git pull origin master
+ls
+ls memo
+cd kurari-env
+ls
+cd ..
+ls
+cd
+cd -9
+ls
+git pull
+git pull origin master
+git pull master origin
+ls
+git pull
+ls
+rm -rf doc proj 
+ls
+cd kurari-env
+ls
+tar zxvf /media/HD-PNTU3/backup.tgz
+ls
+find doc -name "*.tex"
+find doc -name "*.tex" | git add
+find doc -name "*.tex" | while read file; do git add $file; done
+git commit -a -m "up"
+git config --global user.name "Hajime MATSUMOTO"
+git config --global user.email mail@hazime.org
+git push
+cd ..
+ls
+git pull
+git pull master origin
+git remote add origin gitosis@repos.hazime.org:kurari-env/
+git pull
+git pull origin master
+ls
+rm -rf .git
+git init
+git remote add origin gitosis@repos.hazime.org:kurari-env/
+cat kurari-env/doc/ubuntu/tool-install.tex
+cat kurari-env/doc/ubuntu/tool-install.tex | more
+git config branch.master.remote origin
+git ocnfig branch.master.merge refs/heads/master
+git config branch.master.merge refs/heads/master
+git pull
+git config branch.master.merge .refs/heads/master
+git pull
+git config branch.master.remote origin
+git config branch.master.merge refs/heads/master
+git pull
+rm -rf .git
+git init
+git config branch.master.merge refs/heads/master
+git config branch.master.remote origin
+git remote add origin gitosis@repos.hazime.org:kurari-env
+git pull
+a
+ls
+rm -rf .git
+rm -rf .gitconfig 
+git init
+git remote add origin gitosis@repos.hazime.org:kurari-env
+git pull
+git pull origin master
+cd kurari-env
+ls
+git mv .ssh dot_ssh
+vi .gitignore
+ls
+git commit -a -m "up\
+"
+git push
+cd ..
+ls
+git pull
+git pull origin master
+ls
+rm .git
+rm -rf .git
+rm -rf .git*
+ls
+git init
+git remote add origin gitosis@repos.hazime.org:kurari-env
+git init
+git pull
+git pull origin master
+rm -rf git
+rm -rf .git
+rm -rf .git*
+rm -rf .vim*
+ls -la
+git init
+git remote add origin gitosis@repos.hazime.org:kurari-env
+git pull
+git pull orign master
+git pull origin master
+ls
+ls do
+ls dot_ssh
+cp dot_ssh/* .ssh
+ls
+vi .config/user-dirs.dirs
+ls
+cd .vim
+git clone git://github.com/gmarik/vundle.git
+vim
+sudo apt-get install curl w3m
+vi
+ls
+ls bundle
+ls
+cd ..
+ls
+vi .config/user-dirs.dirs
+ls
+vi .vimrc
+mkdir .backup
+mkdir .swap
+ls
+ls -la
+vi .gitignore
+ls
+vi .zshrc
+stty -a
+stty stop undef
+bindkey '^R' history-incremental-search-backward
+vi .zshrc
+vi .vimrc
+ls
+exit
+vi .zshrc
+exit
+ls
+vi .config/user-dirs.dirs
+rm -rf Desktop Downloads Picture Templates ãƒ£ƒ§ã‚¹ã‚¯ãƒ£ƒ¨ãƒ£ƒ£ãƒ£ƒ· Documents Music Public Videos
+sudo reboot
+ls
+vi .config/user-dirs.dirs
+rm -rf ãƒ£€ã‚¦ãƒ£³ãƒ£­ãƒ£¼ãƒ£ƒ© ãƒ£ƒ§ã‚¹ã‚¯ãƒ£ƒ¨ãƒ£ƒ£ãƒ£ƒ· ãƒ£ƒ³ãƒ£ƒ§ã‚ª çƒ´»åƒ£ƒ¯ ãƒ£ƒ¦ãƒ£³ãƒ£ƒ·ãƒ£¬ãƒ£¼ãƒ£ƒ¨ ãƒ£ƒ©ã‚­ãƒ£¥ãƒ£¡ãƒ£³ãƒ£ƒ¨ éŸ³æ¥½ åƒ¥¬éƒ¶ƒ«
+sudo reboo
+sudo reboot
+ls
+vi .config/user-dirs.locale
+vi .config/user-dirs.dirs
+la
+ls
+vi .zshrc
+source .zshrc
+vi .zshrc
+source .zshrc
+vi .zshrc
+vi .zshrc.mine
+source .zshrc
+ls
+ls -la
+ls G
+apt-get install byobu
+sudo apt-get install byobu
+ls
+apt-get install cairo-dock-plug-ins
+sudo apt-get install cairo-dock-plug-ins
+cairo-dock -v
+ls
+tar zxvf cairo-dock-plug-ins-extras_2.4.0\~2_python2.tar.gz
+apt-cache search gdesklets
+sudo aptget install gdesklets
+sudo apt-get install gdesklets
+sudo apt-get install gdesklets gdesklets-data
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get update
+screenlets
+ls
+exit
+ls
+totem
+exit
+sudo apt-get instal totem
+sudo apt-get install totem
+totem
+git add .zshrc.mine
+ls
+ls -la
+ls
+git add .zshrc.mine
+vi .gitignore
+git add .zshrc.mine
+git commit -m "up"
+git push
+ssh dev01
+git add .vim/vundle
+git add .vim/bundle/
+git commit -m "up"
+git push
+sudo apt-get install -y texlive texlive-math-extra ptex-bin xdvik-ja
+git add .zshrc
+git commit -m "up"
+git push
+ls
+vi .zshrc.mine
+PROMPT='${WINDOW:+"[$WINDOW]"}%{$fg[cyan]%}%#%{$reset_color%} '
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+ls
+vi .zshrc.mine
+source .zshrc.mine
+ls
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+/media
+ls
+vi .zshrc.mine
+cd
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+ls
+vi .zshrc.mine
+sudo git add .zshrc.mine
+git add .zshrc.mine
+git commit -m "up"
+git push
+ls
+vi .zshrc.mine
+sudo git add .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+aa
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+vi .zshrc.mine
+source .zshrc.mine
+sudo git add .zshrc.mine
+git commit -m "up"
+git push
+exit
+exit
+exit
+source .zshrc
+byobu
+ls
+vi .byobu/profile
+byobu-config
+sudo apt-get install xteddy
+xteddy
+sudo aptitude install ninix-aya
+sudo aptitude install kawari8
+ninix
+ninix-install hatunemiku.nar
+ninix
+ninix-aya
+ninix-ayasudo apt-get install ninix-aya
+sudo apt-get install ninix-aya
+ninix-aya
+source .zshrc
+ninix-aya
+exit
+ninix-aya
+ninix
+sudo apt-get install macopix-gtk2 
+source .zshrc
+macopix
+ls
+tar zxvf Dancing-Miku0.3.tar.gz
+.macopix
+macopix
+sudo apt-get install xpenguins
+xpenguin
+xpenguins
+squish
+sudo apt-get install squish
+xpenguins
+macopix
+xpenguins
+ls
+tar zxvf ~/macopix-mascot-HxB-euc-ja-0.30.tar.gz
+sudo apt-get install shimeji
+sudo apt-cache search shimeji
+unzip 
+ls
+cd ..
+ls
+unzip Shimeji_2_2_0_Ultimate.zip
+rmdir shimeji
+mkdir shimeji
+cd shimeji
+ls
+unzip ../Shimeji
+unzip ../Shimeji_2_2_0_Ultimate.zip
+ls
+java -jar Shimeji.jar
+sudo java -jar Shimeji.jar
+ls
+latex
+ls
+cd do
+cd proj
+ls
+/media
+ls
+ls -la
+sudo mount /dev/sdb1
+sudo mount /dev/sdb1 /mnt
+ls /m
+/mnt
+ls
+cd Work
+ls
+mv FullDisc ../DISK\ BACKUP/MOVIE
+ls
+cd ..
+ls
+mv Work
+Work
+tar zxvf ../backup.tgz
+ls
+mv proj ~/
+cd
+cd proj/visty
+ls
+cd doc
+ls
+vi RFP.tex
+sudo apt-get install -y mlterm mlterm-tools emacs emacs-goodies-el vim lv nkf convmv zsh mozc-server mozc-utils-gui ibus-mozc otf-ipafont otf-ipaexfont ttf-vlgothic xfonts-mplus screen -y
+ sudo update-alternatives --config editor 
+lv
+tail /var/log/boot | lv
+tail /var/log/boot.log | lv
+sudo vi sudo
+sudo visudo
+ LANG=C xdg-user-dirs-gtk-update
+wget -q https://www.ubuntulinux.jp/ubuntu-ja-archive-keyring.gpg -O- | sudo apt-key add -
+wget -q https://www.ubuntulinux.jp/ubuntu-jp-ppa-keyring.gpg -O- | sudo apt-key add -
+sudo wget https://www.ubuntulinux.jp/sources.list.d/oneiric.list -O /etc/apt/sources.list.d/ubuntu-ja.list
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get update
+apt-cache search latex-env
+apt-cache search latex
+ apt-cache search latex | grep env
+apt-cache show latex-env-ja
+sudo apt-get install texlive texlive-math-extra ptex-bin xdvik-ja
+sudo apt-get install dvipdfmx cmap-adobe-japan1 ptex-jisfonts okumura-clsfiles jmpost jbibtex-base jbibtex-bin mendexk
+sudo jisftconfig add
+ apt-cache search latex | grep -E "ja$"
+udo apt-get install texlive texlive-math-extra ptex-bin xdvik-ja dvipsk-ja cmap-adobe-japan1 jmpost jbibtex-bin mendexk
+sudo apt-get install texlive-doc-ja texlive-latex-extra texlive-latex-extra-doc texlive-extra-utils texlive-font-utils texlive-fonts-extra texlive-fonts-extra-doc texlive-fonts-recommended texlive-fonts-recommended-doc texlive-formats-extra texlive-latex-recommended texlive-latex-recommended okumura-clsfiles latex-cjk-japanese adobereader-jpn
+sudo apt-get install texlive texlive-math-extra ptex-bin xdvik-ja dvipsk-ja cmap-adobe-japan1 jmpost jbibtex-bin mendexk
+updmap
+sudo mktexlsr
+sudo updmap-sys
+sudo dpkg-reconfigure ptex-jisfonts
+sudo jisftconfig add
+ls
+vi RFP.tex
+ls
+cd
+ls
+git commit -a -m "up"
+git push
+screen
+exit
+byobu
+ls
+ssh dev01
+cd
+ls
+ssh dev01
+ls
+ssh dev01.hazime.org
+ssh -i .ssh/id_rsa  dev01.hazime.org
+ssh -i .ssh/kurari_rsa  dev01.hazime.org
+sudo chmod 600 .ssh/*
+ssh -i .ssh/kurari_rsa  dev01.hazime.org
+sudo chown kurari .ssh/*
+chmod 600 .ssh/*
+ssh -i .ssh/kurari_rsa  dev01.hazime.org
+ssh dev01
+vi .ssh/config
+ssh -i .ssh/AvapServer.pem  root@dev01.hazime.org
+ssh dev01
+ssh -i  .ssh/id_rsa kurari@dev01.hazime.org
+ssh -ivvv  .ssh/id_rsa kurari@dev01.hazime.org
+ssh -vvvv -i  .ssh/id_rsa kurari@dev01.hazime.org
+ssh -i .ssh/AvapServer.pem  ec2-user@dev01.hazime.org
+ssh dev01
+xpenguins
+macopix 
+xpenguins
+sudo apt-get install leafpad
+leafpad
+wget http://www.voanews.com/MediaAssets2/learningenglish/dalet/se-itn-academy-awards-25feb12.Mp3
+ls -la se-itn-academy-awards-25feb12.Mp3
+ls -lah se-itn-academy-awards-25feb12.Mp3
+zsnes
+sudo apt-get install zsnes
+sudo apt-get search 7z
+sudo apt-cache search 7z
+sudo apt-get install p7zip
+p7zip Romancing\ SaGa\ 2.7z
+ls
+p7zip -e Romancing\ SaGa\ 2.7z
+p7zip -d Romancing\ SaGa\ 2.7z
+p7zip -d Romancing\ SaGa\ 2.7z.7z 
+ls
+p7zip -d Romancing\ SaGa\ 2.7z. 
+p7zip -d Romancing\ SaGa\ 2.7z 
+zsnes Romancing\ SaGa\ 2\ \(J\).smc
+sudo apt-get install zsnes
+sudo apt-get update
+sudo apt-cache search lib32ao
+sudo apt-cache search lib32
+sudo apt-cache search lib32-libs
+sudo apt-get install ia32-libs
+zsnes Romancing\ SaGa\ 2\ \(J\).smc
+sudo apt-cache search libao
+sud apt-get install libao4 libao-dev
+sudo apt-get install libao4 libao-dev
+zsnes Romancing\ SaGa\ 2\ \(J\).smc
+sudo apt-get install libao-common
+sudo apt-get install libao-common ia32-libs libao4
+zsnes Romancing\ SaGa\ 2\ \(J\).smc
+apt-cache search libao
+sudo reboot
+zsnes
+zsnes -ad oss
+zsnes -ad sdl
+sudo zsnes
+zsnes -ad alsa
+sudo ln -s /usr/lib32/ao/plugins-4/liboss.so /usr/lib/ao/plugins-4/lib32oss.so
+zsnes -ad oss
+sudo apt-get install libao
+tar zxvf zsnes151src.tar.bz2
+tar jxvf zsnes151src.tar.bz2
+cd zsnes_1_51
+ls
+cd src
+ls
+vi install-sh
+make
+./configure
+sudo apt-get install build-essential
+./configure
+./configure --enable-libao --enable-release
+sudo apt-get install nasm build-essential libsdl1.2-dev zlib1g-dev libpng12-dev
+zsnes
+./configure
+make
+./configure --enable-libao --enable-release
+make
+zsnes -ad oss
+sudo apt-get install zsnes32
+vi /etc/apt/sources.list
+cat /etc/apt/sources.list
+sudo vi /etc/apt/sources.list
+sudo apt-get update
+cd
+dpkg -x zsnes_1.510-2.1ubuntu1.1_amd64.deb zsnes_dir
+cd zsnes_
+cd zsnes_dir
+ls
+cd usr/bin
+ls
+./zsnes -ad sdl
+./zsnes -ad oss
+sudo apt-get install libao4 libc6 libgcc1 libgl1-mesa-glx libpng12-0 libsdl1.2debian libstdc++6 zlib1g
+cd
+wget http://launchpadlibrarian.net/54332336/zsnes_1.510-2.2ubuntu4_i386.deb
+rm -rf zsnes_dir/*
+sudo rm -rf zsnes_dir/*
+dpkg -x zsnes_1.510-2.2ubuntu4_i386.deb zsnes_dir
+cd zsnes_dir/usr/bin
+./zsnes -ad sdl
+./zsnes 
+ls
+ls -la
+cairo-dock
+ls
+cd zsnes_
+cd zsnes_dir
+ls
+cd usr/bin
+ls
+./zsnes
+chromium-browser
+sudo apt-get install shotwell
+zsh
+ls
+shotwell -d hajime
+shotwell -d suvdaa
+sudo add-apt-repository ppa:stebbins/handbrake-snapshots
+sudo apt-get update
+ apt-get install handbrake-gtk handbrake-cli
+sudo apt-get install handbrake-gtk handbrake-cli
+zsh
+sudo apt-get install vlc vlc*
+sudo apt-get install vlc 
+sudo apt-get install libdvdread4
+ sudo /usr/share/doc/libdvdread4/install-css.sh 
+sudo reboot
+which HandBrake
+which HandBrakeCLI
+which HandBrakeCLI --help
+ HandBrakeCLI --help
+sudo apt-get  install vlc-data 
+xrandr
+xrandr -q
+xrandr --output LVDS1 --off
+xrandr --output LVDS1 --right-of HDMI1
+xrandr --output LVDS1 --on
+xrandr --output LVDS1 --right-of VGA
+xrandr --output LVDS1 --right-of VGA1
+sudo apt-get install grandr
+grandr
+df -h
+ls
+cd GAME
+ls
+cd zsnes_
+cd zsnes_dir
+ls
+cd usr/bin
+ls
+./zsnes
+grandr
+sudo reboot
+cairo-dock
+cairo-dock-session
+ps aux | grep cairo
+kill 1606
+kill 2068
+cairo-dock
+ls
+cd
+rm -rf .config/cairo-dock/*
+sudo rm -rf .config/cairo-dock/*
+cairo-dock
+/media
+ls
+HAJIME_640GB
+cd
+/media
+shotwell -d ~/Shotwell/hajime
+xpenguins
+shotwell -d ~/Shotwell/hajime
+ls
+cd
+ls
+vi .zshrc
+vi .zshrcp
+cd
+sudo apt-get install k3b
+k3d
+source .zshrc
+source ~/.zshrc
+k3d
+k3b
+ssh dev01
+ls
+screen
+ls
+ssh dev01
+sudo apt-get install gnome-terminal
+gnome-text-editor
+gnome-terminal
+ls
+ssh dev01
+ls
+cd proj/
+ls
+cd seaf
+ls
+git pull
+git commit -a -m "up"
+git pull
+ls
+git push
+ssh dev01
+ls
+cd ../visty
+ls
+git pull
+git commit -a -m "up"
+git pull
+ls
+sudo apt-get install mysql5-server php5 apache2 php5-mysql
+sudo apt-get install mysql-server php5 apache2 php5-mysql
+ls
+ln -s `pwd`/public /var/www/visty
+sudo ln -s `pwd`/public /var/www/visty
+sudo /etc/init.d/apache2 restart
+ls
+cd ../seaf
+ls
+cd src
+ls
+mkdir /opt/seaf
+sudo mkdir /opt/seaf
+ls
+vi install.php
+sudo php -f install.php
+ls
+cd ../../visty
+ls
+vi public/index.php
+cd ..
+ls
+vi seaf/src/class/app/app.class.php
+vi ~/.vimrc
+vi seaf/src/class/app/app.class.php
+ls
+ssh dev01
+ls
+cd visty
+git pull
+cd visty
+screen
+ssh dev01
+cd ../seaf
+git pull
+ls
+screen -r
+screen -r 4660
+ls
+exit
+ls
+vi ~/.screen
+vi ~/.screenrc
+ls
+screen
+ls
+cd ..
+ls
+cd seaf
+ls
+cd src
+ls
+vi class/core/wapper.clss.php
+ps
+exit
+exit
+exit
+sudo shutdown -h now
+ls
+ssh -i .ssh/AvapServer.pem asterisk@hazime.org
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+gnome-terminal
+ls
+vi proj/seaf/src/class/app/app.class.php
+screen
+ls
+vi proj/seaf/src/class/app/app.class.php
+ls
+cd ..
+ls
+cd ~/proj
+ls
+cd seaf
+ls
+cd src
+ls
+ls class
+ls class/app
+ls
+ls test
+ls
+]
+ls
+cd
+ls
+mv .vim .vim.org
+mv .vimrc .vimrc.org
+ls
+vi
+ls
+vi .vimrc
+sudo aptitude install vim-python
+sudo pecl install xdebug
+sudo apt-cache search pecl
+sudo apt-get install php5-dev
+sudo apt-cache search pecl
+sudo pecl install xdebug
+ls
+mkdir .vim
+mkdir .vim/ftplugin
+vi .vim/ftplugin/php.vim
+vi .vimrc
+ls
+vi a.php
+ls
+vi .vimrc.org
+ls
+vi .vimrc
+ls
+mv .vim.org/vundle .vim/
+vi
+ls
+vi .vim/ftplugin/php.vim
+vi 
+vi a.php
+vi
+vi a.php
+vi .vim/ftplugin/php.vim
+vi a.php
+ls
+vi .screenrc 
+screen
+ls
+ apt-cache search latex | grep -E "ja$"
+ls
+vi .screenrc
+exit
+exit
+exit
+ls
+vi .screenrc
+ls
+vi .screenrc
+screen
+vi .screenrc
+source .screenrc
+exit
+s
+ls
+vi .screenrc
+exit
+tail -f /var/log/dmesg
+ls
+tail -f /var/log/apache2/access.log
+ls
+vi .screenrc
+screen
+vi .screenrc
+screen
+vi .screenrc
+screen
+ls
+vi .screenrc
+exit
+ls
+vi .screen
+vi .screenrc
+ls
+vi .vimrc
+ls
+vi .vimrc.org
+vi .vimrc
+rm -rf .vim/bundle
+vi .vimrc
+ls
+vi vimrc
+vim vimrc
+vi .vimrc
+vim vimrc
+vi .vimrc
+ls
+ls .vim
+ls .vim/vundle
+ls
+vi .vimrc.org
+vi .vimrc
+vi vimrc
+vi 
+vi .vimrc
+ls
+rm vimrc
+ls
+vi .vimrc
+ls
+rm -rf .config/cairo-dock
+ps aux | grep cairo
+kill 1700
+screen cairo-dock
+ls
+vi .vimrc
+mkdir .backup
+mkdir .swp
+mkdir .swap
+vi .vimrc
+ls
+sudo apt-get install ctags
+vi 
+ls
+cd proj
+ls
+cd seaf
+ls
+vi src/seaf.php
+vi src/class/app.org
+vi src/class/app/app.class.php
+ls
+vi .vimrc
+vi src/class/app/app.class.php
+ls
+vi ~/.vimrc
+ls
+vi src
+ls
+vi src/seaf.php
+cd
+ls
+vi vimrc
+vi
+vi vimrc
+rm vimrc
+ls
+vi 
+ls
+vi vimrc
+vi 
+vi vimrc
+ls
+vi
+cat vimrc
+mv vimrc proj/seaf
+cd proj/seaf
+ls
+vi
+ls
+vi .vimrc
+ls
+vi
+git push
+ls
+exit
+ls
+ssh dev01
+ls
+cd
+vi .vimrc
+ls
+mkdir .vim/snippets
+vi .vim/snippets/php.snippets
+vi a.php
+vi .vim/snippets/php.snippets
+vi a.php
+vi .vim/snippets/php.snippets
+vi a.php
+vi .vim/snippets/php.snippets
+vi a.php
+vi .vim/snippets/php.snippets
+vi a.php
+vi .vim/snippets/php.snippets
+vi a.php
+vi .vim/snippets/php.snippets
+vi a.php
+vi .vim/snippets/php.snippets
+ls
+git add .vimrc
+git commit -m "up"
+git push
+ls
+ssh dev01
+exit
+ls
+vi proj
+ls
+cd proj
+ls
+mv seaf seaf.20110229
+ls
+mkdir seaf
+cd seaf
+ls
+vi seaf
+ls
+vi README
+ls
+git init
+git add *
+git commit -a -m "first commit"
+ls
+exit
+cairo-dock --r
+cairo-dock -h
+ls
+cd proj
+ls
+cd seaf
+ls
+vi
+ls
+screen
+vi
+ls
+cd ..
+ls
+cd visty
+ls
+cd ,,
+cd ..
+mv visty visty.old
+ls
+mkdir visty
+ls
+cd visty
+ls
+mkdir public
+vi public/index.php
+tail -f /tmp/visty
+ps aux | grep cairo
+kill -HUP 1665
+ls
+cd proj
+ls
+ cd sr
+ls
+cd seaf
+ls
+vi 
+screen
+vi 
+ls
+ls -la ../visty
+ls -la ../visty/public
+vi 
+vi ~/.vimrc
+exit
+tail -f /var/log/apache2/error.log
+vi 
+vi ~/.vim/ftplugin/php.vim
+exit
+ls
+ls ../visty
+ls ../visty/module/voa/data
+ls -la  ../visty/module/voa/data
+ls -la  ../visty/module/voa/data | cat -n
+ls -la  ../visty/module/voa/data | cat -n | lv
+ls
+find ../visty/module/voa/data 
+exit
+cd ..
+ls
+vi 
+cd ../visty
+ls
+cd module/voa/data
+ls
+cd 139760
+cd 139436963
+ls
+ls -la paragraphs
+cat  paragraphs/* | lv
+find  paragraphs/* | while read file\
+do\
+echo === $file ===\
+cat $file\
+done
+find  paragraphs/* | while read file\
+do\
+echo "=== $file ==="\
+cat $file\
+done
+find  paragraphs/* | while read file\
+ado\
+echo "=== $file ==="\
+cat $file\
+done
+find  paragraphs/* | while read file\
+do\
+echo "=== $file ==="\
+cat $file\
+done
+find  paragraphs/* | while read file\
+do\
+aecho "=== $file ==="\
+cat $file\
+done
+find  paragraphs/* | while read file\
+do; echo "";\
+echo "=== $file ==="\
+cat $file\
+done
+find  paragraphs/* | while read file > log\
+do; echo "";\
+echo "=== $file ==="\
+cat $file\
+done
+find  paragraphs/* | while read file > /tmp/aho\
+do; echo "";\
+echo "=== $file ==="\
+cat $file\
+done
+vi /tmp/aho
+find  paragraphs/* | while read file | lv\
+do; echo "";\
+echo "=== $file ==="\
+cat $file\
+done
+ls
+cd ../visty/module
+ls
+cd voa
+ls
+cd data
+ls
+cd 139437848
+ls -la
+ls -la paragraphs
+vi
+ls
+cd ..
+ls
+rm -rf *
+sudo rm -rf 1*
+ls
+cd ..
+ls
+sudo rm -rf 1*
+ls
+cd data
+sudo rm -rf 1*
+ls
+ls -
+ls
+cd ..
+ls
+rm log/2012*
+sudo rm -rf log/*
+ls
+ls data
+sudo rm -rf data/1*
+mkdir data/import
+chmod 777 data/import
+ls data/import
+ls
+cd visty
+ls
+git init
+git add *
+git commit -m "first" 
+ls
+cd ../seaf
+ls
+git add *
+git commit -a 
+ls
+cd proj
+ls
+vi 
+ls
+cd visty
+ls
+cd module
+ls
+cd voa
+ls
+cd data
+ls
+cd import
+ls
+ls 132385838
+ls 132385838/medias
+find .
+ls
+cd
+cd proj/visty
+ls
+cd module
+ls
+cd voa
+ls
+cd action
+ls
+cd ..
+ls
+cd template
+ls
+vi ConvertIndex.php
+vi ConvertDetail.php
+ls
+cd ..
+ls
+cd data
+ls
+cd import
+ls
+132385838
+ls
+cat description
+cat content
+ls
+ls medias
+ls
+du -h .
+ls
+cd ..
+ls
+du -h
+ls
+ifconfig
+ls
+cd
+ls
+tar zxvf stanford-postagger-2012-01-06.tgz
+cd stanford-postagger-2012-01-06
+ls
+vi README.txt
+./stanford-postagger.sh models/left3words-wsj-0-18.tagger sample-input.txt
+./stanford-postagger.sh  sample-input.txt
+cat sample-input.txt
+./stanford-postagger.sh  sample-input.txt
+./stanford-postagger.sh models/left3words-wsj-0-18.tagger sample-input.txt
+java -mx200m -classpath stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTaggerGUI models/left3words-wsj-0-18.tagger
+ls
+ls Makefile
+make 
+ls
+vi README.txt
+ls
+cd ..
+ls
+tar zxvf stanford-postagger-full-2012-01-06.tgz
+cd stanford-postagger-full-2012-01-06
+ls
+make
+./stanford-postagger.sh models/left3words-wsj-0-18.tagger sample-input.txt
+ls models/
+ls models/README-Models.txt
+vi models/README-Models.txt
+./stanford-postagger.sh  sample-input.txt
+ls models
+./stanford-postagger.sh models/english-bidirectional-distsim.tagger sample-input.txt
+vi  README.txt
+vi stanford-postagger.sh
+vi a
+./stanford-postagger.sh models/english-bidirectional-distsim.tagger a
+vi stanford-postagger.sh
+./stanford-postagger.sh models/english-bidirectional-distsim.tagger a
+vi a
+./stanford-postagger.sh models/english-bidirectional-distsim.tagger a
+vi a
+./stanford-postagger.sh models/english-bidirectional-distsim.tagger a
+vi a
+./stanford-postagger.sh models/english-bidirectional-distsim.tagger a
+vi a
+./stanford-postagger.sh models/english-bidirectional-distsim.tagger a
+vi a
+./stanford-postagger.sh models/english-bidirectional-distsim.tagger a
+vi a
+./stanford-postagger.sh models/english-bidirectional-distsim.tagger a
+vi a
+./stanford-postagger.sh models/english-bidirectional-distsim.tagger a
+vi a
+./stanford-postagger.sh models/english-bidirectional-distsim.tagger a
+ls
+vi models/english-bidirectional-distsim.tagger
+./stanford-postagger.sh models/english-left3words-distsim.tagger a
+vi a
+./stanford-postagger.sh models/english-left3words-distsim.tagger a
+vi a
+./stanford-postagger.sh models/english-left3words-distsim.tagger a
+ls models
+vi models/README-Models.txt
+vi stanford-postagger.sh
+./stanford-postagger.sh models/english-left3words-distsim.tagger a
+vi stanford-postagger.sh
+./stanford-postagger.sh models/english-left3words-distsim.tagger a
+vi stanford-postagger.sh
+./stanford-postagger.sh models/english-left3words-distsim.tagger a
+exit
+sudo shutdown -h now
+ssh -i .ssh/AvapServer.pem asterisk.hazime.org
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+ls
+byobu
+screen
+ls
+cd proj
+ls
+cd visty
+ls
+vi
+ls
+cd
+ls
+git add -a 
+ls
+git commit -a
+git commit -a -m "up"
+git push
+l
+ls
+;s
+ssh -i .ssh/AvapServer.pem ubuntu@ec2-176-34-40-22.ap-northeast-1.compute.amazonaws.com
+ls
+cat .ssh/authorized_keys
+ssh  ec2-176-34-40-22.ap-northeast-1.compute.amazonaws.com
+cat .ssh/id_rsa
+ls
+cd 
+ls
+cd proj
+ls
+cd seaf
+ls
+cd ..
+ls
+cd gitosis-admin
+ls
+vi gitosis.conf
+git add gitosis.conf
+git commit -a -m "add seaf2'
+git commit -a -m "add seaf2'"
+git push
+ls
+cd ../seaf
+ls
+git remote add gitosis@repos.hazime.org:seaf2
+git remote add origin  gitosis@repos.hazime.org:seaf2
+git push
+git push master origin
+git push master
+git push origin master
+ls
+ssh  ec2-176-34-40-22.ap-northeast-1.compute.amazonaws.com
+ssh -i .ssh/AvapServer.pem mx2.hazime.org
+ssh -i .ssh/AvapServer.pem ubuntu@mx2.hazime.org
+exit
+exit
+ssh git.hazime.org
+ssh -i .ssh/HajimeMATSUMOTO_rsa git.hazime.org
+ssh git.hazime.org
+ssh kurari@git.hazime.org
+ssh hazime.org
+ssh -i .ssh/HajimeMATSUMOTO_rsa  hazime.org
+exit
+sudo reboot
+apt-get install ubuntuone-client
+sudo apt-get install ubuntuone-client
+ubuntuone-installer 
+sudo ubuntuone-installer
+sudo ubuntuone-launch
+ubuntuone-client
+exit
+ubuntuone-launch
+apt-get install ubuntuone-control-panel-gtk
+sudo apt-get install ubuntuone-control-panel-gtk
+ubuntuone-control-panel-gtk 
+sudo apt-get install comix
+sudo apt-get install tomboy
+ps aux | grep cairo
+kill 1683
+ls
+cd .ssh
+ls
+ssh -i AvapServer.pem ubuntu@ec2-176-34-40-22.ap-northeast-1.compute.amazonaws.com
+ssh ec2-176-34-40-22.ap-northeast-1.compute.amazonaws.com
+ls
+cd
+ls
+cd proj
+ls
+cd visty
+ls
+ls -la
+ls
+cd ../visty.old
+ls
+git pull
+git rm -rf .
+ls
+git rm -rf theme
+git commit -m "up"
+ls
+rm -rf theme
+ls
+cp -rf ../visty/* .
+ls
+git add *
+git commit -m "up"
+exit
+ssh dev02.hazime.org
+ssh-keygen  .ssh/known_hosts -R dev02.hazime.org
+ssh dev02.hazime.org
+ssh-keygen -f .ssh/known_hosts -R dev02.hazime.org
+ssh dev02.hazime.org
+ssh dev01
+ls
+cd proj
+ls
+cd visty
+ls
+cd ../visty.old
+ls
+git commit -a -m "up"
+git push
+ls
+cd ../seaf
+ls
+git add *
+git push
+cd class
+ls
+cd rss
+ls
+vi reader.class.php
+cd ..
+ls
+cd ..
+git commit -a 
+git push
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+ls
+ssh dev02.hazime.org
+sudo reboot
+ls
+ssh dev02.hazime.org
+sudo reboot
+ls
+ssh dev02
+ssh dev02.hazime.org
+ls
+vi proj/gitosis-admin
+cd proj/gitosis-admin
+ls
+vi gitosis.conf
+git add gitosis.conf
+git commit -m "up pokera2"
+git push
+exit
+vi /etc/apt/sources.list
+wget http://test.visty.co.jp/se-ag-urban-farm-06mar12.mp3
+ls
+vi a.html
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+sudo apt-get install wine
+exit
+exit
+exit
+sudo reboot
+ssh dev02.hazime.org
+shotwell -d hajime
+k3b
+HandBrakeCLI
+k3b
+sudo reboot
+ls
+ssh dev02.hazime.org
+ls
+scp login.gif regist.gif dev02.hazime.org:~
+scp logout.gif dev02.hazime.org:~
+scp news_icon.png dev02.hazime.org:~
+sudo apt-cache search lzh
+sudo apt-get install lha
+man lhas
+man lha
+ls
+la -x mikatype.lzh
+ls
+scp ejdic dev02.hazime.org
+scp ejdic dev02.hazime.org:~
+skype
+scp visty_logo.png dev02.hazime.org:~
+scp visty_logo_white.png dev02.hazime.org:~
+time
+date
+ls
+unzip ame-0.0.17.zip
+cd am
+cd ame-0.0.17
+ls
+cd dist
+ls
+vi readme.txt
+ls
+cd proj
+ls
+cd kouken
+ls
+mv PaperCamera2012-03-16-01-28-32 kouken.jpg
+ls
+git init
+ls
+cd ..
+ls
+mv kouken kouken.org
+git clone gitosis@repos.hazime.org:kouken
+cd kouken
+ls
+cp ../kouken.org/kouken.jpg .
+ls
+git submodule add gitosys@repos.hazime.org:seaf-theme module/theme
+mkdir module
+ls
+git submodule add gitosys@repos.hazime.org:seaf-theme module/theme
+ls
+ls module
+git submodule add gitosis@repos.hazime.org:seaf-theme module/theme
+ls module
+ls module/theme
+git submodule add gitosis@repos.hazime.org:seaf-system  module/system
+ls
+cd module
+ls
+cd ..
+ls
+git add kouken.jpg
+git commit -m "up"
+git push
+git push origin master
+ls
+ssh dev02.hazime.org
+exit
+ps aux | grep chrome
+kill 13368
+kill 4475
+ps aux | grep chrome
+ps aux | grep google-chrome
+ps aux | grep google
+ps aux | grep chronium
+ps aux | grep chro
+kill 2113
+ps aux | grep chro
+kill 4503
+ls
+cd EDP-133
+ls
+cd EIJIRO
+ls
+tail EIJI-133.TXT
+tail EIJI-133.TXT | nkf -wLu
+tail EIJI-133.TXT | nkf 100 -wLu
+tail -100 EIJI-133.TXT | nkf -wLu
+nkf -wLu EIJI-133.TXT | tail -100
+ls
+vi EIJI-133.TXT
+leafpad EIJI-133.TXT
+scp EIJI-133.TXT dev02.hazime.org:~
+ssh dev02.hazime.org
+leafpad EDP-133/EIJIRO/EIJI-133.TXT
+tail EDP-133/PDIC-UNI/EIJI-133.DIC
+tail EDP-133/PDIC-UNI/EIJI-133.DIC | nkf -wLu
+tail EDP-133/PDIC-UNI/EIJI-133.DIC | nkf -SwLu
+tail EDP-133/PDIC-UNI/EIJI-133.DIC | nkf -EwLu
+ls
+exit
+exit
+exit
+exit
+sudo reboot
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+ssh dev02.hazime.org
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+exit
+exit
+sudo shutdown -h now
+ssh dev02.hazime.org
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+sudo shutdown -h now
+scanimage -L
+lsusb
+scanimage -L
+xsane
+simple-scan
+/usr/bin/scanimage --batch --source "ADF Duplex" --mode Color --resolution=190 --y-resolution=190 --format=tiff
+ls
+convert -compress JPEG -quality 85 -adjoin `ls -1 *.tif | sort -t t -k 2 -n` out.pdf
+sudo apt-get install imagemagick
+convert -compress JPEG -quality 85 -adjoin `ls -1 *.tif | sort -t t -k 2 -n` out.pdf
+/usr/bin/scanimage --batch --source "ADF Duplex" --mode Color --resolution=190 --y-resolution=190 --format=tiff
+convert -compress JPEG -quality 85 -adjoin `ls -1 *.tif | sort -t t -k 2 -n` out.pdf
+ls
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+ls
+ssh dev02.hazime.org
+ls
+vi voa_v1.csv
+vi idiom_aa.csv
+tar zxvf julius-4.2.1-linuxbin.tar.gz
+cd julius-4.2.1-linuxbin
+ls
+vi 00readme
+vi 00readme-ja.txt
+ls
+./run_install.sh
+sudo ./run_install.sh
+vi 00readme-ja.txt
+ls
+vi 00readme-julius-ja.txt
+vi julius-simple
+ls
+cd ..
+julius-4.2.1
+julius-4.2.1 -help
+ julius-4.2.1 -help | more
+ julius-4.2.1 -input se-tia-autumn\ in\ washington-14-nov11.Mp3
+sudo apt-get install ffmpeg
+ julius-4.2.1 -input se-tia-autumn\ in\ washington-14-nov11.Mp3
+ffmpeg se-tia-autumn\ in\ washington-14-nov11.Mp3 test.wav
+_ffmpeg -i se-tia-autumn\ in\ washington-14-nov11.Mp3 test.wav
+ffmpeg -i se-tia-autumn\ in\ washington-14-nov11.Mp3 test.wav
+mv se-tia-autumn\ in\ washington-14-nov11.Mp3 test.mp3
+ffmpeg -i test.mp3 test.wav
+exit
+ffmpeg -i ~/test.mp3
+ffmpeg -iy ~/test.mp3 
+ffmpeg -y ~/test.mp3 
+ffmpeg -i ~/test.mp3
+sudo apt-get install soundconverter
+sudo apt-get install gstreamer0.10-plugins-ugly-multiverse
+soundconverter
+scp dev02.hazime.org:/var/proj/visty/module/voa/data/import/140416863/medias/audio/se-pia-movie-pioneers-26feb12.Mp3.2times.mp3 .
+ffmpeg se-pia-movie-pioneers-26feb12.Mp3.2times.mp3 test.wav
+ffmpeg -i se-pia-movie-pioneers-26feb12.Mp3.2times.mp3 test.wav
+scp dev02.hazime.org:/var/proj/visty/module/voa/data/import/140416863/medias/audio/se-pia-movie-pioneers-26feb12.Mp3 .
+ffmpeg -i se-pia-movie-pioneers-26feb12.Mp3 a.wav
+ls -la
+julius-4.2.1 -h
+julius-4.2.1 -help
+julius-4.2.1 -input a.wav
+julius-4.2.1
+julius-4.2.1 -input a.wav
+julius-4.2.1 -help
+julius-4.2.1 -input file/~/a.wav
+julius-4.2.1 -input file/a.wav
+cd ..
+julius-4.2.1 -input file/a.wav
+tar zxvf dictation-kit-v4.1.tar.gz
+cd dictation-kit-v4.1
+ls
+vi INSTALL.txt
+vi HOWTO.txt
+sudo apt-get install inkscape 
+inkscape
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+cd
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+sudo apt-get install glabels
+glabels
+convert /home/kurari/åƒ°ƒ­åƒ¨º/çƒµƒ±å±±èƒ¬‚ä¼¸ã‚·ãƒ£¼ãƒ£ƒ¨.svg test.bmp
+cd
+ls
+vi kouken.domain
+ls
+ssh dev02.hazime.org
+ssh mx2.hazime.org
+ssh -i .ssh/AvapServer.pem ubuntu@mx2.hazime.org
+nslookup kouken.tv
+nslookup www.kouken.tv
+ping google.com
+nslookup @ns-197.awsdns-24.com
+nslookup kouken.tv ns-197.awsdns-24.com
+nslookup www.kouken.tv ns-197.awsdns-24.com
+ls
+ssh -i .ssh/AvapServer.pem ubuntu@mx2.hazime.org
+sudo apt-get install jhead
+jhead o0480064311865884535.jpg
+jhead o0463062411851477971.jpg
+jhead ãƒ£€ã‚¦ãƒ£³ãƒ£­ãƒ£¼ãƒ£ƒ©.jpg
+jhead åƒ¦ƒ¹çƒ¼Ÿ.JPG
+jhead 863688d7.jpg
+jhead rpt111211-7-300x199.jpg
+jhead 20090204215923s.jpg
+ls /dev/sdb 
+fsck /dev/sdb
+sudo fsck /dev/sdb
+sudo reboot
+shotwell -d hajime
+shutdown -h now
+sudo shutdown -h now
+sudo reboot
+tar zxvf julius-4.2.1
+cd julius-4.2.1-linuxbin
+cd ..
+ls
+mkdir Julius
+cd Julius
+tar zxvf ../julius-4.2.1.tar.gz
+ls
+cd julius-4.2.1
+ls
+./configure
+make
+sudo make install
+ls
+cd ..
+ls
+ls ..
+cp ../test.wav
+cp ../test.wav .
+vlc test.wav
+ls
+ls ../
+cp ../se-pia-movie-pioneers-26feb12.Mp3 .
+vlc se-pia-movie-pioneers-26feb12.Mp3
+ffmpeg se-pia-movie-pioneers-26feb12.Mp3 se.wav
+ffmpeg -i se-pia-movie-pioneers-26feb12.Mp3 se.wav
+ls
+vlc se.wav
+julius-4.2.1 -input se.wav
+ls
+ls  julius-4.2.1
+julius-4.2.1 --version
+sox
+sudo apt-get install sox
+
+ffmpeg -i se-pia-movie-pioneers-26feb12.Mp3 -f s16le -acodec pcm_s16le output.raw
+ls
+vlc output.raw
+ls -la output.raw
+julius-4.2.1 -input output.raw
+ls
+tar zxvf dictation-kit-v4.1\ \(1\).tar.gz
+cd dictation-kit-v4.1
+ls
+vi fast.jconf
+ls
+ls model
+ls model/lang_m
+ls
+vi model/lang_m/web.60k.htkdic
+k3b
+cd
+ls
+HandBrakeCLI
+handbrake
+rm -rf /tmp/*
+sudo rm -rf /tmp/*
+df -h
+ls
+k3b
+sudo apt-get install k9copy
+k9copy
+cd ~/.wine/drive_c/windows/Fonts
+ln -s /usr/share/fonts/truetype/ttf-japanese-*.ttf ./
+cd
+dvdfab
+DVDFab
+wine
+wineconsole
+winecfg
+ls /media
+vlc
+handbrake
+df -h
+rm -rf /tmp/*
+df -h
+eject
+brasero
+sudo reboot
+brasero
+scanimage
+/usr/bin/scanimage --batch --source "ADF Duplex" --mode Color --resolution=190 --y-resolution=190 --format=tiff
+scanimage -L
+/usr/bin/scanimage --batch --source "ADF Duplex" --mode Color --resolution=190 --y-resolution=190 --format=tiff
+cat /etc/sane.d/dll.conf
+vi /etc/sane.d/dll.conf
+scanimage -L
+/usr/bin/scanimage --batch --source "ADF Duplex" --mode Color --resolution=190 --y-resolution=190 --format=tiff
+xsane
+sane-find-scanner
+sudo /usr/bin/scanimage --batch --source "ADF Duplex" --mode Color --resolution=190 --y-resolution=190 --format=tiff
+scanimage
+scanimage -L
+sudo /usr/bin/scanimage --batch --source "ADF Duplex" --mode Color --resolution=190 --y-resolution=190 --format=tiff
+ /usr/bin/scanimage --batch --source "ADF Duplex" --mode Color --resolution=190 --y-resolution=190 --format=tiff
+scanimage
+scanimage -L
+ apt-get install imagemagick poppler-utils
+sudo apt-get install imagemagick poppler-utils
+/usr/bin/scanimage --batch --source "ADF Duplex" --mode Color --resolution=190 --y-resolution=190 --format=tiff
+scanimage -L
+sudo reboot
+scanimage -L
+/usr/bin/scanimage --batch --source "ADF Duplex" --mode Color --resolution=190 --y-resolution=190 --format=tiff
+scanimage -L
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+ls
+cat åƒ­ƒ¸èªž*.csv | nkf -wLu | sort -n > words_2003.csv
+tail words_2003.csv
+vi words_2003.csv
+awk -F, '$2=""' words_2003.csv
+awk -F, '$2=" "' words_2003.csv
+awk -F, '$2==" "' words_2003.csv
+awk -F, '$2==""' words_2003.csv
+awk -F, '$2!==""' words_2003.csv
+awk -F, '$2!=""' words_2003.csv
+awk -F, '$2!=""' words_2003.csv > words_2003_trimed.csv
+ls
+scp words_2003_trimed.csv dev02.hazime.org:~
+ssh dev02.hazime.org
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+ls
+vi .vimrc
+vi .netrc
+ftp .netrc
+ftp satounori
+ftp satounori.co.jp
+chmod 600 .netrc
+ftp satounori.co.jp
+vi .htaccess
+vi satounori.co.jp:/home/satounori/www/.htpasswd
+vi ftp://satounori.co.jp/home/satounori/www/.htpasswd
+vi ftp://satounori.co.jp/
+htpasswd -c 
+htpasswd -c  .htpasswd yutarou
+ftp 
+ftp satounori.co.jp
+vi ftp://satounori.co.jp/
+nslookup http://dev01.hazime.org/
+nslookup dev01.hazime.org
+vi /etc/hosts
+sudo vi /etc/hosts
+nslookup http://182.48.46.47/
+nslookup 182.48.46.47
+ssh 182.48.46.47
+scp 182.48.46.47:182.48.46.47.tar.gz /media/HD-PNTU3
+shutdown -h now
+sudo shutdown -h now]
+sudo shutdown -h now
+sudo apt-get install gpick
+gpic
+gpick
+ssh dev02.hazime.org
+shutdown -h now
+sudo shutdown -h now
+ssh asterisk@hazime.org
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+ssh dev02.hazime.org
+ssh -i .ssh/AvapServer.pem ubuntu@asterisk.hazime.org
+ssh dev02.hazime.org
+brasero
+ssh dev02.hazime.org
+exit
+ssh dev02.hazime.org
+exit
+sudo shutdown -h now
+ssh dev02.hazime.org
+ssh -i .ssh/AvapServer.pem ubuntu@mx2.hazime.org
+exit
+sudo shutdown -h now
+git co git.hazime.org
+git ls git.hazime.org
+git ls git@git.hazime.org
+ssh kurari@git.hazime.org
+ssh ubuntu@git.hazime.org
+ssh hazime.org
+cat .ssh/authorized_keys
+exit
+ssh git.hazime.org
+sudo scp -r kurari@git.hazime.org:/home/svnuser/repos git.repos.svn
+ssh sss.dev.useit.jp
+ssh dev01@sss.dev.useit.jp
+ls
+cd /var/pr
+cd proj
+ls
+vi gitosis-admin/gitosis.conf
+cd gitosis-admin
+git ci -a
+git commit -a
+ls
+git push
+git pull
+git push
+ls
+cd ..
+ls
+git pull repos.hazime.org:seaf3
+git pull gitosis@repos.hazime.org:seaf3
+git pull gitosis@repos.hazime.org/seaf3
+ls
+git pull gitosis@repos.hazime.org:seaf3
+ls
+cd seaf3
+ls
+mkdir seaf3
+cd seaf
+cd ../seaf3
+ls
+cd ..
+git pull gitosis@repos.hazime.org:seaf2
+ls
+git pull gitosis@repos.hazime.org:seaf2 seaf2
+ls
+ls -la
+git pull gitosis@repos.hazime.org:seaf2 seaf2
+git clone gitosis@repos.hazime.org:seaf2
+git clone gitosis@repos.hazime.org:seaf3
+rm -rf seaf3
+git clone gitosis@repos.hazime.org:seaf3
+ls
+cd seaf3
+ls
+scp -r dev01@sss.dev.useit.jp:/var/www/VirtualDomain/useit.jp/sss.dev/htdocs/Zend .
+ls
+mkdir third
+mv Zend third
+ls
+mkdir class 
+ls
+vi class/loader.class.php
+ls
+vi seaf.php
+ls
+crm out.log
+rm out.log
+ls
+git add (
+git add *
+git commit
+git push
+git push origin master
+ls
+cd ..
+ls
+cd gitosis-admin
+ls
+vi gitosis.conf
+git add gitosis.conf
+git commit -m "up"
+git push
+ls
+git clone gitosis@repos.hazime.org:sss
+cd sss
+ls
+mkdir sample
+vi sample/image.php
+ls
+cd ..
+ls
+vi
+ls
+mv sss ..
+ls
+cd ..
+ls
+screen
+ls
+vi 
+ls
+vi
+ps
+exit
+cd
+jhead 111203_%25E6%259D%25B1%25E4%25BA%25AC211.JPG
+jhead 101113_PL018.JPG
+ls
+unzip ~/LightweightPicasaAPIv3-1.zip
+ls
+rm -rf Cam Picasa Picasa.php README license.txt
+mkdir Picasa
+cd Picasa
+unzip ~/LightweightPicasaAPIv3-1.zip
+ls
+vi README
+ls
+ls Picasa
+vi Picasa.php
+ls
+vi Cam/Service/PictureService.php
+ps
+vi
+exit
+ps
+exit
+exit
+exit
+exit
+exit
+exit
+exit
+ls
+shutdown -h now
+sudo shutdown -h now
+simple-scan 
+ scanimage -L
+simple-scan
+ls
+cd AMEX-CHEKED
+ls
+scp AMEX-CHEKED.zip repos.hazime.org:/var/www/
+scp AMEX-CHEKED.zip dev02.hazime.org:/var/www/
+scp AMEX-CHEKED.zip dev02.hazime.org:/tmp/
+ssh dev02.hazime.org
+jhead 101113_PL018.JPG
+jhead 111203_%25E6%259D%25B1%25E4%25BA%25AC211.JPG
+ls
+cd pr
+cd proj
+ls
+cd sss
+ls
+cd script
+ls
+vi image.php
+sudo reboot
+ls
+cd proj
+ls
+cd sss
+ls
+screen
+exit
+cd ..
+screen
+ls
+cd sss
+ls
+jhead var/images/101113_PL018.JPG
+ls
+vi script/image.php
+exit
+ssh sss.dev.useit.jp
+ssh dev01@sss.dev.useit.jp
+exit
+ls
+jhead sss/var/images/111203_æƒ½±äº¬211.JPG 
+cd sss/var
+ls
+unzip PHP_JPEG_Metadata_Toolkit_1.12.zip
+cd PHP_JPEG_Metadata_Toolkit_1.12
+ls
+cd  documentation
+ls
+firefox index.html
+ls
+cd ..
+ls
+vi IPTC.php
+ls
+cd ..
+ls
+rm -rf PHP_JPEG_Metadata_Toolkit_1.12
+rm -rf PHP_JPEG_Metadata_Toolkit_1.12.zip
+ls
+cd ..
+ls
+rm out.log
+rm script/out.log
+ls
+git add *
+git commit -a 
+git push
+git push origin master
+ls
+cd ..
+ls
+seaf3
+git add *
+git commit -a
+git commit -a -m "update"
+git push
+ls
+cd ..
+ls
+scp seaf3 sss dev01@sss.dev.useit.php:/var/www/VirtualDomain/useit.jp/sss.dev
+scp seaf3 sss dev01@sss.dev.useit.jp:/var/www/VirtualDomain/useit.jp/sss.dev
+scp -r seaf3 sss dev01@sss.dev.useit.jp:/var/www/VirtualDomain/useit.jp/sss.dev
+exit
+scp -r seaf3 sss dev01@sss.dev.useit.jp:/var/www/VirtualDomain/useit.jp/sss.dev/htdocs/lib/
+ls
+scp ~/proj/sss/var/images/101113_PL022.JPG dev01@sss.dev.useit.jp:/var/www/VirtualDomain/useit.jp/sss.dev/htdocs/lib/sss/var/images
+exit
+exit
+ls
+ps
+exit
+exit
+exit
+ls
+cd pr
+cd proj
+ls
+ls seaf3
+ls
+cd seaf3
+ls
+ls li
+cd Lib
+ls
+cd ..
+ls
+vi seaf.php
+ls
+cd ..
+ls
+scp -r seaf3 dev02.hazime.org:~
+ls
+ssh dev02.hazime.org
+exit
+ls
+cd /var/pr
+ls
+cd /var/pr
+cd proj
+ls
+cd seaf4
+cd seaf3/
+ls
+cd Third
+ls
+ssh dev02.hazime.org
+convert *.jpg AMEX-F.pdf
+ls
+mkdir RES
+cd RES
+xsane
+simple-scan
+scp ã‚¹ã‚­ãƒ££ãƒ£³ãƒµã‚ƒ¬ãŸãƒ£ƒ©ã‚­ãƒ£¥ãƒ£¡ãƒ£³ãƒ£ƒ¨.pdf dev02.hazime.org:/var/www/amex.pdf
+scp ã‚¹ã‚­ãƒ££ãƒ£³ãƒµã‚ƒ¬ãŸãƒ£ƒ©ã‚­ãƒ£¥ãƒ£¡ãƒ£³ãƒ£ƒ¨.pdf dev02.hazime.org:/tmp/amex.pdf
+ls
+ssh dev02.hazime.org
+sudo shutdown -h now
+ls
+sudo apt-get install s3cmd
+s3cmd
+s3cmd ls
+s3cmd ls s3://kurari/
+s3cmd ls s3://kurari/keepass* .
+s3cmd ls s3://kurari/keepass
+s3cmd get s3://kurari/keepass
+s3cmd get s3://kurari/keepassData.kdb
+sudo apt-get install keepass2
+keepass2
+keepass
+sudo apt-get install keepassx
+keepassx
+keepass2
+ls
+df -h
+vi .zsh_history
+ssh dev02.hazime.org
+simple-scan
+sudo shutdown -h now
+ssh dev02.hazime.org
+ls
+keepass
+keepassx
+ssh dev01.hazime.org
+ssh pokela.jp
+scp *jpg dev01.hazime.org:/tmp/
+scp *jpg pokela.jp:/tmp/
+ssh pokela.jp
+scp *jpg pokela.jp:/tmp/
+scp -r ç¬¬ï¼ƒ±ï¼ƒ¹åƒ»žã‚³ãƒ£¼ãƒ£«ã‚¹ãƒ£­ãƒ£¼  pokela.jp:/tmp/
+ssh pokera.jp
+ssh pokela.jp
+exit
+exit
+exit
+HandBrakeCLI
+HandBrake
+cd
+sudo cp -r FMV-7140MG5 /media/casper-rw
+flush
+sudo shutdown -h now
+ssh pokela.jp
+ssh dev02.hazime.org
+sudo apt-get install nautilus
+ls
+ssh dev02.hazime.org
+scp dev02.hazime.org:/var/proj/seaf3
+sudo mkdir /var/proj
+sudo chown kurari /var/proj
+cd /var/proj
+scp -r dev02.hazime.org:/var/proj/seaf3 .
+scp -r dev02.hazime.org:/var/proj/visty4 .
+ls
+ssh dev02.hazime.org "mysqldump -uroot -pdeganjue visty_develop"   > visty_develop.db
+cat visty_develop.db
+mysql -u root -p
+cat visty_develop.db | mysql -u root -pdeganjue visty_develop
+sudo apt-get install phpmyadmin
+shotwell  shotwell/suvdaa
+shotwell ~/Shotwell/suvdaa
+shotwell -d ~/Shotwell/suvdaa
+ls
+sudo ln -s visty4/public /var/www/visty4
+ls
+sudo rm /var/www/visty4
+ls
+sudo ln -s `pwd`/visty4/public /var/www/visty4
+rm visty4/app/log/out.log
+ls
+ls 
+ls visty4
+ls
+ssh dev02.hazime.org "mysqldump -uroot -pdeganjue visty"   > visty.db
+ls -la visty
+ls -la visty.db
+ls -lah visty.db
+mysql -u root 
+mysql -u root  -p
+cat visty.db | mysql -u root -pdeganjue visty
+ls
+ls /var/www
+ls
+screen
+ls
+cat visty4/app/log/out.log 
+tail -f visty4/app/log/out.log
+ls
+vi visty4
+vi 
+ls
+cd /var/proj
+ls
+;s
+ls
+vi visty4
+screen
+ls
+vi
+ls
+cd
+keepassx
+keepass2
+cd /var/proj
+ls
+screen
+ls
+cd visty4
+ls
+cd ..
+ls
+cd seaf3
+vi
+exit
+exit
+sudo shutdown -h now
+ssh pokela.jp
+scp -r *.jpg  pokela.jp:/tmp/
+ls
+sudo vi /etc/mysql/my.cnf
+sudo /etc/init.d/mysql restarrt
+sudo service mysql restart
+ls
+cd /var/proj
+ls
+screen
+ls
+cd visty4
+ls
+vi
+ls
+vi 
+exit
+sudo reboot
+ls
+cd /var/proj
+ls
+screen
+ls
+vi
+tail -f visty4/app/log/out.log
+ls
+ssh dev02.hazime.org
+exit
+exit
+exit
+exit
+sudo shutdown -ho now
+sudo shutdown -h now
+cd /var/proj
+ls
+screen
+ls
+vi
+sudo reboot
+ls
+cd /var/proj
+ls
+cd visty4
+cd ..
+screen
+vi
+exit
+tail -f visty4/app/log/out.log
+ls
+vi
+exit
+exit
+exit
+sudo shutdown -h now
+chromium-browser
+sudo shutdown -h now
+ls
+cd /var/proj
+ls
+mkdir waki/
+cd waki
+ls
+cd ..
+ls
+vi
+screen
+vi
+cd
+vi .netrc
+ftp ftp.dp44259408.lolipop.jp
+nautilus
+ls
+sudo ln -s /var/proj/waki/public/ /var/www/waki/
+sudo ln -s /var/proj/waki/public/ /var/www/waki
+ls
+cd waki
+ls
+ls app
+ls
+tail -f /var/log/apache2/error.log
+ls
+chmod 777 waki/app/log
+ls
+cd /var/proj
+vi
+nautilus
+exit
+ls
+ls waki
+ls waki/app
+ls waki/app/view
+ls waki/app/data/
+ls waki/app/data/performance
+ls waki/app/data/performance/shinsengumi.php
+exit
+cat /var/proj/waki/app/data/parformance/shinsengumi.php
+exit
+exit
+exit
+exit
+exit
+exit
+sudo shutdown -h now
+ssh pokela.jp
+ls
+cd Work
+ls
+cd Pokera
+ls
+cd 5.15
+ls
+scp -r *.jpg  pokela.jp:/tmp/
+nautilus
+ls
+cd /var/proj
+ls
+cd waki
+ls
+vi
+ls
+ssh dev01.hazime.org
+ssh dev02.hazime.org
+exit
+exit
+exit
+sudo reboot
+ls
+comix
+sudo reboot
+comix
+ls
+scp kouken.jpg dev02.hazime.org
+scp kouken.jpg dev02.hazime.org:/tmo
+scp kouken.jpg dev02.hazime.org:/tmp
+ssh dev02.hazime.org
+scp kouken.jpg dev02.hazime.org:/tmp
+ssh dev02.hazime.org
+scp kouken.jpg dev02.hazime.org:/tmp
+ssh dev02.hazime.org
+sudo reboot
+leafpad
+cd /var/proj
+ls
+cd waki
+ls
+vi app/view/script/performance/detail.php
+ls
+cd app
+ls
+cd data
+ls
+cd ..
+ls
+cd data
+ls
+cd performance
+ls
+vi shinsengumi.php
+nautilus
+sudo shutdown -h now
+ls
+cd /var
+cd po
+cd /var/proj
+ls
+cd seaf3
+ls
+vi
+chromium-browser
+sudo shutdown -h now
+sudo shotwell -d  suvdaa
+ls suvdaa
+sudo ls suvdaa
+shotwell -d /home/kurari/shotwell-suvdaa
+ls /home
+ls /home/kurari
+ls 
+cd /media/HD-PNTU3
+ls
+cd Work
+ls
+cd ..
+ls
+shotwell -d /home/kurari/shotwell-suvdaa
+shotwell --help
+man shotwell
+shotwell -d /home/kurari/shotwell-suvdaa --no-runtime-monitoring
+rm -rf /home/kurari/shotwell-suvdaa
+shotwell -d /home/kurari/shotwell-suvdaa --no-runtime-monitoring
+ssh pokela.jp
+ls
+cd Work/Pokera
+ls
+cd 5.17
+ls
+scp -r *.jpg  pokela.jp:/tmp/
+ssh pokela.jp
+sudo reboot
+df -h
+sudo reboot
+shotwell -d /home/kurari/shotwell-suvdaa --no-runtime-monitoring
+sudo apt-get install ibus-mozc mozc-server mozc-utils-gui
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get reinstall mozc
+mozc
+rm .mozc
+sudo rm .mozc
+sudo rm -rf .mozc
+sudo ap-get install update
+sudo shutdown -h now
+sudo apt-get install ubuntu-desktop 
+logout
+sudo reboot
+;s
+ls
+cd /var/proj/visty4
+ls
+cd app
+ls
+cd ..
+ls
+cd ..
+ls
+scp -r visty4 seaf3 dev02.hazime.org/tmp/
+scp -r visty4 seaf3 dev02.hazime.org:/tmp/
+ls
+rm visty4/app/log/out.log
+sudo rm visty4/app/log/out.log
+scp -r visty4 seaf3 dev02.hazime.org:/tmp/
+shotwell -d /home/kurari/shotwell-suvdaa --no-runtime-monitoring
+ssh dev02.hazime.org
+ls
+mysql -u root -pdeganjue visty_develop > visty4/script/demo.sql
+mysql -u root -pdeganjue visty_develop | ssh dev02.hazime.org "cat - | mysql -uroot -pdeganjue"
+ssh dev02.hazime.org "echo 'create database visty_develop default charset utf8' | mysql -u root -pdeganjue"
+mysql -u root -pdeganjue visty_develop | ssh dev02.hazime.org "cat - | mysql -uroot -pdeganjue"
+mysql -u root -pdeganjue visty_develop -t visty_article | ssh dev02.hazime.org "cat - | mysql -uroot -pdeganjue visty_develop"
+mysql -u root -pdeganjue visty_develop -t visty_article | ssh dev02.hazime.org "cat - | mysql -u root -pdeganjue visty_develop"
+mysql -u root -pdeganjue visty_develop -t visty_article | ssh dev02.hazime.org "cat - | mysql -u root -pdeganjue visty_develop -t visty_article"
+mysql -u root -pdeganjue visty_develop -t visty_article | ssh dev02.hazime.org "cat - "
+mysql -u root -pdeganjue visty_develop -t visty_article | ssh dev02.hazime.org
+mysql -u root -pdeganjue visty_develop -t visty_article 
+mysql -u root -pdeganjue -d visty_develop -t visty_article 
+mysql -u root -pdeganjue -t visty_develop visty_article 
+mysqldump -u root -pdeganjue -t visty_develop visty_article 
+mysqldump -u root -pdeganjue -t visty_develop visty_article | ssh dev02.hazime.org "cat - | mysql -u root -pdeganjue visty_develop "
+mysqldump --add-drop-table -u root -pdeganjue -t visty_develop visty_article | ssh dev02.hazime.org "cat - | mysql -u root -pdeganjue visty_develop "
+mysqldump --add-drop-table -u root -pdeganjue -t visty_develop visty_article 
+mysqldump --add-drop-table -u root -pdeganjue -t visty_develop visty_article  | more
+mysqldump --add-drop-table -u root -pdeganjue visty_develop | ssh dev02.hazime.org "cat - | mysql -u root -pdeganjue visty_develop "
+shotwell -d /home/kurari/shotwell-suvdaa --no-runtime-monitoring
+shotwell -d /home/kurari/shotwell-suvdaa
+wget -q https://www.ubuntulinux.jp/ubuntu-ja-archive-keyring.gpg -O- | sudo apt-key add -
+wget -q https://www.ubuntulinux.jp/ubuntu-jp-ppa-keyring.gpg -O- | sudo apt-key add -
+sudo wget https://www.ubuntulinux.jp/sources.list.d/precise.list -O /etc/apt/sources.list.d/ubuntu-ja.list
+sudo apt-get update
+sudo apt-get install ubuntu-defaults-ja
+sudo add-apt-repository ppa:ikoinoba/ppa
+sudo apt-get install ubuntu-restricted-extras
+sudo apt-get autoremove
+sudo -E wget --output-document=/etc/apt/sources.list.d/medibuntu.list http://www.medibuntu.org/sources.list.d/$(lsb_release -cs).list && sudo apt-get --quiet update && sudo apt-get --yes --quiet --allow-unauthenticated install medibuntu-keyring && sudo apt-get --quiet update
+vi /var/lib/apt/lists/archive.canonical.com_ubuntu_dists_precise_
+sudo vi /var/lib/apt/lists/archive.canonical.com_ubuntu_dists_precise_
+	sudo vi /var/lib/apt/lists/archive.canonical.com_ubuntu_dists_precise_Release
+	sudo vi /var/lib/apt/lists/archive.canonical.com_ubuntu_dists_precise_partner_source_Sources
+sudo vi /etc/apt/sources.list
+sudo apt-get update
+ls
+cd /var/proj
+ls
+sudo /etc/init.d/mysql restart
+sudo service mysql restart
+tail -f /var/log/mysql.log
+tail -f /var/log/mysql.err
+sudo tail -f /var/log/mysql.err
+sudo service mysql restart
+/var/log/
+ls
+cat mysql.log
+cat mysql/error.log 
+sudo tail mysql/error.log 
+sudo tail -f  mysql/error.log 
+sudo service mysql restart
+sudo vi /etc/mysql/my.cnf
+sudo service mysql restart
+ps
+sudo service mysql restart
+sudo vi /etc/mysql/my.cnf
+sudo service mysql restart
+sudo tail -f  mysql/error.log 
+cd /var/proj
+ls
+cd visty4
+ls
+vi
+screen
+vi
+ls
+tail -f app/log/out.log
+sudo vi /etc/mysql/my.cnf
+ls
+cd ..
+rsync -avz visty4/ dev02.hazime.org:/var/proj/visty4/
+rsync -avz seaf3/ dev02.hazime.org:/var/proj/seaf3/
+ssh dev02.hazime.org
+ls
+cd visty4
+ls
+vi
+ls
+cd public
+ls
+vi .htaccess
+sudo vi /etc/apache2/sites-enabled/000-default 
+sudo service apache2 restart
+sudo a2enmod rewrite
+sudo service apache2 restart
+sudo  vi .htaccess
+ls
+cd ..
+rsync -avz seaf3/ dev02.hazime.org:/var/proj/seaf3/
+rsync -avz visty4/ dev02.hazime.org:/var/proj/visty4/
+ls
+chmod 777 visty4/app/log/out.log
+sudo chmod 777 visty4/app/log/out.log
+ssh dev02.hazime.org 
+rsync -avz visty4/ dev02.hazime.org:/var/proj/visty4/
+rsync -avz seaf3/ dev02.hazime.org:/var/proj/seaf3/
+ssh dev02.hazime.org 
+rsync -avz visty4/public/ dev02.hazime.org:/var/proj/visty4/public/
+rsync -avz visty4/ dev02.hazime.org:/var/proj/visty4/
+rsync -avz seaf3/ dev02.hazime.org:/var/proj/seaf3/
+rsync -avz visty4/ dev02.hazime.org:/var/proj/visty4/
+rsync -avz seaf3/ dev02.hazime.org:/var/proj/seaf3/
+exit
+exit
+exit
+exit
+ls
+ssh pokela.jp
+cd ~/Work
+cd Pokera
+cd 5.22
+ls
+scp -r *.jpg  pokela.jp:/tmp/
+vi
+cd ..
+vi
+ls
+cd
+cd /var/proj
+rsync -avz seaf3/ dev02.hazime.org:/var/proj/seaf3/
+rsync -avz visty4/ dev02.hazime.org:/var/proj/visty4/
+ps
+rsync -avz visty4/ dev02.hazime.org:/var/proj/visty4/
+rsync -avz seaf3/ dev02.hazime.org:/var/proj/seaf3/
+rsync -avz visty4/ dev02.hazime.org:/var/proj/visty4/
+rsync -avz seaf3/ dev02.hazime.org:/var/proj/seaf3/
+rsync -avz visty4/ dev02.hazime.org:/var/proj/visty4/
+exit
+exit
+exit
+sudo shutdown -h now
+cd /var/proj
+screen
+ls
+vi
+tail -f visty4/app/log/out.log
+cd
+ls
+cd proj
+ls
+cd seaf
+;s
+ls
+cd class
+l
+ls
+ls -la  ~
+ls -la  ~/proj/seaf2
+ls -la  ~/proj/seaf2/class
+ls
+exit
+ls
+ps
+vi
+rsync -avz visty4/ dev02.hazime.org:/var/proj/visty4/
+rsync -avz seaf3/ dev02.hazime.org:/var/proj/seaf3/
+ssh dev02.hazime.org
+mysqldump -u root -pdeganjue visty_develop > vd.db
+sudo vi /etc/mysql/my.cnf
+mysqldump -u root -pdeganjue visty_develop > vd.db
+scp vd.db dev02.hazime.org:/tmp
+vi
+rsync -avz visty4/ dev02.hazime.org:/var/proj/visty4/
+vi
+rsync -avz visty4/ dev02.hazime.org:/var/proj/visty4/
+exit
+exit
+sudo shutdown -h now
+ifconfig
+ping 192.168.11.50
+cd /var/proj
+ls
+vi
+screen
+vi
+tail -f visty4/app/log/out.log
+sudo shutdown -h now
+ssh mx2.hazime.org
+sudo dev02.hazime.org
+ssh dev02.hazime.org
+ssh -i .ssh/AvapServer.pem ubuntu@mx2.hazime.org
+ls
+cd d
+cd doc
+ls
+cd mitsumori
+ls
+ls ../
+ls ../tex
+ls ../sample
+ls
+latex Vistyã‚µãƒ£¼ãƒ£ƒ°.tex
+ls
+cd ..
+ls
+vi ubuntu/how-to-tex.tex
+ls
+ls ubuntu
+ls
+ubuntu
+ls
+vi in
+vi install.tex
+vi tool-install.tex
+cat a
+sudo /bin/bash < a
+sudo aptitude install texlive texlive-math-extra ptex-bin xdvik-ja
+sudo dvipsk-ja dvipdfmx cmap-adobe-japan1 okumura-clsfiles jmpost jbibtex-bin mendexk
+sudo apt-get install dvipsk-ja dvipdfmx cmap-adobe-japan1 okumura-clsfiles jmpost jbibtex-bin mendexk
+sudo apt-get install texlive-biraries
+ps
+exit
+cd doc/ubuntu
+ls
+vi introduction.tex
+vi tool-install.tex
+vi ~/.bashrc
+ls
+rm a
+cat main.tex
+vi main.tex
+latex main.tex
+platex main.tex
+echo $TEXMFHOME
+ls
+cd ..
+cd
+bzcat jlisting.sty.bz2
+bzcat jlisting.sty.bz2 >${TEXMFVAR}/tex/latex/jlisting/jlisting.sty
+bzcat jlisting.sty.bz2 > ${TEXMFVAR}/tex/latex/jlisting/jlisting.sty
+mkdir ${TEXMFVAR}/tex/latex/jlisting/
+echo  $TEXMFVAR
+ls /etc/texmf/texmf.cnf
+vi /etc/texmf/texmf.cnf
+ls .texmf-var/tex/latex/jlisting/ -p
+mkdir .texmf-var/tex/latex/jlisting/ -p
+bzcat jlisting.sty.bz2 > .texmf-var/tex/latex/jlisting/jlisting.sty
+cd doc
+ls
+cd avap
+ls
+platex OCN.tex
+dvipdfmx OCN.dvi
+ls
+cd ../mitsumori
+ls
+cp Vistyãƒ£ƒµã‚¡ãƒ£¼ã‚¹ãƒ£ƒ¨.tex Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+vi Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+platex Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+dvipdf Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.dvi
+dvipdfmx Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.dvi
+dvipdfm Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.dvi
+dvipdf Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.dvi
+vi Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+platex Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+dvipdf Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.dvi
+vi Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+platex Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+dvipdf Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.dvi
+vi Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+dvipdf Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.dvi
+platex Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+dvipdf Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.dvi
+vi Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+platex Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+dvipdf Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.dvi
+ls
+cat Vistyãƒ£ƒµã‚¡ãƒ£¼ã‚¹ãƒ£ƒ¨è«ƒ«æ±‚.tex
+vi Vistyãƒ£ƒµã‚¡ãƒ£¼ã‚¹ãƒ£ƒ¨è«ƒ«æ±‚.tex
+cp Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©è«ƒ«æ±‚.tex
+vi Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©è«ƒ«æ±‚.tex
+vi Vistyãƒ£ƒµã‚¡ãƒ£¼ã‚¹ãƒ£ƒ¨è«ƒ«æ±‚.tex
+vi Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©è«ƒ«æ±‚.tex
+vi Vistyãƒ£ƒµã‚¡ãƒ£¼ã‚¹ãƒ£ƒ¨è«ƒ«æ±‚.tex
+platex Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©è«ƒ«æ±‚.tex
+vi Vistyãƒ£ƒµã‚¡ãƒ£¼ã‚¹ãƒ£ƒ¨è«ƒ«æ±‚.tex
+ls
+vi mitsumori.sty
+cp mitsumori.sty seikyu.sty
+vi seikyu.sty
+platex Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©è«ƒ«æ±‚.tex
+dvipdf Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©è«ƒ«æ±‚.dvi
+vi seikyu.sty
+vi Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©è«ƒ«æ±‚.tex
+platex Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©è«ƒ«æ±‚.tex
+dvipdf Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©è«ƒ«æ±‚.dvi
+screen
+exit
+cd 
+screen
+ls
+cd Work/Pokera
+ls
+cd 5.29
+scp -r *.jpg  pokela.jp:/tmp/
+ssh pokela.jp
+df -h
+ls
+ssh pokela.jp
+scp pokela.jp:/home/pokelajp/bk.tgz .
+cd va
+cd /var
+l
+ls
+cd proj
+ls
+mkdir pokela
+cd pokela
+ls
+mkdir etc
+mv ~/public_html etc
+cd 2
+cd ../../
+ls
+rsync -av proj /media/HD-PNTU3/
+ls
+cd proj
+ls
+cd pokela
+ls
+ls ../visty4
+mkdir public app
+ls
+vi 
+cd /var/www
+ls
+ln -s ../proj/pokela/public pokela
+sudo ln -s ../proj/pokela/public pokela
+tail -f visty4/app/log/out.log
+tail -f /var/log/apache2/error.log
+ps
+exit
+ls
+cd /var/proj
+ls
+cd pokela
+ls
+cd public
+ls
+scp -r pokela.jp:/home/pokelajp/public_html/css .
+vi 
+ls
+cd ..
+ls
+cd ..
+ls
+ls vistypu
+ls visty4/public
+vi visty4/public/.htaccess
+vi pokela/public/.htaccess
+cd pokela
+ls
+cd etc
+ls
+scp -r pokela.jp:/home/pokelajp/lib/ .
+scp -r pokela.jp:/home/pokelajp/Pokela/
+ssh pokela.jp
+scp -r pokela.jp:/home/pokelajp/public_html/lib/ .
+ls
+vi 
+ls
+cd ..
+ls
+mkdir font/
+cd font
+ssh pokela.jp
+ls /var/proj/pokela/app/font/azuki.ttf
+tail -f /var/log/apache2/error.log
+ls
+cd /var/proj
+ls
+vi
+ls
+cd doc
+ls
+cd mitsumori
+ls
+vi Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+platex Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.tex
+dvipdf Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©.dvi
+vi Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©è«ƒ«æ±‚.tex
+platex Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©è«ƒ«æ±‚.tex
+dvipdf Vistyã‚»ã‚«ãƒ£³ãƒ£ƒ©è«ƒ«æ±‚.dvi
+exit
+: 1338437265:0;ls
+: 1338437273:0;cat /etc/apache2/apache2.conf
+: 1338437283:0;cat /etc/apache2/sites-enabled
+: 1338437291:0;cat /etc/apache2/sites-enabled/000-default
+: 1338437303:0;ls /etc/apache2
+: 1338437306:0;ls /etc/apache2/conf.d
+: 1338437313:0;ls /etc/apache2/conf.d/phpmyadmin.conf
+: 1338437315:0;vi /etc/apache2/conf.d/phpmyadmin.conf
+: 1338437317:0;sudo vi /etc/apache2/conf.d/phpmyadmin.conf
+: 1338437483:0;ssh pokela.jp
+: 1338437848:0;php -v
+: 1338437851:0;ls
+: 1338438015:0;cd 
+: 1338438016:0;ls
+: 1338438020:0;ls vim
+: 1338438023:0;ls .vimrc
+: 1338438042:0;git commit -a
+: 1338438064:0;ls
+: 1338438255:0;ls .ssh
+: 1338438263:0;cat .ssh/authorized_keys
+: 1338438316:0;ssh-keygen -f .ssh/HajimeMATSUMOTO_rsa -y
+: 1338438377:0;ssh-keygen -f .ssh/kurari_rsa -y
+: 1338438490:0;ls
+: 1338438501:0;git clone  git@github.com:hajime-matsumoto/Seaf.git
+: 1338438510:0;ls
+: 1338438512:0;cd S
+: 1338438515:0;cd Seaf
+: 1338438516:0;ls
+: 1338438519:0;vi README.md
+: 1338438544:0;cp /var/proj/seaf3/Seaf.class.php .
+: 1338438560:0;cp -r /var/proj/seaf3/library .
+: 1338438565:0;cp -r /var/proj/seaf3/seaf.php .
+: 1338438578:0;ls
+: 1338438580:0;git add *
+: 1338438586:0;git commit -m "first commit"
+: 1338438589:0;git push
+: 1338438736:0;ls
+: 1338438739:0;cd ..
+: 1338438739:0;ls
+: 1338438744:0;git clone git@github.com:hajime-matsumoto/LinuxEnv.git
+: 1338438750:0;cd LinuxEnv
+: 1338438751:0;ls
+: 1338438818:0;cp -r ../.vimrc ../.vim ../.zsh_history ../.zshrc .
+: 1338438820:0;ls
+: 1338438823:0;ls -la
+: 1338438828:0;vi .vimrc
+: 1338438850:0;cp -r ../.vimrc ../.vim ../.zsh_history ../.zshrc ../.screenrc .

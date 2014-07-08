@@ -1,0 +1,2000 @@
+./test
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+ls
+cd ..
+ls
+cd ..
+ls
+cd etc
+ls
+sudo gedit grub.d
+cd grub
+cd grub.d
+ls
+sudo gedit 30_os-prober
+cd ../..
+ls
+cd etc/grub.d
+ls
+mv 10_linux 20_linux
+sudo mv 10_linux 20_linux
+ls
+sudo mv 20_linux_xen 30_linux_xen
+sudo mv 30_os-prober 10_os-prober
+ls
+sudo mv 20_memtest86+ 30_memtest86+
+ls
+update-grub
+sudo update-grub
+cd ..
+ls
+cd default
+ls
+sudo gedit grub
+update-grub
+sudo update-grub
+cd cs435
+ls
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+sudo add-apt-repository ppa:tualatrix/ppa
+sudo apt-get install ubuntu-tweak
+sudo apt-get install medibuntu
+sudo apt-get install vlc
+vlc
+wine
+cd cs435
+ls
+./prog1
+emacs prog1.cpp
+bg
+virtualbox
+ls
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+gedit default.txt 
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+gedit default.txt
+./prog1
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+gedit default.txt
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+g++ prog1.cpp -o prog1 -lpthread
+./prog1
+mv prog1.cpp pthreadUtterback.cpp
+ls
+rm prog1
+ls
+rm test
+rm test.cpp
+ls
+g++ pthreadUtterback.cpp -o prog1 -lpthread
+ls
+./prog1
+g++ pthreadUtterback.cpp -o prog1 -lpthread
+./prog1
+gedit default.txt
+ls
+emacs pthreadUtterback.cpp
+emacs prog1.cpp
+rm pthreadUtterback.cpp 
+mv prog1.cpp pthreadUtterback.cpp
+ls
+rm prog1.cpp~
+rm test.cpp~
+ls
+rm prog1
+emacs pthreadUtterback.cpp
+bg
+g++ pthreadUtterback.cpp -o pthreadUtterback -lpthread
+./pthreadUtterback
+gedit default.txt 
+g++ pthreadUtterback.cpp -o pthreadUtterback -lpthread
+./pthreadUtterback
+ssh sand.truman.edu
+ssh rsu3525@sand.truman.edu
+ssh -X rsu3525@sand.truman.edu
+sudo apt-get install amarok
+cd cs435
+touch spellUtterback.cpp
+& emacs spellUtterback.cpp 
+emacs spellUtterback.cpp &
+emacs pthreadUtterback.cpp &
+emacs dict.txt
+emacs &
+iwconfig
+iwconfig wlan0 power off
+sudo iwconfig wlan0 power off
+iwconfig
+ls
+cd ..
+ls
+cd ..
+ls
+cd boot
+ls
+cd grub
+ls
+cd ..\
+ls
+cd ..
+ls
+cd etc
+ls
+cd ../..
+ls
+cd boot/grub.d
+cd boot/grub
+ls
+gedit grub.conf
+ls
+gedit grub.cfg
+cd ..
+ls
+cd etc
+cd grub.d
+ls
+rm 30_os-prober
+sudo rm 30_os-prober
+ls
+sudo rm 20_linux
+mv 10_linux 20_linux
+sudo mv 10_linux 20_linux
+ls
+rm 30_linux_xen
+sudo rm 30_linux_xen
+ls
+cd ..
+cd default
+ls
+grub
+cd grub
+gedit grub
+update-grub
+sudo update-grub
+iwconfig
+sudo iwconfig power off
+sudo iwconfig wlan0 power off
+iwconfig
+ls
+cd cs435
+las
+ls
+emacs spellUtterback.cpp &
+emacs pthreadUtterback.cpp &
+emacs test.cpp &
+g++ test.cpp -o test
+ls
+./test
+g++ test.cpp -o test
+./test
+g++ test.cpp -o test
+./test
+g++ test.cpp -o test
+./test
+g++ test.cpp -o test
+./test
+g++ test.cpp -o test
+./test
+ls
+emacs pthreadUtterback.cpp &
+g++ test.cpp -o test
+./test
+cd cs435
+ls
+emacs spellUtterback.cpp &
+emacs test.cpp &
+g++ test.cpp -o test
+./test
+g++ test.cpp -o test
+./test
+g++ test.cpp -o test
+./test
+g++ spellUtterback.cpp -o spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+less dict.txt 
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+cd cs435
+ls
+emacs spellUtterback.cpp &
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+kill spell
+ps ux
+kill -s 6202
+kill -9 6202
+ls
+g++ cond.cc -o cond -lpthread
+g++ cond.cc -o cond queue.cc -lpthread
+ls
+./cond
+ps ux
+clear
+emacs cond.cc &
+g++ cond.cc -o cond queue.cc -lpthread
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+cd cs435
+ls
+emacs pthreadUtterback.cpp &
+emacs spellUtterback.cpp &
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+unity
+quit
+exit
+reboot
+sudo reboot
+ls
+cd cs435
+ls
+emacs spellUtterback.cpp &
+cd cs435
+ls
+emacs spellUtterback.cpp &
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+gedit dict.txt
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+cp spellUtterback.cpp spellUtterback_old.cpp
+emacs spellUtterback.cpp &
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+./spell test
+./spell test test
+g++ spellUtterback.cpp -o spell -lpthread
+./spell test test
+./spell
+g++ spellUtterback.cpp -o spell -lpthread
+./spell test dict.txt
+./spell 3 test
+ls
+./spell 3 blah
+g++ spellUtterback.cpp -o spell -lpthread
+./spell 3 blah
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+gedit spell
+cd cs435
+ls
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+gedit dict1.txt
+./spell 10 dict1.txt
+cd cs435
+ls
+./spell
+gedit spellUtterback.cpp
+emacs spellUtterback.cpp &
+g++ spellUtterback.cpp -o spell -lpthread
+./spell
+gedit dict2.txt
+ls
+./spell 50 dict2.txt
+g++ spellUtterback.cpp -o spell -lpthread
+./spell 500 dict.txt
+clisp
+sudo apt-get install clisp
+cd Desktop
+ls
+clisp
+ls
+cd Desktop
+ls
+emacs orc.lisp &
+jav
+java
+javac
+jkd
+jdk
+sun
+apt-cahce search jdk
+apt-cache search jdk
+apt-cache search sun
+apt-cache search sun-java
+ls
+cd ..
+ls
+cd ..
+ls
+cd etc/apt
+ls
+gedit sources.list
+sudo gedit sources.list
+sudo apt-get update
+sjava
+java
+sun-java7-jdk
+ssh -X sand.truman.edu
+emacs -nw
+ssh -X rsu3525@sand.truman.edu
+ls
+cd ..
+ls
+cd ..
+cd
+ls
+cd cs435
+ls
+emacs spell.java
+bg
+gedit spellUtterback.cpp
+gedit pthreadUtterback.cpp
+bg
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd usr/lib
+ls
+cd jvm
+mkdir jvm
+sudo mkdir jvm
+ls
+cd jvm
+ls
+gksudo
+cd ../../..
+ls
+cd home
+ls
+cd rob
+ls
+cd Downloads
+ls
+cd ../../usr/lib/jvm
+cd ../../../usr/lib/jvm
+ls
+cd ../../..
+ls
+cd home/rob/Downloads
+ls
+sudo mv jdk-7u1-linux-x64.tar.gz ../../../usr/lib/jvm
+cd ../../../usr/lib/jvm
+tar zxvf jdk-7u1-linux-x64.tar.gz 
+sudo tar zxvf jdk-7u1-linux-x64.tar.gz 
+ls
+sudo rm jdk-7u1-linux-x64.tar.gz 
+java
+javac
+sudo mv jdk1.7.0_01 java-7-oracle
+sudo ln -s java-7-oracle java-1.7.0-oracle
+sudo gedit .java-1.7.0-oracle.jinfo
+sudo -sH
+cd ../../.
+cd ..
+ls
+cd home/rob/cs435
+ls
+xdg-open doc.pdf
+bg
+ls
+rm *.cpp
+rm *.cpp~
+ls
+rm *.cc *.cc~
+ls
+rm cond
+rm pthreadUtterback
+rm spell
+rm test
+rm *.h
+ls
+rm dict1.txt dict2.txt dict.txt doc.pdf
+ls
+man a2ps
+emacs SortThread.java &
+emacs JThreadUtterback.java &
+ls
+man lpr
+lpoptions
+javac JThreadUtterback.java SortThread.java WordList.java
+ls
+rm JThreadUtterback.class
+javac JThreadUtterback.java SortThread.java WordList.java
+man chmod
+sudo javac JThreadUtterback.java SortThread.java WordList.java
+java JThreadUtterback test3.txt
+emacs JThreadUtterback.java
+bg
+man chmod
+ls
+cp JThreadUtterback.java 1bak.java
+cp SortThread.java 2bak.java
+cp WordList.java 3bak.java
+chmod WordList.java a
+chmod --help
+chmod a WordList.java
+chmod [a] WordList.java
+ls -l WordList.java
+chmod aaa WordList.java
+chmod 111 WordList.java
+ls -l WordList.java
+chmod 100 WordList.java
+ls -l WordList.java
+chmod 555 WordList.java
+ls -l WordList.java
+chmod 001 WordList.java
+ls -l WordList.java
+chmod 222 WordList.java
+ls -l WordList.java
+chmod 333 WordList.java
+ls -l WordList.java
+chmod 444 WordList.java
+ls -l WordList.java
+chmod 666 WordList.java
+ls -l WordList.java
+exit
+ls
+cd cs435
+javac JThreadUtterback.java WordList.java SortThread.java
+man chmod
+sudo -s
+ls
+sudo chmod 666 SortThread.java
+sudo chmod 666 JThreadUtterback.java
+ls
+javac JThreadUtterback.java WordList.java SortThread.java 
+sudo chmod 666 WordList.class
+sudo chmod 666 SortThread.class
+sudo chmod 666 JThreadUtterback.class
+javac JThreadUtterback.java WordList.java SortThread.java 
+java JThreadUtterback test3.txt
+ssh -X rsu3525@sand.truman.edu
+man tar
+tar tvf prog2a JThreadUtterback.java SortThread.java WordList.java
+tar tvf prog2a.tar JThreadUtterback.java SortThread.java WordList.java
+tar -tvf prog2a.tar JThreadUtterback.java SortThread.java WordList.java
+man tar
+tar -cf archive.tar JThreadUtterback.java SortThread.java WordList.java
+mv archive.tar proj2a.tar
+man tar
+ls
+cd ../..
+ls
+cd usr
+ls
+cd src
+ls
+cd ..
+cd ../etc
+ls
+gedit sources.list
+ls
+cd ..
+ls
+cd etc/apt
+ls
+sudo gedit sources.list
+apt-get update
+sudo apt-get update
+ls
+cd cs435
+ls
+javac PrimesUtterback.java SieveThread.java 
+java PrimesUtterback 100 3
+emacs PrimesUtterback.java &
+emacs JThreadUtterback.java &
+javac PrimesUtterback.java SieveThread.java 
+java PrimesUtterback 100 3
+javac PrimesUtterback.java SieveThread.java 
+java PrimesUtterback 100 3
+javac PrimesUtterback.java SieveThread.java 
+java PrimesUtterback 100 3
+cd cs435
+ls
+emacs PrimesUtterback.java
+bg
+javac PrimesUtterback.java SieveThread.java 
+java PrimesUtterback 50 25
+javac PrimesUtterback.java SieveThread.java 
+java PrimesUtterback 50 1
+javac PrimesUtterback.java SieveThread.java 
+java PrimesUtterback 50 1
+java PrimesUtterback 50 2
+javac PrimesUtterback.java SieveThread.java 
+touch MutableInt.java
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 50 2
+java PrimesUtterback 100 2
+java PrimesUtterback 1000 2
+java PrimesUtterback 1000 15
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 100 2
+java PrimesUtterback 10 2
+java PrimesUtterback 100 2
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 1000000000 2
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 1000000000 2
+java PrimesUtterback 1000000000 150
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 100 13
+time
+time java PrimesUtterback 100 13
+time java PrimesUtterback 100 1
+time java PrimesUtterback 10000000 1
+time java PrimesUtterback 10000000 100
+time java PrimesUtterback 10000000 100 > test.txt
+gedit test.txt
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 100 1
+java PrimesUtterback 100 5
+java PrimesUtterback 5 5
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 100 5
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 100 5
+java PrimesUtterback 5 5
+java PrimesUtterback 4 5
+java PrimesUtterback 3 5
+java PrimesUtterback 2 5
+java PrimesUtterback 1 5
+java PrimesUtterback 0 5
+java PrimesUtterback -1 5
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback -1 5
+java PrimesUtterback 100 5
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 100 5
+java PrimesUtterback 1000000 5
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 1000000 5
+ls
+rm test.txt
+ls
+gedit SortThread.java
+ls
+gedit SortThread.java &
+emacs PrimesUtterback.java &
+cd ..
+ls
+cd .emacs
+ls -al
+gedit .emacs
+cd cs435
+ls
+emacs PrimesUtterback.java &
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 3 10
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 3 10
+gedit PrimesUtterback.
+gedit PrimesUtterback.java
+ls
+man a2ps
+gedit JThreadUtterback.java
+bg
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 10 10
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 10 10
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 10 10
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 10 10
+java PrimesUtterback 100 10
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 100 10
+java PrimesUtterback 100000 10
+java PrimesUtterback 100000 10 > test.txt
+gedit test.txt 
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 100000 10
+ls
+ps-print-buffer
+gedit JThreadUtterback.java
+ls
+cd ..
+ls
+output.pdf
+open output.pdf
+cd cs435
+ls
+rm *.java~
+ls
+rm JThreadUtterback.java SortThread.java test.txt
+ls
+rm *.class
+ls
+tar xvf
+tar --usage
+man tar
+tar vcf PrimesUtterback.java SieveThread.java MutableInt.java  proj2b.tar
+tar vcf PrimesUtterback.java SieveThread.java MutableInt.java
+
+tar vcf proj2b.tar PrimesUtterback.java SieveThread.java MutableInt.java
+javac PrimesUtterback.java SieveThread.java MutableInt.java 
+java PrimesUtterback 100 3
+java PrimesUtterback 10000 30
+cd cs435
+ls
+emacs PrimesUtterback.java 
+emacs SieveThread.java 
+bg
+ant
+ssh sand.truman.edu rsu3525@truman.edu
+ssh sand.truman.edu rsu3525
+ssh -X sand.truman.edu rsu3525
+smbmount //hydrogen.truman.edu/rsu3525 ydrive -o username=rsu3525,workgroup=truman
+sudo apt-get install smbfs
+smbmount //hydrogen.truman.edu/rsu3525 ydrive -o username=rsu3525,workgroup=truman
+sudo chmod u+s /sbin/mount.cifs /sbin/umount.cifs
+ls
+cd ..
+ls
+cd ..
+ls
+cd sbin
+ls
+cd ..
+sudo chmod u+s /sbin/mount.cifs /sbin/umount.cifs
+cd sbin
+ls
+sudo chmod u+s mount.cifs
+cd ..
+ls
+cd home
+ls
+cd rob
+ls
+smbmount //hydrogen.truman.edu/rsu3525 ydrive -o username=rsu3525,workgroup=truman
+vpn
+vnc
+ssh -X rsu3525@sand.truman.edu
+ls
+mkdir ydrive
+sudo chmod u+s /sbin/mount.cifs /sbin/umount.cifs
+ssh -X rsu3525@sand.truman.edu
+cd cs435
+ls
+tar vcf proj2b.tar PrimesUtterback.java SieveThread.java MutableInt.java
+emacs
+cd ../PDF
+ls
+cd cs435
+ls
+rm *.java
+rm *.class
+ls
+rm *.java~
+ls
+touch lifeUtterback.cpp
+ssh rsu3525@sand.truman.edu
+ssh sand
+ssh-keygen
+cat .ssh/id_rsa.pub >> .ssh/authorized_keys
+gedit lifeUtterback.cpp 
+emacs lifeUtterback.cpp
+bg
+nx
+ssh -X rsu3525@sand.truman.edu
+nx-client
+cd cs435
+ls
+emacs lifeUtterback.cpp &
+ssh -X rsu3525@truman.edu
+tp
+top
+ssh -X rsu3525@truman.edu
+ssh -X rsu3525@sand.truman.edu
+ls
+ssh -X rsu3525@san.dtruman.edu
+ssh -X rsu3525@sand.truman.edu
+ls
+emacs lifeUtterback.cc &
+emacs test.cc &
+g++ test.cc test
+g++ test test.cc
+g++ -o test test.cc
+./test
+ls
+g++ -o binom.cpp binom
+g++ -o binom binom.cpp
+./binom
+top
+sudo apt-get install rtf2latex2e
+ls
+rm *.cpp~
+ls
+g++ -Wall -O0 -o short.cpp short
+g++ -Wall -O0 -o short short.cpp
+./short
+g++ -Wall -O0 -o quine quine.cpp
+quit
+exit
+ls
+g++ -Wall -O0 -o quine quine.cpp
+./quine
+g++ -Wall -O0 -o quine quine.cpp
+clear
+g++ -Wall -O0 -o quine quine.cpp
+clear
+./quine
+clear
+g++ -Wall -O0 -o quine quine.cpp
+./quine
+clear
+g++ -Wall -O0 -o quine quine.cpp
+./quine
+g++ -Wall -O0 -o quine quine.cpp
+clear
+g++ -Wall -O0 -o quine quine.cpp
+./quine
+g++ -Wall -O0 -o quine quine.cpp
+./quine
+clear
+g++ -Wall -O0 -o quine quine.cpp
+./quine
+./quine > test.cpp
+ls
+g++ -Wall -O0 -o test test.cpp
+g++ -Wall -O0 -o quine quine.cpp
+./quine > test.cpp
+g++ -Wall -O0 -o test test.cpp
+emacs test.cpp &
+clear
+g++ -Wall -O0 -o quine quine.cpp
+./quine > test.cpp
+g++ -Wall -O0 -o test test.cpp
+./test
+ls
+cd Desktop
+ls
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+./quine
+g++ -Wall -O0 -o quine quine.cpp
+./quine
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o new new.cpp
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o new new.cpp
+./new
+cmp
+cmp --help
+man cmp
+ls
+cd Desktop
+ls
+cmp new.cpp virus.cpp
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+cmp new.cpp virus.cpp
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+cmp new.cpp virus.cpp
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+cmp new.cpp virus.cpp
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+cmp new.cpp virus.cpp
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+./new
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+kill virus
+ps
+kill 3483
+kill 3425
+kill 3401
+kill 3441
+kill 3327
+ps
+kill 3457
+kill 3449
+kill 3441
+kill 3425
+kill 3420
+kill 3412
+kill 3402
+ps
+clear
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o new new.cpp
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+cmp virus.cpp new.cpp
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+clear
+cd ..
+ls
+clear
+g++ -Wall -O0 -o short short.cpp
+./short
+clear
+g++ -Wall -O0 -o quine quine.cpp
+./quine >> test
+cmp quine.cpp test
+clear
+g++ -Wall -O0 -o quine quine.cpp
+./quine >> test
+cmp quine.cpp test
+g++ -Wall -O0 -o quine quine.cpp
+./quine >> test
+cmp quine.cpp test
+g++ -Wall -O0 -o quine quine.cpp
+rm test
+./quine >> test
+cmp quine.cpp test
+rm test
+g++ -Wall -O0 -o quine quine.cpp
+./quine >> test
+cmp quine.cpp test
+rm test
+g++ -Wall -O0 -o quine quine.cpp
+./quine >> test
+cmp quine.cpp test
+clear
+rm test
+g++ -Wall -O0 -o quine quine.cpp
+./quine >> test
+cmp quine.cpp test
+rm test
+g++ -Wall -O0 -o quine quine.cpp
+./quine >> test
+cmp quine.cpp test
+g++ -Wall -O0 -o quine quine.cpp
+g++ -Wall -O0 -o test test.cpp
+clear
+g++ -Wall -O0 -o quine quine.cpp
+./quine >> test
+cmp quine.cpp test
+clear
+g++ -Wall -O0 -o quine quine.cpp
+./quine >> test
+cmp quine.cpp test
+rm test
+clear
+g++ -Wall -O0 -o quine quine.cpp
+./quine >> test
+cmp quine.cpp test
+rm test
+g++ -Wall -O0 -o quine quine.cpp
+./quine > test
+cmp quine.cpp test
+clear
+g++ -Wall -O0 -o virus virus.cpp
+./virus
+cmp virus.cpp new.cpp
+/etc/grub.d
+cd /etc/grub.d
+ls
+gedit 10_linux 
+move
+mv
+mv --help
+ls
+mv 30_os-prober /
+rm 30_os-prober 
+cd /
+ls
+cd home
+ls
+dirs
+pushd
+cd rob
+ls
+.
+cd .
+ls
+pushd .
+ls
+popd
+dirs
+cd ../..
+ls
+ls ~
+ls
+cd etc/grub.d
+ls
+mv 30_os-prober ~/
+sudo mv 30_os-prober ~/
+ls
+sudo mv 41_custom ~/
+ls
+mv 20_linux ~/
+sudo mv 20_linux ~/
+sudo mv 10_linux 20_linux
+ls
+update-grub
+sudo update-grub
+ls -la
+cd /boot/grub
+ls
+gedit grub.cf
+gedit grub.cfg
+cd /etc/grub.d
+ls
+ls -l
+ls -la
+gedit 20_linux
+gedit 20_linux_xen
+gedit /boot/grub/grub.cfg
+sudo apt-get autoremove
+ls
+rm 20_linux,30_os-prober
+rm 20_linux 30_os-prober 41_custom 
+ls
+ls -l
+chmod o+w quine.cpp~ 
+ls -lf
+ls -l
+rm quine.cpp~ 
+rm short.cpp~ 
+man ls
+groups
+ls
+cd Desktop
+ls
+rm *.*~
+ls
+mkdir euler
+ls
+cd euler
+ls
+touch prob1.cpp
+emacs prob1.cpp &
+ls
+cd ..
+ls
+cd ..
+ls
+cd Documents/
+ls
+cd ../ydrive
+ls
+cd /
+ls
+cd dev
+ls
+cd ..
+ls
+cd home
+ls
+cd rob
+ls
+cd Downloads/
+ls
+gedit prog1.cpp 
+ls
+gedit Downloads/prog1.cpp &
+cd Desktop/euler
+ls
+g++ -o prob1.cpp prob1
+g++ -o prob1 prob1.cpp -Wall
+emacs prob1.cpp &
+g++ -o prob1 prob1.cpp -Wall
+prob1 1000
+ls
+./prob1 1000
+./prob 10
+./prob1 10
+ls
+g++ -o prob1 prob1.cpp -Wall
+./prob1 10
+g++ -o prob1 prob1.cpp -Wall
+./prob1 10
+g++ -o prob1 prob1.cpp -Wall
+./prob1 10
+g++ -o prob1 prob1.cpp -Wall
+./prob1 10
+g++ -o prob1 prob1.cpp -Wall
+./prob1 10
+g++ -o prob1 prob1.cpp -Wall
+./prob1 10
+g++ -o prob1 prob1.cpp -Wall
+./prob1 10
+./prob1 1000
+cp prob1.cpp prob2.cpp
+emacs prob2.cpp &
+g++ -o prob2 prob2.cpp -Wall
+./prob2 2
+g++ -o prob2 prob2.cpp -Wall
+./prob2 2
+g++ -o prob2 prob2.cpp -Wall
+./prob2 2
+g++ -o prob2 prob2.cpp -Wall
+./prob2 2
+g++ -o prob2 prob2.cpp -Wall
+./prob2 2
+g++ -o prob2 prob2.cpp -Wall
+./prob2 2
+g++ -o prob2 prob2.cpp -Wall
+./prob2 2
+g++ -o prob2 prob2.cpp -Wall
+./prob2 2
+g++ -o prob2 prob2.cpp -Wall
+./prob2 2
+
+./prob2 0
+g++ -o prob2 prob2.cpp -Wall
+./prob2 0
+./prob2 1
+./prob2 2
+./prob2 3
+./prob2 4
+./prob2 5
+g++ -o prob2 prob2.cpp -Wall
+./prob2 5
+g++ -o prob2 prob2.cpp -Wall
+./prob2 23
+./prob2 4000000
+touch prob2alt.cpp
+emacs prob2alt.cpp &
+g++ -o prob2alt prob2alt.cpp -Wall
+./prob2alt
+ls
+cd Desktop/euler
+ls
+cp
+cp prob2.cpp prob3.cpp
+emacs prob3.cpp &
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+apt-get
+sudo apt-get install python
+python
+ls
+mv prob3.cpp prob3.py
+rm *.cpp~
+ls
+emacs prob3.py &
+python
+ls
+rm \#prob3.py# 
+ls
+mv prob3.py prob3.cpp
+emacs prob3.cpp &
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+g++ -o prob3 prob3.cpp -Wall
+./prob3
+cp prob3.cpp prob4.cpp
+emacs prob4.cpp &
+g++ -o prob4 prob4.cpp -Wall
+./prob4
+g++ -o prob4 prob4.cpp -Wall
+./prob4
+g++ -o prob4 prob4.cpp -Wall
+./prob4
+g++ -o prob4 prob4.cpp -Wall
+./prob4
+g++ -o prob4 prob4.cpp -Wall
+./prob4
+g++ -o prob4 prob4.cpp -Wall
+./prob4
+g++ -o prob4 prob4.cpp -Wall
+./prob4
+g++ -o prob4 prob4.cpp -Wall
+./prob4
+g++ -o prob4 prob4.cpp -Wall
+./prob4
+g++ -o prob4 prob4.cpp -Wall
+./prob4
+g++ -o prob4 prob4.cpp -Wall
+./prob4
+g++ -o prob4 prob4.cpp -Wall
+./prob4
+ls
+rm *.*~
+ls
+cp prob4.cpp prob5.cpp
+emacs prob5.cpp 
+emacs prob5.cpp &
+mkdir analyses
+cd analyses/
+ls
+ls -l
+exit
+quit
+exit
+cd Desktop/euler
+ls
+emacs prob5.cpp &
+g++ -o prob5 prob5.cpp
+./prob5
+cp prob5.cpp prob6.cpp
+emacs prob5.cpp &
+emacs prob6.cpp &
+cd Desktop
+touch new.html
+emacs new.html &
+ls
+cd Desktop/euler
+ls
+rm *.cpp~
+ls
+rm prob1 prob2 prob3 prob4 prob5
+ls
+rm prob2alt
+ls
+cd analyses/
+ls
+cd ..
+ls
+emacs prob6.cpp &
+ls
+clear
+ls
+g++ -o prob6.cpp prob6
+g++ -o prob6 prob6.cpp
+./prob6
+cd ..
+ls
+mkdir hack
+ls
+cd hack
+ls
+clear
+mkdir basic
+cd basic
+ls
+touch level1.txt
+emacs level1.txt
+for i in {2.11}; do cp level1.txt level$i.txt; done
+ls
+rm level\{2.11\}.txt 
+rm *.txt~
+ls
+for i in {2..11}; do cp level1.txt level$i.txt; done
+ls
+emacs level1.txt
+emacs level2.txt
+emacs level1.txt
+emacs level2.txt
+emacs level3.txt 
+emacs level2.txt
+emacs level4.txt 
+emacs level5.txt 
+wget --post-data 'to=webmaster@hulla-balloo.com' --referer=http://www.hackthissite.org/missions/basic/5/ http://www.hackthissite.org/missions/basic/level5.php
+wget --post-data 'to=webmaster@hulla-balloo.com' --referer=http://www.hackthissite.org/missions/basic/5/index.php http://www.hackthissite.org/missions/basic/5/level5.php
+ls
+emacs level5.php
+mv level5.php level5.html
+wget --post-data 'to=webmaster@hulla-balloo.com' http://www.hackthissite.org/missions/basic/4/level4.php
+emacs level4.php
+rm *.php *.html
+ls
+rm *.txt~
+ls
+wget --save-cookies cookies.txt \--post-data 'to=webmaster@hulla-balloo.com' http://www.hackthissite.org/missions/basic/4/level4.php
+rm *.php
+rm *.php
+wget --save-cookies cookies.txt --post-data 'to=webmaster@hulla-balloo.com' http://www.hackthissite.org/missions/basic/4/level4.php
+curl
+emacs level5.txt
+emacs level4.txt
+emacs level3.txt
+emacs level2.txt
+emacs level4.txt
+emacs level5.txt
+emacs level4.txt
+exit
+ls
+cd Desktop
+ls
+cd euler
+ls
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+g++ prob7.cpp -o prob7
+./prob7
+ls
+rm *.cpp~
+ls
+rm prob7
+ls
+cd /
+ls
+emacs /home/rob/.profile 
+ls -lA ~
+ls
+cd mnt
+ls
+ls -lA
+cd ..
+cd media
+ls
+cd 0496F62796F618BE/
+ls
+cd Minecraft/
+ls
+cp Minecraft.exe ~
+ls
+cd ~
+ls
+rm Minecraft.exe 
+cd Desktop/
+ls
+java minecraft.jar
+ls
+java -Xmx1024M -cp minecraft.jar net.minecraft.LauncherFrame
+ls
+emacs
+ls -lA
+chmod +x minecraft.sh 
+ls -lA
+la
+ls
+ls -A
+la
+cd dev
+ls
+emacs .bashrc
+emacs .profile
+cd ..
+emacs .bashrc
+la
+emacs .profile 
+cd dev
+ls
+la
+mkdir hw1
+cd hw1
+ls
+svn checkout https://shell.cec.wustl.edu:8443/cse560_fl12/svn/Utterback-425034/ --username robert.utterback
+sudo apt-get install subversion
+svn checkout https://shell.cec.wustl.edu:8443/cse560_fl12/svn/Utterback-425034/ --username robert.utterback
+svn status
+ls
+cd Utterback-425034/
+svn status
+svn log
+la
+cd ..
+javac
+cd Utterback-425034/
+ls
+la
+cd src
+la
+cd /
+ls
+cd usr
+ls
+cd share
+ls
+cd java
+ls
+sudo apt-get install junit
+ls
+sudo apt-get install junit4
+ls
+cd ~/dev/hw1
+ls
+cd Utterback-425034/
+ls
+javac -cp /usr/share/java/junit4.jar:. hw1toolkit/HW1Print.java
+ls
+cd src
+ls
+javac -cp /usr/share/java/junit4.jar:. hw1toolkit/HW1Print.java
+java -cp .:/usr/share/java/junit4.jar:. org.junit.runner.JUnitCore hw1toolkit.HW1Print
+sudo apt-get uninstall junit
+apt-get
+sudo apt-get remove junit
+javac -cp /usr/share/java/junit4.jar:. hw1toolkit/HW1Print.java
+java -cp .:/usr/share/java/junit4.jar:. org.junit.runner.JUnitCore hw1toolkit.HW1Print
+java -version
+javac -version
+update-java-alternatives -l
+sudo apt-get remove openjdk-7-jdk
+java -version
+cd /usr/lib/jvm
+ls
+cd ~
+emacs .profile 
+source .profile
+java7
+cd dev/hw1/Utterback-425034/src
+la
+./build
+./run
+cd traces/
+ls
+cd ..
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run > log
+gedit log
+rm log
+ls
+./build
+./run | less
+./build
+./run | less
+./build
+./run | less
+gnuplot
+emacs 1b.dat
+./run
+emacs 1b.dat &
+gnuplot
+emacs 1b.p &
+gnuplot 1b.dat
+gnuplot 1b.p
+emacs 1b.p
+gnuplot 1b.p
+gnuplot
+./build
+./run
+emacs .profile
+source .profile
+java7
+cd dev/hw1/Utterback-425034/src
+ls
+javac -cp /usr/share/java/junit4.jar:. hw1toolkit/HW1Print.java
+java7 -cp .:/usr/share/java/junit4.jar:. org.junit.runner.JUnitCore hw1toolkit.HW1Print
+java7 hw1toolkit.HW1Print
+la
+emacs Makefile
+emacs ~/.profile &
+emacs Makefile 
+ls
+emacs Makefile &
+ant
+make
+emacs Makefile &
+make run
+rm Makefile
+ls
+rm Makefile~ 
+ls
+emacs build
+chmod +x build
+./build
+ls
+emacs run
+emacs .profile
+emacs /home/rob/.profile
+emacs /home/rob/.profile&
+emacs run
+chmod +x run
+ls
+./run
+java7 -cp .:/usr/share/java/junit4.jar:. org.junit.runner.JUnitCore hw1toolkit.HW1Print
+la
+cd hw1code
+ls
+emacs HW1Uop.java
+emacs HW1Simulator.java 
+emacs HW1Simulator.java &
+ls
+cd ..
+ls
+cd hw1toolkit/
+ls
+cd dev
+ls
+cd hw1/Utterback-425034/src/
+ls
+la
+ll
+cd hw1code/
+ls
+emacs HW1Simulator.java &
+..
+cd ..
+ls
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+ls
+emacs 1b.gp
+cd dev
+ls
+cd hw1/Utterback-425034/
+ls
+cd src
+ls
+rm *.dat~
+rm *.p~
+ls
+rm run~
+ls
+emacs hw1code/HW1Simulator.java &
+./BUILD
+./build
+./run
+./build
+./run
+./run > LOG
+gedit LOG
+./run
+rm LOG
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+./build
+./run
+cd dev/hw1/Utterback-425034/src
+ls
+gnuplot 1b.gp
+gnuplot 1b.gp -
+gnuplot 1b.gp &
+ls
+gnuplot 1b.gp - &
+ls
+gnuplot 1b.gp -persist
+gnuplot -version
+gnuplot --version
+emacs 1b.gp &
+gnuplot 1b.gp -persist
+emacs 1b.gp &
+gnuplot 1b.gp -persist
+gnuplot 1b.gp notitle -persist
+gnuplot 1b.gp -persist
+cd dev/hw1/Utterback-425034/src
+ls
+emacs 1b.gp &
+gnuplot "1b.gp" -persist
+gnuplot "1b.gp" -
+gnuplot "1b.gp" -persist
+ls
+cd dev
+ls
+cd hw1/Utterback-425034/src/
+ls
+gnuplot '1b.gp' -
+./build
+./run
+gnuplot 'histograms.gp' -
+gnuplot
+gnuplot 'histograms.gp' -
+awk '{x=x+$2; print $1,x}' 2b.dat
+grep -v '^[[:space:]]*#' 2b.dat
+grep -v '^[[:space:]]*#' 2b.dat | awk '{x=x+$2; print $1,x}'
+cd dev
+ls
+cd hw1/Utterback-425034/src/
+ls
+emacs hw1code/HW1Simulator.java 
+emacs hw1code/HW1Simulator.java &
+sudo apt-get install freeplane
+./build 
+./run
+gnuplot histograms.gp -
+awk '{x=x+$2; print $1,x}' 2b.dat
+gnuplot histograms.gp -
+gnuplot histograms.gp -persist
+cd dev/hw1/Utterback-425034/src/
+ls
+rm *.dat~
+ls
+gnuplot histograms.gp -persist
+cd dev/hw1/Utterback-425034/src/
+gnuplot 'histograms.gp' -persist
+gnuplot -version
+gnuplot --version
+gnuplot 'histograms.gp' -persist
+cd dev/hw1/Utterback-425034/src/
+gnuplot 'histograms.gp' -persist
+./run
+gnuplot 'histograms.gp' -persist
+gnuplot 'histograms.gp'
+./run > log
+emacs hw1code/HW1Simulator.java 
+./build
+./run
+./run > log
+cd ../..
+ls
+emacs hw1.tex 
+make
+cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf -
+ls
+ls -A
+rm -r .dropbox-dist/
+ls -A
+cd Dropbox/class/591/hw1
+emacs hw1.tex
+make
+pdflatex
+sudo apt-get install texlive-latex-base
+make
+sudo apt-get install texlive-latex-recommended
+mskr
+make
+sudo apt-get install texlive-latex-extra latex-beamer
+sudo apt-get install texlive-latex-extra
+make
+mv hw1.tex hw1-1.tex
+cp hw1-1.tex hw1-2.tex
+emacs hw1-1.tex &
+make
+make hw1-1.pdf
+make clean
+make hw1-1.pdf
+make clean
+make hw1-1.pdf view
+q
+find hw1-2.pdf
+find hw1-1.pdf
+find hw1-2.pdf
+echo $?
+find hw1-1.pdf
+echo $?
+make hw1-1.pdf
+ls
+rm hw1.pdf
+evince hw1-1.pdf
+sudo apt-get install mendeley
+apt-get search mendeley
+sudo apt-get update emacs
+sudo apt-get update
+evince hw1-1.pdf 
+make
+make clean
+makemake clean
+make
+make clean
+make
+make clean
+make
+make clean
+make
+gedit bibtex.log 
+make clean
+make
+gedit bibtex.log 
+make clean
+make
+gedit bibtex.log 
+make clean
+make
+make clean
+make
+ls
+mkdir curr
+ls
+cd Dropbox/
+ls
+cd Notes
+ls
+sudo add-apt-repository ppa:nvbn-rm/ppa
+sudo apt-get update
+sudo apt-get install everpad python-oauth2
+everpad
+sudo apt-get install python-oauth2
+ls
+find evernote
+rm minecraft.jar 
+ls
+cd Desktop/
+ls
+rm *~
+rm minecraft.sh 
+ls
+man ls
+man ln
+ln -s ~/doc/Cheatsheets/ ~/Dropbox/Cheatsheets/
+ln -s ~/doc/Cheatsheets/ ~/Dropbox/Cheatsheets
+ln -s ~/Dropbox/ ~/curr
+ls
+cd curr
+ls
+ln -s ~/Dropbox/ ~/curr
+ls
+cd ..
+ls
+cd curr
+ls
+cd ..
+cd Ubuntu\ One/
+ls
+cd /
+ls
+cd /usr/include/mach/i386
+cd /usr
+ls
+cd include/
+ls
+cd curr
+ls
+emacs cilkMac.tex
+emacs cilkMac.tex &
+pdflatex cilkMac.tex
+evince cilkMac.pdf 
+pdflatex cilkMac.tex
+evince cilkMac.pdf 
+shell
+sh
+ls
+cd Dropbox/
+ls
+ls -a
+cd .config.d/
+ls
+la
+cat .emacs
+cd ..
+ls
+cd ~
+ls
+cd curr
+ls
+cd ../Dropbox/.config.d/
+ls
+la
+cd ~
+la
+cd ~/curr/
+ls
+cd Utterback-425034/src/
+ls
+emacs /home/rob/.profile
+ls
+ls /usr/share/java
+emacs /home/rob/.profile
+ls
+junitc hw2atoolkit/HW2ACompareTraces.java
+source ~/.profile
+junitc hw2atoolkit/HW2ACompareTraces.java
+junit hw2atoolkit/HW2ACompareTraces.
+junit hw2atoolkit/HW2ACompareTraces
+emacs /home/rob/.profile
+source ~/.profile
+junit hw2atoolkit/HW2ACompareTraces
+junitc hw2atoolkit/HW2ACompareTraces.java
+junit hw2atoolkit/HW2ACompareTraces
+javac -version
+java -version
+java7 -version
+cd hw2atoolkit/
+ls
+junit HW2ACompareTraces
+cd ..
+junit HW2ACompareTraces
+junit hw2atoolkit/HW2ACompareTraces.class
+junit hw2atoolkit/HW2ACompareTraces
+junit hw2atoolkit.HW2ACompareTraces
+emacs
+emacs &
+calc
+sudo apt-get install apcalc
+calc
+apt-get search
+apt-get
+sudo apt-get install f.lux
+sudo add-apt-repository ppa:kilian/f.lux
+sudo apt-get update 
+sudo apt-get install fluxgui
+flux
+f.lux
+junit hw2atoolkit.HW2ACompareTraces
+gnuplot -version
+gnuplot --version
+touch cpi.gp
+cd ..
+ls
+cd ../..
+ls
+cd curr
+cd class/560/hw1/
+ls
+emacs histograms.gp &
+sudo apt-get update gnuplot
+apt-get
+gnuplot --version
+sudo apt-get install gnuplot
+gnuplot --version
+for i in {1..15}; do echo "
+
+
+
+echo "4 * 5"
+echo $((4 * 5))
+for i in {1..15}; do echo $((2 * $i)); done
+for i in {1..15}; do echo $((1 + $i * .166)); done
+for i in {1..15}; do echo $((1 + $i * 0.166)); done
+for i in {1..15}; do echo $((1 + $(($i * 0.166)))); done
+bc
+bc help
+bc --help
+man bc
+echo "3 + 4" | bc
+for i in {1..15}; do echo 1 + $i * 0.166 | bc; done
+echo 1 + 1 * .166
+ls
+cd ../../..
+ls
+cd Utterback-425034/
+ls
+cd src
+ls
+rm *#
+ls
+echo 1 + 5 | bc
+echo "1 + 5 * 6" | bc
+for i in {1..15}; do echo "1 + $i * .166" | bc; done
+for i in {1..15}; do echo "1 + $i * .166" | bc > cycle2.dat; done
+cat cycle2.dat 
+rm cycle2.dat 
+for i in {1..15}; do echo "1 + $i * .166" | bc >> cycle2.dat; done
+cat cycle2.dat 
+for i in {1..15}; do echo "1 + $i * .201" | bc >> 10M.dat; done
+mv cycle2.dat 1k.dat
+ls
+cat 10M.dat 
+gnuplot 1k.dat 
+gnuplot cpi.gp
+rm 1k.dat 10M.dat 
+for i in {1..15}; do echo "1 + $i * .201" | bc >> 10M.dat; done
+for i in {1..15}; do echo "1 + $i * .166" | bc >> 1k.dat; done
+ls
+gnuplot cpi.gp
+gnuplot cpi.gp -persist
+emacs cpi.gp &
+gnuplot cpi.gp -persist
+ls
+gnuplot cpi.gp -persist
+emacs hw2acode/HW2Simulator.java &
+junitc hw2acode/HW2Simulator.java
+junit hw2acode.HW2ADebug
+junit hw2atoolkit.HW2ADebug
+junitc hw2acode/HW2ADebug.java 
+junit hw2acode.HW2ADebug
+junit hw2atoolkit.HW2APrint
+junit hw2acode.HW2ADebug > log.txt
+gedit log.txt 
+ls
+diff log.txt traces/hw2a-sjeng-1K-2cycle.txt 
+ls
+zsh
+sudo apt-get install zsh
+zsh
+ls
+zsh -version
+zsh --version
+chsh -s /bin/zsh
+ls
+sudo chsh
+sudo emacs /etc/shells
+echo $SHELL
+chsh -s /bin/zsh rob
+sudo usermod -s /bin/zsh rob

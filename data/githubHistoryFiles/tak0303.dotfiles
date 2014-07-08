@@ -1,0 +1,500 @@
+git pull
+ls
+cd test/
+ls
+cd ..
+ls
+cd pull_reuqest/
+ls
+mvim index.rb
+cd ..
+git add .
+git commit -m "pull request test"
+git push
+cd pull_reuqest/
+s
+ls
+mvim index.rb 
+ls
+ruby index.rb 
+vim index.rb 
+cd ..
+git branch -b pullReqTest
+git branch pullReqTest
+git branch
+gc pullReqTest
+bg
+gb
+gb
+git pull
+git pull orgin master
+git pull origin master
+cd pull_reuqest/
+ls
+mvim index.rb 
+ruby index.rb 
+cd ..
+git add .
+git commit -m "pullReqTest"
+git push
+git push origin pullReqTest
+gc master
+gb
+gb
+gb
+cd ..
+git clone git@github.com:Campus-Inc/nippou_kanri.git
+cd nippou_kanri/
+bundle install
+cd ..
+rails create blog_test
+rails new blog_test --skip-bundle
+cd blog_test/
+ls
+mvim Gemfile 
+bundle install
+rails g active_admin:install
+open .
+cd config
+mvim environment.rb 
+rails s
+cd ..
+rails s
+cd config
+mvim environment.rb 
+cd environment
+cd environment
+ls
+cd environments/
+mvim development.rb 
+cd ..
+cd ..
+rails s
+rails s
+rake db:migrate
+rails s
+cd ..
+cd nippou_kanri/
+rails s
+rakw db:migrate
+rake db:migrate
+rake db:migrate
+bundle install
+rake db:migrate
+rake db:create
+rake db:create
+rake db:migrate
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+mvim Gemfile
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+bundle install
+bundle install
+rake db:create
+cd ..
+sudo rm -rf nippou_kanri/
+git clone git@github.com:Campus-Inc/nippou_kanri.git
+cd nippou_kanri/
+bundle install
+rake db:migrate
+rails s
+rails g controller session show create
+cd app/controllers/
+mvim session_controller.rb 
+cd ..
+cd ..
+cd config
+ls
+mvim routes.rb 
+rails s
+cd ,,
+cd ..
+cd..
+cd ..
+cd nippou_kanri/
+rails s
+bundle install
+rake db:migrate
+rake db:create
+rake db:migrate
+rails s
+cd ..
+cd campus
+rails s
+cd ..
+sudo rm -rf nippou_kanri/
+git clone git@github.com:Campus-Inc/nippou_kanri.git
+cd nippou_kanri/
+rails s
+rails g controller session show create
+rails  s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+rails s
+vivim
+vim
+:q
+cd /var/www/nippou_kanri/
+git add .
+git commit -m "数数えた"
+git push
+vim
+git add .
+git add .
+git pull
+git add .
+git commit -m "commit ranking"
+git puhs
+git push
+git add .
+git commit -m "cybozucontroller changed"
+git push
+cd ..
+cd docs/
+git pull
+cd ..
+git clone git@github.com:Campus-Inc/docs.wiki.git
+cd docs.wiki/
+ls
+git add .
+git commit -m "規約_ruby"
+git push
+git add .
+git commit -m "規約_ruby"
+git push
+git add .
+git commit -m "規約_ruby"
+git push
+git add .
+git commit -m "規約_ruby"
+git push
+git add .
+git commit -m "ruby　規約"
+git push
+emacs
+cd /var/www/nippou_kanri/
+rails s
+rails s
+cd /var/www/ni
+cd /var/www/nippou_kanri/
+which git
+cd /var/www/nippou_kanri/
+rails s
+cd /var/www/docs.wiki/
+git add ,
+git add .
+git commit -m "color scheme"
+git push
+git add .
+git commit -a -m "test"
+git push
+cd /var/www/nippou_kanri/
+git pull
+git add .
+git commit -m "test"
+git push
+git pull
+cd ..
+sudo rm -rf nippou_kanri/
+git clone git@github.com:Campus-Inc/nippou_kanri.git
+cd nippou_kanri/
+git log
+git reset --hard 04d4a156fb14aa3ad11e31bbed57f22b04af441a
+git push origin :master
+git checkout -b tak0303
+git push origin :master
+gb
+git add .
+git commit -m "reset"
+git push 
+git push origin tak0303 
+git push origin :master
+git branch
+git log
+gc master
+git merge tak0303 
+git branch -d tak0303 
+git add .
+git commit -m "test"
+git push 
+cd ..
+sudo rm -rf nippou_kanri/
+git clone git@github.com:Campus-Inc/nippou_kanri.git
+cd nippou_kanri/
+gb
+gb -a
+git log
+gb -a
+autotest
+autotest
+cd /var/www/rspec_study/
+ls
+cd /var/www/nippou_kanri/
+git pull
+git add .
+git commit -m "test"
+git push
+git pull
+cd ..
+sudo rm -rf nippou_kanri/
+git clone git@github.com:Campus-Inc/nippou_kanri.git
+cd nippou_kanri/
+git log
+git reset --hard 04d4a156fb14aa3ad11e31bbed57f22b04af441a
+git push origin :master
+git checkout -b tak0303
+git push origin :master
+gb
+git add .
+git commit -m "reset"
+git push 
+git push origin tak0303 
+git push origin :master
+git branch
+git log
+gc master
+git merge tak0303 
+git branch -d tak0303 
+git add .
+git commit -m "test"
+git push 
+cd ..
+sudo rm -rf nippou_kanri/
+git clone git@github.com:Campus-Inc/nippou_kanri.git
+cd nippou_kanri/
+gb
+gb -a
+git log
+gb -a
+gc -b tak0303
+git pull origin tak0303 tak0303
+git push origin :master
+git log
+git reset --hard 04d4a156fb14aa3ad11e31bbed57f22b04af441a
+gb -a
+git add .
+git commit -m "reset"
+gc master
+git reset --hard 04d4a156fb14aa3ad11e31bbed57f22b04af441a
+git add .
+git commit -m "reset"
+git --force push
+git push --force
+ll
+cd ..
+rails new rspec_study
+rm rspec_study/
+rm -rf rspec_study/
+rails new rspec_study --skip-bundle
+cd rspec_study/
+mvim Gemfile 
+bundle install
+vim Gemfile
+rspec --init
+ls
+rm -rf test/
+rails s 
+rails s 
+bundle install
+bundle install
+bundle install
+rails s 
+rails g model User name:string email:string password:string
+rake db:migrate
+rails s
+rails g rspec:install
+rails s
+sudo gem install autotest
+cd /var/www/rspec_study/
+spork
+spork
+spork --bootstrap
+spork
+spork --bootstrap
+spork
+cd spec/
+ls
+mvim spec_helper.rb 
+mvim spec_helper.rb 
+cd ..
+rails g rspec:install
+cd spec/
+mvim spec_helper.rb 
+spork --bootstrap
+cd ..
+spork --bootstrap
+cd spec/
+mvim spec_helper.rb 
+gb -a
+autotest
+cd /var/www/rspec_study/
+autotest
+autotest
+autotest
+autotest
+autotest
+cd .vim
+ls
+cd colors/
+ls[
+ls
+open .
+cd ../../
+mvim .vimrc 
+mvim .vimrc 
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/
+ls
+ls
+cd Packages/
+ls
+open .
+cd
+cd .vim
+;s
+cd colors/
+ls
+ls
+mvim rdark.vim 
+cd ..
+cd /var/www/nippou_kanri/
+ls
+cd app/views/
+ls
+cd admin/
+;s
+ls
+cd index/
+ls
+mvim index.html.erb 
+cd
+cd .vim
+mvim colors/rdark.vim 
+cd 
+mvim .bashrc 
+git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
+cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
+chsh -s /bin/zsh
+cd /var/www/rspec_study/
+ls
+cd ..
+rails new bdd -d mysql --skip-bundle
+cd bdd
+ls
+mvim Gemfile 
+cd ..
+cd rspec_study/
+mvim Gemfile
+bundle install
+rails g rspec:install
+cd ..
+cd bdd
+bundle install
+rails g rspec:install
+spork --bootstrap
+rm -rf test/
+cd spec/
+ls
+mvim spec_helper.rb 
+rspec
+rails g model User name:string password:string email:string
+ls
+rake db:create
+rake db:migrate
+rake db:test:prepare
+rspec
+ls
+cd ..
+ls
+cd spec/
+ls
+cd .
+cd ..
+cd ..
+cd rspec_study/
+ls
+cd spec/
+ls
+cd ..
+cd ..
+cd bdd/
+ls
+rails s
+cd /var/www/bdd/
+rspec
+autotest
+cd
+cd /var/www/bdd/
+mvim u
+cd spec/
+mvim u
+mvim models/user_spec.rb 
+mvim models/user_spec.rb 
+mvim models/user_spec.rb 
+spork
+cd ..
+spork
+ls
+cd /var/www/docs.wiki/
+git pull
+zsh
+npm
+zsh
+cd
+campus
+ls
+zsh
+testem
+zsh
+zsh
+tmux
+zsh
+zsh
+bash --version
+zsh
+tmux
+cd
+zsh

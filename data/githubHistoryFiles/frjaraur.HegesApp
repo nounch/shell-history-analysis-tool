@@ -1,0 +1,795 @@
+cp -pR /tmp/eclipse .
+./eclipse/eclipse &
+cd /
+cd
+ls -lart
+pwd
+/tmp/eclipse/eclipse
+ls -lart
+cd .eclipse/
+ls
+cd ..
+rm -rf .eclipse/
+/tmp/eclipse/eclipse
+/tmp/eclipse/eclipse 
+exit
+pwd
+ls -la
+cd app
+ls -la
+pwd
+cd ..
+cd web
+ls -la
+cd ..
+ls -la
+cd src
+ls -la
+cd HegesApp
+ls -la
+git
+php app/console --help doctrine:entities
+php
+php app/console --help doctrine:generate:entities
+php --version
+exit
+php app/console
+php app/console --help doctrine:generate:entities
+php app/console doctrine:generate:entities HegesAppUserBundle:User
+php app/console doctrine:generate:entities HegesAppConfigFileBundle:Configfield
+php app/console doctrine:generate:entities HegesAppConfigFileBundle:Configfile
+php app/console doctrine:generate:entities HegesAppConfigFileBundle:Configline
+php app/console doctrine:generate:entities HegesAppConfigFileBundle:Configlinetype
+php app/console doctrine:generate:entities HegesAppConfigFileBundle:Data
+php app/console doctrine:generate:entities HegesAppMonitorBundle:Monitor
+php app/console doctrine:generate:entities HegesAppNodeBundle:Node
+php app/console doctrine:generate:entities HegesAppNodeBundle:Os
+php app/console doctrine:generate:entities HegesAppNodeBundle:Nodetype
+php app/console doctrine:generate:entities HegesAppServiceBundle:Service
+git status
+d
+[12~
+ls
+exit
+pwd
+ls
+mv Symfony/* .
+ls -lart
+rm -rf Symfony Symfony_Standard_Vendors_2.0.15.tgz 
+ls
+pwd
+ls
+ls -lart
+sudo setfacl -R -m u:apache:rwx -m u:`whoami`:rwx app/cache app/logs
+setfacl -R -m u:apache:rwx -m u:`whoami`:rwx app/cache app/logs
+setfacl -dR -m u:apache:rwx -m u:`whoami`:rwx app/cache app/logs
+pwd
+ls
+php app/console doctrine:mapping:convert yml ./src/Acme/BlogBundle/Resources/config/doctrine/metadata/orm --from-database --force
+pwd
+ls
+cd src
+ls
+find . -name parameters
+find . -name parameters.ini
+cd ..
+find . -name parameters.ini
+vi ./app/config/parameters.ini
+php app/console doctrine:mapping:convert yml ./src/Acme/BlogBundle/Resources/config/doctrine/metadata/orm --from-database --force
+mysql -u symfony -p symfony
+mysql -u symfony --help
+mysql -D configdb -u symfony -p
+php app/console doctrine:mapping:convert yml ./src/Acme/BlogBundle/Resources/config/doctrine/metadata/orm --from-database --force
+cd /opt/Symfony/src/Acme/BlogBundle/Resources/config/doctrine/metadata/or
+ls
+cd /opt/Symfony/src/Acme/BlogBundle/Resources/config/doctrine/metadata/orm/
+ls
+more Cursosf2Grupo.orm.yml
+ cd -
+php app/console doctrine:mapping:import ConfigAppBundle annotation
+php app/console doctrine
+php app/console 
+php app/console generate:bundle  
+ls
+pwd
+cd src
+ls
+cd Heges/
+ls
+cd ConfigAppBundle/
+ls
+vi HegesConfigAppBundle.php 
+ls
+cd ..
+ls
+cd ..
+ls
+cd Heges/
+ls
+cd ..
+cd 
+ls
+cd app/
+ls
+vi config/routing
+vi config/routing.yml 
+vi config/routing_dev.yml 
+cd ..
+php app/console doctrine:mapping:convert yml ./src/Heges/ConfigAppBundle/Resources/config/doctrine/metadata/orm --from-database --force
+php app/console doctrine:mapping:import ConfigAppBundle annotation
+php app/console doctrine:mapping:import HegesConfigAppBundle annotation
+php app/console doctrine:generate:entities HegesConfigAppBundle
+find . -name TbConfigfile.php
+vi ./src/Heges/ConfigAppBundle/Entity/TbConfigfile.php
+pwd
+ls
+cd src
+ls
+cd Heges/
+ls
+pwd
+cd ..
+ls
+cd ..
+ls
+php app/console 
+php app/console   doctrine:generate:crud  
+ls
+pwd
+ls
+cd /
+cd
+ls
+ls -lart
+pwd
+wget http://symfony.com/download?v=Symfony_Standard_Vendors_2.0.15.tgz
+man ra
+man tar
+tar -zxvf Symfony_Standard_Vendors_2.0.15.tgz .
+man tar
+tar -zxvf Symfony_Standard_Vendors_2.0.15.tgz -C .
+ls
+pwd
+mv Symfony/* .
+ls -lart
+rm -rf Symfony
+ls
+git init
+ls
+git config
+git config --global user.name "Javier Ramirez"
+git config --global user.email "frjaraur@gmail.com"
+git status
+vi .gitingnore
+git add .
+git status
+git commit -m "Instalacion Symfony (Default)"
+ls
+git 
+git  checkout
+ls
+git branch
+setfacl -R -m u:apache:rwx -m u:`whoami`:rwx app/cache app/logs
+setfacl -dR -m u:apache:rwx -m u:`whoami`:rwx app/cache app/logs
+pwd
+ls
+php app/console generate:bundle
+ php app/console doctrine:mapping:convert yml
+ php app/console doctrine:mapping:convert yml --from-database --namespace=HegesApp
+ php app/console doctrine:mapping:convert --from-database --namespace=HegesApp yml
+ls
+ php app/console doctrine:mapping:convert --from-database --namespace=HegesApp yml /tmp
+ls -lart /tmp
+cat /tmp/HegesAppCursosf2Grupo.orm.yml
+ls
+pwd
+locate preferences.ini
+find preferences.ini
+find . preferences.ini
+find . -name preferences.ini
+pwd
+find . -name preference*.ini
+ls
+cd app/
+ls
+cd config/
+ls
+vi parameters.ini 
+cd
+ php app/console doctrine:mapping:convert --from-database --namespace=HegesApp yml /tmp
+vi parameters.ini 
+find . -name parameters.ini
+vi ./app/config/parameters.ini
+ php app/console doctrine:schema
+ php app/console 
+doctrine:database:drop  
+ php app/console doctrine:database:drop  
+ php app/console doctrine:database:drop   --force
+ php app/console doctrine:mapping:convert --from-database --namespace=HegesApp yml /tmp
+ls -lart /tmp
+rm -rf /tmp/*.yml
+ php app/console doctrine:mapping:convert --from-database --namespace=HegesApp yml /tmp
+ls -lart /tmp
+cat /tmp/HegesAppUser.orm.yml
+php app/console doctrine:mapping:import 
+php app/console doctrine:mapping:import HegesApp
+php app/console doctrine:mapping:import HegesAppNodeBundle
+php app/console doctrine:generate:entities HegesAppNodeBundle
+php app/console doctrine:generate:entities UserAppNodeBundle
+ php app/console   doctrine:generate:crud
+vi /opt/Symfony/src/HegesApp/NodeBundle/Resources/config/routing.yml
+php app/console route
+php app/console route:dump
+php app/console route:list
+php app/console route:
+php app/console route:debig
+php app/console route:debug
+ php app/console   doctrine:generate:crud
+php app/console route:debug
+ php app/console   doctrine:generate:crud --help
+ php app/console   doctrine:generate:crud --entity HegesAppServiceBundle --with-write
+ls -lart
+cd src
+ls
+find . -name xsd
+cd ..
+find . -name *xsd
+find . -name *xml
+ php app/console   doctrine:generate:crud --entity HegesAppServiceBundle:Service --with-write
+pwd
+ls
+/tmp/eclipse/eclipse &
+php app/console doctrine:mapping:info
+pwd
+cd src
+ls
+cd HegesApp/
+ls
+find . -name *ervic*
+cd ServiceBundle/
+ls
+cd Entity/
+ls
+vi Service.php 
+ php app/console   doctrine:generate:crud --entity HegesAppNodeBundle --with-write
+cd
+ php app/console   doctrine:generate:crud --entity HegesAppNodeBundle --with-write
+ php app/console   doctrine:generate:crud --entity HegesAppNodeBundle:Node --with-write
+php app/console
+php app/console  doctrine:database:drop --force
+php app/console  doctrine:database:create
+ php app/console   doctrine:generate:crud --entity HegesAppNodeBundle --with-write
+php app/console  doctrine:generate:entities HegesApp/NodeBundle
+php app/console doctrine:mapping:import 
+php app/console doctrine:mapping:import HegesApp/NodeBundle
+php app/console doctrine:mapping:import HegesAppNodeBundle
+php app/console  doctrine:schema:create
+php app/console doctrine:mapping:import HegesAppNodeBundle yml
+php app/console doctrine:mapping:convert yml /tmp --from-database --force
+php app/console  doctrine:schema
+php app/console  doctrine:schema --help
+php app/console  doctrine:schema:create
+php app/console  doctrine:schema:create --help
+ php app/console doctrine:schema:create --em=default
+ php app/console doctrine:schema:create --dump-sql
+php app/console generate:bundle --help
+ php app/console generate:bundle --namespace=HegesApp/NodeBundle --no-interaction
+ php app/console generate:bundle --namespace=HegesApp/NodeBundle --no-interaction --dir=src
+ php app/console generate:bundle --namespace=HegesApp/ServiceBundle --no-interaction --dir=src
+ php app/console 
+php app/console generate:doctrine:entity  
+php app/console generate:doctrine:entity  --help
+php app/console generate:doctrine:entity  --entity=HegesAppNodeBundle:Node  --format=annotation 
+ php app/console doctrine:schema:update 
+ php app/console doctrine:schema:drop
+ php app/console doctrine:schema:drop --force
+ php app/console doctrine:database:drop
+ php app/console doctrine:database:drop --force
+ php app/console doctrine:database:create
+ php app/console doctrine:schema:create
+ php app/console doctrine:mapping:convert yml /tmp --from-database --force
+ls -lart /tmp
+cat /tmp/Os.orm.yml
+ php app/console doctrine:mapping:convert yml /tmp --namescpae=HegesApp --from-database --force
+ php app/console doctrine:mapping:convert yml /tmp --namespace=HegesApp --from-database --force
+cat /tmp/Os.orm.yml
+php app/console doctrine:mapping:import HegesAppNodeBundle yml
+php app/console doctrine:mapping:import --help
+ php app/console doctrine:mapping:convert notation /tmp --namespace=HegesApp --from-database --force
+ php app/console doctrine:mapping:convert anotation /tmp --namespace=HegesApp --from-database --force
+ php app/console doctrine:mapping:convert annotation /tmp --namespace=HegesApp --from-database --force
+php app/console doctrine:mapping:import HegesAppNodeBundle annotaion
+php app/console doctrine:mapping:import HegesAppNodeBundle annotation
+ php app/console   doctrine:generate:crud --entity HegesAppNodeBundle --with-write
+php app/console   doctrine:generate:crud --entity HegesAppNodeBundle:Node --with-write
+cd src/HegesApp/NodeBundle/Resources/config/doctrine/
+ls
+more Service.orm.yml
+ls
+pwd
+cp -pR /opt/Symfony/src/HegesApp/NodeBundle/Resources/config/doctrine /opt/Symfony/src/HegesApp/ServiceBundle/Resources/config
+cp -pR /opt/Symfony/src/HegesApp/NodeBundle/Resources/config/doctrine /opt/Symfony/src/HegesApp/ConfigFileBundle/Resources/config
+cp -pR /opt/Symfony/src/HegesApp/NodeBundle/Resources/config/doctrine /opt/Symfony/src/HegesApp/UserBundle/Resources/config
+rm -rf Configfield.orm.yml Configlinetype.orm.yml Configline.orm.yml Configfile.orm.yml Monitor.orm.yml Data.orm.yml Service.orm.yml
+ls
+rm -rf User.orm.yml
+cd /opt/Symfony/src/HegesApp/ServiceBundle/Resources/config
+ls
+cd doctrine/
+ls
+rm -rf Configlinetype.orm.yml Configline.orm.yml Data.orm.yml Configfield.orm.yml Configfile.orm.yml Os.orm.yml Node.orm.yml Nodetype.orm.yml User.orm.yml
+ls
+vi Monitor.orm.yml 
+vi Service.orm.yml 
+cd 
+php app/console   doctrine:generate:crud --entity HegesAppNodeBundle:Node --with-write
+cd -
+vi Service.orm.yml 
+vi Monitor.orm.yml 
+cd -
+php app/console   doctrine:generate:crud --entity HegesApp\NodeBundle\HegesAppNodeBundle--with-write
+php app/console   doctrine:generate:crud --entity HegesAppNodeBundle:Node --with-write
+ls
+pwd
+mv Symfony_Standard_Vendors_2.0.15.tgz /tmp
+tar -zxvf /tmp/Symfony_MAL.tar .
+tar -zxvf /tmp/Symfony_MAL.tar *
+tar -zxvf /tmp/Symfony_MAL.tar /opt/Symfony
+tar -cxvf /tmp/Symfony_MAL.tar .
+tar -cvf /tmp/Symfony_MAL.tar .
+find . -name Entity
+mkdir BKP
+mv ./src/HegesApp/ConfigFileBundle/Entity BKP/ConfigFileBundle_Entity
+mv ./src/HegesApp/ServiceBundle/Entity BKP/ServiceBundle_Entity
+mv ./src/HegesApp/NodeBundle/Entity BKP/NodeBundle_Entity
+mv ./src/HegesApp/UserBundle/Entity BKP/UserBundle_Entity
+pwd
+ls
+rm -rf app bin deps deps.lock hs* L src vendor web
+ls
+rm LICENSE README.md 
+ls
+tar -zxvf /tmp/Symfony_Standard_Vendors_2.0.15.tgz .
+tar -zxvf /tmp/Symfony_Standard_Vendors_2.0.15.tgz 
+ls
+pwd
+mv Symfony/* .
+ls
+git init
+setfacl -R -m u:apache:rwx -m u:`whoami`:rwx app/cache app/logs
+setfacl -dR -m u:apache:rwx -m u:`whoami`:rwx app/cache app/logs
+php app/console generate:bundle --help
+php app/console generate:bundle --namespace=HegesApp/NodeBundle --dir=src --format=yml --no-interaction
+php app/console generate:bundle --namespace=HegesApp/ServiceBundle --dir=src --format=yml --no-interaction
+php app/console generate:bundle --namespace=HegesApp/MonitorBundle --dir=src --format=yml --no-interaction
+php app/console generate:bundle --namespace=HegesApp/ConfigFileBundle --dir=src --format=yml --no-interaction
+mc
+php app/console generate:bundle --namespace=HegesApp/UserBundle --dir=src --format=yml --no-interaction
+cd 
+php app/console generate:bundle --namespace=HegesApp/UserBundle --dir=src --format=yml --no-interaction
+cd -
+mc
+cd -
+cd
+php app/console generate:schema
+php app/console doctrine:generate:entities HegesAppUserBundle:User
+rm "/opt/Symfony/app/../src/HegesApp/UserBundle/Entity/User.php"
+php app/console doctrine:generate:entities HegesAppUserBundle:User
+cp BKP/UserBundle_Entity/User.php "/opt/Symfony/app/../src/HegesApp/UserBundle/Entity/User.php"
+php app/console doctrine:generate:entities HegesAppUserBundle:User
+vi "/opt/Symfony/app/../src/HegesApp/UserBundle/Entity/User.php"
+php app/console doctrine:generate:entities HegesAppUserBundle:User
+pwd
+php app/console doctrine:generate:entities HegesAppUserBundle:User
+php app/console generate:schema
+php app/console doctrine:scehma
+php app/console doctrine:schema
+php app/console 
+php app/console doctrine:schema:create 
+php app/console generate:schema
+php app/console doctrine:schema:create --dump-sql
+git add .
+git -m commit "Creacion de BBDD"
+git commit -m 'Creacion de BBDD'
+php app/console doctrine:schema:create 
+php app/console doctrine:schema:drop
+php app/console doctrine:schema:update
+php app/console doctrine:schema:update --force
+php app/console doctrine:schema:create --dump-sql
+php app/console doctrine:schema:update --force
+php app/console doctrine:schema:create --dump-sql
+php app/console doctrine:schema
+php app/console doctrine:schema --help
+php app/console
+php app/console doctrine:database:drop 
+php app/console doctrine:database:drop  --force
+php app/console doctrine:database:create   
+php app/console doctrine:schema:create 
+php app/console doctrine:database:drop  --force
+php app/console doctrine:schema:create 
+php app/console doctrine:database:create   
+php app/console doctrine:schema:create 
+ php app/console   doctrine:generate:crud
+ php app/console   doctrine:generate:crud --help
+ php app/console   doctrine:generate:crud --entity=HegesAppNodeBundle:OS --with-write --format=yml
+ php app/console   doctrine:generate:crud --entity=HegesAppServiceBundle:Service --with-write --format=yml
+ php app/console   doctrine:generate:crud --entity=HegesAppMonitorBundle:Monitor --with-write --format=yml
+ php app/console   doctrine:generate:crud --entity=HegesAppMonitorBundle:User --with-write --format=yml
+vi /opt/Symfony/src/HegesApp/MonitorBundle/Resources/config/routing.yml 
+vi /opt/Symfony/src/HegesApp/ServiceBundle/Resources/config/routing.yml 
+vi /opt/Symfony/src/HegesApp/NodeBundle/Resources/config/routing.yml 
+ php app/console   doctrine:route debug
+ php app/console   :route debug
+ php app/console   
+ php app/console   router:debug  
+vi "/opt/Symfony/src/HegesApp/NodeBundle/Resources/config/routing.yml"
+ php app/console   router:debug  
+ php app/console   doctrine:generate:crud --entity=HegesAppNodeBundle:Node --with-write --format=yml
+ php app/console   router:debug  
+ php app/console   doctrine:generate:crud --entity=HegesAppUserBundle:User --with-write --format=yml
+ php app/console   router:debug  
+ php app/console   doctrine:generate:crud --entity=HegesAppNodeBundle:Os --with-write --format=yml
+ php app/console   doctrine:generate:crud --entity=HegesAppNodeBundle:NodeType --with-write --format=yml
+ php app/console   doctrine:generate:crud --entity=HegesAppNodeBundle:Nodetype --with-write --format=yml
+ php app/console   router:debug  
+ php app/console   doctrine:generate:crud --entity=HegesAppNodeBundle:Os --with-write --format=yml
+php app/console doctrine:schema:update
+php app/console doctrine:schema:update --force
+php app/console doctrine:schema:drop
+php app/console doctrine:schema:drop --force
+php app/console doctrine:schema:create
+ php app/console   doctrine:generate:crud --entity=HegesAppNodeBundle:Os --with-write --format=yml
+git status
+git add .
+git status
+git commit -m 'Creacion Formularios 1 y cambios BBDD'
+git status
+git commit -
+git commit -m 'Creacion Formularios 1 y cambios BBDD'
+git rm Symfony_Standard_Vendors_2.0.15.tgz
+git rm src/HegesApp/ConfigFileBundle/Entity/Configfield.php~
+git rm src/HegesApp/ConfigFileBundle/Entity/Configfile.php~
+git rm src/HegesApp/ConfigFileBundle/Entity/Configline.php~
+git rm src/HegesApp/ConfigFileBundle/Entity/Configlinetype.php~
+git rm src/HegesApp/ConfigFileBundle/Entity/Data.php~
+git rm  src/HegesApp/MonitorBundle/Entity/Monitor.php~
+git rm  src/HegesApp/NodeBundle/Entity/Node.php~
+git rm   src/HegesApp/NodeBundle/Entity/Nodetype.php~
+git rm  src/HegesApp/NodeBundle/Entity/Os.php~
+git rm src/HegesApp/ServiceBundle/Entity/Service.php~
+git rm  src/HegesApp/UserBundle/Entity/User.php~
+ls
+cd app/
+ls
+cd config/
+ls
+cd ..
+ls
+cd ..
+ls
+cd web
+ls
+vi app_dev.php 
+cd -
+ php app/console   doctrine:generate:crud --entity=HegesAppConfigFileBundle:Configfile --with-write --format=yml
+ php app/console   doctrine:generate:crud --entity=HegesAppConfigFileBundle:Configlinetype --with-write --format=yml
+ php app/console   doctrine:generate:crud --entity=HegesAppConfiglineBundle:Configlinetype --with-write --format=yml
+php app/console generate:bundle --namespace=HegesApp/MainBundle --dir=src --format=yml --no-interaction
+ php app/console   router:debug  
+pwd
+ls
+cd web
+ls
+cd bundles/
+ls
+cp /tmp/bootstrap 
+cp -R /tmp/bootstrap 
+cp -R /tmp/bootstrap .
+ls -lart
+cd bootstrap/
+ls
+cd css/
+ls
+cd ..
+ls
+mc
+pwd
+cd ..
+php app/console
+php app/console assets:install
+php app/console assets:install web
+mc
+pwd
+ls
+cd 
+pwd
+ls
+ls -lart Symfony/
+rm -rf Symfony/
+ls
+mc
+php app/console assets:install web
+cd 
+php app/console assets:install web
+php app/console
+php app/console doctrine:schema:update      
+php app/console doctrine:schema:update      --force
+git status
+pwd
+ls
+vi deps
+ls -lart
+vi .gitingnore
+git status
+git add .
+git commit -m "Alta de Nodos"
+php app/console doctrine:schema:update      --force
+pwd
+cd src
+ls
+
+cd
+ls
+pwd
+ls
+php app/console
+php app/console  doctrine:generate:entities 
+php app/console  doctrine:generate:entities  --help
+php app/console  doctrine:generate:entities  HegesAppServiceBundle
+php app/console  doctrine:generate:entities  HegesAppConfigFileBundle
+php app/console doctrine:schema:update      --force
+php app/console 
+php app/console  doctrine:generate:crud 
+php app/console  doctrine:generate:crud --help
+php app/console  doctrine:generate:crud --entity=HegesAppServiceBundle:Service 
+cat /opt/Symfony/src/HegesApp/ServiceBundle/Resources/config/routing.yml
+php app/console  doctrine:generate:crud --entity=HegesAppConfigFileBundle:Configline
+cat src/HegesAppConfigFileBundle/Resources/config/routing/configline.yml
+cat /opt/Symfony/src/HegesApp/ConfigFileBundle/Resources/config/routing.yml
+php app/console 
+php app/console  cache:clear    
+pwd
+ls
+cd app/cache
+ls
+ls -lart
+rm -rf .
+ls
+rm -rf dev prod
+cd
+lspwd
+mc
+cd
+php app/console  doctrine:generate:crud --entity=HegesAppServiceBundle:Service 
+php app/console doctrine:schema:update
+php app/console doctrine:schema:update --dump-sql
+php app/console  cache:clear    
+php app/console  cache:clear -env=prod
+php app/console --help
+php app/console 
+php app/console assets:install
+php app/console --env=prod assetic:dump
+php app/console --env=pdev assetic:dump
+php app/console --env=dev assetic:dump
+php app/console --env=dev assets:install web
+php app/console --env=prod assets:install web
+php app/console  cache:clear -env=dev
+php app/console  cache:clear -env=prod
+php app/console  
+php app/console     router:debug 
+php app/console  cache:clear 
+php app/console doctrine:schema:update --dump-sql
+php app/console doctrine:schema:update -force
+php app/console doctrine:schema:update --force
+php app/console  cache:clear 
+df -h
+pwd
+ls
+cd src
+ls
+cd HegesApp/
+lls
+ls
+cd MainBundle/
+ls
+cd Resources/
+ls
+cd public/
+ls
+find .
+grep -i boot ./js/bootstrap.js
+grep -i boot ./css/bo*
+cd
+ls
+php app/console 
+php app/console  doctrine:schema:update --dump-sql
+php app/console  doctrine:schema:update --force
+php app/console  doctrine:generate:crud  --help
+php app/console  doctrine:generate:crud  --entity=HegesAppConfigFileBundle:Configlinetype --with-write
+php app/console  doctrine:generate:crud  --entity=HegesAppConfigFileBundle:Configfield --with-write
+php app/console  doctrine:schema:update --force
+php app/console  doctrine:generate:crud  --entity=HegesAppConfigFileBundle:Configlinetype --with-write
+php app/console  doctrine:generate:crud  --entity=HegesAppConfigFileBundle:Configfield --with-write
+php app/console  doctrine:generate:crud  --entity=HegesAppConfigFileBundle:Configfield --with-write --format="yml"
+php app/console  cache:clear 
+php app/console  cache:clear --help
+php app/console  cache:clear  --env=dev
+php app/console  doctrine:generate:entitities
+php app/console  doctrine
+php app/console 
+php app/console  doctrine:generate:entities
+php app/console  doctrine:generate:entities HegesAppConfigFileBundle
+php app/console  doctrine:schema:update --dump-sql
+php app/console  doctrine:schema:update --force
+php app/console  doctrine:schema:update --dump-sql
+php app/console  doctrine:schema:update --force
+php app/console  cache:clear  --env=dev
+php app/console  doctrine:generate:crud  --entity=HegesAppConfigFileBundle:Data --with-write --format="yml"
+php app/console  doctrine:schema:update --dump-sql
+php app/console  doctrine:generate:crud  --entity=HegesAppConfigFileBundle:Data --with-write --format="yml"
+php app/console  doctrine:schema:update --dump-sql
+php app/console  doctrine:schema:update --force
+php app/console  doctrine:schema:update --dump-sql
+php app/console  doctrine:schema:update --force
+php app/console  doctrine:generate:crud  --entity=HegesAppConfigFileBundle:Configlinetype --with-write --format="yml"
+php app/console  doctrine:generate:crud  --entity=HegesAppConfigFileBundle:Data --with-write --format="yml"
+php app/console  doctrine:generate:crud  --entity=HegesAppConfigFileBundle:Configline --with-write --format="yml"
+php app/console  doctrine:schema:update --dump-sql
+php app/console  doctrine:generate:entities HegesAppConfigFileBundle
+php app/console  cache:clear  --env=dev
+pwd
+rm -r app//cache/
+rm -rf app//cache/
+setfacl -R -m u:apache:rwx -m u:
+`whoami
+`:rwx
+app/cache app/logs
+ setfacl -R -m u:apache:rwx -m u: `whoami`:rwx app/cache app/logs
+ setfacl -R -m u:apache:rwx -m u:symfony:rwx app/cache app/logs
+sudo chmod +a "apache allow delete,write,append,file_inherit,directory_inherit" app/cache app/logs
+chmod +a "apache allow delete,write,append,file_inherit,directory_inherit" app/cache app/logs
+pwd
+mkdir app/cac
+ setfacl -dR -m u:apache:rwx -m u:symfony:rwx app/cache app/logs
+php app/console  cache:clear  --env=dev
+php app/console  debug:route
+php app/console  route:debug
+php app/console  doctrine:schema:update --dump-sql
+php app/console  doctrine:schema:update --force
+php app/console  doctrine:generate:entities HegesAppServiceBundle
+php app/console  doctrine:generate:entities
+php app/console  doctrine:generate:entities HegesApp
+mv src/HegesApp/ServiceBundle/Repository src/HegesApp/ServiceBundle/Repository.MAL
+php app/console  doctrine:generate:entities HegesApp
+ls -l src/HegesApp/ServiceBundle/Repository
+cat src/HegesApp/ServiceBundle/Repository.MAL/ServiceRepository.php 
+pwd
+ls
+ls -lart
+cat .gitconfig 
+ssh-keygen -t rsa -C"frjaraur@gmail.com"
+cd .ssh
+ls
+cat id_rsa.pub 
+ssh -T git@github.com
+git remote add origin git@github.com:frjaraur/HegesApp.git
+git push origin master
+git push
+git push --help
+git push HegesApp
+git push --help
+git push https://github.com/frjaraur/HegesApp
+git pull
+git pull HegesApp
+git pull https://github.com/frjaraur/HegesApp
+commit
+ls -lart
+cd 
+git push https://github.com/frjaraur/HegesApp
+git pull https://github.com/frjaraur/HegesApp
+git add .
+git pull https://github.com/frjaraur/HegesApp
+git commit -a
+ls
+vi .gitingnore 
+ls -lart
+vi .gitingnore 
+ls
+git add .
+git commit -a
+git commit -m 'Subida a git'
+git pull https://github.com/frjaraur/HegesApp
+git push https://github.com/frjaraur/HegesApp
+ls -lart
+php app/console  cache:clear  --env=dev
+php app/console 
+php doctrine:query:sql 
+php app/console doctrine:query:sql 
+php app/console doctrine:query:sql select b.name, b.id from HegesAppMonitorBundle:Monitor a, HegesAppConfigFileBundle:Configlinetype b, HegesAppServiceBundle:Service c where c.id=5 and c.fkMonitor = a.id
+php app/console doctrine:query:sql 
+php app/console doctrine:query:sql --help
+php app/console doctrine:query:sql "select b.name, b.id from HegesAppMonitorBundle:Monitor a, HegesAppConfigFileBundle:Configlinetype b, HegesAppServiceBundle:Service c where c.id=5 and c.fkMonitor = a.id"
+php app/console doctrine:query:sql "select b from HegesAppMonitorBundle:Monitor a, HegesAppConfigFileBundle:Configlinetype b, HegesAppServiceBundle:Service c where c.id=5 and c.fkMonitor = a.id"
+git commit -m 'Subida a git 2'
+git push https://github.com/frjaraur/HegesApp
+git status
+git add .
+git status
+vi .gitingnore 
+mv .gitingnore .gitignore
+git status
+git add .
+git status
+git commit -m 'Subida a git 3'
+git push https://github.com/frjaraur/HegesApp
+git status
+vi .gitignore
+git add .
+git status
+commit -m 'limpieza de cache'
+git commit -m 'limpieza de cache'
+git push https://github.com/frjaraur/HegesApp
+git pull https://github.com/frjaraur/HegesApp
+git push https://github.com/frjaraur/HegesApp
+git status
+git add .
+git commit -m 'busqueda tipo linea y datos para servicio'
+git push https://github.com/frjaraur/HegesApp
+/tmp/eclipse/eclipse 
+ls
+pwd
+cd web
+ls
+vi app_dev.php 
+ls
+cd
+cd src
+ls
+cd HegesApp/
+ls
+cd ConfigFileBundle/
+ls
+cd Controller/
+ls
+vi ConfigfileController.php
+cd src
+ls
+cd HegesApp/
+ls
+cd ConfigFileBundle/
+ls
+cd Form/
+ls
+ls -lart
+vi DataType.php
+ls
+mv ConfigfiledataType.php ConfigfiledataType.php_MAL
+pwd
+ls
+cd ..
+ls
+cd Controller/
+ls
+cat ConfigfileController.php.BKP12Jul
+vi ConfigfileController.php.BKP12Jul
+ls
+cd ..
+ls
+pwd
+cd Resources/
+ls
+cd config/
+ls
+cd routing/
+ls
+vi configfile.yml
+/tmp/eclipse/eclipse 
+exit
+/tmp/eclipse/eclipse 
+/tmp/eclipse/eclipse 
+top
+quit
+exit
+pwd
+ls
+exit

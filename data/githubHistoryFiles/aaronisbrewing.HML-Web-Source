@@ -1,0 +1,37 @@
+cd tour
+exit
+ls
+logout
+ls
+cd javascript
+ls
+logout
+passwd
+who
+exit
+ls
+find .
+find . > file_list_20101201.txt
+find . -print | grep '.php|.html|.shtml'
+find . -print | egrep '.php|.html|.shtml'
+find . -print | egrep '.php|.html|.shtml' > file_list_20101201_pages.txt 
+exit
+ls
+history
+find . -print | egrep '.php|.html|.shtml' > file_list_20101203_pages.txt 
+find . -print | egrep '.php|.html|.shtml' > file_list_20101203_pages.txt 
+find . -print | egrep '.php|.html|.shtml' > file_list_20101203_pages.txt 
+exit
+cd /newlog/web/iplanet/sawmill/www.csufresno.edu/library
+grep contact *
+grep contact *.201010*
+grep contact *.201011*
+grep contact.php *.201011*
+cd /services
+ls
+cd services
+ls
+mv instruction-form.php instruction-form_text.php
+mv instruction-form_current.php instruction-form.php
+vi instruction-form.php
+exit

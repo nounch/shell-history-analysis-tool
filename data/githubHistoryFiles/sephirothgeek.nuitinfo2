@@ -1,0 +1,348 @@
+l
+ls
+cd framework/
+ls
+yiic webapp ../www/
+./yiic webapp ../www/
+chmod 777 ./yiic
+./yiic webapp ../www/
+./yiic webapp ../www/
+/usr/local/bin/php.TEST.5 ./yiic.php webapp ../www/
+cd framework/
+ls
+/usr/local/bin/php.TEST.5 ./yiic.php webapp ../www/
+/usr/local/bin/php.TEST.5 ./yiic.php webapp ../www/test/
+cd framework/
+/usr/local/bin/php.TEST.5 ./yiic.php webapp ../www/test/
+ls
+cd framework
+ls
+/usr/local/bin/php.TEST.5 yiic.php webapp ../www/cohorte
+ls
+cd framework/
+ls
+/usr/local/bin/php.TEST.5 yiic.php webapp ../www/cohorte
+ls
+cd /
+ls
+cd /homez.441/sephirot/
+ls
+cd ~
+ls
+cd www
+cd ~
+ls
+cd cohorte
+l
+ls
+cd protected/
+ls
+yiic Managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+./yiic Managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php Managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php Managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php Managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+cd cohorte/protected/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+cd cohorte/protected/
+cd /homez.441/sephirot/cohorte/protected ; ls
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+cd cohorte/protected/
+/usr/local/bin/php.TEST.5 ./yiic.php managerfile purge_tmp --temps_minute=10
+/usr/local/bin/php.TEST.5 ./yiic.php managerfile purge_tmp --temps_minute=10
+/usr/local/bin/php.TEST.5 ./yiic.php managerfile purge_tmp --temps_minute=10
+cd cohorte/protected/tests/
+ls
+phpunit --verbose functional
+phpunit /functional/PostTest.php
+cd cohorte/protected/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+/usr/local/bin/php.TEST.5 ./yiic.php managerbdd backup --save_path=/homez.441/sephirot/cohorte/stockage/sauvegarde_cohorte/automatique/
+ls
+cd cohorte/
+ls
+cd protected/
+ls
+/usr/local/bin/php.TEST.5 ./yiic.php help message
+/usr/local/bin/php.TEST.5 ./yiic.php message ./message/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php message ./messages/config.ph$
+/usr/local/bin/php.TEST.5 ./yiic.php message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php message ./messages/config.php | more
+/usr/local/bin/php.TEST.5 ./yiic.php message ./messages/config.php | more
+/usr/local/bin/php.TEST.5 ./yiic.php message ./messages/config.php | more
+/usr/local/bin/php.TEST.5 ./yiic.php message ./messages/config.php
+ls
+cd cohorte
+/usr/local/bin/php.TEST.5 ./yiic.php help message
+cd protected/
+/usr/local/bin/php.TEST.5 ./yiic.php help message
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./message/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+ls
+cd cohorte/
+ls
+cd protected/
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+ls
+cd cohorte/
+ls
+cd protected/
+ls
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+ls
+pear config-set auto_discover 1
+pear install pear.phpunit.de/PHPUnit
+pear install pear.phpunit.de/PHPUnit
+ls
+pear config-set auto_discover 1
+pear install pear.phpunit.de/PHPUnit
+pear install phpunit
+pear channel-discover pear.phpunit.de
+sudo pear channel-discover pear.phpunit.de
+pear channel-discover pear.phpunit.de
+pear install phpunit/PHPUnit
+pear config-set auto_discover 1
+pear install phpunit/PHPUnit
+phpunit
+cd /usr/local/bin
+ls
+cd ~
+pear install phpunit/PHPUnit
+pear install pear.phpunit.de/PHPUnit
+pear install pear.phpunit.de PHPUnit
+pear install pear.phpunit.de/PHPunit
+pear install pear.phpunit.de/PHPUnit
+man pear
+pear
+pear upgrade-all
+witch php
+which php
+pear channel-discover pear.phpunit.de
+pear remote-list -c phpunit
+pear remote-list -c pear.phpunit.de
+pear install pear.phpunit.de/PHPUnit
+pear install pear.phpunit.de/PHPUnit
+pear install pear.phpunit.de/PHPUnit
+pear install pear.phpunit.de/PHPUnit
+pear install pear.phpunit.de/PHPUnit
+ls
+cd cohorte/
+cd protected/
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+ls
+cd cohorte/
+cd protected/
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+ls
+cd cohorte
+ls
+cd protected/
+/usr/local/bin/php.TEST.5 ./yiic.php managerfile purge_tmp
+/usr/local/bin/php.TEST.5 ./yiic.php managerfile purge_tmp
+/usr/local/bin/php.TEST.5 ./yiic.php managerfile purge_tmp
+/usr/local/bin/php.TEST.5 ./yiic.php managerfile purge_tmp
+ls
+java -version
+ls
+cd cohorte/
+ls
+cd protected/
+ls
+/usr/local/bin/php.TEST.5 ./yiic.php managerfile purge_tmp
+ls
+cd cohorte/
+ls
+cd protected/
+ls
+/usr/local/bin/php.TEST.5 ./yiic.php managerfile purge_tmp
+ls
+cd cohorte/
+ls
+cd protected/
+/usr/local/bin/php.TEST.5 ./yiic.php managerfile purge_tmp
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+ls
+cd framework/
+ls
+/usr/local/bin/php.TEST.5 ./yiic.php webapp ../omgl/
+ls
+cd cohorte/
+ls
+cd protected/
+ls
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+ls
+cd framework/
+ls
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../omgl
+ls
+cd cohorte/
+cd protected/
+ls
+ls
+/usr/local/bin/php.TEST.5 ./yiic.php  message ./messages/config.php
+ls
+cd cohorte/protected/
+/usr/local/bin/php.TEST.5 ./yiic.php docs ../docsd
+/usr/local/bin/php.TEST.5 ./yiic.php docs ../../docs
+/usr/local/bin/php.TEST.5 ./yiic.php docs check
+/usr/local/bin/php.TEST.5 ./yiic.php docs ../../docs noviews
+mkdir docs
+/usr/local/bin/php.TEST.5 ./yiic.php docs ./docs
+/usr/local/bin/php.TEST.5 ./yiic.php docs docs
+/usr/local/bin/php.TEST.5 ./yiic.php docs docs
+/usr/local/bin/php.TEST.5 ./yiic.php docs docs
+/usr/local/bin/php.TEST.5 ./yiic.php docs docs
+ls
+cd framework/
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../cryptage
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../cryptage
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../cryptage
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../main
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../main
+ls
+cd /
+ls
+ls
+cd framework/
+ls
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../main
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../cryptage
+ls
+cd framework/
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../nuitinfo
+cd framework/
+ls
+cd ..
+cd  framework/
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../nuitinfo
+ld
+ls
+cd main/
+lms
+ls
+cd script_serveur/
+ls
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+/usr/local/bin/php.TEST.5 ./script.php
+cd framework/
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../test
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../www/test
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../omgl3
+/usr/local/bin/php.TEST.5 ./yiic.php  webapp ../omgl3
+ls
+cd omgl3
+cd protected/
+yiic migrate --migrationPath=user.migrations
+ls
+/usr/local/bin/php.TEST.5 ./yiic.php  migrate --migrationPath=user.migrations

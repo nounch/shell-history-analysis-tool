@@ -1,0 +1,108 @@
+ls -l
+node app.js 
+vi test.wav 
+vi test1.wav 
+ls -l
+vi test2.wav 
+vi test3.wav 
+vi Voice\ 016.3ga 
+vi test.3ga 
+vi testa.3ga 
+vi test1.3ga 
+vi test.3ga 
+vi test1.3ga 
+vi test2.3ga 
+vi test3.3ga 
+vi test4.3ga 
+vi testa.3ga 
+vi testa1.3ga 
+vi test1a.3ga 
+vi testa2.3ga 
+vi testa3.3ga 
+vi testa2.3ga 
+vi test2.3ga 
+vi TEST.3gp 
+ls -l
+vi utest.3gp 
+exit
+vi test.3ga 
+vi ccffda67-d15d-1f39-4f39-fbb34812c43e.3gp
+vi test.3gp 
+vi test.3gp
+vi TEST.3gp 
+vi test.3gp
+ls -l
+node index.js 
+npm install express
+node index.js 
+node ./index.js &
+ps afx | grep node
+kill -9 24334
+ps afx | grep node
+kill -9 243336
+kill -9 24336
+kill -9 24337
+kill -9 24338
+kill -9 24340
+kill -9 24342
+kill -9 24343
+kill -9 24345
+kill -9 24347
+ps afx | grep node
+node ./index.js 
+ps afx | grep node
+kill -9 7667
+ps afx | grep node
+node ./index.js 
+ab -n 1000 -c 10 http://cake.local/users/list
+node ./index.js 
+npm install db-ysql
+npm install db-mysql
+sudo apt-get install libmysqlclient-dev
+npm install db-mysql
+node ./index.js 
+ps | afx grep node
+node ./index.js 
+ls -l
+git add -A
+git init
+git remote add origin git@github.com:dperussina/c8_nodejs_server.git
+git commit -m 'my hola mundo changes'
+git add -A
+git commit -m 'my hola mundo changes'
+git push origin master
+cd ~/.ssh
+ls -l
+cat known_hosts 
+ssh-keygen -t rsa -C "dperussina@agentgrid.net"
+pbcopy < ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
+cd ..
+ls -l
+git push origin master
+git pull
+git remote -v
+git push
+git add -A
+git commit -m 'my hola mundo changes'
+git config --global user.name "Daniel Perussina"
+git config --global user.email dperussina@agentgrid.net
+git commit -m 'my hola mundo changes'
+git push origin master
+it push --help
+git push --help
+git push origin +master
+git pull
+git remote -v
+git pull c8_nodejs_server ,aster
+git pull c8_nodejs_server master
+git pull c8_nodejs_server git@github.com:dperussina/c8_nodejs_server.git master
+git pull git@github.com:dperussina/c8_nodejs_server.git master
+git commit -m "PUSH test"
+git add -A
+git push origin master
+ls -l
+vi app.js 
+git add -A
+git commit -m "082912a"
+git push origin master

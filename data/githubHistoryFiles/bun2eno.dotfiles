@@ -1,0 +1,9 @@
+ls
+ls -la
+tail .bashrc
+pwd
+cd /d/Users/bun2/AppData/Local/Unity/Editor
+less Editor
+ls -la
+tail Editor.log 
+tail Editor-prev.log 

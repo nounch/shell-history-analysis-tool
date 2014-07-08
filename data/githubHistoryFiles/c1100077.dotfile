@@ -1,0 +1,8447 @@
+sourc ~/.zshrc
+source ~/.zshrc
+ls
+la
+pwd
+cd work/lisp/cmucl/Src/cmucl/src
+cd
+cd -0
+pwd
+cd -0
+pwd
+cd -0
+pwd
+source ~/.zshrc
+ls
+la
+source ~/.zshrc
+ls
+la
+source ~/.zshrc
+pwd
+su
+ls
+du
+df
+source ~/.zshrc
+pwd
+cd work
+source ~/.zshrc
+ls
+la
+su
+zsh -version
+zsh -v
+zsh version
+zsh -version
+man zsh
+zsh --version
+emacs&
+ls
+emacs&
+cd
+pwd
+cd work/lisp/cmucl/
+mkdir test
+cd test
+mkdir cmucl
+cd cmucl
+export CVSROOT=:pserver:anonymous@common-lisp.net:/project/cmucl/cvsroot
+cvs login
+cvs co src
+pwd
+cd ../../
+ls
+cd temp
+ls
+cd 18a-FreeBSD_22
+ls
+cd bin/
+ld
+ls
+./lisp
+lisp
+cd ../../../
+pwd
+cd temp
+ls
+cd cmucl-2009-11-x86-freebsd_7.2-stable
+ls
+cd bin
+ls
+lisp
+cd ../
+ls
+cd lib
+ls
+pwd
+ls
+cd cmucl
+ls
+cd lib
+ls
+cd ext-formats
+ls
+cd ../subsystems
+ls
+cd ../
+pwd
+cd ../.././
+pwd
+cd ../
+ls
+cd lib
+pwd
+export CMUCLLIB='pwd'
+echo CMUCLLIB
+echo $CMUCLLIB
+export CMUCLLIB=/home/ponyo/work/lisp/cmucl/temp/cmucl-2009-11-x86-freebsd_7.2-stable/lib
+cd ../bin
+ls
+lisp
+file lisp
+pw
+pwd 
+cd ../../../
+paw
+pwd
+cd temp/cmucl-19e-x86-freebsd8.0
+ls
+cd bin
+ls
+lisp
+cd /libexec
+ls
+cd 
+pwd
+su
+emacs .zshrc.mine
+emacs& .zshrc.mine
+emacs&
+source ~/.zshrc
+lisp
+emacs&
+whereis lisp
+shutdown -p no
+shutdown -p noq
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+usbdevs -v
+su
+ls
+pwd
+la
+ssh -p 717 root@192.168.11.17
+scp -P 717 ./.emacs root@192.168.11.17:/root/keep/
+emacs .zshrc
+du
+df
+rdesktop -h
+whereis rdesktop
+su
+rdesktop -h
+rdsktop -u ponyo 192.168.11.4
+rehash
+rdsktop -u ponyo 192.168.11.4
+rdesktop -u ponyo 192.168.11.4
+rdesktop -u winwin 192.168.11.4
+ps ax | grep sshd
+/etc/rc.d/sshd start
+/etc/rc.d/sshd onestart
+ps ax | grep sshd
+su
+exit
+pwd
+la
+ls
+cd work
+la
+cd etc
+pwd
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+emacs --fullscreen&
+ls
+pwd
+la
+cd 
+pwd
+clean
+clear
+top
+1mwenndy%0m 
+exit
+rdesktop -u winwin 192.168.11.4
+/etc/rc.d/sshd onestart
+su
+cd
+pwd
+ls
+cd work/etc
+ls
+pwd
+rdesktop -u winwin 192.168.11.4
+su
+shutdown -p now
+xinti
+xinit
+emacs --fullscreen&
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+emacs --fullscreen&
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinti
+xinit
+su
+rdesktop -u winwin 192.168.11.4
+su
+ls
+cd work
+ls
+cd etc
+pwd
+wpd
+pwd
+su
+shutdown -p now
+xinit
+ssh -p 717 root@192.168.11.17
+shutdown -p now
+xinit
+man tar 
+tar -version
+tar --version
+ssh -p 717 root@192.168.11.17
+su
+ls
+pwd
+cd work
+ls
+emacs named.conf
+cd ../keep
+ls
+mkdir named
+cd ../work
+ls
+cp ./named.conf ../keep/named/named.conf
+ls
+cd ../keep/named
+ls
+emacs named.conf
+cd ../../work
+ls
+rm named.conf
+ls
+pwd
+cd /usr/src/sys
+ls
+cd amd64
+ls
+cd conf
+ls
+pwd
+cd /boot
+ls
+cd kernel
+ls
+ls pwd
+pwd
+cd ../
+ls
+pwd
+cp kernel kernel.good
+mkdir kernel.good
+su
+pwd
+ls
+cd modules
+ls
+la
+cd ../../usr/src/sys/amd64/conf
+ols
+ls
+emacs NOTES
+emacs DEFAULTS
+emacs MYKERNEL
+su
+shutdown -p now
+xinit
+df
+su
+xinit
+ls
+pwd
+su
+df
+su
+xinit
+cd /usr/kernel
+ls
+ls | less
+cd /var/run
+ls
+emacs dmesg.boot
+su
+cd
+pwd
+ls
+burncd -f /dev/acd0 data 8.0-RELEASE-i386-bootonly.iso fixate
+su
+rdesktop -u winwin 192.168.11.4
+ssh -p 717 root@192.168.11.17
+kldload snd_driver
+su
+xinit
+su
+xinit
+cd /etc
+ls
+file defaults
+file namedb
+file devd.conf
+file pccard_ether
+cd defaults
+ls
+cd ../
+ls
+cd X11
+ls
+la
+cd ./
+cd ../
+cd rc.d
+ls
+cd ../
+ls
+shutdown -p now
+xinit
+cd /usr/share
+ls
+cd examples
+ls
+cd etc
+ls
+file shells
+emacs shells
+cd defaults
+ls
+pwd
+cd /etc
+ls
+cd defaults
+ls
+cd ../
+ls
+pwd
+locate adduser.conf
+man locate
+locate adduser.conf
+/usr/libexec/locate.updatedb
+su
+locate adduser.conf
+locate crontab
+ls
+pwd
+locate zshrc
+locate locate.rc
+locate master.passwd
+su
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+cd /etc
+ls
+emacs profile
+pwd	
+cd
+ssh-keygen -t rsa
+ls
+la
+cd ./ssh
+file .ssh
+cd .ssh
+ls
+ls -la
+emacs --fullscreen id_rsa
+su
+pwd
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+cd /etc
+ls
+emacs --fullscreen portsnap.conf
+ssh  ponyo@192.168.11.17
+su
+exit
+cd /usr/ports
+ls
+cd devel
+cd subversion
+cd ../subversion-freebsd
+make install clean
+su
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+cd /etc
+ls
+cd defaults
+ls
+emacs --fullscreen rc.conf
+su
+ssh  ponyo@192.168.11.17
+ssh  svn@192.168.11.17
+www  svn@192.168.11.17
+ssh www@192.168.11.17
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  svn@192.168.11.17
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+xinit
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+pwd
+cd work/lisp/sbcl
+ls
+cd lns
+ls
+cd test
+ls
+cd ../
+pwd
+cd test
+ls
+mkdir trunk
+mkdir tags
+mkdir branches
+ls
+mv ./http.lisp ./trunk/http.lisp
+ls
+cd trunk/
+ls
+cd ../
+ls
+mv ./lns.lisp ./trunk/lns.lisp
+ls
+mv ./load-lns.lisp ./trunk/load-lns.lisp
+ls
+mv ./http-example.lisp ./trunk/http-example.lisp
+ls
+rm lns.log
+ls
+cd ../
+ls
+svn import test svn:///temp/test
+svn import test svn:///temp/test -m "Initial import"
+svn import test svn://192.168.11.17/temp/test -m "Initial import"
+svn info svn://192.168.11.17
+svn import test svn://192.168.11.17/temp/test -m "Initial import"
+svn info svn://192.168.11.17
+ssh  ponyo@192.168.11.17
+svn info svn://192.168.11.17
+svn import test svn://192.168.11.17/temp/test -m "Initial import"
+pwd
+cd
+ls
+mkdir temp
+ls
+cd temp
+ls
+svn checkout svn://192.168.11.17/test/trank
+svn checkout svn://192.168.11.17/temp/test/trank
+svn checkout svn://192.168.11.17/temp/test/trank/
+svn info svn://192.168.11.17
+svn checkout svn://192.168.11.17/temp/test/trunk
+ls
+svn checkout svn://192.168.11.17/temp/test
+ls
+rm -r test
+ls
+rm -rf test
+ls
+cd trunk
+ls
+emacs --fullscreen lns.lisp&
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+getconf
+getconf GNU_LIBPTHREAD_VERSION
+man pthread
+su
+shutdown -p now
+xinitg
+xinit
+su
+pwd
+cd work/lisp/sbcl/lns/test/trunk
+ls
+etags *.lisp
+cd /usr/local/share/emacs/22.3/site-lisp/slime
+ls
+etags *.el
+su
+cd
+man grep
+shutdown -p now
+xinit
+man grep
+pwd
+ls
+man grep >  grep-man.txt
+ls
+man grep
+man ls | col -b > xxx
+man col | col -b > xxx
+man col | col -b > grep-man.txt
+man grep | col -b > grep-man.txt
+pwd
+cd work/lisp
+ls
+grep -R pa_alloc *.c
+grep pa_alloc *.c
+grep -nH -e pa_alloc *.c
+grep -nH -e pa_alloc
+grep -nH -e pa_alloc *.c
+grep -nH -e pa_alloc | *.c
+grep -nH -e pa_alloc *.c
+ls
+cd  sbcl
+sl
+ls
+cd sbcl-1.0.40
+ls
+cd src/runtime
+ls
+grep -nH -e pa_alloc *.c
+cd ../
+grep -nH -e pa_alloc *.c
+grep -nH -R -e pa_alloc *.c
+grep -R pa_alloc *.c
+grep -R pa_alloc ./
+grep -R pa_alloc 
+grep -R pa_alloc ./
+pwd
+cd runtime
+grep pa_alloc
+grep pa_alloc *.c
+locate grep
+locate grep.c
+exiy
+exit
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+shutdown p
+shutdown -p now
+xinit
+locate socket.h
+man socket
+man make.conf
+shutdown -p now
+xinit
+su
+pwd
+cd work/www/test
+ls
+gcc -Wall test-socket.c
+gcc -Wall test-socket-server.c
+man gcc
+gcc -Wall -o test-server test-socket-server.c
+gcc -Wall -o test-client test-socket-client.c
+ls
+./test-server
+pwd
+cd work/www/test
+ls
+./test-client
+ifconfig
+gcc -Wall -o test-client test-socket-client.c
+./test-client
+./test-server
+./test-client
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+ping 192.168.11.17
+ssh  ponyo@192.168.11.17
+pwd
+scp ./test-socket-client.c ponyo@192.168.11.17:/home/ponyo/work/net/test/test-socket-client.c
+pwd
+ls
+./test-server
+scp ./test-socket-server.c ponyo@192.168.11.17:/home/ponyo/work/net/test/test-socket-server.c
+gcc -Wall -o test-client test-socket-client.c
+./test-client
+gcc -Wall -o test-client test-socket-client.c
+./test-client
+gcc -Wall -o test-client test-socket-client.c
+./test-client
+gcc -Wall -o test-client test-socket-client.c
+./test-client
+gcc -Wall -o test-client test-socket-client.c
+./test-client
+shu
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+echo $$
+ps -l -p 1377
+env
+pwd
+cd work/www/test
+ls
+gcc -Wall -o test-client test-socket-server-v2.c
+./test-server
+cd work/www/test
+./test-client
+gcc -Wall -o test-server test-socket-server-v2.c
+gcc -Wall -o test-client test-socket-client.c
+./test-server
+./test-client
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+cd work/www
+ls
+cd test
+ls
+./test-client
+cd work/www/test
+ls
+./test-client
+exit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinti
+xinit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+xinit
+shutdown -p now
+xinit
+cd work/www/test
+ls
+./test-client
+gcc -Wall -o test-client test-socket-client.c
+./test-client
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+gconf-editor
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+rdesktop -u winwin 192.168.11.4
+su
+shutdown -p now
+xinti
+xinit
+shutdown -p now
+xinit
+su
+exit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+xinit
+shutdown -p now
+xinit
+u
+su
+xinit
+su
+ls
+la
+pwd
+ls
+cp SKK-JISYO.S .skk-jisyo
+ls
+la
+pwd
+shutdown -p now
+xinit
+whereis auto-install
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinti
+xinit
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinity
+xiniy
+xinit
+su
+shutdown -p now
+xinit
+man bind
+man bind 2
+man 2 bind 
+pwd
+ls
+cd work
+ls
+cd www/
+ls
+cd test
+ls
+./test-client
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+telnet 127.0.0.1 12345
+wherer stumpwm
+where stumpwm;
+whereis  stumpwm;
+cd /usr/ports/x11-wm/stumpwm
+make install clean
+ls
+emacs Makefile
+cd
+ls
+pwd
+cd test
+ls
+tar zxvf stumpwm-0.9.7.tgz
+cd /usr/ports/x11-wm/stumpwm
+ls
+shutdown -p now
+xinti
+xinit
+ portsnap fetch && portsnap update
+cd /var/db/
+ls
+su
+whereis  stumpwm
+xinit
+exit
+shutdown -r now
+emacs .xinitrc
+xinit
+telnet 127.0.0.1 12345
+shutdown -r now
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+xinit
+su
+whereis firefox
+where firefox
+whereis firefox
+whereis opera
+su
+xinit
+shutdown -p now
+xinti
+xinit
+nautilus
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinti
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+whereis w3m
+cd /usr/ports/japanese/w3m
+su
+ls
+pwd
+cd 
+ls
+wpd
+pwd
+cd Desktop/emacs-w3m-1.4.4/
+./configure
+make
+make install
+su
+shutdown -p now
+xinit
+su
+cd Desktop
+unzip org-7.01h.zip
+cd /libexec
+ls
+ls -al /usr/local/lib/libjpeg.so*
+cd /usr/local/lib/
+ls
+ls -al /usr/local/lib/libjpeg.so*
+where libjpeg.so.10
+whereis libjpeg.so.10
+locate libjpeg.so.10
+where firefox3
+pwd
+la
+ls
+cd ../../
+pwd
+locate firefox
+cd ../../
+pwd
+locate firefox
+locate firefox3
+locate ponyo
+pwd
+cd
+cd Desktop
+ls
+tar -h
+tar zxvf libjpeg-turbo-0.0.93.tbz
+cd test
+tar zxvf jpeg-8_3.tbz
+tar zxvf jpeg-8.tbz
+tar zxvf jpeg-8_3.tbz
+ssh  ponyo@192.168.11.17
+pwd
+scp ./Desktop/test ponyo@192.168.11.17:/usr/local/lib/libjpeg.so.10
+scp ./Desktop/test/libjpeg.so.10 ponyo@192.168.11.17:/usr/local/lib/libjpeg.so.10
+scp ponyo@192.168.11.17:/usr/local/lib/libjpeg.so.10 ./Desktop/test/libjpeg.so.10
+pwd
+cd Desktop/test
+ls
+su
+ls -al /usr/local/lib/libjpeg.so*
+emacs
+pwd
+file libjpeg.so.10
+su
+cd /usr/local/libdata/pkgconfig
+ls
+cd
+pwd
+cd Desktop
+cd test
+ls
+tar zxvf emacs-23.2_2,2.tbz
+pwd
+cd bin
+ls
+file emacs
+file emacs-23.2
+cd ../../
+ls
+pwd
+cd test
+tar zxvf emacs-23.2_2,2.tbz
+pwd
+ls
+cd bin
+ls
+file emacs
+./emacs
+ls -al /usr/lib/libpng.so.*
+ls -al /usr/local/lib/libpng.so.*
+ls -al /usr/local/lib/libpng.*
+./emacs
+rehash
+./emacs
+su
+rehash
+cd 
+cd Desktop/test
+ls
+cd bin
+./emacs
+xinit
+vi .xinitrc
+ee .xinitrc
+xinit
+emacs
+pwd
+cd Desktop/test
+cd bin
+./emacs 
+./emacs -nw
+pwd
+cd 
+pwd
+ls
+cd work
+ls
+cd ../
+cd keep
+ls
+ssh  ponyo@192.168.11.17
+pwd
+cd ../
+pwd
+ls
+scp -r ./work ponyo@192.168.11.17:/home/ponyo/
+scp -r ./keep ponyo@192.168.11.17:/home/ponyo/
+q3m
+w3m -v
+exit
+exit
+ls
+la
+mkdir dotFile
+cp .* ./dotFile
+pwd
+ls
+la
+cp dotFile/.emacs ./emacs
+emacs 
+la
+move emacs .emacs
+cp emacs .emacs
+ls
+la
+rm emacs
+emacs 
+exit
+emacs
+ls
+la
+su
+pwd
+rc .zshrc /root/.zshrc
+cp .zshrc /root/.zshrc
+su
+pwd
+su
+where zsh
+su
+pwd
+la
+cd dotFile
+ls
+la
+emacs .xinitrc
+cp ./.xinitrc ../.xinitrc
+cd ../
+la
+exit
+xinitrc
+xinit
+startx
+emacs 
+exit
+la
+pwd
+ls
+la
+su
+locate Xresource
+locate .Xresources
+locate .Xresource
+locate .Xre
+ls
+pwd
+la
+emacs .Xresources
+ls
+la
+startx
+xrdb ./Xresources
+pwd
+la
+xrdb ./.Xresources
+exit
+xrdb ./.Xresources
+exit
+pwd
+ls
+su
+xlsfont
+xlsfonts
+xfonts
+xlsfonts
+exit
+xrdb ./.Xresources
+exit
+xrdb ./.Xresources
+exit
+pwd
+xrdb ./.Xresources
+exit
+xrdb ./.Xresources
+exit
+locate fonts.alias
+xrdb ./.Xresources
+exit
+xrdb ./.Xresources
+exit
+xrdb ./.Xresources
+exit
+xrdb ./.Xresources
+exit
+exit
+su
+w3m -v
+exit
+exit
+ssh  ponyo@192.168.11.17
+shutdown -p now
+startx
+pwd
+ls
+la
+cp ./dotFile/.skk-jisyo ./.skk-jisyo
+su
+la
+emacs ./dotFile/.xsession
+la
+emacs .Xauthority
+emacs ./dotFile/.xsession
+cp ./dotFile/.xsession ./xsession
+exit
+ls
+la
+rm xsession
+cp ./dotFile/.xsession ./.xsession
+ls
+la
+exit
+su
+cd 
+cd ./work/etc
+ls
+mplayer -vo ts.avi 
+mplayer -vo x11 ts.avi 
+su
+mplayer -vo x11 ts.avi 
+mplayer -vo x11 1202271727_683640.flv
+mplayer -vo x11 1282395933_271986_274461.flv
+shutdown -p now
+startx
+emacs -nw
+cd /etc/X11
+ls
+la
+pwd
+la
+locate xorg.conf
+locate Xorg.conf
+locate xorg.
+locate xorg
+locate xorg.conf
+startx
+pwd
+su
+Xorg -configure
+su
+startx
+su
+startx
+su
+startx
+startx > test.txt
+emacs test.txt
+startx 2> test.txt
+emacs test.txt
+startx
+su
+exti
+exit
+startx 2> test1.txt
+pwd
+startx
+shutdown -p now
+startx
+shutdown -p now
+startx
+setxkbmap -rules xfree86 -model jp106 -layout jp
+man setxkbmap 
+setxkbmap  -model jp106 -layout jp
+ls
+pwd
+w3m
+w3m -v
+kterm
+w3m -v
+exit
+where w3m
+locate w3m
+locate w3m | less
+su
+emacs
+su
+emacs
+exit
+exit
+shutdown -p now
+startx
+emacs
+setxkbmap -model jp106 -layout jp
+exit
+exit
+cd work/etc
+mplayer -vo x11 1282395933_271986_274461.flv
+su
+mplayer -vo x11 4a6127967e1b5.flv
+mplayer -vo x11 47d1d073b4334.flv
+mplayer -vo x11 483e1c7b69897.flv
+mplayer -vo x11 979598.flv
+quit
+exit
+shutdown -p now
+startx
+sht
+shutdown -p now
+startx
+shutdown -p now
+startx
+setxkbmap -model jp106 -layout jp
+emacs
+cd Desktop
+ls
+tar zxvf emacs-nav-20090824b.tar.gz
+cd emacs-nav-20090824b
+ls
+emacs nav.el
+ls
+pwd
+emacs
+emacs nav.el
+su
+exit
+exi
+exit
+exit
+exit
+shutdown -p now
+startx
+su
+cd Desktop
+ls
+mplayer -vo x11 4c8a123573178.flv
+ls
+mplayer -vo x11 4c73c92674a24.flv
+mplayer -vo x11 4b5db9fcd21dd.flv
+cd ../
+whereis gmplayer\\
+
+whereis vlc
+su
+cd work/etc
+mplayer -vo x11 xvideos.com_015da14020355abbd8e3b5b705daf1e4.flv
+mplayer -vo x11 xvideos.com_1b878cbc4c7b4ea656eb554b0772b941.flv
+mplayer -vo x11 xvideos.com_1b8dc4d8488f9c02cf50b8bce5c27688.flv
+mplayer -vo x11 xvideos.com_2786f9e55fec5723fccae4133c06c5fc.flv
+exit
+exit
+shutdown -p now
+startx
+setxkbmap -model jp106 -layout jp
+shutdown -p now
+xinit
+su
+exit
+vlc
+exit
+date
+shutdown -p now
+startx
+su
+vlc
+exit
+telnet 18.7.21.69 13
+telnet rainmaker.wunderground.com 3000
+exit
+shutdown -p now
+startx
+su
+whereis emms
+emacs .emacs
+emacs
+su
+cd
+ls
+cd music
+ls
+exit
+exit
+exit
+shutdown -p now
+startx
+setxkbmap -model jp106 -layout jp
+exit
+shutdown -p now
+xinit
+setxkbmap -model jp106 -layout jp
+su
+vlc
+shutdown -p now
+xinti\\
+xinit
+xinit
+su
+shutdown -p now
+xinit
+ls
+cd Desktop
+ls
+pwd
+su
+vlc
+exit
+shutdown -p now
+xinit
+su
+vlc
+exit
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+exit
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+setxkbmap -model jp106 -layout jp
+su
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinti
+xinit
+setxkbmap -model jp106 -layout jp
+su
+vlc
+shutdown -p now
+xinit
+setxkbmap -model jp106 -layout jp
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+setxkbmap -model jp106 -layout jp
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+setxkbmap -model jp106 -layout jp
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+ping 192.168.11.17
+ssh  ponyo@192.168.11.17
+cd 
+cd ../../..
+ls
+cd dev/
+ls
+su
+ls
+cd Desktop
+ls
+pwd
+cd 
+cd Desktop
+ls
+su
+vlc
+ssh  ponyo@192.168.11.17
+cd /home/ponyo/.ssh
+ls
+file known_hosts
+rm known_hosts
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+wol
+whereis wol
+su
+rehash
+wol
+wol --help
+ssh  ponyo@192.168.11.17
+scp .zshrc .zshrc.mine ponyo@192.168.11.17
+scp .zshrc .zshrc.mine ponyo@192.168.11.17:
+ssh  ponyo@192.168.11.17
+cd
+pwd
+la
+scp .emacs ponyo@192.168.11.17:
+ssh  ponyo@192.168.11.17
+ping 192.168.11.17
+ssh  ponyo@192.168.11.17
+scp .zshrc .zshrc.mine ponyo@192.168.11.17:
+wol 00:30:13:f1:47:f6
+wol -help
+wol --help
+wol 00:30:13:f1:47:f7
+wol 00:30:13:f1:47:f6
+ping 192.168.11.17
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+wol 00:30:13:f1:47:f6
+ping 192.168.11.17
+ssh  ponyo@192.168.11.17
+man wol
+wol -i 192.1888888.11.17 00:30:13:f1:47:f6
+wol -i 192.168.11.17 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+su
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.17 00:30:13:f1:47:f6
+wol -i 192.1888888.11.17 00:30:13:f1:47:f6
+wol -i 192.168.11.17 00:30:13:f1:47:f6
+wol  00:30:13:f1:47:f6
+wol -i 192.168.11.17 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+su
+vlc
+wol -i 192.168.11.17 00:30:13:f1:47:f6
+wol -i 192.168.11.17 00:30:13:f1:47:f7
+wol 00:30:13:f1:47:f7
+wol 00:30:13:f1:47:f6
+wol -i 192.168.11.17 00:30:13:f1:47:f6
+wol -i 192.168.11.17 00:30:13:f1:47:f7
+wol -i 192.168.11.17 00:30:13:f1:47:f6
+wol -i 192.168.11.17 00:30:13:f1:47:f7
+wol -i 192.168.11.17 00:30:13:f1:47:f6
+wol -i 192.168.11.17 00:30:13:f1:47:f7
+wol 00:30:13:f1:47:f6
+wol 00:30:13:f1:47:f7
+wol -i 192.168.11.17 00:30:13:f1:47:f6
+wol -i 192.168.11.17 00:30:13:f1:47:f7
+wol -i 192.168.11.17 00:30:13:f1:47:f6
+wol -i 192.168.11.17 00:30:13:f1:47:f7
+wol -i 192.168.11.17 00:30:13:f1:47:f6
+wol -i 192.168.11.17 00:30:13:f1:47:f7
+wol -i 192.168.11.255 00:30:13:f1:47:f7
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+host www.nostarch.com
+dig www.nostarch.com
+dig -x 72.27.231.135
+su
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+su
+vlc
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+setxkbmap -model jp106 -layout jp
+Tsudoi% setxkbmap -model jp106 -layout jp
+Tsudoi% 
+Tsudoi% setxkbmap -model jp106 -layout jp
+Tsudoi% 
+Tsudoi% setxkbmap -model jp106 -layout jp
+Tsudoi% 
+-model jp106 -layout jp
+-model
+Tsudoi% zsh: command not found: Ts
+Tsudoi% 
+-model
+Tsudoi% zsh: command not found: Ts
+Tsudoi% 
+-model
+Tsudoi% zsh: command not found: Ts
+Tsudoi% 
+-model
+Tsudoi% zsh: command not found: Ts
+Tsudoi% 
+-model
+Tsudoi% zsh: command not found: Ts
+Tsudoi% 
+-model
+Tsudoi% zsh: command not found: Ts
+Tsudoi% 
+ls
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+dig google.com
+dig www.gihyo.co.jp
+dig @192.168.11.17 www.gokujyou-menbou.com _+norec
+ping 192.168.11.17
+dig @192.168.11.17 www.gokujyou-menbou.com _+norec
+dig @192.168.11.17 example.com _+norec
+dig @192.168.11.17 www.gokujyou-menbou.com _+norec
+su
+vlc
+exit
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+ su
+vlc
+shutdown -p now
+xinit
+hostname
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+dig @192.168.11.17 gokujyo-menbou.com axfr
+dig @192.168.11.17 gokujyo-menbou.com AXFR
+dig @192.168.11.17 www.gokujyou-menbou.com _+norec
+dig @192.168.11.17 gokujyou-menbou.com AXFR_+norec
+dig ns.gokujyou-menbou.com 
+dig ns.gokujyou-menbou.com AXFR
+dig ns.gokujyou-menbou.com 
+dig ns.gokujyou-menbou.com AXFR
+dig gokujyou-menbou.com AXFR
+dig @192.168.11.17 gokujyou-menbou.com AXFR
+nslookup gokujyou-menbou.com
+nslookup gokujyou-menbou.com.
+nslookup google.com
+dig google.com
+dig google.com.
+nslookup google.com.
+nslookup yahoo.com.
+dig yahoo.com +norec
+dig gokujoyu-menbou.com. +norec
+dig moo.com. +norec
+dig muu.com. +norec
+dig muumuu.com. +norec
+dig amazon.co.jp +norec
+nslookup amazon.co.jp
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+shutdown -p now
+xinit
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+whereis terminator
+cd /usr/ports/x11/terminator
+ls
+make config-recursive
+su
+ls
+pwd
+emacs -nw .emacs
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ls
+pwd
+ssh  ponyo@192.168.11.17
+exit
+shutdown -p now
+xinit
+ls
+pwd
+ls
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ls
+pwd
+ls
+pwd
+ls
+pwd
+ssh  ponyo@192.168.11.17
+setxkbmap -model jp106 -layout jp
+su
+vlc
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+su
+rehash
+mutt
+echo $EDITOR
+echo EDITOR
+echo $editor
+ls
+cd
+ls
+la
+emacs .zshrc
+echo $EDITOR
+export EDITOR=emacs
+echo $EDITOR
+mutt
+su
+locate mew | less
+cd
+cd Desktop
+ls
+ls | less
+tar zxvf mew-6.3.tar.gz
+ls
+cd mew-6.3
+ls
+emacs 00readme
+cd
+cd Desktop/mew-6.3
+./configure
+make
+make j-info
+make jinfo
+make install
+su
+cd
+emacs .emacs
+exit
+emacs
+exit
+eixt
+exit
+shutdown -p now
+xinti
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+rup
+uptime
+man rup
+rup localhost
+whoami
+emacs /etc/passwd
+id
+groups
+umask
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+hostname
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+su
+vlc
+shutdown -p now
+xinti
+xinit
+setxkbmap -model jp106 -layout jp
+su
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+ls
+pwd
+hostname
+cd /etc
+ls
+emacs resolv.conf
+cd /etc
+emacs resolv.conf
+su
+nslookup google.com
+ls
+pwd
+emacs syslog.conf
+cd /var
+ls
+df var
+du var
+du ./
+df ./
+ls
+du log
+cd log
+ls
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+setxkbmap -model jp106 -layout jp
+ssh  ponyo@192.168.11.17
+su
+vlc
+exit
+ssh  ponyo@192.168.11.17
+nslookup mail
+nslookup mail.gokujyou-menbou.com
+emacs /etc/resolv.conf
+su
+emacs /etc/resolv.conf
+nslookup mail.gokujyou-menbou.com
+hostname
+nslookup mail.gokujyou-menbou.com
+nslookup smtp.gokujyou-menbou.com
+nslookup imap.gokujyou-menbou.com
+telnet smtp.gokujyou-menbou.com 25
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ping mail
+ssh  ponyo@192.168.11.17
+nslookup imap.gokujyou-menbou.com
+telnet smtp.gokujyou-menbou.com 25
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+telnet localhost 25
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+telnet 192.168.11.17 25
+ipconfig
+ifconfig
+ssh  ponyo@192.168.11.17
+shutdown =p now
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+telnet smtp 25
+telnet smtp.gokujyou-menbou.com 25
+dig smtp
+nslookup smtp
+cd /etc/
+emacs resolv.conf
+su
+emacs resolv.conf
+nslookup smtp
+telnet smtp 25
+telnet smtp.gokujyou-menbou.com 25
+telnet 192.168.11.17 25
+su
+vld
+vlc
+cvlc
+cvlc -h
+cvlc -H
+quit
+exit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+vlc
+su
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+su
+vlc
+exit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+dat4e
+dae
+date
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+su
+vlc
+exit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+su
+vlc
+cd
+ls
+cd Mail
+ls
+cd ../
+ls
+la
+pwd
+date
+shutdown -p now
+xinit
+exit
+ssh  ponyo@192.168.11.17
+su
+vlc
+su
+vlc
+ssh  ponyo@192.168.11.17
+ping 192.168.11.17
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+ssh  ponyo@192.168.11.17
+ssh  root@192.168.11.17
+ssh  ponyo@192.168.11.17
+su
+exit
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+emacs
+ssh  ponyo@192.168.11.17
+emacs
+man cp
+pwd
+cp ./Desktop/dsvn.el /usr/local/share/emacs/23.2/site-lisp/dsvn.el
+su
+emacs -nw
+ssh  ponyo@192.168.11.17
+ls
+ssh  ponyo@192.168.11.17
+su
+ls
+vlc
+cd Desktop
+ls
+gzip 201011172a.zip
+ls
+gzip 201011172a.zip.gz
+ls
+unzip 201011172a.zip.gz
+ls
+tar zxvf 201011172a.zip.gz
+unzip 201011172b.zip
+pwd
+cd 
+ls
+mkdir test
+svn checkout svn://test
+svn checkout svn://192.168.11.17/test
+pwd
+ls
+cd test
+ls
+shutdown -p now
+xinit
+emacs
+su
+ssh  ponyo@192.168.11.17
+su
+cd Desktop
+unzip q100718a.zip
+vlc
+exit
+shutdown -p now
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+su
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+cd Desktop
+unzip gya1008031.zip
+su
+vlc
+cd Desktop
+vlc
+cd Desktop
+unzip 137601q.zip 
+unzip 137602d.zip
+unzip 137603n.zip
+vlc
+unzip 137604l.zip
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+locate swank-loader.lisp
+su
+locate swank-loader.lisp
+locate sbcl
+locate sbcl | less
+sbcl
+pw
+pwd
+ls
+cd work
+ls
+cd lisp/test
+ls
+sbcl
+pwd
+./test.lisp
+ls
+ls -l
+chmode 788 test.lisp
+chmod 788 test.lisp
+chmod 744 test.lisp
+ls -l
+./test.lisp
+sbcl --script test.lisp
+./test.lisp
+pwd
+ls
+file test
+file test.lisp
+file test
+./test
+./test.lisp
+sbcl --noinfo
+sbcl --noinform
+pwd
+ls
+rm *.*
+ls
+cd ../
+ls
+cd slime
+ls
+cd slime-cvs
+ls
+cp *.lisp ./../test
+cp *.lisp ./../../test
+cd ../
+ls
+cd test
+sl
+ls
+sbcl --noinform
+netstat
+netstat -an
+netstat -n
+netstat -e
+netstat -s
+netstat -n inet
+netstat -f inet
+netstat -nf inet
+sockstat -4
+sockstat 
+sockstat | less
+sbcl --noinform
+sockstat -4
+sbcl --noinform
+sockstat -4
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.3
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.3:4005
+locate slime.el
+cd /usr/local/share/emacs/23.2/site-lisp/slime
+ls
+cp ./*.lisp /usr/home/ponyo/work/lisp/test2
+cd 
+cd work/lisp/test2
+ls
+sockstat -4
+cd work/lisp/test2
+ls
+sbcl --noinform
+cd /usr/local/share/emacs/23.2/site-lisp/slime/contrib
+ls
+cp ./*.lisp /usr/home/ponyo/work/lisp/test2/contrib
+netstat -nf inet
+sockstat -4
+exit
+exit
+shutdown -p now
+xinit
+cd '/usr/home/ponyo/work/'
+exit
+cd work
+ls
+cd lisp/test
+ls
+cd ../test2
+ls
+pwd
+ls
+ls -l init-www.lisp
+chmod 744 init-www.lisp
+ls -l init-www.lisp
+./init-www.lisp
+sockstat -4
+locate Zsh
+locate Zsh | less
+whereis zsh
+cd /usr/local/bin
+ls
+pwd
+cd 
+cd work/lisp/test2
+ls
+chmode 744 test.sh
+chmod 744 test.s
+chmod 744 test.sh
+ls
+./test.sh
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+exit
+ssh  ponyo@192.168.11.17
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.17
+eixt
+exit
+exit
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+cd Desktop
+unzip rosia1211.zip
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ssh  ponyo@192.168.11.17
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.3
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.17
+exit
+exit
+su
+mplayer
+su
+cd /
+ls
+cd dev
+ls
+mplayer -cdrom-device /dev/cd0 cdda://1-10
+mplayer -cdrom-device /dev/acd0 cdda://1-10
+mplayer -cdrom-device /dev/ad10 cdda://1-10
+mplayer -cdrom-device /dev/ad10
+mplayer -cdrom-device /dev/ad10 vcd://
+cd /usr/ports/multimedia
+ls
+cd xmms
+su
+ls
+cd ../
+ls
+ls | less
+cd /
+ls
+cd dev
+ls
+man acd0
+man acd
+ls
+man acpi
+ls
+man ata
+mplayer -cdrom-device /dev/ata vcd://
+ls
+man cuau
+mplayer -cdrom-device /dev/acd0 vcd://
+mplayer -cdrom-device /dev/acd0 vcd://1-20
+man mplayer
+gmplayer
+vlc
+exit
+shutdown -p now
+ssh  ponyo@192.168.11.17
+xinit
+ssh  ponyo@192.168.11.17
+shutdown -p now
+xinit
+pwd
+ls
+su
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ping 192.168.11.17
+ssh  ponyo@192.168.11.17
+wol -i 192.168.11.255 00:30:13:f1:47:f6
+ping 192.168.11.17
+shutdown -p now
+ping 192.168.11.17
+xinit
+shutdown -p now
+xinit
+shutdown -p now\\
+
+xinit
+shutdown -p now\\
+
+xinit
+su
+vlc
+shutdown -p now\\
+
+xinit
+emacs
+exit
+su
+cd Desktop
+unzip 201011172b.zip
+unzip 201012072d.zip
+unzip 201012081b.zip
+vlc
+shutp]\\
+
+shutdown -p now\
+
+xinit
+cd work/stady/english/„É£É≥„Ç∏„É£•„Ç¢„É£´ËÉ´±ÊÉ∂ÉßËß£ÈÉßÉ®„ÄÄPART\ 1
+ls
+rm 10\ ÊÉ§ÉØÂÉ±≥‰∏É™„ÅÆ‰∏ªË™û.txt
+ls
+emacs 10\ 
+rm 10\ 
+man mv
+su
+vlc
+shutdown -p now\
+
+xinit
+cd '/usr/home/ponyo/work/'
+exit
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+ls
+su
+vlc
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+vlc
+exit
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+vlc
+time
+date
+shutdown -p now\
+
+xinit
+cd '/usr/home/ponyo/work/stady/english/„É£É≥„Ç∏„É£•„Ç¢„É£´ËÉ´±ÊÉ∂ÉßËß£ÈÉßÉ®„ÄÄPART 1/'
+exit
+pwd
+cd work/stady/english/„É£É≥„Ç∏„É£•„Ç¢„É£´ËÉ´±ÊÉ∂ÉßËß£ÈÉßÉ®„ÄÄPART\ 1
+ls
+rm 22\ 
+ls
+su
+vlc\\
+
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+shu
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+ls
+pwd
+exit
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit[
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xint
+xinit
+ssh  ponyo@192.168.11.4
+pwe
+pwd
+ls
+ssh  ponyo@192.168.11.4
+wol -i 192.168.11.255 00:14:5e:0b:30:6c
+ssh  ponyo@192.168.11.4
+wol -i 192.168.11.255 00:14:5e:0b:30:6c
+ssh  ponyo@192.168.11.4
+su
+vlc
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 00:14:5e:0b:30:6c
+ssh  ponyo@192.168.11.4
+exit
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+cd '/usr/home/ponyo/work/'
+exit
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+setxkbmap -model jp106 -layout jp
+emacs
+emac
+emacs
+emac
+emacs
+shutdown -p now\
+
+xinit
+xev
+setxkbmap -model jp106 -layout jp
+xev
+shutdown -p now\
+
+xinit
+emacs
+setxkbmap -model jp106 -layout jp
+emacs
+su
+vlc
+exit
+exit
+shutdown -p now\
+
+xinit
+su
+vlc
+exit
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+vlc
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+su
+vlc
+ponyo
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+cd /usr/ports
+ls
+cd x11-fm
+ls
+cd xplore
+ls
+make config-recursive
+make install clean
+portsnap fetch && portsnap update
+su
+rehash
+whereis xplore
+su
+pwd
+cd ..
+ls
+cd rox-filer
+su
+whereis rox-filer
+whereis 0launch
+cd     /usr/ports/devel/zeroinstall-injector 
+pwd
+su
+whereis rox
+shutdown -p now\
+
+xinit
+=
+shutdown -p now\
+
+xinti
+xinit
+pwd
+ls
+la
+emacs .xsession
+emacs /etc/rc.conf
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinti
+xinit
+vlc
+su
+vlc
+shutdown -p now\
+
+xinit
+pwd
+cd /
+ls
+cd etc
+ls
+cd defaults
+ls
+emacs rc.conf
+ping 192.168.11.1
+ssh ponyo@192.168.11.1
+ping 192.168.11.1
+ping 192.168.11.6
+ssh ponyo@192.168.11.6
+ls
+la
+ls
+la
+scp ./.zcompdump ./.zsh_history ./.zshrc ./.zshrc.mine 192.168.11.6:/usr/home/ponyo/infofile
+pwd
+ls
+shu
+shutdown -p now\
+
+ls
+pwd
+ls
+cd /etc
+ls
+emacs rc.conf
+su
+cd
+pwd
+ls
+pwd
+ls
+la
+shutdown -r now
+xinit
+la
+shutdown -r now
+xinit
+pwd
+ls
+shutdown -r now
+xinit
+whereis skk
+su
+chsh
+la
+su
+la
+whereis nav
+emacs .emacs
+pwd
+exit
+ls
+la
+emacs .xinitrc
+exit
+shutdown -r now
+xinit
+su
+shutdown -r now
+xinit
+su
+pwd
+ls
+pwd
+ls
+pwd
+ls
+la
+cd Desktop
+ls
+mkdir download
+pwd
+sl
+ls
+cd
+ls
+wpd
+pwd
+ls
+pwd
+ls
+cd Desktop
+ls
+cd download
+ls
+tar zxvf emacs-nav-20110122.tar.gz
+pwd
+cd
+la
+cd .emacs.d
+ls
+mkdir emacs-nav
+ls
+rm emacs-nav
+rm -f emacs-nav
+rm -r emacs-nav
+ls
+cp ./emacs-nav-20110122 /usr/home/ponyo/.emacs.d/emacs-nav
+cp -r emacs-nav-20110122 /usr/home/ponyo/.emacs.d/emacs-nav
+ls
+cd emacs-nav
+ls
+cd
+exit
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+ssh ponyo@192.168.11.6
+ssh ponyo@192.168.11.3
+pwd
+scp ./.zcompdump ./.zsh_history ./.zshrc ./.zshrc.mine 192.168.11.3:/usr/home/ponyo
+ssh ponyo@192.168.11.3
+scp ./.zcompdump ./.zsh_history ./.zshrc ./.zshrc.mine 192.168.11.3:/usr/home/ponyo
+scp ./.emacs 192.168.11.3:/usr/home/ponyo
+ssh ponyo@192.168.11.3
+ping 192.168.11.3
+shutdown -p now
+xinit
+pwd
+ls
+ssh ponyo@192.168.11.3
+shutdown -p now
+xinti
+xinit
+ssh ponyo@192.168.11.3
+wol -i 192.168.11.255 10:11:12:13:14:15
+whereis wol
+cd /usr/ports/net/wol
+su
+rehash
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now
+xinit
+ssh ponyo@192.168.11.3
+ps
+exit
+shutdown -p now
+xinit
+whereis acroread
+whereis acroread8
+cd /usr/ports/japanese
+ls | less
+cd acroread9
+su
+whereis evince
+cd /usr/ports/graphics/evince
+su
+evincd
+evince
+/usr/local/src
+ls
+su
+locate GENERIC
+su nobady
+su nobody
+su
+su nobody
+su
+su nobody
+su
+locate GENERIC
+emacs /usr/src/sys/amd64/conf/GENERIC
+shutdown -p now
+xinit
+su
+cd /
+ls
+cd boot
+ls
+file kernel
+cd kernel
+ls
+pwd
+ls | less
+pwd
+ls
+cd ../
+ls
+emacs loader.conf
+cd defaults
+ls
+emacs loader.conf
+su
+kldstat
+vlc
+shutdown -p now
+xinit
+ssh ponyo@192.168.11.3
+dig www.nostarch.com
+dig -x 72.27.231.135
+shutdown -p now
+xinit
+exit
+man 1 tar
+shutdown -p now
+xinit
+ssh ponyo@192.168.11.3
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+vlc
+shutdown -p now
+ssh ponyo@192.168.11.3
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinti
+xinit
+pwd
+ls
+sysctl -A > sysctl.out
+emacs sysctl.out
+sysctl vfs.usermount =1
+sysctl vfs.usermount=1
+su
+emacs /etc/sysctl.conf
+kldstat
+kldstat -v
+kldstat -v | more
+cd/
+cd /
+ls
+cd boot
+ls
+cd ../sys
+ls
+cd amd64
+ls
+cd conf
+ls
+pwd
+cd ../../i386/conf
+ls
+cd ../../amd64/conf
+ls
+cp GENERIC DESKTOP
+su
+emacs DESKTOP
+shutdown -p now
+xinit
+su
+vlc
+arp -a
+vlc
+exit
+shutdown -p now
+xinit
+date
+pwd
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+exit
+ssh ponyo@192.168.11.3
+svn
+cd /usr/ports/devel/subversion
+su
+cd /usr/ports/devel/subcommander2
+su
+pwd
+ls
+rehash
+ls
+cd
+wpd
+pwd
+ls
+mkdir test
+cd test
+mkdir tag
+mkdir trunk
+mkdir branches
+rm -r trunk
+mkdir tag
+rm -r tag
+mkdir trunk
+mkdir tags
+ls
+pwd
+cd ../work
+ls
+cd www
+ls
+cd gm-www-srv
+ls
+cd ../
+cp ./gm-www-srv /usr/home/ponyo/test/trunk
+cp -r ./gm-www-srv /usr/home/ponyo/test/trunk
+pwd
+ls
+cd trunk
+ls
+cd gm-www-srv/src
+ls
+cd ../
+cd../
+cd ../
+pwd
+cd ../../
+pwd
+ls
+svn import test svn://testproject
+export SVN_EDITOR emacs
+echo $SVN_EDITOR
+export SVN_EDITOR=emacs
+echo $SVN_EDITOR
+svn import test svn://testproject
+svn import test svn://192.168.11.3/testproject
+pwd
+ls
+mkdir copy
+cd copy
+svn co svn://192.168.11.3/testproject
+ls
+cd testproject
+ls
+svn list svn://192.168.11.3/testproject
+wpd
+pwd
+cd ../
+ls
+rm -r testproject
+ls
+cd ..
+ls
+svn import test svn://192.168.11.3/testproject
+cd copy
+svn co svn://192.168.11.3/testproject
+cd testproject/trunk/gm-www-srv
+ls
+la
+exit
+exit
+pwd
+exit
+su
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+cd /etc
+emacs resolv.conf
+emacs hosts
+exit
+shutdown -p now
+xinit
+whereis rdesktop
+cd /usr/ports/net/rdesktop
+su
+au
+su
+rdesktop -u d10 -a 24 -g 1024x768 -D -r sound -x l -k ja 192.168.11.124
+rdesktop -u winwin -a 24 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+rdesktop -u winwin -a 24 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+exit
+shutdown -p now
+xinit
+pwd
+cd /etc
+emacs rc.conf
+su
+ssh ponyo@192.168.11.3
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+rdesktop -u winwin -a 16 -g 1024x768 -D -r -x l -k ja 192.168.11.2
+rdesktop -u winwin -a 16 -g 1024x768 -D -r  l -k ja 192.168.11.2
+su
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+exit
+shutdown -p now
+xinit
+ssh ponyo@192.168.11.3
+dig ns.gokujo-menbou.com
+dig @192.168.11.3 ns.gokujo-menbou.com +norec
+ping 192.168.11.3
+dig @192.168.11.3 ns.gokujo-menbou.com +norec
+dig @192.168.11.3 www.gokujo-menbou.com +norec
+cd /etc/namedb
+ls
+locate rndc.conf
+su
+ssh ponyo@192.168.11.3
+dig @192.168.11.3 www.gokujo-menbou.com +norec
+exit
+dig @192.168.11.3 www.gokujo-menbou.com +norec
+dig  www.gokujo-menbou.com
+dig @192.168.11.3 www.gokujo-menbou.com
+dig @192.168.11.3 www.gokujyo-menbou.com
+dig @localhost www.gokujyo-menbou.com
+dig  www.gokujyo-menbou.com
+dig  www.gokujyou-menbou.com
+ping 192.168.11.3
+dig @192.168.11.3 www.gokujyou-menbou.com +norec
+dig  www.gokujyou-menbou.com @192.168.11.3 +norec
+ssh ponyo@192.168.11.3
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+dig  www.gokujyou-menbou.com @192.168.11.3 +norec
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+exit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+dig  www.gokujyou-menbou.com @192.168.11.3 +norec
+dig  ns.gokujyou-menbou.com @192.168.11.3 +norec
+dig  gokujyou-menbou.com @192.168.11.3 +norec
+ssh ponyo@192.168.11.3
+su
+vlc
+dig  mail.gokujyou-menbou.com @192.168.11.3 +norec
+telnet mail 25
+telnet 192.168.11.3 25
+jobs
+man jobs
+man 4 jobs
+man 2 jobs
+man 8 jobs
+man jobs
+
+man 1 jobs
+netstat
+netstat -f inet
+ps ax
+ps ax | grep telnet
+ps ax | grep termi
+netstat -l 
+man netstat
+fg
+whereis jamn
+whereis jman
+su
+netstat -no
+man netstat
+netstat -nL
+netstat -nNL
+sockstat
+netstat -f inet
+su
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+telnet 192.168.11.3 25
+whereis mew
+cd /usr/ports/mail/mew
+su
+ifconfig
+ssh ponyo@192.168.11.3
+su
+vlc
+df
+exit
+shutdown -p now
+xinti
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+man sendmail
+man mail
+man rc.conf
+man rc.sendmail 
+su
+mutt
+la
+su
+pwd
+cp /usr/local/share/examples/mutt/sample.muttrc ./.muttrc
+pwd
+ls
+la
+emacs .muttrc
+emacs -nw .muttrc
+mutt
+emacs -nw .muttrc
+jobs
+ps ax 
+emacs -nw .muttrc
+mutt
+emacs -nw .muttrc
+mutt
+emacs -nw .muttrc
+mutt
+emacs -nw .muttrc
+mutt
+emacs -nw .muttrc
+mutt
+emacs -nw .muttrc
+mutt
+emacs -nw .muttrc
+mutt
+su
+mutt
+ssh ponyo@192.168.11.3
+mutt
+emacs .muttrc
+emacs -nw .muttrc
+mutt
+emacs -nw .muttrc
+mutt
+emacs -nw .muttrc
+mutt
+emacs -nw .muttrc
+mutt
+telnet 192.168.11.3 143
+exit
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+mutt
+pwd
+ls
+emacs .muttrc
+mutt
+emacs .muttrc
+mutt
+emacs .muttrc
+mutt
+emacs .muttrc
+mutt
+emacs .muttrc
+mutt
+emacs .muttrc
+mutt
+exit
+exit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+dig  mail.gokujyou-menbou.com @192.168.11.3 AXFR +norec
+dig  mail.gokujyou-menbou.com @192.168.11.3 AXFR 
+dig   @192.168.11.3 CHAOS version.bind TXT
+exit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+dig   @192.168.11.3 ns.gokujyou-menbou.com
+dig   @192.168.11.3 www.gokujyou-menbou.com
+mutt
+emacs .muttrc
+mutt
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+echo $emacs
+echo $EMACS
+echo EMACS
+cd /usr/ports/editors/emacs
+ls
+file files
+emacs Makefile
+ls
+cd files
+ls
+cd 
+opwd
+pwd
+locate emacs | less
+fg
+ls
+cd infofile
+ls
+la
+cd
+cd test
+ls
+rm -q branches
+rm -r branches
+sl
+ls
+rm -r tags/ trunk
+ls
+lsls
+ls
+la
+locate emacs > emacsdir.txt
+emacs emacsdir.txt
+cd
+cd .emacs.d
+ls
+la
+emacs -nw
+emacs
+emacs 
+la
+cd
+la
+mkdir keep
+ls
+cp .emacs keep/.emacs
+rm .emacs
+rm .emacs\~
+ls
+la
+emacs 
+emacs  -q
+cp keep/.emacs .emacs
+emacs .emacs.d/init.el
+cp .emacs keep/.emacs
+r
+cp .emacs keep/.emacs
+rm .emacs
+emacs
+cp keep/.emacs .emacs
+emacs
+rm .emacs
+emacs
+emacs -nw
+ls
+pwd
+la
+su
+emacs 
+locate slime
+locate slime | less
+la
+emacs .emacs.d/init.el
+locate sbcl
+whichis sbcl
+whereis sbcl
+emacs -nw
+whereis lisp
+whereis cmucl
+whereis dsvn
+where dsvn
+cd /usr/local/share/emacs
+ls
+cd site-lisp
+ls
+cd
+cd .emacs.d
+ls
+mkdir dsvn
+cp ../Desktop/download/dsvn.el ./dsvn/
+cd dsvn
+ls
+emacs -nw dsvn.el
+cd Desktop
+ls
+cd download
+ld
+ls
+unzip rori1102171.zip
+su
+vlc
+cd
+cd Desktop/download
+ls
+unzip rori1102172
+unzip rori1102173.zip
+exit
+exit
+exit
+vlc
+cd Desktop/download
+unzip rori1008231.zip rori1008232.zip rori1008233.zip 
+unzip rori1008231.zip
+unzip rori1008232.zip
+unzip rori1008233.zip
+vlc
+ssh ponyo@192.168.11.3
+ls
+cd work
+ls
+cd lisp
+ls
+cd slime
+ls
+pwd
+ls
+scp ./slime-cvs 192.168.11.3:/usr/home/ponyo/work/slime
+scp -r ./slime-cvs ponyo@192.168.11.3:/home/ponyo/work/slime
+exit
+pwd
+cd /usr/home/ponyo
+ls
+cd test
+ls
+pwd
+cd 
+pwd
+cd work/lisp/slime/
+cd
+pwd
+cd work
+ls
+mkdir test
+cd lisp/slime/
+cp -r slime-cvs /usr/home/ponyo/work/test
+cd
+cd test
+ls
+cp ./nishikikyou.lisp /usr/home/ponyo/work/test
+cd ../work/test/
+pwd
+ls
+pwd
+cd slime-cvs
+cd ../
+pwd
+ls
+mv slime-cvs slime
+ls
+netstat -f inet | grep tcp
+netstat -a -f inet | grep tcp
+emacs 
+netstat -a -f inet | grep tcp
+pwd
+ls
+ls -l
+chmod 744 nishikikyou.lisp
+ls
+./nishikikyou.lisp
+pwd
+ls
+pwd
+ls
+sbcl
+ssh ponyo@192.168.11.3
+ssh -N -f -L 14005:localhost:4005 ponyo@192.168.11.3
+netstat -a -f inet | grep tcp
+jobs
+ps ax 
+netstat -a -f inet | grep tcp
+pwd
+ls
+cd test
+ls
+export CVSROOT=:pserver:anonymous@common-lisp.net:/project/slime/cvsroot
+cvs login
+cvs checkout -rFAIRLY-STABLE slime
+ls
+cd slime
+ls
+emacs ChangeLog
+pwd
+cd ../
+rm -r slime
+cvs co slime
+cd slime
+emacs ChangeLog
+ls
+cd /usr/local/share/emacs/23.2/site-lisp/slime/
+ls
+emacs ChangeLog
+cd ../
+ls
+cd ../
+pwd
+cd ../
+ls
+cd site-lisp
+ls
+cd ../23.2/
+ls
+cd etc
+ls
+cd ../leim
+ls
+cd ../lisp
+ls
+cd ../site-lisp
+ls
+emacs site-start.el
+pwd
+ls
+cd slime
+ls
+ls -l
+cd
+pwd
+cd .emacs.d/
+pwd
+ls
+emacs init.el
+cd /usr/local/share/emacs/23.2/site-lisp/slime/
+ls
+cd 
+cd test/slime/
+ls
+emacs ChangeLog
+ls -l
+cd ../
+ls
+cp -r slime ./../.emacs.d
+cd ./../.emacs.d
+ls
+emacs init.el
+emacs 
+su
+emacs
+su
+emacs
+pwd
+cd ../test/
+ls
+exit
+scp -r slime ponyo@192.168.11.3:/home/ponyo/work/test/slime
+emacs
+netstat -a -f inet | grep tcp
+mutt
+netstat -a -f inet | grep tcp
+exit
+netstat -an -f inet | grep tcp
+cd
+cd .emacs.d
+ls
+cd dsvn
+ls
+exit
+exit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh -N -f -L 14005:localhost:4005 ponyo@192.168.11.3
+ssh ponyo@192.168.11.3
+ls
+cd test
+ls
+svn co svn://192.168.11.3/testproject
+ls
+svn -version
+svn help
+svn version
+svn -v
+svn --v
+svn --version
+pwd
+cd
+cp Desktop/download/dsvn.el .emacs.d/dsvn
+cd test/slime
+cd ../testproject
+ls
+cd gm-www-srv
+ls
+cd ../
+la
+cd ../
+ls
+la
+svn list  svn://192.168.11.3/testproject
+svn list  svn://192.168.11.3/testproject/trunk
+svn list  svn://192.168.11.3/testproject/
+ls
+rm -r testproject
+y
+ls
+svn co  svn://192.168.11.3/testproject/
+svn --version
+emacs
+su
+vlc
+exit
+exit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+vlc
+exit
+shutp
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+ls
+cd work
+ls
+cd emacs
+ls
+mkdir el
+cd el
+ls
+su
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+vlc
+ls
+pwd
+cd .emacs.d
+ls
+cd dsvn
+cp dsvn.el ../../work/emacs/el/
+cd /etc/X11
+ls
+locate xorg.conf
+cd /usr/local/etc/X11/serverconfig
+ls
+cd ../sysconfig
+ls
+pwd
+cd ../../hal/fdi/policy
+ls
+emacs x11-input.fdi
+pwd
+cd ../
+ls
+ls -l
+su
+ls
+cd policy
+ls
+ls -l
+emacs x11-input.fdi
+exit
+shutdown -r now
+xinit
+xorg -v
+xinit -v
+man x
+man xorg
+man xinit
+la
+emacs .xinitrc 
+shutdown -r now
+xinit
+su
+shutdown -p now
+date
+xinit
+date
+shutdown -p now
+xinit[
+xinit
+whereis ntp
+ntp
+/usr/sbin/ntpdate -s -b 133.100.9.2
+date
+ ntpdate ntp1.jst.mfeed.ad.jp
+su
+emacs
+pwd
+cd Desktop/download
+cd ../../.emacs.d
+mkdir jaspace
+ls
+cd ../Desktop/download
+cp jaspace.el ./../../.emacs.d/jaspace
+cd ./../../.emacs.d/jaspace
+ls
+emacs
+su
+emacs
+su
+emacs
+su
+emacs
+exit
+ssh ponyo@192.168.11.3
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+vlc
+exit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+vlc
+cd Desktop/test
+ls
+ls 
+ls -l
+exit
+exit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+vlc
+exit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+vlc
+cd Desktop/download
+unzip Hotmail.zip
+vlc
+su
+whereis photopc
+photopc
+su
+cd /usr/local/bin
+ls | grep im
+showimage
+pwd
+cd 
+cd Desktop/download
+ls | grep gig
+ls | grep gif
+ls | grep png
+ls | grep jph
+ls | grep jpg
+ls | grep JPG
+showimage IMGP0134.JPG
+showimage IMGP0135.JPG
+whereis xnview
+su
+vlc
+whereis picasa
+whereis picaso
+xtreme
+whereis xtreme
+whereis xera
+whereis xara
+su
+ls
+cd
+ls
+la
+man slim
+cd /usr/local/share/slim/themes/default
+ls
+slim -p
+slim -p ./
+xinit
+su
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+cd Desktop/download
+cp wall3-thumb.bmp /boot/kernel
+su
+exit
+shutdown -p now
+xinti
+xinit
+cd /boot
+ls
+emacs -nw loader.conf
+pwd
+sl
+ls
+su
+shutdown -p now
+xinit
+whereis bsd-splash-changer
+cd /usr/ports/sysutils/bsd-splash-changer
+make install clean
+su
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+exit
+shutdown -p now
+xinit
+cd /usr/local/etc/rc.d
+ls
+emacs slime
+emacs slim
+pwd
+cd /etc\
+ls
+ls
+pwd
+su
+shutdown -p now
+cd /usr/local/etc/
+pwd
+ls
+su
+locate slim
+locate slim.conf
+pwd
+ls -l
+su
+locate slim | grep theme
+shutdown -p now
+su
+exit
+shutdown -p now
+rehash
+whereis shutdown
+cd /sbin
+shutdown -p now
+./shutdown -p now
+shutdown -p now
+/sbin/shutdown -p now
+su
+w3m
+su
+exit
+emacs
+svn --version
+whereis svn
+svn --help;
+svn --version --quiet
+svn --help import
+w3m
+w3m http://www.google.com
+fg
+man w3m
+w3m http://www.google.com
+fg
+exit
+ssh ponyo@192.168.11.3
+shutdown -p now
+/sbin/shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+ssh ponyo@192.168.11.3
+locate slim.conf
+cd /usr/local
+ls
+cd etc
+ls
+su
+w3m
+w3m http://www.google.com
+ls
+la
+cd .w3m
+ls
+emacs keymap
+fg
+w3m http://www.google.com
+whereis emacs-w3m
+su
+emacs -nw 
+exit
+exit
+exit
+/sbin/shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+vlc
+exit
+exit
+/sbin/shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+ssh ponyo@192.168.11.3
+vlc
+ssh ponyo@192.168.11.3
+/sbin/shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now
+/sbin/shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+w3m http://www.google.com
+/sbin/shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+/sbin/shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+vlc
+shutdown -p now]
+/sbin/shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+cd /etc
+emacs -nw rc.conf
+su
+ssh ponyo@192.168.11.3
+pwd
+ls
+cd 
+ls
+ls -lF
+ls -alF
+ls -al
+ls -l
+svn list  svn://192.168.11.3/testproject/
+pwd
+cd work/emacs/el/
+ls
+svn import test svn://192.168.11.3/svnTest
+export SVN_EDITOR emacs
+echo $SVN_EDITOR
+export SVN_EDITOR=emacs
+echo $SVN_EDITOR
+svn import test svn://192.168.11.3/svnTest
+ping 192.168.11.3
+/sbin/ping 192.168.11.3
+svn import test svn://192.168.11.3/svnTest -m "test"
+export SVN_EDITOR=emacs -nw
+export SVN_EDITOR="emacs -nw"
+echo $SVN_EDITOR
+svn import test svn://192.168.11.3/svnTest
+svn import test svn://192.168.11.3/svnTest -m "test"
+export SVN_EDITOR="emacs"
+svn import test svn://192.168.11.3/svnTest
+ls
+svn import test svn://192.168.11.3/svnTest -m "test"
+export SVN_EDITOR="emacs -nw"
+svn import test svn://192.168.11.3/svnTest
+pwd
+ls
+mkdir test1
+cd test1
+ls
+svn co  svn://192.168.11.3/testproject/
+cd ../
+ls
+rm -r test1
+rm -fr test1
+ls
+pwd
+ls
+svn import test svn://192.168.11.3/svnTest
+export SVN_EDITOR="emacs"
+svn import test svn://192.168.11.3/svnTest
+pwd
+ls
+rm svn-commit.2.tmp svn-commit.3.tmp svn-commit.4.tmp svn-commit.5.tmp svn-commit.6.tmp svn-commit.tmp 
+ls
+mkdir test1
+cd test1
+svn co  svn://192.168.11.3/svnTest
+pwd
+ls
+svn list  svn://192.168.11.3/svnTest
+pwd
+cd ../
+rm -f test1
+rm -rf test1
+ls
+svn import test svn://192.168.11.3/svnTest
+mkdir test1
+cd test1
+svn list  svn://192.168.11.3/svnTest
+svn co  svn://192.168.11.3/svnTest
+ls
+cd svnTest/trunk/doc
+ls
+exit
+shutdown -p now]
+/sbin/shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+vlc
+pwd
+ls
+cd work/emacs
+ls
+cd el
+ls
+cd test1
+ls
+cd svnTest/trunk
+ls
+cd doc
+	ls
+cd ../../../../
+pwd
+ls
+svn co  svn://192.168.11.3/svnTest/trunk
+ls
+rm -fr trunk
+las
+la
+ls
+svn co  hoge svn://192.168.11.3/svnTest/trunk
+svn co --help
+svn co  svn://192.168.11.3/svnTest/trunk  hoge
+ls
+cd hoge
+ls
+cd ../..
+ls
+cd el
+ls
+rm -fr hoge
+svn co  svn://svn.gokujyou-menbou.com/svnTest/trunk  hoge
+shutdown -p now]
+shutdown -p now
+xinit
+pwd
+cd work/emacs/el/
+ls
+svn checkout  --help
+svn list --help
+sls
+ls
+pwd
+cd hoge
+la
+svn lisp
+svn list
+svn log
+svn info
+svn info -v
+svn iog -v
+svn log
+svn log -v
+svn list -v
+svn info -v
+svn status
+svn status -v
+ls
+pwd
+cd ../
+ls
+rm -fr hoge
+pwd
+svn checkout  svn://svn.gokujyou-menbou.com/svnTest/trunk  hoge
+pwd
+ls
+jobs
+ps 
+kill %1393
+kill 1393
+ps 
+man kill
+kill -l 1393
+ps
+man kill
+shutdown -p now
+xinit
+pwd
+cd work/emacs/el
+ls
+rm -rf hoge
+pwd
+ls
+rm -fr hoge
+ls
+pwd
+ls
+echo $LANG
+echo $LC_CTYPE
+ls
+rm -fr hoge
+ls
+svn checkout  svn://svn.gokujyou-menbou.com/svnTest/trunk  hoge
+ls
+pwd
+ls
+emacs
+shutdown -p now
+xinit
+cd /usr/local/share/emacs/23.2/lisp/
+cp autoinsert.el.gz /home/ponyo/work/emacs/el/
+cd
+cd work/emacs/el
+ls
+gzip autoinsert.el.gz
+ls
+gzip -dc autoinsert.el.gz
+ls
+gzip 
+man gzip 
+gzip -d autoinsert.el.gz
+ls
+ssh ponyo@192.168.11.3
+exit
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+w3m
+w3m http://www.google.com
+emacs
+whereis ctags
+pwd
+cd work/emacs/el/nav+/trunk/src
+ctags -e *
+ctags --list-maps
+man ctags
+ctags *
+ls
+whereis etags
+etags
+etags *
+ls
+etags *
+etags *.el
+whereis tortoies
+where tortoies
+whereis  svn
+su
+vlc
+ssh ponyo@192.168.11.3
+shutdown -p now\\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+cd work/emacs/el
+ls
+cd test
+ls
+svn import nav+ svn://192.168.11.3/nav+
+export SVN_EDITOR=emacs
+svn import nav+ svn://192.168.11.3/nav+
+pwd
+kls
+ls
+rm svn-commit.tmp
+ls
+cd ../
+ls
+mkdir work
+ls
+cd work
+svn checkout  svn://svn.gokujyou-menbou.com/nav+/trunk  
+ls
+cd trunk
+ls
+cd src
+ls
+su
+vlc
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+exirt
+exit
+cd work/emacs/el
+ls
+cd work
+ls
+cd ../
+ls
+rm -fr work
+svn checkout  svn://svn.gokujyou-menbou.com/nav+/trunk work 
+cd work
+ls
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit]
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+vlc
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+exity
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+vlc
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+su
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+exit
+pwd
+quit
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+exit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+exit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+su
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+shutdown -p now\
+
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xiniy
+xinity
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+su
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+exit
+shutdown -p now\
+
+xinit
+su
+eixt
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+cd /etc/
+emacs hosts
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+aahu
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ping 192.168.11.3
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ping 192.168.11.3
+ping 192.168.11.1
+ping 192.168.11.3
+ssh ponyo@192.168.11.3
+exit
+shutdown -p now\
+
+xinit
+ping 192.168.11.3
+ssh ponyo@192.168.11.3
+whereis mupdf
+su
+mupdf
+ls
+cd Desktop
+ls *.pdf
+ls
+cd download
+ls
+mupdf curtainrail.pdf
+jobs
+mupdf curtainrail.pdf
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.3
+exit
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ponyo
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ls
+pwd
+ls
+ssh ponyo@192.168.11.3
+ps -ax
+ps -ax | grep sbcl
+ps -ax
+ps -ax | grep sbcl
+man ps
+ps -ax
+ps -ax | grep sbcl
+man ps
+exit
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ping 192.168.11.3
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ping 192.168.11.3
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.3
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+pwd
+cd work/test
+sbcl
+pwd
+la
+ls
+emacs nishikikyou.lisp
+pwd
+exit
+ssh -N -f -L 14005:localhost:4005 ponyo@192.168.11.3
+netstat -an -f inet | grep tcp
+ssh ponyo@192.168.11.3
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.17
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.3
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ping 192.168.11.1
+ping 192.168.11.3
+ifconfig
+shutdown -p now\
+
+xinit
+ifconfig
+ping 192.168.11.3
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+w
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit[
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+ping 192.168.11.3
+wol -i 192.168.11.255 10:11:12:13:14:15
+ping 192.168.11.3
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+su
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xnit
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ping 192.168.11.3
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+su
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+wu
+su
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+su
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+su
+exit
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+su
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+xinit
+ssh ponyo@192.168.11.3
+su
+exut]
+exit
+shutdown -p now\
+
+su
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+su
+exit\
+
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+cd ./Desktop/download
+tar zxvf unpv12e.tar.gz
+cd unpv12e
+ls
+emacs README
+cd 
+pwd
+ls
+cd work
+ls
+cd 
+pwd
+cd /cdrom
+ls
+la
+su
+pwd
+la
+ls
+cd book
+ls
+cd ../
+ls
+cd src
+ls
+cd server1.
+cd server1.1
+ls
+cd /
+cd /home/ponyo/work/www
+ls
+cd contents
+ls
+cd ../
+ls
+mkdir cdrom
+la
+cp /cdrom ./cdrom
+cp /cdrom ./cdrom/
+man cp 
+cp -R /cdrom ./cdrom/
+su
+exit
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+su
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+su
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+su
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+cd /var/run/
+ls
+emacs dmesg.boot
+su
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh
+ssh ponyo@192.168.11.3
+su
+exit
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+su
+shutdown -p now\
+
+w
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit[
+xinit
+ssh ponyo@192.168.11.3
+su
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.3
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.3
+shutdown -p now]\
+
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+pwd
+ls
+su
+exit
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+su
+xinit
+shutdown -p now\
+
+xinit
+su
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+pwd
+la
+ls
+cd copy
+ls
+cd testproject
+ls
+cd trunk
+ls
+la
+cd
+la
+ls
+emacs todo
+l
+la
+ls
+cd infofile
+ls
+la
+emacs .zcompdump
+pwd
+la
+cd ../
+cd
+pwd
+la
+ls
+cd test
+ls
+la
+cd 
+la
+cd .emacs.d
+ls
+cd
+exit
+pwd
+cd keep/
+man cp
+man scp
+scp -r ponyo@192.168.11.17:/var/named ./bind
+pwd
+scp -r ponyo@192.168.11.17:/var/named /home/ponyo/keep/bind
+scp -r ponyo@192.168.11.3:/var/named ./bind
+pwd
+la
+cd bind
+la
+cd named
+ls
+cd etc
+ls
+cd namedb
+la
+cd master
+ls
+cd
+cd keep
+ls
+pwd
+scp  ponyo@192.168.11.3:/etc/rc.conf ./rc
+cd rc
+ls
+pwd
+cd ../emacs
+scp  ponyo@192.168.11.3:/home/ponyo/.emacs ./
+ls
+la
+cd ..
+ls
+cd zsh
+scp  ponyo@192.168.11.3:/home/ponyo/.zcompdump .
+scp  ponyo@192.168.11.3:/home/ponyo/.zsh_history .
+scp  ponyo@192.168.11.3:/home/ponyo/.zshrc .
+scp  ponyo@192.168.11.3:/home/ponyo/.zshrc_mine .
+scp  ponyo@192.168.11.3:/home/ponyo/.zshrc.mine .
+cd
+la
+ls]
+ls
+cd keep
+ls
+cd svn
+pwd
+svn checkout  svn://svn.gokujyou-menbou.com/nav+ ./
+ls
+svn checkout  svn://svn.gokujyou-menbou.com/nav+ ./nav+
+ls
+svn checkout  svn://svn.gokujyou-menbou.com/svnTest ./svnTest
+svn checkout  svn://svn.gokujyou-menbou.com/testproject ./testproject
+pwd
+ls]
+ls
+cd ../
+ls
+cd svn
+scp  -r ponyo@192.168.11.3:/var/svn ./
+pwd
+ls
+cd svn
+ls
+cd repos
+ls
+cd nav+
+ls
+exit
+su
+ssh ponyo@192.168.11.3
+cd /etc
+ls
+emacs resolv.conf
+pwd
+su
+pwd
+emacs -nw resolv.conf
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.3
+dig @192.168.11.3 gokujoumenbou.com
+dig gokujoumenbou.com
+dig @192.168.11.3 gokujoumenbou.com 
+dig @192.168.11.3 gokujoumenbou.com  +norec
+dig @192.168.11.3 google.com  +norec
+dig @192.168.11.3 google.com 
+ssh ponyo@192.168.11.3
+dig @192.168.11.3 google.com 
+shutdown -p now\
+
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+/sbin/shutdown -p now
+xinit
+su
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+su
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+shutdown -p now\
+
+xinit
+ifconfig
+sysctl
+sysinstall
+su
+ifconfig
+xinit
+su
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.3
+ssh ponyo@192.168.11.17
+dig @192.168.11.17 google.com 
+dig @192.168.11.17 www.gokujyoumenbou.com
+dig @192.168.11.17 gokujyoumenbou.com
+dig @192.168.11.17 ns.gokujyou-menbou.com
+su
+dig @123.50.202.226 www.gokujyou-menbou.com -norec
+dig @123.50.202.226 www.gokujyou-menbou.com +norec
+dig @google.com www.gokujyou-menbou.com +norec
+dig google.com
+dig google.com NS
+dig ns1.google.com www.gokujyou-menbou.com
+dig  www.gokujyou-menbou.com
+dig  ns1.google.com
+dig @ns1.google.com www.gokujyou-menbou.com
+dig  yahoo.co.jp
+dig  yahoo.co.jp NS
+dig @ns04.ops.ogk.yahoo.co.jp www.gokujyou-menbou.com
+dig @ns04.ops.ogk.yahoo.co.jp google.com
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+ping 192.168.11.2
+ping 192.168.11.3
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.3
+ifconfig
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.3
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+su
+ls
+cd keep
+ls
+cd ../
+ls
+cd copy
+ls
+cd ../infofile
+ls
+la
+rm *
+ls
+la
+rm .emacs .zcompdump .zsh_history .zshrc .zshrc.mine 
+ls
+la
+scp  -r ponyo@192.168.11.3:/home/ponyo/new ./
+scp  -r ponyo@192.168.11.17:/home/ponyo/new ./
+pwd
+ls
+cd infofile
+ls
+cd new
+sl
+ls
+rename \(„É£≠„É£™ÂÉ´ÉµÁÉ¥ª\)\ \(ÂÉ≤É¨ÁÇÉ©\)\ \[PTHC\]\ \[ÊÉØ¥‰∫§\]\ „Ç∏„É£•„É£É´„ÅÇ„ÅØ„ÇØ„ÅÉ∑„ÇÉß\ „Åæ„ÅøÔºÉ¶„Å™„Åø\ \(È∫ªÊÉº™1‚É∑É´ÊÉ©É≠ÔºÉ¶Â•É®Ê¥•1ÔºÉ≥ÊÉ©É≠\).avi 11.avi
+mv \(„É£≠„É£™ÂÉ´ÉµÁÉ¥ª\)\ \(ÂÉ≤É¨ÁÇÉ©\)\ \[PTHC\]\ \[ÊÉØ¥‰∫§\]\ „Ç∏„É£•„É£É´„ÅÇ„ÅØ„ÇØ„ÅÉ∑„ÇÉß\ „Åæ„ÅøÔºÉ¶„Å™„Åø\ \(È∫ªÊÉº™1‚É∑É´ÊÉ©É≠ÔºÉ¶Â•É®Ê¥•1ÔºÉ≥ÊÉ©É≠\).avi 11.avi
+ls
+mv \(ÂÉ≤É¨„É£≠„É£™Â∞ÉØÂ≠¶ÁÉ¥ü\)„ÅÉ´„ÇÉ®Â≠É∞„Å°„ÇÉ£„ÇÉ≥12Ê≠≥.mpg 22.mpg
+mv \(ÁÉ§°‰øÆÊ≠£„É£ª„É£≠„É£™ÂÉ´ÉµÁÉ¥ª\)\ Â∞ÉØÂ≠¶ÔºÉµÂπ¥ÁÉ¥üÈÉÄÉ¶Â≠É∞„Å®ÈÉßÉ¨ÁæÉÆ\ \(„ÇÉ§„ÇÉ§È¨ºÁÉµÉº\ „É£©„Çπ„É£É®Á∏Éª„ÇÉ©„ÇÉ¨„ÅÉ∑„ÇÉ£„ÅÉØ„ÇÉ™„ÅÇ„ÅÉ≤„ÇÉ´Â∞É±Â•≥\).mpg 33.mpg
+mv \[ÁÉ§°‰øÆÊ≠£\]\ ÂÉµÉØÁ≠É¥ÁÉ§°ÁÉ¥®\ ‚É§É∂058\ ÁÉª∏È¶¨„ÅÇ„ÅÉπ„ÅÉ´\ 20Ê≠≥\ „É£Éµ„É£™„É£º„Çø„É£º\ ‰∏≠ÂÉß∫„ÅÉ∑.avi 44.avi
+host 210.130.0.1
+dig ns01.iij4u.or.jp
+dig @ns01.iij4u.or.jp www.gokujyou-menbou.com
+host 202.248.37.74
+dig dns.nifty.com
+dig @dns.nifty.com www.gokujyou-menbou.com
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.17
+su
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.3
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+ping 192.168.11.2
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+pwd
+ls
+cd infofile
+ls
+cd new
+ls
+rm *
+rm -d New\ Folder
+ls
+la
+pwd
+scp ponyo@192.168.11.17:/home/ponyo/new/11.avi ./
+scp ponyo@192.168.11.17:/home/ponyo/new/new/11.avi ./
+ls
+shutdown -p now\
+
+xinit
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+wol -i 192.168.11.255 10:11:12:13:14:15
+cd /etc
+emacs resolv.conf
+su
+ssh ponyo@192.168.11.17
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+ssh ponyo@192.168.11.17
+wol -i 192.168.11.255 10:11:12:13:14:15
+exit
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+ifconfig
+ping 192.168.11.17
+ssh ponyo@192.168.11.17
+ping 192.168.11.3
+mail
+cd
+pwd
+la
+ls
+cd .emacs.d
+ls
+emacs -nw init.el
+shutdown -p now\
+
+xinit
+ssh ponyo@192.168.11.17
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+pwd
+ls
+cd infofile
+ls
+cd new
+ls
+scp -r ponyo@192.168.11.17:/home/ponyo/new/new ./
+su
+cd new
+pwd
+ls
+mv \[ÁÉ§°‰øÆÊ≠£\]\ ÂÉµÉØÁ≠É¥ÁÉ§°ÁÉ¥®\ ‚É§É∂105\ ‰ΩÉ∞Ë≥Ä„Åª„ÅÆ„ÅÉ´\ 18Ê≠≥\ Â•≥Â≠É∞ÊÉÄ°ÁÉ¥ü\ ‰∏≠ÂÉß∫„ÅÉ∑.avi 22.avi
+mv „Å§„Åº„Åø\ Waap\ ËÉµæ„Å´Êª¥„ÇÉ´ÈÉßÉÆËÉªÆ„Å™Ê±Å.avi 33.avi
+mv „Å§„Åº„Åø„ÅÆ„ÇΩ„É£º„É£É∑„ÅÉ∑„Å°„ÇÉ£„ÅÉ¶„Åû„ÄÄ„Å§„Åº„Åø\ EKDV-073.wmv 44.wmv
+mv Â§©ÁÉ§∂„ÇÄ„ÅÉπ„ÇÅ‚É∑É´„Å§„ÅÉ´„ÅÉµ\ „É£≠„É£™Á≥ª„É£Éµ„Çß„Ç§„Çπ„Å™„ÅÉ¨„ÇÉ©„ÇÇ„É£Éº„É£Éß„Ç£„ÅØÂ§ß‰∫∫„Åß„ÅÉπÔºÅ\(ÁÉ¥ü‰∏≠\)2009-11-28.avi 55.avi
+shutdown -p now\
+
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+winit
+xinit
+shutdown -p now\
+
+winit
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+shutdown -p now\
+
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+shutdown -p now\
+
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinity
+xinit
+su
+cd Desktop
+ls
+cd download
+ls
+ls bind-9.8.0-P4.tar.gz dovecot-2.0.13.tar.gz emacs-nav-20110122.tar.gz m2ym-popwin-el-v0.2-0-g9d5643b.tar.gz postfix-2.8.4.tar.gz unpv12e.tar.gz 
+pwd
+cd ../../test
+ls
+mkdir bind
+pwd
+cd bind
+ls
+tar zxvf bind-9.8.0-P4.tar.gz
+pwd
+ls
+copy -r bind-9.8.0-P4 bind-9.8.0-P4.org
+cp -r bind-9.8.0-P4 bind-9.8.0-P4.org
+ls
+cd bind-9.8.0-P4.org
+ld
+ls
+cd ../bind-9.8.0-P4
+ls
+./configure -h
+pwd
+./configure
+make
+pwd
+ls
+file make
+make
+cd make
+ls
+cd ../
+ls
+make -h
+make --h
+make --help
+make -help
+make --version
+make -version
+make -v
+man make
+man man
+man 7 man 
+man make
+gmake -help
+gmake -v
+make -version
+man bmake
+man nmake
+ strings `which make` | grep -B1 MAKE_VERSION
+man strings
+which make
+ strings `which make` | grep -B1 MAKE_VERSION
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+which make
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+pwd
+cd test/bind
+ls
+cd bind-9.8.0-P4
+ls
+make
+pwd
+emacs
+where font
+whereis font
+cd
+pwd
+cd Desktop/download
+lzh e pawfont.lzh
+lha e pawfont.lzh
+whereis lha
+cd /usr/ports/archivers/lha
+su
+cd 
+pwd
+cd Desktop/download
+lha e pawfont.lzh
+ls
+xlsfonts
+ssh ponyo@192.168.11.17
+su
+ced
+cd
+shutdown -p now\
+
+whereis lha
+w
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+cd Desktop/download
+tar zxvf f2b.tgz
+ls
+mkdir test
+ls
+cp ./f2b.tgz ./test
+cd test
+ls
+tar zxvf f2b.tgz
+ls
+make
+ls
+file fontx2bdf
+cd ../
+cp paw16a.fnt ./test
+cp paw16k.fnt ./test
+cd test
+ls
+fontx2bdf < Â§É©ÊÉØÉª„ÅÉπ„ÇÉ´„É£Éµ„Ç©„É£≥„É£É® | bdftopcf | compress > „Å™„ÇÉ≥„Å®„ÅÉ´.pcf.Z
+fontx2bdf < paw16a.fnt | bdftopcf | compress > paw16a.pcf.Z
+./fontx2bdf < paw16a.fnt | bdftopcf | compress > paw16a.pcf.Z
+./fontx2bdf < paw16k.fnt | bdftopcf | compress > paw16k.pcf.Z
+ls
+rm „Å™„ÇÉ≥„Å®„ÅÉ´.pcf.Z
+ls
+./fontx2bdf < paw16k.fnt > paw16k.bdf
+./fontx2bdf < paw16a.fnt > paw16a.bdf
+pwd
+cd /usr/X11R6/lib/X11/fonts/local
+ls
+cd /home/ponyo/Desktop/download/test
+bdftopcf paw16k.bdf | compress > paw16k.pcf.Z
+bdftopcf paw16k.bdf | compress > paw16k.pcf.gz
+bdftopcf paw16a.bdf | compress > paw16a.pcf.gz
+ls
+cp paw16[ak].pcf.Z /usr/X11R6/lib/X11/fonts/local
+su
+xset fp rehash
+xfd -fn -paw-fixed-medium-r-normal--16-150-75-75-c-160-jisx0208.1983-0
+cd /home/ponyo/Desktop/download/test
+ls
+./fontx2bdf < paw16a.fnt > paw16a.bdf
+./fontx2bdf < paw16k.fnt > paw16k.bdf
+bdftopcf paw16k.bdf | compress > paw16k.pcf.Z
+bdftopcf paw16k.bdf | compress > paw16k.pcf.gz
+bdftopcf paw16a.bdf | compress > paw16a.pcf.gz
+su
+xset fp rehash
+kterm -fn paw16a -fr paw16a -fk paw16k
+whereis kterm
+cd /usr/ports/japanese/kterm
+su
+cd
+rehash
+kterm -fn paw16a -fr paw16a -fk paw16k
+kkjkhkadjfaldjfa;ldjfa;lkdj
+adaafdsfadfa
+exit
+exit
+shutdown -r now\
+
+xinit
+kterm -fn paw16a -fr paw16a -fk paw16k
+adamejan
+ext
+exit
+xlsfonts | grep ipamona
+whereis xlsfonts
+cd /usr/ports/x11-fonts/xlsfonts
+su
+xlsfonts | grep ipamona
+xlsfonts | grep paw
+xlsfonts
+xlsfonts | grep k20
+cd /etc/X11
+ls
+la
+cd
+pwd
+ls
+la
+emacs .xinitrc
+cd
+cd .emacs.d
+emacs init.el
+emacs
+xset fp+ /usr/X11R6/lib/X11/fonts/TrueType
+xset +fp /usr/X11R6/lib/X11/fonts/local
+nexfontsel
+whereis nexfontsel
+cd /usr/ports/x11-fonts/nexfontsel
+su
+nexfontsel
+whereis xfd
+xfd
+cd /usr/ports/x11/xfd
+ls
+man xfd
+locate xorg.conf
+locate xorg
+locate xorg.c
+locate xorg.
+xset
+su
+pwd
+su
+xfd -fn -paw-fixed-medium-r-normal--16-150-75-75-c-160-jisx0208.1983-0
+xfd -fn -Paw16a-Fixed-Medium-R-Normal--16-150-75-75-C-80-JISX0201.1976-0
+su
+ssh ponyo@192.168.11.17
+exiy
+exit
+exit
+shutdown -r now\
+
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+la
+whereis chrome
+cd /usr/ports/www/linux-libgtkembedmoz/work/nvu-1.0/chrome
+ls
+cd ../../../
+ls
+pwd
+cd
+whereis chromium
+cd /usr/ports/www/chromium
+ls
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+locate fonts
+ps -ax | grep xfs
+ps -ax
+fc-list
+fc-list | grep paw
+cd /etc/X11
+ls
+la
+cd ../
+ls
+cd /usr/X11R6
+pwd
+la
+cd etc
+ls
+cd fonts
+ls
+emacs fonts.conf
+cd conf.d
+ls
+emacs README
+cd ../
+ls
+cd conf.avail
+ls
+emacs 10-autohint.conf
+emacs 60-latin.conf
+pwd
+cd ../
+ls
+emacs fonts.dtd
+pwd
+ls
+cd ../
+pwd
+cd X11
+ls
+cd serverconfig
+ls
+la
+cd ../starthere
+ls
+la
+cd ../sysconfig
+ls
+la
+cd ../../
+ls
+pwd
+cd ../
+ls
+pwd
+cd /etc
+ls
+cd X11
+ls
+la
+cd /usr/local
+ls
+pwd
+cd share
+ls
+cd fonts
+ls
+cd OTF
+ls
+cd ../TTF
+ls
+cd ../amspsfont
+ls
+cd afm
+ls
+cd ../type1
+ls
+cd ../../../../etc
+ls
+pwd
+cd fonts
+ls
+pwd
+cd conf.d
+ls
+cd ../../
+pwd
+cd ../../
+ls
+file X11R6
+ls
+cd share
+ls
+pwd
+cd /usr/X11R6/lib
+ls
+cd X11/fonts/
+la
+cd local
+ls
+pwd
+cd /etc/X11
+ls
+locate xftconfig	
+locate Xftconfig	
+locate XftConfig	
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+pw
+pwd
+ls
+cd /usr/X11R6/etc/fonts/
+ls
+cd /usr/X11R6/lib/X11/fonts
+ls
+su
+cd Desktop/download/test
+ls
+rm paw16a.bdf paw16k.bdf 
+ls
+rm paw16k.pcf.Z
+ls
+rm paw16a.pcf.gz paw16k.pcf.gz 
+ls
+fontx2bdf < paw16k.fnt > paw16k.bdf
+./fontx2bdf < paw16k.fnt > paw16k.bdf
+./fontx2bdf < paw16a.fnt > paw16a.bdf
+bdftopcf paw16k.bdf | compress > paw16k.pcf.Z
+ls
+bdftopcf paw16k.bdf | compress > paw16k.pcf.gz
+bdftopcf paw16a.bdf | compress > paw16a.pcf.gz
+cp paw16[ak].pcf.gz /usr/X11R6/lib/X11/fonts/paw
+su
+xset fp+ /usr/X11R6/lib/X11/fonts/paw
+xset fp refrash
+xset fp rehash
+nexfontsel
+pwd
+cd paw
+ls
+su
+xset fp rehash
+kterm -fn paw16a -fr paw16a -fk paw16k
+exit
+xterm -fn paw16a -fr paw16a -fk paw16k
+xterm -fn -adobe-courier-medium-r-normal--18-180-75-75-m-110-iso8859-1 &
+exit
+xterm -fn -paw-fixed-medium-r-normal--16-150-75-75-c-160-jisx0208.1983-0 &
+exit
+xfd -fn -paw-fixed-medium-r-normal--16-150-75-75-c-160-jisx0208.1983-0
+xfd -fn xfd -fn -paw-fixed-medium-r-normal--16-150-75-75-c-160-jisx0208.1983-0
+xfd -fn -paw-fixed-medium-r-normal--16-150-75-75-c-160-jisx0208.1983-0 &
+xfd -fn -paw-fixed-medium-r-normal--16-150-75-75-c-160-jisx0208.1983-0
+xfd -fn paw16a
+ls
+xfd -fn paw16k
+cd /etc/X11
+ls
+la
+su
+exit
+shutdown -p now\
+
+xinit
+cd /etc
+cd X11
+su
+xinit
+su
+xinit
+su
+xinit
+xset q
+pwd
+su
+cd /usr/X11R6/lib/X11/fonts/paw
+pwd
+shutdown -p now\
+
+xinit
+emacs /var/log/Xorg.0.log
+emacs /etc/X11/xorg.conf
+su
+xinit
+su
+xinit
+cd /usr/local/etc/X11
+ls
+su
+xinit
+su
+shutdown -r now\
+
+su
+xinit
+su
+shutdown -r now\
+
+xinit
+xset q
+fc-list
+man fc-list
+cd /usr/X11R6/lib/X11/
+ls
+cd config
+ls
+cd ../fonts
+pwd
+cd /usr/local/share/fonts/mplus
+ls
+man fc-list
+man fontconfig
+cd /usr/local/etc/fonts/
+ls
+emacs fonts.conf
+su
+pwd
+cd /usr/X11R6/lib/X11/fonts/paw
+pwd
+fc-cache -f
+fc-list
+cd
+pwd
+ls
+fc-list > font.txt
+emacs font.txt
+su
+fc-list
+pwd
+fc-list > font.txt
+emacs font.txt
+su
+pwd
+fc-list > font.txt
+emacs font.txt
+man fc-cahche
+man fc-cache
+locate fonts.cache-2
+locate fonts.cache
+su
+locate fonts.cache
+locate fonts.cache-1
+locate fonts.cache-2
+locate fonts.
+xlsfont
+xlsfonts
+xlsfonts > font.txt
+emacs font.txt
+pwd
+ls
+la
+emacs .Xresources
+xrdb -merge .Xresources
+pwd
+cd
+pwd
+xrdb -merge .Xresources
+emacs
+xrdb -merge .Xresources
+emacs
+xrdb -merge .Xresources
+emacs
+xrdb -merge .Xresources
+emacs
+xrdb -merge .Xresources
+emacs
+xrdb -merge .Xresources
+emacs
+xrdb -merge .Xresources
+emacs
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+wol -i 192.168.11.255 10:11:12:13:14:15
+ping 192.168.11.17
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+exit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+sh
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+emacs
+emacs -nw
+emacs
+xrdb .Xresources
+pwd
+cd test/bind/bind-9.8.0-P4
+ls
+cd bin
+ls
+cd named
+ls
+./named -v
+pwd
+cd ../
+ls
+pwd
+cd ../../../
+pwd
+ls
+mkdir emacs
+ls
+cd ../../
+ls
+cd ponyo/Desktop/download
+cp emacs-23.3a.tar.gz /usr/home/ponyo/test/emacs
+cd /usr/home/ponyo/test/emacs
+ls
+tar zxvf emacs-23.3a.tar.gz
+ls
+man cp
+fg
+cp -R ./emacs-23.3 emacs-23.3.org
+pwd
+ls
+cd emacs-23.3
+ls
+./configure
+make
+ls
+cd src
+ls
+file emacs
+./emacs
+./emacs -v
+./emacs -version
+emacs -version
+ls
+su
+cd
+pw
+pwd
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ls
+pwd
+ls
+cd work
+ls
+cd www
+ls
+mkdir html
+ls
+cd html
+ls
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.3
+ping 192.168.11.3
+ping 192.168.11.2
+ping 192.168.11.3
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.3
+ping 192.168.11.3
+ping 192.168.11.2
+ping 192.168.11.1
+ipconfig
+ifconfig
+ping 192.168.11.2
+ping 192.168.11.4
+rdesktop -u winwin -a 16 -g 1024x768 -D -r sound -x l -k ja 192.168.11.2
+ping 192.168.11.2
+su
+shutdown -p now\
+
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+pwd
+ls
+cd work
+cd ../test
+ls
+cd testproject
+ls
+cd trunk/gm-www-srv/src/srv
+ls
+cd
+pwd
+su
+cd /
+ls
+cd cdrom
+ls
+cd
+pwd
+cd work/www
+ls
+rm -r cdrom
+rm -f cdrom
+man rm 
+pwd
+rm -d cdrom
+rm -fr cdrom
+ls
+rm -fR cdrom
+su
+pwd
+ls
+man cp 
+cp -R /cdrom ./cdrom
+pwd
+cd work/www
+ls
+cd cdrom
+ls
+cd /cdrom
+ls
+cd
+cd work/www/cdrom
+ls
+lsd
+ls
+cd src
+sl
+ls
+su
+exit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+vlc
+exit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+pwd
+ls
+cd work/www
+ls
+ls -l
+man chown
+man chmod
+chmod 777 cdrom
+ls -l
+chmod 666 cdrom
+ls -l
+cd cdrom
+chmod 777 cdrom
+cd cdrom
+ls
+ls -l
+cd src
+ls
+cd wserver1.1
+ls
+ls -l
+chmod 666 3wd.cpp base64.cpp cgiwin.cpp config.cpp headers.cpp http10.cpp http11.cpp index.cpp scodes.cpp socket.cpp util.cpp 
+ls -l
+ls
+pwd
+ls
+cd work/www/cdrom/src/server1.1
+etags *.cpp *.hpp
+cd ../
+l;s
+ls
+ls -l
+cd ../
+ls
+chmod 666 src
+ls -l 
+cd src
+chmod 777 src
+ls
+file src
+ls -l 
+cd src
+ls
+ls -l
+chmod -R 777 wserver1.1
+cd wserver1.1
+ls -l
+pwd
+etags *.cpp *.hpp
+ls
+whereis ctags
+pwd
+ctags -e 
+man ctags
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+whereis ctags
+wol -i 192.168.11.255 10:11:12:13:14:15
+winit
+xinit
+ssh ponyo@192.168.11.17
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.17
+pwd
+ls
+cd Desktop/download
+pwd
+cd ../../work/lisp
+ls
+cd slime
+ls
+cp ~/Desktop/download/slime-current.tgz ./
+ls
+tar zxvf slime-current.tgz
+ls
+cd slime-2011-09-09
+ls
+emacs README
+emacs ChangeLog
+emacs README
+cd 
+pwd
+cd .emacs.d
+ls
+cd slime
+ls
+emacs ChangeLog
+cd ../
+rm -fR slime
+ls
+cp ../work/lisp/slime/slime-2011-09-09 ./slime
+cp -r ../work/lisp/slime/slime-2011-09-09 ./slime
+ls
+cd slime
+ls
+emacs ChangeLog
+pwd
+ls
+cd ..
+ls
+scp ./slime ponyo@192.168.11.17:/home/ponyo/work/test/slime
+scp ./slime ponyo@192.168.11.17:/home/ponyo/work/test/
+pwd
+cd slime
+cd ../
+ls
+scp -r ./slime ponyo@192.168.11.17:/home/ponyo/work/test/
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.17
+emacs
+exit
+exit
+exit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+winit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.17
+emacs
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.17
+exit
+exit
+exit
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+su
+vlc
+wol -i 192.168.11.255 10:11:12:13:14:15
+shutdown -p now\
+
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.17
+su
+ vlc
+emacs
+exit
+exit
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinti
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.17
+emacs
+exit
+exit
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.11.17
+emacs
+pwd
+ls
+cd work
+ls
+cd test
+ls
+svn checkout  svn://svn.gokujyou-menbou.com/testproject ./testproject
+pwd
+ls
+exit
+exit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+cd /usr/ports/lang/sbcl
+make install clean
+su
+sbcl -v
+portsnap fetch && portsnap update
+su
+vlc
+make install clean
+cd /usr/ports/lang/sbcl
+make install clean
+su
+exit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+emad
+emacs
+vlc
+ssh ponyo@192.168.11.17
+vlc
+exit
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+netstat -an -f inet | grep tcp
+whereis meld
+cd /usr/ports/textproc/meld 
+su
+whereis libtool
+cd /usr/ports/devel/libtool
+su
+cd /usr/ports/textproc/meld 
+su
+cd
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ls
+pwd
+cd Desktop/download
+burncd -f /dev/acd0 data ubuntu-ja-11.04-desktop-i386.iso fixate
+su
+cd /
+pwd
+ls
+cd dev
+ls
+su
+shutdown -p now\
+
+xinit
+cd Desktop/download
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+telnet localhost 12345
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+telnet localhost 12345
+exit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinti
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+vlc 
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinti
+xinit
+telnet localhost 12345
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+telnet localhost 12345
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+pwd
+ls
+cd test
+ls
+mkdir test20111023
+cd test20111023
+svn checkout  svn://svn.gokujyou-menbou.com/testproject ./
+su
+pwd
+svn checkout  svn://svn.gokujyou-menbou.com/testproject ./
+ls
+cd trunk
+ls
+cd gm-www-srv/
+ls
+pwd
+telnet localhost 12345
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+vlc
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now]\
+
+shutdown -p now\
+
+xinit
+su
+vlc
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinti
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinti
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+telnet localhost 12345
+su
+vlc
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ls
+pwd
+cd work
+ls
+cd lisp
+ls
+cd sbcl
+ls
+man cp 
+cp ~/Desktop/download/sbcl-1.0.52-source.tar.bz2 ./
+pwd
+ls
+tar zxvf sbcl-1.0.52-source.tar.bz2
+ls
+cd sbcl-1.0.52
+ls
+cd src
+ls
+cd assembly
+ls
+cd x86-64
+ls
+emacs alloc.lisp
+man grep
+emacs alloc.lisp
+pwd
+cd ../.././
+pwd
+cd .././../
+pwd
+ls
+cd ../
+ls
+mkdir araneida
+ls
+cd araneida
+cp /home/ponyo/Desktop/download/araneida-latest.tar.gz ./
+pwd
+ls
+tar zxvf araneida-latest.tar.gz
+ls
+cd araneida-version-0.90.1
+ls
+emacs socket.lisp
+su
+vlc
+emacs
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+pwd
+ls
+cd work
+ls
+cd www
+ls
+cd cdrom
+cd ../
+ls
+cd ..
+ls
+cd test
+ls
+cd testproject
+ls
+cd ../
+cd ../www
+ls
+cd test
+ls
+mkdir svnTest
+ls
+cd svnTest
+ls
+svn checkout  svn://svn.gokujyou-menbou.com/testproject ./
+ls
+cd ../
+ls
+rm -fR svnTest
+ls
+mkdir svnTest
+cd svnTest
+svn checkout  svn://svn.gokujyou-menbou.com/testproject ./
+svn commit
+export SVN_EDITOR=emacs
+svn commit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+cd /usr/ports/print/gv/
+cd ../../graphics/xpdf
+su
+vlc
+ssh ponyo@192.168.11.17
+exit
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+vlc
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+cd /usr/ports/www/chromium
+su
+whoamai
+whoami
+whoami -a
+whoami
+man whoami
+id -p
+id -un
+uname
+man uname
+uname -a
+cd /etc
+emacs make.conf
+su
+exit
+cd /usr/local/lib
+ls
+su
+ln -s /usr/local/lib/npapi/linux-f10-flashplugin/libflashplayer.so \\
+  /usr/local/lib/browser_plugins/
+su
+cd
+nspluginwrapper -v -a -i
+su
+cd
+nspluginwrapper -i /usr/local/lib/npapi/linux-f10-flashplugin/libflashplayer.so
+cd .mozilla/plugins
+ls
+su
+whoami
+xinit
+ssh ponyo@192.168.11.17
+exit
+exit
+shutdown -p now\
+
+whoami
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ps -ax
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xnit
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+xinit
+su
+vlc
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+vlc
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now\
+
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh\
+
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+su
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+su
+vlc
+ssh ponyo@192.168.11.17
+shutdown -p now
+ssh ponyo@192.168.11.17
+shutdown -p now
+xinit
+ifconfig
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.17
+shutdown -p now
+wol -i 192.168.11.255 10:11:12:13:14:15
+xinit
+ssh ponyo@192.168.11.3
+ls
+cd .ssh
+ls
+emacs -nw known_hosts
+ssh ponyo@192.168.11.3
+ssh ponyo@192.168.11.17
+shutdown -p now
+xinit
+ifconfig
+ssh ponyo@192.168.100.4
+ping www
+ssh www
+su
+ping 192.168.100.1
+ping 192.168.100.2
+ping 192.168.100.3
+ping 192.168.100.4
+ifconfig
+ping 192.168.100.4
+shutdown -p now
+xinit
+fastest_cvsup -c jp
+whereis fastest_cvsup
+cd /usr/ports/sysutils/fastest_cvsup
+make config-recursive
+make install clean
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+su
+xinit
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+wol -i 192.168.11.255 10:11:12:13:14:15
+ssh ponyo@192.168.11.17
+ping 192.168.11.17
+ping 192.168.100.1
+ping 192.168.100.2
+ping 192.168.100.3
+ping 192.168.100.4
+ping 192.168.100.5
+ping 192.168.100.6
+ping 192.168.100.60
+ifconifg
+ifconfig
+ping 192.168.11.17
+ping 192.168.1
+ping 192.168.100.6
+ssh 192.168.100.6
+ssh 192.168.100.4
+cd /etc
+emacs resolv.conf
+su
+vlc
+shutdown -p now
+xinit
+ssh 192.168.100.4
+exit
+ssh 192.168.100.4
+man svn
+man svnserve
+man svnserv.conf
+man svnserve.conf
+man svnserve
+man svn
+ssh 192.168.100.6
+ssh 192.168.100.4
+ssh svn@192.168.100.4
+ssh aaa@192.168.100.4
+ssh svn@192.168.100.4
+ssh 192.168.100.4
+ls
+cd work
+ls
+cd test
+ls
+cd testproject
+ls
+cd ../
+mkdir test
+cd test\
+
+ls
+pwd
+mkdir tags
+mkdir trunk
+mkdir branches
+ls
+cd ../
+svn import ./test svn://192.168.100.4/testRepos
+svn import ./test svn://192.168.100.4/testRepos/repos
+ssh 192.168.100.6
+ssh 192.168.100.4
+shutdown -p now
+xinit
+ssh 192.168.100.4
+ssh 192.168.100.6
+shutdown -p now
+xinit
+ssh 192.168.100.4
+ssh 192.168.11.1
+ssh 192.168.11.2
+ssh 192.168.11.17
+ssh 192.168.11.2
+ssh 192.168.11.17
+ssh 192.168.11.2
+ping 192.168.11.2
+ping 192.168.11.17
+ssh 192.168.11.2
+ssh 192.168.11.17
+ls
+la
+emacs .ssh/known_hosts
+ssh 192.168.11.17
+su
+ssh 192.168.11.17
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+ssh 192.168.11.17
+ping 192.168.11.17
+ssh 192.168.11.17
+vlc
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+ssh 192.168.100.4
+emacs .ssh/known_hosts
+ssh 192.168.100.4
+ssh 192.168.100.6
+la
+ssh 192.168.100.4
+exit
+exit
+exit
+shutdown -p now
+xinit
+ssh 192.168.100.4
+ssh 192.168.100.6
+ifconfig
+ping 192.168.100.4
+ping 192.168.11.17
+ssh 192.168.11.17
+emacs .ssh/known_hosts
+ssh 192.168.11.17
+su
+vlc
+shutdown -p now
+xinit
+ssh 192.168.11.17
+ping 192.168.100.6
+ifconfig
+ssh 192.168.100.6
+shutdown -p now
+xinit
+ssh 192.168.11.17
+ssh 192.168.100.6
+exit
+exit
+su
+vlc
+shutdown -p now
+xinit
+ssh 192.168.11.17
+ssh 192.168.100.6
+ls
+cd test
+ls
+cd bind
+ls
+rm -rf bind-9.8.0-P4 bind-9.8.0-P4.org bind-9.8.0-P4.tar.gz 
+ls
+pwd
+mkdir src
+mkdir conf
+mkdir zone
+ls
+mkdir trunk
+mvdir conf trunk
+mv conf trunk
+ls
+mv src trunk
+mv zone trunk
+ls
+mkdir branches
+mkdir tags
+ls
+cd tags
+ls
+cd ../trunk
+ls
+cd ../../
+ls
+svn import ./bind svn://192.168.100.6/bind
+svn import ./bind svn://192.168.100.6/repos/bind
+svn import ./bind /bind svn://192.168.100.6
+svn import ./bind svn://192.168.100.6
+svn import -m "New import" ./bind svn://192.168.100.6/bind
+ping 192.168.100.6
+cd bind
+cd trunk
+ls
+cd 
+ls
+cd test
+ls
+rm -rf bind
+ls
+svn checkout  svn://192.168.100.6/bind ./
+ls
+rm -rf branches
+rm -rf tags
+rm -rf trunk
+svn checkout  svn://192.168.100.6/bind ./bind
+ls
+cd bind
+ls
+cd ../
+ls
+rm -rf bind
+svn checkout  svn://192.168.100.6/bind/trunk ./bind
+cd bind
+ls
+mkdir etc
+ls
+cd etc
+emacs memo.txt
+ls
+pwd
+cp /home/ponyo/work/bind/memo.txt ./
+ls
+emacs memo.txt
+su
+dig gokujyou-menbou.com
+cd /etc
+ls
+emacs resolv.conf
+su
+dig gokujyou-menbou.com
+ssh 192.168.11.17
+ls
+cd work
+ls
+cd www
+ls
+scp -r ./gm-www-srv  ponyo@192.168.11.17:/home/ponyo/work
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+ssh 192.168.11.17
+scp -r ./Desktop/download/sbcl-1.0.55-source.tar.bz2   ponyo@192.168.11.17:/home/ponyo/work/test/sbcl
+scp -r ./Desktop/download/sbcl-1.0.22-x86-64-freebsd-binary.tar.bz2 ponyo@192.168.11.17:/home/ponyo/work/test/sbcl
+ssh 192.168.11.17
+exit
+exit
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+ponyo
+ssh 192.168.11.17
+su
+vlc
+shutdown -p now
+xinit
+whereis wol
+man wol
+wol 00:19:99:a7:ec:36
+wol -i 192.168.11.255 00:19:99:a7:ec:36
+wol 10:11:12:13;14:15
+wol 10:11:12:13:14:15
+wol -i 192.168.11.255 00:19:99:a7:ec:36
+ssh 192.168.11.17
+ssh 192.168.100.6
+ssh -L4005:127.0.0.1:4005 ponyo@192.168.100.6
+sbcl
+exit
+exit
+exit
+shutdown -p now
+xinit
+su
+ssh 192.168.11.17
+telnet 192.168.11.17 12345
+exit
+shutdown -p now
+xinit
+u
+su
+vlc
+shutdown -r now
+xinit
+shutdown -r now
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+ifconfig
+shutdown -r now
+ifconfig
+xinit
+su
+vlc
+ssh 192.168.11.17
+emacs -nw /etc/resolv.conf
+dig @192.168.11.17 gokujyou-menbou.com
+ping 192.168.11.17
+exit
+exit
+shutdown -r now
+shutdown -p now
+xinit
+ping 192.168.11.17
+ssh 192.168.11.17
+dig @192.168.11.17 gokujyou-menbou.com
+ping 192.168.11.17
+shutdown -p now
+xinit
+ssh 192.168.11.17
+dig @192.168.11.17 gokujyou-menbou.com
+ssh 192.168.11.17
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+ssh 192.168.11.17
+su
+dig @192.168.11.17 gokujyou-menbou.com
+ntpdate 210.173.160.87
+su
+vlc
+shutdown -p now
+xinit
+ssh 192.168.11.17
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+ssh 192.168.11.17
+dig @192.168.11.17 gokujyou-menbou.com
+dig @192.168.11.17 ns.gokujyou-menbou.com
+dig @192.168.11.17 gokujyou-menbou.com
+dig @192.168.11.17 gokumen.com
+dig @192.168.11.17 www.gokumen.com
+emacs /etc/resolv.conf
+su
+dig @192.168.11.17 www
+ping www
+nslookup www
+nslookup 124.41.85.47
+nslookup ftp.rs.internic.net
+nslookup gokumen.com
+nslookup gokujyou-menbou.com
+nslookup ns.gokujyou-menbou.com
+nslookup ns.gokumen.com
+vlc
+shutdown -p now
+xinit
+ssh www
+nslookup www
+emacs /etc/resolv.conf
+su
+nslookup www
+ssh www
+ssh 192.168.11.17
+telnet 192.168.11.17 12345
+telnet www 12345
+ssh www
+exit
+su
+vlc
+xinit
+ssh www
+ssh 192.168.11.17
+emacs /etc/resolv.conf
+su
+shutdown -p now
+shutdown -r now
+xinit
+su
+ps -ac
+ps -ax
+emacs -nw /etc/rc.conf
+su
+shutdown -r now
+xinit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+vlc
+su
+vlc
+pwd
+ls
+cd Desktop/download
+pwd
+cd ../../
+cd
+ls
+cd test
+ls
+cd slime
+ls
+emacs swank.lisp
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+ssh www
+ssh 192.168.11.17
+su
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+ssh 192.168.11.17
+shutdown -p now
+xinit
+ssh 192.168.11.17
+ls
+cd work
+ls
+cd 
+pwd
+ls
+cd Downloads
+ls
+cd ../Desktop/
+ls
+cd download
+ls
+cp slime-current\(2\).tgz ~/work/swank
+cd 
+cd work
+ls
+cd swank
+ls
+tar zxvf slime-current\(2\).tgz
+ls
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+term
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+emacs
+vlc
+shutdown -p now
+xinity
+xinit
+su
+exit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinity
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+whereis ctags
+whereis *tag
+where ctags
+pwd
+cd work/swank
+ls
+cd slime-2012-03-18
+ls
+ctags -e *.el *.lisp
+ctags -v
+ctags  *.el *.lisp
+ls
+rm tags
+ls
+man ctags
+whereis etags
+ls
+exit
+ls
+pwd
+man etags
+pwd
+etags *.el *.lisp 
+ls
+emacs
+pqwd
+pwd
+cd
+pwd
+ls
+la
+emacs .Xauthority
+cd .emacs.d
+ls
+cd
+ls
+mkdir temp
+ls
+cd temp
+whereis ctags
+locate ctags
+cd /usr/ports/devel/ctags
+make install clean
+cd /usr/ports/japanese/ctags
+make install clean
+portsnap fetch && portsnap update
+su
+man ctags
+cd 
+ls
+cd work/swank
+ls
+cd slime-2012-03-18
+ls
+ctags -e *.el *.lips
+ctags -e *.el *.lisp
+cd /usr/ports/japanese/ctags
+su
+man ctags
+pwd
+cd 
+cd work/swank/slime-2012-03-18
+ls
+ctags -e *.el *.lisp
+exctags
+exctagas
+exctags -e *.el *.lip
+exctags -e *.el *.lisp
+ls
+emacs
+ssh 192.168.11.17
+pwd
+cd work/swank
+ls
+scp -r ./slime-2012-03-18/ ponyo@192.168.11.17:/home/ponyo/work/swank
+scp -r ./slime-2012-03-18 ponyo@192.168.11.17:/home/ponyo/work/swank
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+GCai0A21
+su
+vlc
+shutdown -p now
+xinit
+su
+ssh 192.168.11.17
+ls
+netstat -an -f inet | grep tcp
+ssh 192.168.11.17
+man telnet
+telnet 192.168.11.17  4005
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+ssh 192.168.11.17
+shutdown -p now
+xinit
+su
+vlc
+exit
+emacs
+ssh 192.168.11.17
+pwd
+cd work/swank/slime-2012-03-18
+ls
+cd 
+cd .emacs.d/slime/
+ls
+scp -r ./ChangeLog ponyo@192.168.11.17:/home/ponyo/work/swank
+ssh 192.168.11.17
+pwd
+ls
+cd .emacs.d/slime
+pwd
+ls
+cd ../
+scp -r ./slime ponyo@192.168.11.17:/home/ponyo/work/swank/testSlime
+pwd
+emacs slime/swank.lisp
+emacs
+cd 
+cd work/swank
+ls
+rm slime-current\(2\).tgz
+ls
+cd work/swank/
+ls
+tar zxvf slime-current.tgz
+ls
+cd
+ls
+cd .emacs.d/
+sl
+ls
+emacs init.el
+ls
+cp slime old-slime
+ls
+man cp
+cp -r slime old-slime
+ls
+rm -rf slime
+ls
+cp -r ../work/swank/slime-2012-04-21 slime
+ls
+cd slime
+ls
+pwd
+cd 
+cd work/swank
+sl
+ls
+scp -r slime-2012-04-21 ponyo@192.168.11.3:/home/ponyo/work/swank/slime
+scp -r slime-2012-04-21 ponyo@192.168.11.17:/home/ponyo/work/swank/slime
+pwd
+ls
+pwd
+emacs
+pwd
+ls
+mkdir testMain
+ls
+cd
+pwd
+ls
+cd .emacs.d
+la
+ls
+rm -rf old-slime
+ls
+cd
+pwd
+cd work/www/gm-www-srv
+ls
+cd src
+ls
+cd ../../
+ls
+cd gm-www-srv
+ls
+emacs readme
+pwd
+cd ../../swank
+ls
+pwd
+ls
+exit
+exit
+exit
+shutdown -p now
+xinit
+su
+ssh 192.168.11.17
+shutdown -p now
+xinit
+su
+ssh 192.168.11.17
+exctags -e *.el *.lisp
+pwd
+ls
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+au
+su
+ssh 192.168.11.17
+shutdown -p now
+xinit
+su
+date
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinti
+xinit
+su
+ssh 192.168.11.17
+shutdown -p now
+xinit
+ssh 192.168.11.17
+su
+ssh 192.168.11.17
+exit
+exit
+exit
+shutdown -p now
+xinit
+su
+ssh 192.168.11.17
+pwd
+cd temp
+ls
+ssh 192.168.11.17
+scp  header.gif ponyo@192.168.11.17:/home/ponyo/work/gm-www-srv/root/
+ssh 192.168.11.17
+dig @192.168.11.17 www
+dig @192.168.11.17 gokujyou-menbou.com
+ping 192.168.11.17
+ipconfig
+ifconfig
+dig @192.168.11.17 gokujyou-menbou.com
+dig google.com
+netstat -an -f inet | grep tcp
+dig google.com
+netstat -an -f inet | grep tcp
+netstat -an -f inet | grep udp
+dig google.com
+netstat -an -f inet | grep udp
+dig google.com
+dig @192.168.11.17 gokujyou-menbou.com
+dig @dns.nifty.com www.gokujyou-menbou.com
+dig @123.50.202.226 www.gokujyou-menbou.com
+exit
+dig @192.168.11.17 gokujyou-menbou.com
+ssh 192.168.11.17
+dig @192.168.11.17 www.gokujyou-menbou.com
+su
+ls
+pwd
+cd Desktop/download
+scp  saru.jpg ponyo@192.168.11.17:/home/ponyo/work/gm-www-srv/root/
+scp  saru\(1\).jpg ponyo@192.168.11.17:/home/ponyo/work/gm-www-srv/root/ 
+ssh 192.168.11.17
+pwd
+ls
+cd Desktop/download
+ls
+scp  saru\(1\).jpg ponyo@192.168.11.17:/home/ponyo/work/gm-www-srv/root/ 
+scp  saru\(1\).jpg ponyo@192.168.11.17:/home/ponyo/work/gm-www-srv/root/saru.jpg
+scp  saru\(2\).jpg ponyo@192.168.11.17:/home/ponyo/work/gm-www-srv/root/saru2.jpg
+pwd
+cd 
+pwd
+cd work/www/gm-www-srv/root
+ls
+scp  saru.jpg ponyo@192.168.11.17:/home/ponyo/work/gm-www-srv/root/saru.jpg
+exit
+exit
+exit
+exitr
+exit
+exit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinti
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+ssh 192.168.11.17
+dig @192.168.11.17 www.gokujyou-menbou.com
+shutdown -p now
+xinit
+su
+ssh 192.168.11.17
+dig @192.168.11.17 www.gokujyou-menbou.com
+ssh 192.168.11.17
+dig @192.168.11.17 www.gokujyou-menbou.com
+dig @192.168.11.17 www.gokujyou-menbou.com +norec
+emacs
+dig @192.168.11.17 www.gokujyou-menbou.com
+dig @192.168.11.17 www.gokujyou-menbou.com +norec
+ping www.gokujyou-menbou.com
+su
+ping www.gokujyou-menbou.com
+emacs /etc/resolv.conf
+cd /etc
+ls
+emacs resolv.confo
+su
+ping www.gokujyou-menbou.com
+dig www.gokujyou-menbou.com
+ssh 192.168.11.17
+ssh www.gokujyou-menbou.com
+pwd
+cd work/www/contents
+ls
+scp  ponyo@192.168.11.17:/home/ponyo/work/gm-www-srv/root/index.html ./index.html
+ls
+cd
+cd Downloads
+ls
+scp  favicon.ico ponyo@192.168.11.17:/home/ponyo/work/gm-www-srv/root/favicon.ico
+pwd
+ls
+ssh www.gokujyou-menbou.com
+scp  aboutus.html ponyo@192.168.11.17:/home/ponyo/work/gm-www-srv/root/aboutus/
+exit
+exit
+exit
+exit
+su
+shutdown -p now
+xinit
+su
+cd /etc
+emacs resolv.conf
+ssh
+ssh www.gokujyou-menbou.com
+ssh 192.168.11.17
+cd /etc
+emacs rc.conf
+su
+exit
+shutdown -r now
+xinit
+su
+ssh 192.168.11.17
+man nfs
+pwd
+cd /etc
+emacs rc.conf
+ssh 192.168.11.17
+mount_nfs -o nfsv4 192.168.11.17:/usr/nfs/common /usr/home/common
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+vlc
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+pwd
+cd work/swank
+ls
+scp -r ponyo@192.168.11.17:/home/ponyo/work/swank/slime ./slime
+cd slime
+ls
+cd slime
+ls
+exit
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+exit
+pwd
+cd Desktop/download
+cp redo+.el ../../.emacs.d
+cd
+cd .emacs.d
+ls
+mkdir redo+
+cp redo+.el ./redo+
+ls
+cd redo+
+ls
+cd ../
+rm redo+.el
+s
+ls
+cd work/swank/slime
+cd slime/
+ctags -e *.el *.lisp
+ctags -e *.lisp
+pwd
+ctags *.lisp
+ls
+emacs tags
+ctags -e *.lisp
+ctags -v
+ctags -V
+ctags -v
+man ctags
+etags  *.lisp 
+ls
+etags 
+etags  --help
+exit
+exit
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+sbcl
+exit
+exit
+exit
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+sshp
+ssh 192.168.11.17
+cd
+pwd
+ls
+la
+scp -r  .emacs.d ponyo@192.168.11.17:/home/ponyo
+ssh 192.168.11.17
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+pwd
+ssh 192.168.11.17
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+su
+ssh 192.168.11.17
+whereis ctags
+man ctags
+fg
+where ctags
+where ExuberantCtags
+where exuberantctags
+where exuberant-ctags
+exctags --version
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+shutdown -p now\
+
+xinit
+su
+ssh 192.168.11.17
+dig www.gokujyou-menbou.com
+dig @192.168.11.17 www.gokujyou-menbou.com +norec
+emacs /etc/resolv.conf
+su
+exit
+exit
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinity
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+xinit
+shutdown -p now\
+
+xinti
+xinit
+su
+shutdown -p now\
+
+xinit
+su
+vlc
+shutdown -p now\
+
+xinit
+su
+shutdown -p now\
+
+: 1344431390:0;xinti
+: 1344431394:0;xinit
+: 1344431417:0;su
+: 1344431717:0;portsnap fetch && portsnap update
+: 1344431719:0;su
+: 1344432524:0;cd
+: 1344432525:0;ls
+: 1344432531:0;cd work
+: 1344432531:0;ls
+: 1344432537:0;cd ../test
+: 1344432537:0;ls
+: 1344432545:0;mkdir git-test
+: 1344432548:0;cd git-test
+: 1344432548:0;ls
+: 1344432613:0;git config --global user.name "c1100077"
+: 1344432629:0;git config --global user.email "c1100077@gmail.com"
+: 1344432649:0;git config --global color.ui auto
+: 1344432652:0;ls
+: 1344432762:0;git clone https://github.com/c1100077/dotfile.git
+: 1344432767:0;ls
+: 1344432770:0;cd dotfile
+: 1344432770:0;ls
+: 1344432771:0;la
+: 1344432785:0;cd
+: 1344432786:0;ls
+: 1344432789:0;la
+: 1344432804:0;cp -r .emacs.d ./test/git-test
+: 1344432819:0;cp .zcompdump .zsh_history .zshrc .zshrc.mine ./test/git-test

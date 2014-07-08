@@ -1,0 +1,500 @@
+ls
+cd ../syntax/
+ls
+cd ~
+ls
+cd ~
+cd ..
+cd ..
+ls
+chmod +x ..
+cd ~
+ls
+vi cc
+ls
+ls 
+cd .vim
+ls
+mv systags ~/ws/c
+ls
+cd ~/ws/c
+ls
+mkdir Test
+mv cscope.* test.c ./Test/
+ls
+mv tags ./Test/
+ls
+cd Test/
+ls
+cd ..
+ls 
+cd ~/.vim
+ls
+cd ..
+ls
+mv cc ./ws
+ls
+vi mxmlc.Makefile 
+mv mxmlc.Makefile ./ws
+vi omnictags 
+mv omnictags ./ws/c
+ls
+vi getscript.vba 
+vi getscript.vba 
+vi getscript.vba 
+vi getscript.vba 
+ls
+ls
+vim getscript.vba 
+ls
+cd .vim
+ls
+cd doc
+ls
+vi flex.txt
+cd ~
+ls
+vi getscript.vba 
+vi getscript.vba 
+ls
+rm getscript.vba 
+cd /ws/c
+ls
+cd ws/c
+ls
+cd Test/
+ls
+../cc 
+ls
+../cc *.c
+ls
+vi test.c
+vi test.c
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+ls
+cd ../
+ls
+cd ws/c
+ls
+cd Test
+ls
+vi test.c 
+ls
+vi test.c
+vi ~/.vimcr
+vi ~/.vimrc
+ls
+ls
+vi test.c
+vi test.c
+vi .vimrc
+cd ws
+ls
+cd c
+ls
+vi .vimrc
+vi .vimrc
+cd ws/c
+ls
+vi Test
+cd Test
+ls
+vi test.c
+vi test.c
+vi test.c
+vi test.c
+vi test.c
+vi test.c
+vi tags test.c 
+vi test.c
+vi test.c
+vi test.c
+vi tags test.c 
+vi tags test.c 
+vi tags test.c 
+vi tags test.c 
+vi tags test.c 
+vi tags test.c 
+vi tags test.c 
+vi tags test.c -t
+vi tags
+vi test.c
+vi tags test.c 
+vi tags test.c
+vi tags test.c
+vi tags test.c
+vi tags
+vi tags test.c
+vi tags test.c
+vi tags test.c
+vi
+ls
+ls -a 
+vi
+vi tags test.c
+vi tags test.c
+vi
+ls
+vi
+vi test.c
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+ls
+cd ws
+ls
+cd as3
+ls
+cd LoveCity
+ls
+cd src
+ls
+vi LoveCity.mxml 
+cd keepc
+ls
+cd lovecity/
+ls
+cd shell
+ls
+:q
+vi .vimrc
+ctags.exe 
+ctags.exe /?
+ctags.exe -h
+ctags.exe --help
+where ctags.exe
+:vi .vimrc
+ls
+vi .vimrc
+vi .vimrc .tags
+vi
+vi .vimrc .tags
+vi .vimrc tags
+vi .vimrc tags
+vi
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi
+vi .vimrc tags
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+fg 1
+ls
+cd .vim
+ls
+cd plugin/
+ls
+ls
+ls 
+vi .vimrc
+ls
+cd .vim
+ls
+cd plugin/
+ls
+vi
+vi .vimrc
+vi
+vi .vimrc
+vi .vimrc
+ls
+ls -a
+vi .vimcrc
+vi .vimrc
+vi
+vi .vimrc
+vi .vimrc
+vi
+vi .vim/GetLatest/bookmarking.vba 
+vi .vimrc
+vi .vim/GetLatest/bookmarking.vba
+vi .vim/GetLatest/bookmarking.vba
+vi
+vi
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vim/GetLatest//mark.vba.gz 
+vi .vim/GetLatest//mark.vba.gz 
+vi
+vi
+vi .vimrc
+vi
+vi .vimrc
+ls
+ls -a
+git clone https://github.com/jijunzeng/home.git
+git --help
+git status
+cd ..
+ls
+git clone https://github.com/jijunzeng/home.git jijunzeng
+git clone https://github.com/jijunzeng/home.git
+ls
+mv -r home jijunzeng/
+mv home/* jijunzeng/
+ls
+ls -a home
+mv home/.* jijunzeng/
+ls -a home
+rm home
+rm -r home
+ls
+cd jijunzeng/
+ls
+ls
+cd .vim
+ls
+git pull
+vi
+vi .vimrc
+ls
+ls -a
+cd ..
+ls
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+vi .vimrc
+ls
+git -commit "vim tips"
+git commit "vim tips"
+git --help
+git help commit
+git commit -m "vim tips"
+git add *
+git commit -m "vim tips"
+ls
+git config --global user.name "jijunzeng"
+git config --global user.email jijunzeng@gmail.com
+cd.vim
+cd .vim
+ls
+git add tips/ -r
+git add tips
+git commit -m "vim tips"
+git push
+ls
+git commit -m "vim tips"
+ls
+git commit -m "vim tips"
+git push
+cd .vim/tips/
+git pull
+git update
+ls
+cd .vim
+ls
+cd tips
+ls
+git commit -m "乱码"
+git commit -m "乱码" -a
+ls
+git push
+ls
+cd .vim/tips/
+ls
+git status
+ls -a
+ls /usr/bin/ls /usr/bin/ml*
+ls /usr/bin
+ls /usr/bin/mlscope
+ls /usr/bin/mlcscope
+ln -s /usr/bin/mlcscope /usr/bin/cscope
+cscope
+ls
+vi .vim/GetLatest/tagbar.vmb 
+ls
+cd .vim
+ls
+cd compiler/
+ls
+cd ..
+rm -r compiler/
+ls
+cd after/
+ls
+ls ftplugin/
+ls syntax/
+ls
+cd ..
+ls doc
+rm doc/flex.txt 
+ls
+ls ftplugin/
+rm ftplugin/actionscript.vim ftplugin/mxml.vim 
+ls indent/
+rm indent/actionscript.vim indent//mxml.vim 
+ls syntax/
+ls plugin/
+rm syntax/actionscript.vim  syntax//mxml.vim 
+vi GetLatest/tagbar.vmb 
+cd ..
+vi .vimrc
+cd ws/c/Test/test.c
+cd ws/c/Test
+ls
+vi test.c
+ctags
+ctags
+cd ws/c
+cd Test/
+ls
+../cc
+cd ..
+ls
+chmod +x cc
+ls
+cd Test/
+ls
+../cc
+../cc test.c
+vi test.c
+vi .vimrc
+git push origin
+git commit -m "del as3"
+git commit -m "del as3" -a
+git push origin
+vi
+vi .vim/GetLatest/tagbar.vmb 
+vi ws/c/Test/test.c
+ls
+git commit -m "tagbar" -a
+git push
+git push origin
+vi .vimrc
+cd ws/c
+ls
+cd Test
+ls
+vi test.c
+cd /ws/c/T
+cd ws/c/Test
+ls
+vi test.c
+vi test.c
+vi .vimrc
+vi .vim/GetLatest/checksyntax.vba 
+vi .vim/GetLatest/VOoM-4.4/plugin/voom.vim 
+vi
+vi
+vi
+vi
+vi
+vi
+vi
+vi
+vi .vimrc
+vi
+ls
+git commit -a -m"lookupfile"
+git push
+vi .vimrc
+vi .vimrc
+git commit -a -m ".vimrc乱码"
+git push
+vi
+cd vimcdoc-1.8.0/
+ls
+vi INSTALL 
+cd vimcdoc-1.8.0/
+./vimcdoc.sh -i
+vi
+ls
+cd ..
+ls
+ls -l
+vi README.md 
+vi
+ls
+vi
+ls
+cd .vim
+ls
+cd plugin/
+ls
+cd ..
+ls
+cd ..
+ls
+rm viminfo 
+vi &
+fg 1
+vi .vimrc
+vi ws/c/Test/test.c 
+pwd
+vi
+vi
+vi .vimrc
+cd ws/c/Test/
+ls
+vi test.c
+cd ws/c/Test/
+ls
+cd ws/c
+ls
+cd vim73/
+../cc 
+ls
+vi
+cd ..
+ls
+cd vim73/
+ls
+vi ../cc
+cd src
+ls
+cd ..
+ls
+vi ../cc
+../cc src
+ls
+vi
+vi
+vi .vimrc
+cd ws/c/vim73/
+ls
+vi ~/.vimrc
+vi
+ls
+rm tags cscope.*
+ls
+cd src
+ls
+cd ..
+ls
+vi ../cc
+ls
+../cc src
+ls
+vi tags
+rm tags cscope.out 
+ls
+vi ../cc
+ls
+ls ~/ws/c
+rm cc
+ls
+cd ~/ws/c
+ls
+rm cc
+ls

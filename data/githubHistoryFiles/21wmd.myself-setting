@@ -1,0 +1,178 @@
+cd D\
+ls
+l
+cp .lscolor256 ~/
+vim ~/.zsh
+ls -h --CLICOLOR=auto
+vim ~/.lscolor256
+cd
+vim ~/.zshrc.local
+rm ~/.zshrc.local
+man vim
+cp dotfiles/.zshrc ~/
+cp dotfiles/.lscolor256 ~/
+echo `$HOME`
+echo "$HOME"
+vim .zshrc
+rm ~/.lscolor256
+ls -lh --color=auto
+ls --help
+ls -help
+man ls
+ls -lA
+ls -lC
+ls -lc
+ls -lca
+ls -ld
+ls -lda
+ls -lxa
+ls -F=b
+ls -F
+ls -la
+ls -lax
+ls -lx
+ls -l
+ls -h
+ls -lh
+ls -lsh
+ls -lah
+ls -xh
+ls -xl
+ls -x
+ll
+rm .vimrc~
+rm .vimperatorrc~
+vim
+df
+du
+dud
+sudo su
+top10
+netstat -ntlp
+netstat
+netstat -h
+man netstat
+netstat -ntLp
+netstat -ntLP
+netstat -L
+netstat -P
+netstat -n
+netstat -t
+netstat -l
+netstat -p
+netstat -ntl
+netstat ntlp
+port
+man grep
+gre[
+grep --color=auto
+grep -I
+grep
+ls | grep mu
+ls | grep mM
+ls | grep M
+q
+"$HOST"
+echo "$HOST"
+cd Desktop
+cd dotfiles
+vim .zshrc.local
+ls
+screen -d
+vim ~/.zshrc
+ssh 21wmd@10.0.0.1
+s
+screen -r
+ps
+ps -ax | grep screen
+exit
+: 1342124982:0;cd
+: 1342124982:0;ls
+: 1342124986:0;cd Documents
+: 1342124987:0;ls
+: 1342124999:0;cd ..
+: 1342124999:0;ls
+: 1342125004:0;cd Do
+: 1342125010:0;cd Documents
+: 1342125010:0;ls
+: 1342125034:0;mkdir git
+: 1342125036:0;cd git
+: 1342125037:0;ls
+: 1342125045:0;cp ~/.* .
+: 1342125055:0;cp ~/.* . -R
+: 1342125060:0;cp -r ~/.* .
+: 1342125068:0;ls
+: 1342125094:0;rm .bash_aliase\~
+: 1342125102:0;rm .pentadactylrc\~
+: 1342125110:0;rm .zshrc\~
+: 1342125111:0;ls
+: 1342125117:0;cd ..
+: 1342125117:0;ls
+: 1342125120:0;rm git
+: 1342125124:0;rm -r git
+: 1342125201:0;ls
+: 1342125204:0;mkdir git
+: 1342125206:0;cd git
+: 1342125206:0;ls
+: 1342125223:0;git config --global user.name "21wmd"
+: 1342125244:0;git config --global user.email wangmd21@gmail.com
+: 1342125250:0;cd ..
+: 1342125251:0;ls
+: 1342125252:0;rm git
+: 1342125255:0;rm -r git
+: 1342125272:0;mkdir myself-setting
+: 1342125274:0;cd myself-setting
+: 1342125277:0;git init
+: 1342125290:0;touch README
+: 1342125296:0;vim README
+: 1342125394:0;git add README
+: 1342125407:0;git commit -m 'firest commit'
+: 1342125433:0;git remote add origin git@github.com:21wmd/myself-setting.git
+: 1342125444:0;git push -u origin master
+: 1342125479:0;ls
+: 1342125488:0;cd ~/.ssh
+: 1342125489:0;ls
+: 1342125491:0;vim github_rsa
+: 1342125497:0;vim config
+: 1342125548:0;git push -u origin master
+: 1342125564:0;cd ~/.ssh
+: 1342125567:0;vim config
+: 1342125572:0;ls
+: 1342125577:0;q
+: 1342125580:0;vim config
+: 1342125596:0;git push -u origin master
+: 1342125654:0;ls
+: 1342125656:0;vim github_rsa.pub
+: 1342125666:0;vim id_rsa.pub
+: 1342125693:0;vim github_rsa.pub
+: 1342125757:0;vim id_rsa.pub
+: 1342125795:0;sudo git push -u origin master[A
+: 1342125799:0;sudo git push -u origin master
+: 1342125840:0;ls
+: 1342125843:0;vim known_hosts
+: 1342125862:0;sudo git push -u origin master
+: 1342125892:0;cd ~/.ssh
+: 1342125893:0;ls
+: 1342125895:0;vim config
+: 1342125919:0;sudo git push -u origin master
+: 1342125926:0;ls
+: 1342125929:0;cd -
+: 1342125932:0;sudo git push -u origin master
+: 1342125941:0;ls
+: 1342125943:0;cd ..
+: 1342125943:0;ls
+: 1342125950:0;rm -r myself-setting
+: 1342125956:0;rm -rf myself-setting
+: 1342125972:0;ls
+: 1342125981:0;mkdir myself-setting
+: 1342125983:0;cd myself-setting
+: 1342125989:0;git init
+: 1342125996:0;touch README
+: 1342126000:0;git add README
+: 1342126022:0;git commit -m 'first commit''
+: 1342126024:0;git commit -m 'first commit'
+: 1342126099:0;vim config
+: 1342126140:0;git remote add origin github:21wmd/myself-setting.git
+: 1342126151:0;git push -u origin master
+: 1342126168:0;ls
+: 1342126179:0;cp -r ~/.* .

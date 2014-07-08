@@ -1,0 +1,500 @@
+cat .bashrc 
+exit
+ls
+ruby -e "$(curl -fsSkL raw.github.com/mxcl/homebrew/go)"
+brew doctor
+ls -als
+exit
+ls
+cat .bashrc 
+open .bashrc
+source .bashrc 
+ls
+ls -als
+cd programs/
+ls
+cd Linux/
+ls
+mv vimrc .vimrc
+ls
+mv .vimrc ../..
+cd ../..
+ls
+ls -a
+vim .vimrc 
+mkdir .vim
+vim .vimrc 
+pwd
+ls
+c Music/
+ls
+cd Music/
+ls
+cd iTunes/
+ls
+cd iTunes\ Media/
+ls
+cd Automatically\ Add\ to\ iTunes/
+ls
+cd ~
+ls
+cd Music/
+ls
+cd iTunes/
+ls
+cd iTunes\ 
+cd iTunes\ Media/
+ls
+cd ~
+ls
+cd /etc/
+open profile 
+cat bashrc 
+nano bashrc 
+cat bashrc 
+sudo vim bashrc 
+cat bashrc
+exit
+pwd
+ls
+cd Documents/
+ls
+rm About\ Stacks.pdf 
+ls
+touch tads_wiki.html
+open -a textmate tads_wiki.html 
+ps -e
+ps -aux
+ps -au
+ps -a
+ps -e
+ps -e | grep flash
+ps -e | grep ins
+  brew doctor
+brew update
+brew upgrade git
+git
+man chown
+sudo brew doctor
+sudo brew upgrade git
+sudo brew upgrade git
+brew upgrade git
+sudo brew doctor
+brew install git
+brew doctor
+sudo brew doctor
+brew search numpy
+brew search pil
+brew search gmake
+brew search cmake
+brew update
+git
+brew doctor
+sudo brew doctor
+brew update
+brew search scipy
+ls -als | grep bash
+touch .bash_profile
+open -a textmate .bash_profile 
+exit
+brew install python --framework --universal
+brew search terminator
+brew search tmux
+brew install tmux
+tmux
+sudo brew install tmux
+brew install tmux
+brew link libevent
+sudo brew link libevent
+brew install tmux
+brew link libevent
+ls -als /usr/local/include/
+brew link mysql
+sudo chown -R $(whoami) /usr/local/include
+brew link libevent
+sudo chown -R $(whoami) /usr/local/lib/pkgconfig/
+brew link libevent
+sudo chown -R $(whoami) /usr/local/lib/
+brew link libevent
+brew install tmux
+tmux 
+tmux 
+ls -R
+ls
+xterm -colors
+ls 
+clear
+ls
+ls
+ls -G
+ls
+clear
+ls
+ls
+ls -als
+open -a texmate .bash_profile 
+open -a textmate .bash_profile 
+ls
+ls -a
+vim .vimrc 
+cd programs/
+ls
+cd of_0071_osx_release/
+ls
+cd examples/
+ls
+cd graphics/
+ls
+cd graphicsExample/
+ls
+ls
+ls -G
+ls -alsG
+ls
+ls
+ls -R
+brew search term
+brew search terminator
+brew search gnuscreen
+brew search gnu
+brew search screen
+ls
+cd Downloads/
+ls
+tar xvf terminator_0.96.tar.gz 
+ls
+cd terminator-0.96/
+ls
+python setup.py install
+sudo python setup.py install
+ls
+vim INSTALL 
+./setup.py install
+./setup.py install --without-gettext
+./setup.py --without-gettext buildinstall
+./setup.py --without-gettext install
+sudo ./setup.py --without-gettext install
+terminator 
+brew install pango
+/Applications/Live\ 8.2.8/Patch/Contents/MacOS/iPatcher; exit;
+/Applications/Live\ 8.2.8/Patch/Contents/MacOS/iPatcher; exit;
+ks
+ls
+ls Library/
+cd ..
+ls
+cd ..
+ls
+cd Applications/
+ls
+cd Live\ 8.2.8/
+ls
+cd Patch/Contents/MacOS/
+ls
+sudo ./iPatcher 
+sudo open iPatcher 
+iPatcher
+ls
+ls
+ls -als iPatcher 
+chmod +x iPatcher 
+ls
+./iPatcher 
+./iPatcher; exit;
+ls
+cd Documents/
+ls
+open -a textmate tads_wiki.html 
+cd ,,
+cd ..
+ls
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+brew search wx
+brew install wxmac
+python
+cd .vim
+ls
+git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+cd /etc/
+ls | grep vim
+ls -als | grep vim
+ls -Rals | grep vim
+sudo ls -Rals | grep vim
+cd ..
+sudo ls -Rals | grep vim
+cd usr/share/vim/
+ls
+cd vim72/
+ls
+cd colors/
+ls
+cat README.txt 
+vim README.txt 
+ls
+cd programs/
+cd of_0071_osx_release/
+cd examples/graphics/fontsExample/src/
+vim testApp.cpp 
+vim testApp.cpp 
+vim testApp.cpp 
+vim testApp.cpp 
+vim testApp.cpp 
+cd ../..
+ls
+cd polygonExample/
+cd src/
+vim testApp.cpp 
+sudo env PATH=/opt/local/lib/postgresql84/bin/:$PATH
+brew search postgres
+brew install postgresql
+gem install pg
+sudo gem install pg
+which ruby gem
+brew upgrade gem
+brew update gem
+sudo gem install pg
+brew search libpq
+brew install libqxx
+brew install libq
+brew install libpqxx
+sudo gem install pg
+brew search ruby
+brew install ruby
+brew link gdbm
+brew install ruby
+sudo gem install pg
+brew search mysql
+bre 
+brew install mysql
+gem install mysql
+cd programs/
+ls
+git clone git://github.com/overtone/overtone.git
+cd overtone/
+ls
+ls script/
+ls scrc
+ls src/
+ls src/overtone/
+brew search lein
+brew install leiningen
+lein new tutorial
+brew search clojure
+brew install clojure
+brew install repl
+lein new tutorial
+ls
+cd ..
+git clone https://github.com/technomancy/leiningen.git
+cd leiningen/
+ls
+brew update
+brew upgrade leiningen
+ls
+cd bin
+ls
+./lein
+cd ../..
+git clone https://github.com/clojure/clojure.git
+java -cp clojure-1.4.0.jar clojure.main
+ls
+cd clojure/
+ls
+cat readme.txt 
+vim readme.txt 
+ls
+./antsetup.sh 
+ls
+vim readme.txt 
+ls
+ant 
+ls
+vim readme.txt 
+java -cp clojure-1.5.0-master-SNAPSHOT.jar clojure.main
+ls
+vim readme.txt 
+cd .
+cd ..
+history | grep lein
+lein new tutorial
+ls
+rm -rf tutorial/
+cd overtone/
+lein new tutorial
+cd ..
+lein new tutorial
+ls
+cd tutorial/
+ls
+vim project.clj 
+lein deps
+ls
+brew search emacs
+brew install emacs
+brew search mercurial
+brew install mercurial
+w
+man gem
+vim .bashrc 
+echo $PATH
+$PATH= $PATH:/usr/local/sbin
+PATH= $PATH:/usr/local/sbin
+ls /usr/local/sbin
+PATH=$PATH:/usr/local/sbin
+export PATH
+echo $PATH
+exit
+echo $PATH 
+PATH=$PATH:/usr/local/sbin
+$PATH=$PATH:/usr/local/sbin
+PATH=$PATH:/usr/local/sbin
+export $PATH
+PATH="$PATH":/usr/local/sbin
+export PATH
+echo $PATH
+echo $PATH >> .bashrc 
+vim .bashrc 
+vim .bash_profile 
+exit
+brew search aircrack
+brew install aircrack
+brew install aircrack-ng
+exit
+airodump-ng-oui-update 
+airodump-ng en1
+airmon-ng start en1
+sudo airmon-ng start en1
+sudo airmon-ng start en0
+ls
+cd programs/
+cd ..
+ls
+cd /
+ls
+locate 
+locate pentest
+  sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+locate pentest
+sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+locate program
+find -name "pentest"
+find --name "pentest"
+find --name="pentest"
+find --n "pentest"
+find -n "programs"
+find --help
+man find
+find -name pro
+locate tt
+locate programs
+locate metasploit
+brew search metasploit
+brew install nmap
+brew install postgresql --without-ossp-uuid
+initdb /usr/local/var/postgres
+mkdir -p ~/Library/LaunchAgents
+cp /usr/local/Cellar/postgresql/9.1.4/homebrew.mxcl.postgresql.plist ~/Library/LaunchAgents/
+cp /usr/local/Cellar/postgresql/9.2.1/homebrew.mxcl.postgresql.plist ~/Library/LaunchAgents/
+launchctl load -w ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
+createuser msf -P -h localhost
+createdb -O msf msf -h localhost
+gem install pg sqlite3 msgpack hpricot
+sudo gem install pg sqlite3 msgpack hpricot
+echo '#!/usr/bin/env bash'  >> /usr/local/bin/vncviewer 
+echo open vnc://\$1 >> /usr/local/bin/vncviewer
+chmod +x /usr/local/bin/vncviewer
+vncviewer 192.168.1.120:5901
+man vncviewer
+cd /usr/local/share/
+svn co https://www.metasploit.com/svn/framework3/trunk metasploit-framework
+cd metasploit-framework/
+for MSF in $(ls msf*); do ln -s /usr/local/share/metasploit-framework/$MSF /usr/local/bin/$MSF;done
+ln -s /usr/local/share/metasploit-framework/armitage /usr/local/bin/armitage
+sudo chmod go+w /etc/profile
+sudo echo export MSF_DATABASE_CONFIG=/usr/local/share/metasploit-framework/database.yml >> /etc/profile
+ls
+vim database.yml
+source /etc/pro
+source /etc/profile 
+ls
+source ~/.bash_profile
+cat /etc/profile 
+cd /usr/local/share/metasploit-framework/external/pcaprub
+ls
+msf
+locate extconf
+ls
+cdli
+cd lib/
+ls
+cd ..
+cd scripts/
+ls
+locate pcaprub
+cd ../..
+ls
+cd metasploit-framework/
+ls
+ln -s /usr/local/share/metasploit-framework/armitage /usr/local/bin/armitage
+cd ..
+history | grep svn
+svn co https://www.metasploit.com/svn/framework3/trunk metasploit-framework
+svn co https://www.metasploit.com/svn/framework3/trunk metasploit-framework
+ls
+cd metasploit-framework/
+ls
+for MSF in $(ls msf*); do ln -s /usr/local/share/metasploit-framework/$MSF /usr/local/bin/$MSF;done
+ln -s /usr/local/share/metasploit-framework/armitage /usr/local/bin/armitage
+sudo chmod go+w /etc/profile
+sudo echo export MSF_DATABASE_CONFIG=/usr/local/share/metasploit-framework/database.yml >> /etc/profile
+source /etc/profile
+source ~/.bash_profile
+cd /usr/local/share/metasploit-framework/external/pcaprub
+ls
+ruby extconf.rb && make && make install
+msfconsole
+msfconsole
+sudo -E armitage
+iwconfig
+brew search iwconfig
+ifconfig 
+airport -I
+cd /usr/sbin/
+ls
+man ln
+sudo ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport
+airport -I
+
+airport DriverInfo
+airport en1 sniff 1
+ifconfig 
+airport en0 sniff 1
+airport en1 sniff 1
+airport en1 sniff 6
+sudo airport en1 sniff 6
+ls /tmp/airportSniffSMSg3g.cap 
+vim /tmp/airportSniffSMSg3g.cap 
+string /tmp/airportSniffSMSg3g.cap 
+hexdump -C /tmp/airportSniffSMSg3g.cap 
+strings /tmp/airportSniffSMSg3g.cap 
+sudo airport en1 sniff 6
+strings /tmp/airportSniffJfFPJu.cap 
+brew search social
+cd /
+ls
+cd Volumes/
+ls
+c NO\ NAME/
+ls
+cd NO\ NAME/
+ls
+ls -als
+rm .Trash*
+rm -rf .Trash*
+ls
+df
+df -h

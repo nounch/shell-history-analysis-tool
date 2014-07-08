@@ -1,0 +1,500 @@
+touch montecalro.cpp
+cd /Users/yanotakafumi_private/Desktop/kadai4/plotdata; clear; pwd
+touch monte.csv
+gnuplot
+gnuplot
+brew install fontforge --without-python
+cd /Users/yanotakafumi_private/Desktop/Ricty-master; clear; pwd
+sh ricty_generator.sh auto
+sh ricty_generator.sh auto
+てすてす
+ほげほげ
+brew install zsh
+ zsh
+finder killall
+finder kill all
+finder kill
+kill all finder
+zsh
+zsh
+exit
+cd /Users/yanotakafumi_private; clear; pwd
+cd /Users/yanotakafumi_private/Programming; clear; pwd
+mkdir RubyStudy
+zsh
+cd /Users/yanotakafumi_private/Desktop/実験第五週gnuplot; clear; pwd
+gnupot
+gnuplot
+cal
+exit
+emacs
+brew install emacs --cocoa
+emacs -nw
+ls
+emacs
+emacs -nw
+clear
+emacs
+clear
+emacs 
+quit
+emacs
+ls-a
+ls -a
+cd .emacs.d
+ls ^a
+ls -a
+mkdir elisp
+ls
+pwd
+ls
+cd elisp
+ls
+cd ../
+ls
+ls -a
+cd .
+ls
+ls
+touch init.el
+ls
+emacs init.el
+clesr
+ghci
+alias emacs='/Applications/Emacs.app/Contents/MacOS/Emacs'
+cd $HOME
+emacs -nw .bashrc
+emacs
+brew install emacs --cocoa
+alias emacs='/usr/local/Cellar/emacs/24.2/Emacs.apps'
+emacs
+alias emacs='/usr/local/Cellar/emacs/24.2/Emacs.app'
+emacs
+alias emacs='/usr/local/Cellar/emacs/24.2/Emacs.app/Contents/MacOS/Emacs'
+emacs
+emacs -nw
+alias emacs='/usr/local/Cellar/emacs/24.2/Emacs.app/Contents/MacOS/Emacs -nw'
+emcs
+emacs
+clear
+emacs
+emacs
+cd /Users/yanotakafumi_private/Downloads/haskell-mode-master; clear; pwd
+ls
+cd ../
+ls
+cp -r 
+cp -r 
+cp -r haskell--mode--2.8.0 /Users/yanotakafumi_private/.emacs.d/elisp/
+cp -r haskell--mode--2.8.0 /Users/yanotakafumi_private/.emacs.d/elisp/
+cp -r haskell-mode--2.8.0 /Users/yanotakafumi_private/.emacs.d/elisp/
+cp -r haskell-mode-2.8.0 /Users/yanotakafumi_private/.emacs.d/elisp/
+emacs
+alias emacs='/usr/local/Cellar/emacs/24.2/Emacs.app/Contents/MacOS/Emacs -nw'
+alias emacs='/usr/local/Cellar/emacs/24.2/Emacs.app/Contents/MacOS/Emacs -nw'
+ls -a
+emacs .bashrc
+clear
+emacs
+alias emacs='/usr/local/Cellar/emacs/24.2/Emacs.app/Contents/MacOS/Emacs -nw'
+emacs
+emacs .bashrc
+emacs .bashrc
+emacs
+emacs .bashrc
+emacs
+emacs .bashrc
+emacs
+emacs --version
+ls -a
+emacs .bashprofile
+emacs
+emacs .bashprofile
+emacs --version
+emacs .bashprofile
+ source .bash_profile
+emacs 
+source .bash_profile
+emacs
+emacs .bashrc
+ls -a
+emacs .bashrc
+source .bash_profile
+emacs
+source ~/.bashrc
+emacs
+source ~/.bashrc
+git
+source ~/.bashrc
+export PS1="Bash"
+export PS1="Bash>"
+source ~/.bashrc
+emacs .bashrc
+source ~/.bashrc
+emacs
+source ~/.bashrc
+git
+git --version
+which git
+git config --global user.email "takafumi.yano.mac@me.com""
+git config --global user.name "TakafumiYano"
+git config --global user.email "takafumi.yano.mac@me.com"
+git config --global user.name "TakafumiYano"
+mkdir sandbox
+ls
+quit
+
+source ~/.bashrc
+pdww
+pwd
+ls
+mkdir sandbox
+cd sandbox
+ls
+zsource ~/.bashrc
+zsh
+source ~/.bashrc
+ls
+pwd
+mkidr gittest
+cd gittest
+ls
+mkdir gittets
+mkdir gittest
+ls
+cd gittest
+ls
+git init
+ls -a
+ls -la
+touxh test.txt
+emacs test.txt
+clear
+ls
+cat test.txt
+ls -a
+emacs
+clear
+ls-la
+ls -la
+git status
+git add test.txt
+git status
+ls -ls
+git status
+git commit
+git status
+git status
+git add test.txt
+git commit
+git status
+git log'
+git log
+
+
+
+
+
+git log
+git status
+git commit
+source ~/.bashrc
+zsh
+source ~/.bashrc
+pwd
+cd $home
+ls
+ls -a
+git config--global color.ui "auto"
+git config --global color.ui "auto"
+git config --global color.status "auto"
+git config --global color.diff "auto"
+git config --global color.branch "auto"
+git config --global color.interective "auto"
+git config --global color.grep "auto"
+git stasus
+git status
+git
+git status
+clear
+git commit
+ls
+cd sandbox
+ls
+cd gittest
+git log
+git status
+git add test.txt
+git commit
+git log
+git status
+clear
+git log
+git status
+add testdir
+git add testdir
+ls
+git status
+git commit
+git log
+git add .
+git status
+git commit
+git loog
+git log
+clear
+git log
+git status
+git log
+git add .
+git log
+clear
+git og
+git log
+git status -sb
+git clone https://github.com/TakafumiYano/gittest.git
+git clone https://github.com/TakafumiYano/gittest.git
+git reset
+git clone https://github.com/TakafumiYano/gittest.git
+git clone https://github.com/TakafumiYano/gittest.git
+git clone https://github.com/TakafumiYano/gittest.git
+source ~/.bashrc
+touch test2.txt
+s
+ls
+cd pwd
+pwd
+cd ../
+cd ../
+ls
+rm -f gittest
+rm -rf gittest
+mkdir gittest
+ls
+rm -rf gittest
+ls
+rm -rf gittets
+ls
+source ~/.bashrc
+ls-a
+ls -a
+cd $home
+ls
+ls -a
+cd .emacs.d
+ls
+ls -a
+emacs init.el
+source ~/.bashrc
+emacs
+source ~/.bashrc
+git config --global core.editor "emacs"
+mkdir testdir
+cd testdir
+ls
+touch .gitkeep
+emacs .gitkeep
+source ~/.bashrc
+pwd
+cd ~ 
+ls
+ls -a-
+ls -la
+emacs .bashrc
+emacs .bashrc
+emacs .bashrc
+source .bashrc
+source ~/.bashrc
+source ~/.bashrc
+cd ~
+ls
+ls -a
+emacs .bashrc
+source ~/.bashrc
+cl
+source ~/.bashrc
+git clone https://github.com/TakafumiYano/gittest.git
+ls
+cd gittest
+ls
+touch test.txt
+emacs test.txt
+clear
+ls
+cat test.txt
+git add test.txt
+git commit -m "hogehoge"
+git status -sb
+git status
+ls
+rm test.txt~
+ls
+git stays
+git status -sb
+git remote -v
+git push origin master
+clear
+git status
+ssh -keygen -t rsa 
+ssh-keygen -t rsa 
+cd ~/.ssh
+ls -a
+cat id_rsa.pub
+git clone git@github.com:TakafumiYano/gittest.git
+git add .
+ls
+cd gittest
+ls
+emacs test.txt
+clear
+git add.
+git add .
+git status
+git commit
+clear
+git push
+git status
+git add .
+git commit -m add some files
+git commit -m add "some files"
+git commit -m "add some files"
+git push
+git status
+git log
+ls 
+cd  $home
+cd sandbox
+ls
+pwd
+git clone git@github.com:shin-osaka-coworking/start_git.git
+git log
+ls
+cd  sta*
+ls
+git log
+touch TakafumiYano.txt
+emacs T*
+clear
+git add .
+git commit
+git push
+git lof
+git log
+git status
+git push origin master
+git pull
+git log
+git pull origin master
+git log
+git log -sb
+git status -sb
+gst
+source ~/.bashrc
+gst
+git co -b departmentOfYano
+git pull origin master
+ls
+emacs nqu*
+clear
+git push origin master
+git add .
+git push origin master
+git commit 
+clear
+git push origin master
+git pull origin master
+ls
+emacs nquonet.txt
+clear
+git pull origin master
+ls
+cat nquonet.txt
+cat nqounet.txt
+emacs nqounet.txt
+clae
+clear
+cl
+git add .
+git commit origin mater
+git commit
+clear
+source ~/.bashrc
+cl
+pwd
+git pull origin master
+gst
+git pull
+gst
+git branch DepartmentOfTakafumiYano
+gst
+git checkout DepartmentOfTakafumiYano
+gst
+ls
+emacs TakafumiYano.txt
+cl
+git add .
+git commit
+cl
+git push origin DepartmentOfTakafumiYano
+gst
+git checkout master
+gst
+git pull origin master
+gst
+git commit origin master
+git commit
+gst
+git add .
+git commit
+gst
+git status
+git log
+git merge DepartmentOfTakafumiYano
+ls
+git pull origin master
+git log
+git merge DepartmentOfTakafumiYano
+git pull origin master
+gst
+git push origin master
+gst
+git pull origin master
+ls
+cat Taka*
+gst
+source ~/.bashrc
+ls
+emacs test.txt
+clear
+ls
+ls -a
+cd sandbox
+ls 
+lcd ../
+cd $home
+ls
+cd sandbox
+ls
+cd ../
+cd gittest
+ls
+emacs test.txt
+clear
+pwd
+cd ../
+ls
+cd .ssh
+ls
+cd gittest
+ls
+touch test2.m
+ls
+touch hoge.java
+emacs test.m
+clear
+gst
+gst
+source ~/.bashrc
+gst
+ls
+source ~/.bashrc
